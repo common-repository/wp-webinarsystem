@@ -1,0 +1,4599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP WebinarSystem Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-21 17:38+0200\n"
+"PO-Revision-Date: 2020-04-21 17:38+0200\n"
+"Last-Translator: Martin Viktora <viktora@poradci-sobe.cz>\n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: cs_CZ\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-webinarsysteem-emails.php:230
+#, fuzzy
+#| msgid "Go to Webinar"
+msgid "Join the webinar"
+msgstr "Jít na webinář"
+
+#: includes/class-webinarsysteem-emails.php:240
+#, fuzzy
+#| msgid "Disable registration"
+msgid "Confirm my registration"
+msgstr "Zablokovat registrace"
+
+#: includes/class-webinarsysteem-emails.php:686
+#, fuzzy
+#| msgid "Once a minute"
+msgid "Every 5 minutes"
+msgstr "Každou minutu"
+
+#: includes/class-webinarsysteem-emails.php:691
+#, fuzzy
+#| msgid "Once a minute"
+msgid "Every 1 minute"
+msgstr "Každou minutu"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:359
+#, php-format
+msgid ""
+"Unexpectedly aWeber has been disconnected from the server. You are no longer "
+"subscribed to aWeber mailinglist. For Changes go to <a href=\"%s"
+"\">WebinarSysteem Settings</a>."
+msgstr ""
+
+#: includes/class-webinarsysteem-mediaserver.php:388
+#, fuzzy
+#| msgid "Once a minute"
+msgid "Every minute"
+msgstr "Každou minutu"
+
+#: includes/class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr "Ano, stáhnout Pro verzi"
+
+#: includes/class-webinarsysteem-promotional-notices.php:47
+#, fuzzy, php-format
+#| msgid ""
+#| "If you like <strong>WP WebinarSystem</strong> please leave us a %s "
+#| "rating. A huge thank you in advance!"
+msgid ""
+"If you like <strong>WebinarPress</strong> please leave us a %s rating. A "
+"huge thank you in advance!"
+msgstr ""
+"Pokud se vám <strong>WP WebinarSystem</strong> líbí, dejte nám rating %s! "
+"Děkujeme moc!"
+
+#: includes/class-webinarsysteem-registration-widget.php:61
+#: includes/class-webinarsysteem.php:744 includes/class-webinarsysteem.php:745
+#: wpws-js/translations.php:382
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Registration Widgets"
+msgstr "Registrační stránka"
+
+#: includes/class-webinarsysteem-registration-widget.php:62
+#: includes/class-webinarsysteem-registration-widget.php:63
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Registration Widget"
+msgstr "Registrační stránka"
+
+#: includes/class-webinarsysteem-registration-widget.php:64
+#: includes/class-webinarsysteem-registration-widget.php:65
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Add Registration Widget"
+msgstr "Registrační stránka"
+
+#: includes/class-webinarsysteem-registration-widget.php:66
+#, fuzzy
+#| msgid "New Registration"
+msgid "New Registration Widget"
+msgstr "Nová registrace"
+
+#: includes/class-webinarsysteem-registration-widget.php:67
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Edit Registration Widget"
+msgstr "Registrační stránka"
+
+#: includes/class-webinarsysteem-registration-widget.php:68
+#, fuzzy
+#| msgid "New Registration"
+msgid "View Registration Widget"
+msgstr "Nová registrace"
+
+#: includes/class-webinarsysteem-shortcodes.php:40
+#: includes/class-webinarsysteem-shortcodes.php:166
+msgid "Error: "
+msgstr "Chyba: "
+
+#: includes/class-webinarsysteem-shortcodes.php:40
+#: includes/class-webinarsysteem-shortcodes.php:166
+msgid "Invalid webinar id."
+msgstr "Neplatné ID webináře"
+
+#: includes/class-webinarsysteem-shortcodes.php:46
+#: includes/templates/webinar-registration.php:59
+msgid "Sign Up"
+msgstr ""
+
+#: includes/class-webinarsysteem-shortcodes.php:57
+msgid ""
+"You need to buy a ticket to register for this webinar. Ticket sales is "
+"closed at this moment."
+msgstr ""
+
+#: includes/class-webinarsysteem-shortcodes.php:62
+#, php-format
+msgid ""
+"You need to buy a ticket to register for this webinar. <a href=\"%s\">Click "
+"here</a> to buy a ticket."
+msgstr ""
+
+#: includes/class-webinarsysteem-shortcodes.php:75
+#: includes/templates/webinar-registration.php:464
+msgid "Registration is closed for this webinar."
+msgstr "Registrace pro tento webinář jsou uzavřeny"
+
+#: includes/class-webinarsysteem-shortcodes.php:89
+#: includes/templates/webinar-registration.php:330
+msgid "Your Name"
+msgstr "Jméno a příjmení"
+
+#: includes/class-webinarsysteem-shortcodes.php:92
+#: includes/class-webinarsysteem-shortcodes.php:186
+#: includes/templates/webinar-registration.php:342
+#: includes/templates/webinar-registration.php:448 wpws-js/translations.php:406
+msgid "Your Email Address"
+msgstr "Vaše emailová adresa"
+
+#: includes/class-webinarsysteem-shortcodes.php:142
+#: includes/class-webinarsysteem-shortcodes.php:182
+#: includes/templates/webinar-registration.php:442
+msgid "This email is not registered."
+msgstr ""
+
+#: includes/class-webinarsysteem-updater.php:127
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: includes/class-webinarsysteem-updater.php:134
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: includes/class-webinarsysteem-updater.php:229
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: includes/class-webinarsysteem-updater.php:230
+msgid "Error"
+msgstr ""
+
+#: includes/class-webinarsysteem-userpages.php:11
+#: includes/class-webinarsysteem-userpages.php:12
+msgid "WPWS Page"
+msgstr ""
+
+#: includes/class-webinarsysteem-userpages.php:39
+#: includes/class-webinarsysteem-userpages.php:102
+msgid "You are now unsubscribed"
+msgstr ""
+
+#: includes/class-webinarsysteem-userpages.php:40
+#, fuzzy
+#| msgid "Webinar Questions"
+msgid "Webinar Subscription"
+msgstr "Otázky účastníků"
+
+#: includes/class-webinarsysteem-userpages.php:63
+#, fuzzy
+#| msgid "Webinar replay"
+msgid "Webinar Overview"
+msgstr "Přehrát webinář"
+
+#: includes/class-webinarsysteem-userpages.php:122
+msgid ""
+"To see which webinars you are registered to, please open the link 'manage "
+"profile' from the registration confirmation email message"
+msgstr ""
+
+#: includes/class-webinarsysteem-userpages.php:147 wpws-js/translations.php:575
+#, fuzzy
+#| msgid "Webinar Type"
+msgid "Webinar Title"
+msgstr "Typ webináře"
+
+#: includes/class-webinarsysteem-userpages.php:148 wpws-js/translations.php:143
+#, fuzzy
+#| msgid "Webinar Type"
+msgid "Webinar Time"
+msgstr "Typ webináře"
+
+#: includes/class-webinarsysteem-userpages.php:149
+#, fuzzy
+#| msgid "Webinar Questions"
+msgid "Webinar Action"
+msgstr "Otázky účastníků"
+
+#: includes/class-webinarsysteem-userpages.php:180
+#: includes/templates/template-email-layout.php:144
+#, fuzzy
+#| msgid "Manage Subscribers"
+msgid "Unsubscribe"
+msgstr "Správa odběratelů"
+
+#: includes/class-webinarsysteem-userpages.php:184
+msgid "You haven't subscribed to any webinars yet:("
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:55
+#, php-format
+msgid ""
+"Please install/activate WooCommerce first to integrate with WebinarSystem. "
+"You can find WooCommerce <a href=\"%s\" class=\"thickbox\" aria-label="
+"\"Download WooCommerce for WebinarSystem\" data-title=\"WooCommerce\">here</"
+"a>."
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:118
+#, fuzzy
+#| msgid "View Webinar"
+msgid "View Cart"
+msgstr "Zobrazit webinář"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:119
+#, php-format
+msgid "You cannot add another &quot;%s&quot; to your cart."
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:127
+msgid "Please select a session."
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:216
+msgid "Please check the box to proceed further."
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:367
+#, fuzzy
+#| msgid "Webinar type"
+msgid "Webinar Product"
+msgstr "Typ webináře"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:552
+msgid ""
+"You will receive your webinar ticket as soon as the payment for your order "
+"completes."
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:585
+msgid "My Webinar Tickets"
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:591
+#: includes/class-webinarsysteem-woocommerce-integration.php:631
+msgid "Order"
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:594
+#: includes/class-webinarsysteem-woocommerce-integration.php:636
+#: includes/class-webinarsysteem.php:844 includes/class-webinarsysteem.php:845
+#: includes/templates/webinar-confirmation.php:213 wpws-js/translations.php:83
+msgid "Webinar"
+msgstr "Webinář"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:597
+#: includes/class-webinarsysteem-woocommerce-integration.php:702
+#: includes/class-webinarsysteem-woocommerce-integration.php:736
+#: wpws-js/translations.php:226
+#, fuzzy
+#| msgid "Version"
+msgid "Session"
+msgstr "Verze"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:600
+#: includes/class-webinarsysteem-woocommerce-integration.php:644
+msgid "Join"
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:639
+#: includes/templates/webinar-confirmation.php:217
+#: includes/templates/webinar-registration.php:212
+msgid "Time"
+msgstr "Čas"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:647
+#, fuzzy
+#| msgid "New webinar"
+msgid "Join webinar"
+msgstr "Nový webinář"
+
+#: includes/class-webinarsysteem.php:548 includes/class-webinarsysteem.php:1440
+#: wpws-js/translations.php:711
+msgid "Automated"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:549 wpws-js/translations.php:571
+msgid "Countdown"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:715 includes/class-webinarsysteem.php:716
+#, fuzzy
+#| msgid "Webinars"
+msgid "WebinarPress"
+msgstr "Webináře"
+
+#: includes/class-webinarsysteem.php:726 includes/class-webinarsysteem.php:727
+#: includes/class-webinarsysteem.php:843 wpws-js/translations.php:712
+msgid "Webinars"
+msgstr "Webináře"
+
+#: includes/class-webinarsysteem.php:735 includes/class-webinarsysteem.php:736
+#: includes/class-webinarsysteem.php:848 wpws-js/translations.php:713
+msgid "New Webinar"
+msgstr "Nový webinář"
+
+#: includes/class-webinarsysteem.php:754 includes/class-webinarsysteem.php:755
+#: wpws-js/translations.php:25
+#, fuzzy
+#| msgid "Attendee Lists"
+msgid "Attendees"
+msgstr "Seznam účastníků"
+
+#: includes/class-webinarsysteem.php:763 includes/class-webinarsysteem.php:764
+msgid "Chatlogs"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:772 includes/class-webinarsysteem.php:773
+#: wpws-js/translations.php:321
+msgid "Questions"
+msgstr "Otázky"
+
+#: includes/class-webinarsysteem.php:783 includes/class-webinarsysteem.php:784
+msgid "Recordings"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:793 includes/class-webinarsysteem.php:794
+#: wpws-js/translations.php:474
+msgid "Settings"
+msgstr "Nastavení"
+
+#: includes/class-webinarsysteem.php:846 includes/class-webinarsysteem.php:847
+msgid "Add New Webinar"
+msgstr "Přidat nový webinář"
+
+#: includes/class-webinarsysteem.php:849 wpws-js/translations.php:703
+msgid "Edit Webinar"
+msgstr "Editovat webinář"
+
+#: includes/class-webinarsysteem.php:850
+msgid "View Webinar"
+msgstr "Zobrazit webinář"
+
+#: includes/class-webinarsysteem.php:1146
+msgid "Please save your webinar first before previewing."
+msgstr ""
+
+#: includes/class-webinarsysteem.php:1806 wpws-js/translations.php:14
+msgid "Monday"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:1807 wpws-js/translations.php:15
+msgid "Tuesday"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:1808 wpws-js/translations.php:16
+msgid "Wednesday"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:1809 wpws-js/translations.php:17
+msgid "Thursday"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:1810 wpws-js/translations.php:18
+msgid "Friday"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:1811 wpws-js/translations.php:19
+msgid "Saturday"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:1812 wpws-js/translations.php:20
+msgid "Sunday"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2020
+msgid "Host and Description Box"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2025
+#: includes/templates/webinar-live.php:359
+msgid "Question Box"
+msgstr "Box s otázkami"
+
+#: includes/class-webinarsysteem.php:2031
+msgid "Message Center"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2036
+msgid "Live Chatbox"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2043 wpws-js/translations.php:658
+msgid "Incentive Box"
+msgstr "Pobídkový box"
+
+#: includes/class-webinarsysteem.php:2047 wpws-js/translations.php:661
+msgid "Action Box"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2053
+msgid "Clear all Raised Hands"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2059
+msgid "Call to action"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2224
+msgid ""
+"Your MySQL version is out of date, and some functionalities of WebinarPress "
+"won't work as expected. Please upgrade the MySQL version on your server to a "
+"minimum of MySQL 5.5.50 or higher."
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2231
+msgid ""
+"Your PHP version is out of date, and some functionalities of WebinarPress "
+"won't work as expected. Please upgrade the PHP version on your server to a "
+"minimum of PHP 5.6 or higher."
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2807
+msgctxt "drip pointer"
+msgid ""
+"Find out how to create a compelling webinar that drives conversions in this "
+"ridiculously actionable (and FREE) 5-part email course."
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2812
+#, fuzzy
+#| msgid "Your Email Address"
+msgctxt "drip pointer"
+msgid "Email Address:"
+msgstr "Vaše emailová adresa"
+
+#: includes/class-webinarsysteem.php:2818
+msgctxt "drip pointer"
+msgid "Want to know the Secrets of Highly Engaging Webinars?"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2820
+msgctxt "drip pointer"
+msgid "Yes, please!"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:2822
+msgctxt "drip pointer"
+msgid "No, thanks"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:128
+#: includes/libs/system-snapshot-report.php:129 wpws-js/translations.php:9
+msgid "Yes"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:128
+#: includes/libs/system-snapshot-report.php:129 wpws-js/translations.php:10
+msgid "No"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:130
+#: includes/libs/system-snapshot-report.php:138 wpws-js/translations.php:338
+msgid "Enabled"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:130
+#: includes/libs/system-snapshot-report.php:138
+msgid "Disabled"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:130
+msgid "Not Set"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:131
+msgid "Acceptable"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:131
+msgid "Too Long"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:132
+#: includes/libs/system-snapshot-report.php:133
+#: includes/libs/system-snapshot-report.php:136
+msgid "n/a"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:134
+#: includes/libs/system-snapshot-report.php:139
+#: includes/libs/system-snapshot-report.php:140
+msgid "On"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:134
+#: includes/libs/system-snapshot-report.php:139
+#: includes/libs/system-snapshot-report.php:140
+msgid "Off"
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:141
+msgid "Your server supports fsockopen."
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:141
+msgid "Your server does not support fsockopen."
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:142
+msgid "Your server supports cURL."
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:142
+msgid "Your server does not support cURL."
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:143
+msgid "Your server has the SOAP Client enabled."
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:143
+msgid "Your server does not have the SOAP Client enabled."
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:144
+msgid "Your server has SUHOSIN installed."
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:144
+msgid "Your server does not have SUHOSIN installed."
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:145
+msgid "Your server has OpenSSL installed."
+msgstr ""
+
+#: includes/libs/system-snapshot-report.php:145
+msgid "Your server does not have OpenSSL installed."
+msgstr ""
+
+#: includes/shortcodes/class-webinarsysteem-confirmation-shortcodes.php:91
+#: includes/shortcodes/class-webinarsysteem-confirmation-shortcodes.php:113
+#, fuzzy
+#| msgid "Go to Webinar"
+msgid "Go to webinar"
+msgstr "Jít na webinář"
+
+#: includes/shortcodes/class-webinarsysteem-confirmation-shortcodes.php:185
+#, fuzzy
+#| msgid "Add To Your Calendar"
+msgid "Add to Calendar"
+msgstr "Přidat do kalendáře"
+
+#: includes/templates/template-email-layout.php:142
+#, fuzzy
+#| msgid "Manage Subscribers"
+msgid "Manage Subscription"
+msgstr "Správa odběratelů"
+
+#: includes/templates/template-video-source.php:14
+msgid "Enable Sound"
+msgstr ""
+
+#: includes/templates/webinar-closed.php:41
+msgid "Unfortunately, this webinar is closed."
+msgstr "Bohužel, tento webinář je uzavřen"
+
+#: includes/templates/webinar-closed.php:44
+msgid "Click here"
+msgstr "Klikněte zde"
+
+#: includes/templates/webinar-closed.php:44
+msgid "to go to our homepage."
+msgstr "a navštivte naši stránku."
+
+#: includes/templates/webinar-confirmation.php:183
+msgid "Here is the webinar URL..."
+msgstr "Zde je odkaz na webinář..."
+
+#: includes/templates/webinar-confirmation.php:191
+msgid "Save and bookmark this URL so you can get access to the webinar..."
+msgstr ""
+
+#: includes/templates/webinar-confirmation.php:201
+msgid "Your Webinar Ticket"
+msgstr "Organizační detaily webináře"
+
+#: includes/templates/webinar-confirmation.php:202
+msgid "The Webinar Event Information..."
+msgstr "Uložte si termín webináře do kalendáře!"
+
+#: includes/templates/webinar-confirmation.php:214
+#: includes/templates/webinar-live.php:327
+#: includes/templates/webinar-registration.php:216 wpws-js/translations.php:457
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "Host"
+msgstr[1] "Hosté"
+msgstr[2] "Hosté"
+
+#: includes/templates/webinar-confirmation.php:216
+#: includes/templates/webinar-registration.php:211
+msgid "Date"
+msgstr "Datum"
+
+#: includes/templates/webinar-confirmation.php:232
+msgid "Join Webinar in Progress..."
+msgstr "Připojení k webináři je v procesu..."
+
+#: includes/templates/webinar-confirmation.php:240
+msgid "View Webinar Replay"
+msgstr "Zobrazit záznam webináře"
+
+#: includes/templates/webinar-confirmation.php:267
+msgid "Add To Your Calendar"
+msgstr "Přidat do kalendáře"
+
+#: includes/templates/webinar-confirmation.php:268
+msgid "Remind Yourself Of The Event"
+msgstr "Vložte webinář do vašeho kalendáře"
+
+#: includes/templates/webinar-countdown.php:80
+msgid "will begin in"
+msgstr "začínáme za"
+
+#: includes/templates/webinar-countdown.php:81
+msgid "will begin shortly"
+msgstr "začínáme brzy"
+
+#: includes/templates/webinar-countdown.php:86
+msgid "will start"
+msgstr "začínáme"
+
+#: includes/templates/webinar-countdown.php:87
+msgid "on"
+msgstr ""
+
+#: includes/templates/webinar-countdown.php:88
+msgid "at"
+msgstr ""
+
+#: includes/templates/webinar-countdown.php:94
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "Please come back at this time. Thank you for your patience"
+
+#: includes/templates/webinar-countdown.php:105
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr "Moment... začínáme vysílat. Tato stránka se automaticky aktualizuje."
+
+#: includes/templates/webinar-countdown.php:115
+#: includes/templates/webinar-live.php:469
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields "
+"are filled correctly"
+msgstr ""
+"Chyba při vyplnění formuláře. Prosím zkontrolujte, zda jsou všechna pole "
+"správně vyplněna."
+
+#: includes/templates/webinar-countdown.php:116
+#: includes/templates/webinar-live.php:470
+msgid "Please wait.."
+msgstr "Čekejte prosím..."
+
+#: includes/templates/webinar-live.php:339
+msgid "Information"
+msgstr "Informace"
+
+#: includes/templates/webinar-live.php:363
+msgid "Chat box"
+msgstr ""
+
+#: includes/templates/webinar-live.php:372
+msgid "Ask your question!"
+msgstr "Položit dotaz!"
+
+#: includes/templates/webinar-live.php:377
+msgid "Your name"
+msgstr "Jméno a příjmení"
+
+#: includes/templates/webinar-live.php:383
+msgid "Your email"
+msgstr "Váš email"
+
+#: includes/templates/webinar-live.php:389
+msgid "Type your question here.."
+msgstr "Zde můžete vložit vaši otázku..."
+
+#: includes/templates/webinar-live.php:393
+msgid "Ask Question!"
+msgstr "Položit otázku!"
+
+#: includes/templates/webinar-live.php:397
+msgid "My Questions"
+msgstr "Mé otázky"
+
+#: includes/templates/webinar-live.php:408
+msgid "Live Chat"
+msgstr ""
+
+#: includes/templates/webinar-live.php:411
+msgid "Private"
+msgstr ""
+
+#: includes/templates/webinar-live.php:412
+msgid "Public"
+msgstr ""
+
+#: includes/templates/webinar-live.php:436
+msgid "Send"
+msgstr ""
+
+#: includes/templates/webinar-registration.php:2
+msgid "No script kiddies please!"
+msgstr "Žádné legrácky se skripty!"
+
+#: includes/templates/webinar-registration.php:54 wpws-js/translations.php:79
+msgid "Register"
+msgstr ""
+
+#: includes/templates/webinar-registration.php:55
+#: includes/templates/webinar-registration.php:71 wpws-js/translations.php:80
+msgid "Login"
+msgstr ""
+
+#: includes/templates/webinar-registration.php:57
+msgid "Free Sign Up:"
+msgstr ""
+
+#: includes/templates/webinar-registration.php:92
+#, fuzzy
+#| msgid "Your Webinar Ticket"
+msgid "Buy a webinar ticket"
+msgstr "Organizační detaily webináře"
+
+#: includes/templates/webinar-registration.php:336
+msgid ""
+"Unfortunately, you can't use a general info@.. address. Please use a "
+"personal e-mail address"
+msgstr ""
+
+#: includes/templates/webinar-registration.php:416
+msgid "Of course we will handle your data safely."
+msgstr "Ochrana osobních údajů v souladu s Podmínkami webu Poradci-sobě.cz"
+
+#: includes/utils/class-webinarsysteem-time-format.php:14
+#: includes/utils/class-webinarsysteem-time-format.php:19
+#, fuzzy, php-format
+#| msgid "Once a minute"
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "Každou minutu"
+msgstr[1] "Každou minutu"
+msgstr[2] "Každou minutu"
+
+#: includes/utils/class-webinarsysteem-time-format.php:26
+#, php-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: wpws-js/translations.php:3
+msgid "Clear"
+msgstr ""
+
+#: wpws-js/translations.php:4
+msgid "Edit this field"
+msgstr ""
+
+#: wpws-js/translations.php:5
+#, fuzzy
+#| msgid "Delete Selected"
+msgid "Delete this field"
+msgstr "Vymazat vybrané"
+
+#: wpws-js/translations.php:6
+msgid "Click and drag to reorder"
+msgstr ""
+
+#: wpws-js/translations.php:7
+#, fuzzy
+#| msgid "Delete Selected"
+msgid "Delete Field"
+msgstr "Vymazat vybrané"
+
+#: wpws-js/translations.php:8
+msgid "Are you sure you want to delete this field?"
+msgstr ""
+
+#: wpws-js/translations.php:11
+msgid "Add Custom Field"
+msgstr ""
+
+#: wpws-js/translations.php:12
+msgid "Enter the name of this field"
+msgstr ""
+
+#: wpws-js/translations.php:13
+msgid "Option 1|value1\\nOption 2|value\\nOption 3|value3\\n..."
+msgstr ""
+
+#: wpws-js/translations.php:21
+msgid "Hide the toolbar"
+msgstr ""
+
+#: wpws-js/translations.php:22
+#, fuzzy
+#| msgid "Button color"
+msgid "Buttons"
+msgstr "Barva tlačítka"
+
+#: wpws-js/translations.php:23
+msgid "Jitsi Domain"
+msgstr ""
+
+#: wpws-js/translations.php:24
+msgid "Team Members"
+msgstr ""
+
+#: wpws-js/translations.php:26
+msgid "Automatically Start"
+msgstr ""
+
+#: wpws-js/translations.php:27
+#, fuzzy
+#| msgid "Video Controls"
+msgid "Show Controls"
+msgstr "Ovládání videa"
+
+#: wpws-js/translations.php:28
+msgid "Show Play Button"
+msgstr ""
+
+#: wpws-js/translations.php:29
+msgid "Simulate Webinar Content"
+msgstr ""
+
+#: wpws-js/translations.php:30
+msgid "URL"
+msgstr ""
+
+#: wpws-js/translations.php:31
+msgid "Video ID"
+msgstr ""
+
+#: wpws-js/translations.php:32
+msgid "Channel Name"
+msgstr ""
+
+#: wpws-js/translations.php:33
+msgid "Embed Code"
+msgstr ""
+
+#: wpws-js/translations.php:34
+msgid "Zoom (Requires HTTPS)"
+msgstr ""
+
+#: wpws-js/translations.php:35
+msgid "Zoom Invitation"
+msgstr ""
+
+#: wpws-js/translations.php:36
+msgid "Jitsi (Requires HTTPS)"
+msgstr ""
+
+#: wpws-js/translations.php:37
+msgid "Frame Source"
+msgstr ""
+
+#: wpws-js/translations.php:38
+msgid "Embedded / HTML"
+msgstr ""
+
+#: wpws-js/translations.php:39
+msgid "EmbedHTML"
+msgstr ""
+
+#: wpws-js/translations.php:40
+#, fuzzy
+#| msgid "Image"
+msgid "Image URL"
+msgstr "Obrázek"
+
+#: wpws-js/translations.php:41
+msgid "JavaScript Embed Code"
+msgstr ""
+
+#: wpws-js/translations.php:42
+msgid ""
+"You will be asked to setup your YouTube Live stream from the webinar room"
+msgstr ""
+
+#: wpws-js/translations.php:43
+msgid ""
+"You will be asked to paste the meeting invitation details from the webinar "
+"room"
+msgstr ""
+
+#: wpws-js/translations.php:44
+msgid "Meeting URL"
+msgstr ""
+
+#: wpws-js/translations.php:45
+msgid "Paste the Zoom meeting URL here"
+msgstr ""
+
+#: wpws-js/translations.php:46
+msgid "Select"
+msgstr ""
+
+#: wpws-js/translations.php:47
+msgid "Remove this time"
+msgstr ""
+
+#: wpws-js/translations.php:48
+msgid "Add another time"
+msgstr ""
+
+#: wpws-js/translations.php:49
+msgid "Default"
+msgstr ""
+
+#: wpws-js/translations.php:50
+#, fuzzy
+#| msgid "WordPress Environment"
+msgid "WordPress Default"
+msgstr "Prostředí Wordpressu"
+
+#: wpws-js/translations.php:51
+msgid "Editor"
+msgstr ""
+
+#: wpws-js/translations.php:52
+msgid "HTML"
+msgstr ""
+
+#: wpws-js/translations.php:53
+msgid "Add Media"
+msgstr ""
+
+#: wpws-js/translations.php:54
+msgid "..."
+msgstr ""
+
+#: wpws-js/translations.php:55
+msgid "Choose"
+msgstr ""
+
+#: wpws-js/translations.php:56
+msgid "Remove"
+msgstr ""
+
+#: wpws-js/translations.php:57
+#, fuzzy
+#| msgid "Select a time to watch."
+msgid "Select an image"
+msgstr "Zvolte čas sledování"
+
+#: wpws-js/translations.php:58
+msgid "Show this message every time"
+msgstr ""
+
+#: wpws-js/translations.php:59
+msgid "Yes!"
+msgstr ""
+
+#: wpws-js/translations.php:60
+msgid "No, thanks"
+msgstr ""
+
+#: wpws-js/translations.php:61
+msgid "Start the webinar to being the video"
+msgstr ""
+
+#: wpws-js/translations.php:62
+msgid "The webinar has finished"
+msgstr ""
+
+#: wpws-js/translations.php:63
+msgid "Read More"
+msgstr ""
+
+#: wpws-js/translations.php:64
+msgid ""
+"Your WebinarPress license has expired, please renew to stay up to date with "
+"the latest updates and security patches"
+msgstr ""
+
+#: wpws-js/translations.php:65
+msgid "Renew Now"
+msgstr ""
+
+#: wpws-js/translations.php:66
+msgid ""
+"Your WebinarPress license has been disabled, please buy a new license to "
+"stay up to date with the latest updates and security patches"
+msgstr ""
+
+#: wpws-js/translations.php:67
+msgid "Buy Now"
+msgstr ""
+
+#: wpws-js/translations.php:68
+msgid ""
+"Activate WebinarPress to stay up to date with the latest updates and "
+"security patches"
+msgstr ""
+
+#: wpws-js/translations.php:69
+msgid "Activate Now"
+msgstr ""
+
+#: wpws-js/translations.php:70
+msgid ""
+"WebinarPress is not activated on this website, please re-activate to stay up "
+"to date with the latest updates and security patches"
+msgstr ""
+
+#: wpws-js/translations.php:71
+msgid "admin.php?page=wswbn-settings"
+msgstr ""
+
+#: wpws-js/translations.php:72
+msgid ""
+"Activate real-time servers to reduce your server load and enable instant "
+"updates to your webinars"
+msgstr ""
+
+#: wpws-js/translations.php:73
+msgid "Enable Now"
+msgstr ""
+
+#: wpws-js/translations.php:74
+msgid "Please activate WebinarPress to use WebinarPress Connect"
+msgstr ""
+
+#: wpws-js/translations.php:75
+#, fuzzy
+#| msgid "Reset Default Template"
+msgid "Choose a template"
+msgstr "Resetovat defaultní šablonu"
+
+#: wpws-js/translations.php:76
+msgid "Cancel"
+msgstr ""
+
+#: wpws-js/translations.php:77
+msgid "Display On"
+msgstr ""
+
+#: wpws-js/translations.php:78
+msgid "All"
+msgstr ""
+
+#: wpws-js/translations.php:81
+msgid "Name"
+msgstr "Jméno"
+
+#: wpws-js/translations.php:82
+#, fuzzy
+#| msgid "Please enter your name."
+msgid "Please give this widget a name"
+msgstr "Prosím vložte vaše jméno"
+
+#: wpws-js/translations.php:84
+msgid "Please select a webinar to use with this widget"
+msgstr ""
+
+#: wpws-js/translations.php:85
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Custom Confirmation Page"
+msgstr "Registrační stránka"
+
+#: wpws-js/translations.php:86
+msgid "Send users to a custom page after successfully registering"
+msgstr ""
+
+#: wpws-js/translations.php:87
+msgid "Date Locale"
+msgstr ""
+
+#: wpws-js/translations.php:88
+msgid "Select the country/locale to use when showing dates"
+msgstr ""
+
+#: wpws-js/translations.php:89
+#, fuzzy
+#| msgid "Settings"
+msgid "Layout Settings"
+msgstr "Nastavení"
+
+#: wpws-js/translations.php:90
+#, fuzzy
+#| msgid "Background color"
+msgid "Background"
+msgstr "Barva pozadí"
+
+#: wpws-js/translations.php:91
+#, fuzzy
+#| msgid "Background color"
+msgid "Background color of the widget"
+msgstr "Barva pozadí"
+
+#: wpws-js/translations.php:92
+msgid "Text Color"
+msgstr ""
+
+#: wpws-js/translations.php:93
+#, fuzzy
+#| msgid "Text color"
+msgid "Text color of messages"
+msgstr "Barva textu"
+
+#: wpws-js/translations.php:94
+msgid "Max Width"
+msgstr ""
+
+#: wpws-js/translations.php:95
+msgid "The maximum width of the widget. Set to 0 for 100%"
+msgstr ""
+
+#: wpws-js/translations.php:96
+msgid "Padding"
+msgstr ""
+
+#: wpws-js/translations.php:97
+msgid "Top, bottom, left, right in pixels"
+msgstr ""
+
+#: wpws-js/translations.php:98
+#, fuzzy
+#| msgid "Border color"
+msgid "Border"
+msgstr "Barva okraje"
+
+#: wpws-js/translations.php:99
+msgid "Border for the entire widget"
+msgstr ""
+
+#: wpws-js/translations.php:100
+#, fuzzy
+#| msgid "Registrations"
+msgid "Registration Error"
+msgstr "Registrace"
+
+#: wpws-js/translations.php:101
+msgid "Shown if registration fails due to an error"
+msgstr ""
+
+#: wpws-js/translations.php:102
+#, fuzzy
+#| msgid "Registration Page Image"
+msgid "Provide a registration error message"
+msgstr "Obrázek na registrační stránce"
+
+#: wpws-js/translations.php:103
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Registration Limit Reached"
+msgstr "Registrační stránka"
+
+#: wpws-js/translations.php:104
+msgid "Provide a registration limit reached message"
+msgstr ""
+
+#: wpws-js/translations.php:105
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Registration Pending"
+msgstr "Registrační stránka"
+
+#: wpws-js/translations.php:106
+#, fuzzy
+#| msgid "Login Title"
+msgid "Login Failed"
+msgstr "Přihlašovací nadpis"
+
+#: wpws-js/translations.php:107
+msgid "Shown if a login attempt fails"
+msgstr ""
+
+#: wpws-js/translations.php:108
+msgid "Provide a login failed message"
+msgstr ""
+
+#: wpws-js/translations.php:109
+msgid "Display as Popup"
+msgstr ""
+
+#: wpws-js/translations.php:110
+msgid "Trigger On Click"
+msgstr ""
+
+#: wpws-js/translations.php:111
+msgid ""
+"Display this widget as a modal popup when the visitor clicks a link or a "
+"button"
+msgstr ""
+
+#: wpws-js/translations.php:112
+msgid "CSS Selector"
+msgstr ""
+
+#: wpws-js/translations.php:113
+msgid ""
+"A CSS selector string for a trigger element of your choosing. This widget "
+"will be triggered by clicking the element. For example: a.open_webinar_widget"
+msgstr ""
+
+#: wpws-js/translations.php:114
+msgid "Register Text"
+msgstr "Registrační text"
+
+#: wpws-js/translations.php:115
+msgid "Login Text"
+msgstr "Přihlašovací text"
+
+#: wpws-js/translations.php:116
+#, fuzzy
+#| msgid "Button color"
+msgid "Button Font"
+msgstr "Barva tlačítka"
+
+#: wpws-js/translations.php:117
+msgid "Height"
+msgstr ""
+
+#: wpws-js/translations.php:118
+#, fuzzy
+#| msgid "Register Text"
+msgid "Register Button"
+msgstr "Registrační text"
+
+#: wpws-js/translations.php:119
+msgid "Active Font"
+msgstr ""
+
+#: wpws-js/translations.php:120
+msgid "Session Font"
+msgstr ""
+
+#: wpws-js/translations.php:121
+msgid "Sessions to Show"
+msgstr ""
+
+#: wpws-js/translations.php:122
+msgid "Visitor Timezone"
+msgstr ""
+
+#: wpws-js/translations.php:123
+msgid "Spacing"
+msgstr ""
+
+#: wpws-js/translations.php:124
+msgid "Alternate Sessions"
+msgstr ""
+
+#: wpws-js/translations.php:125
+msgid "Dropdowns"
+msgstr ""
+
+#: wpws-js/translations.php:126
+msgid "Font Size"
+msgstr ""
+
+#: wpws-js/translations.php:127
+msgid "Background Color"
+msgstr ""
+
+#: wpws-js/translations.php:128
+#, fuzzy
+#| msgid "Footer Text"
+msgid "Hovered Text"
+msgstr "Text patičky"
+
+#: wpws-js/translations.php:129
+#, fuzzy
+#| msgid "Header Background color"
+msgid "Hovered Background"
+msgstr "Barva pozadí hlavičky"
+
+#: wpws-js/translations.php:130
+#, fuzzy
+#| msgid "Register Text"
+msgid "Selected Text"
+msgstr "Registrační text"
+
+#: wpws-js/translations.php:131
+#, fuzzy
+#| msgid "Title Background color"
+msgid "Selected Background"
+msgstr "Barva pozadí nadpisu"
+
+#: wpws-js/translations.php:132
+msgid "Date Format"
+msgstr ""
+
+#: wpws-js/translations.php:133
+msgid "Time Format"
+msgstr ""
+
+#: wpws-js/translations.php:134
+msgid "Sessions Dropdown"
+msgstr ""
+
+#: wpws-js/translations.php:135
+#, fuzzy
+#| msgid "Calendar"
+msgid "Calendar Block"
+msgstr "Kalendář"
+
+#: wpws-js/translations.php:136
+#, fuzzy
+#| msgid "Login Text"
+msgid "Month Text"
+msgstr "Přihlašovací text"
+
+#: wpws-js/translations.php:137
+#, fuzzy
+#| msgid "Footer Text"
+msgid "Date Text"
+msgstr "Text patičky"
+
+#: wpws-js/translations.php:138
+#, fuzzy
+#| msgid "Button Background Color"
+msgid "Month Background"
+msgstr "Barva pozadí tlačítka"
+
+#: wpws-js/translations.php:139
+#, fuzzy
+#| msgid "Page Background color"
+msgid "Date Background"
+msgstr "Barva pozadí stránky"
+
+#: wpws-js/translations.php:140
+msgid "Date and Time"
+msgstr ""
+
+#: wpws-js/translations.php:141
+msgid "Day of week"
+msgstr ""
+
+#: wpws-js/translations.php:142
+msgid "Month and day"
+msgstr ""
+
+#: wpws-js/translations.php:144
+msgid "Calendar"
+msgstr "Kalendář"
+
+#: wpws-js/translations.php:145
+msgid "Block Spacing"
+msgstr ""
+
+#: wpws-js/translations.php:146
+#, fuzzy
+#| msgid "Register Text"
+msgid "Unit Text"
+msgstr "Registrační text"
+
+#: wpws-js/translations.php:147
+#, fuzzy
+#| msgid "Description Text color"
+msgid "Description Text"
+msgstr "Barva textu popisu"
+
+#: wpws-js/translations.php:148
+msgid "Text"
+msgstr ""
+
+#: wpws-js/translations.php:149
+msgid "Days"
+msgstr ""
+
+#: wpws-js/translations.php:150
+msgid "Hours"
+msgstr ""
+
+#: wpws-js/translations.php:151
+msgid "Minutes"
+msgstr ""
+
+#: wpws-js/translations.php:152
+msgid "Seconds"
+msgstr ""
+
+#: wpws-js/translations.php:153
+#, fuzzy
+#| msgid "Countdown Page"
+msgid "Countdown Timer"
+msgstr "Stránka s odpočtem"
+
+#: wpws-js/translations.php:154
+msgid "Text Boxes & Dropdowns"
+msgstr ""
+
+#: wpws-js/translations.php:155
+msgid "Name Placeholder"
+msgstr ""
+
+#: wpws-js/translations.php:156
+msgid "Email Placeholder"
+msgstr ""
+
+#: wpws-js/translations.php:157
+msgid "Check Boxes"
+msgstr ""
+
+#: wpws-js/translations.php:158
+#, fuzzy
+#| msgid "Title Color"
+msgid "Color"
+msgstr "Barva nadpisu"
+
+#: wpws-js/translations.php:159
+msgid "Font"
+msgstr ""
+
+#: wpws-js/translations.php:160
+#, fuzzy
+#| msgid "Show Content Section"
+msgid "Show Alternate Sessions"
+msgstr "Zobrazit sekci s obsahem"
+
+#: wpws-js/translations.php:161
+msgid "GDPR"
+msgstr ""
+
+#: wpws-js/translations.php:162
+#, fuzzy
+#| msgid "Login Text"
+msgid "Opt-in Text"
+msgstr "Přihlašovací text"
+
+#: wpws-js/translations.php:163
+msgid "Field Order"
+msgstr ""
+
+#: wpws-js/translations.php:164
+msgid "Input Form"
+msgstr ""
+
+#: wpws-js/translations.php:165
+msgid "Content"
+msgstr "Obsah"
+
+#: wpws-js/translations.php:166
+msgid "Html Editor"
+msgstr ""
+
+#: wpws-js/translations.php:167
+#, fuzzy
+#| msgid "Login Title"
+msgid "Login Link"
+msgstr "Přihlašovací nadpis"
+
+#: wpws-js/translations.php:168
+msgid "Seats Font"
+msgstr ""
+
+#: wpws-js/translations.php:169
+msgid "Label Font"
+msgstr ""
+
+#: wpws-js/translations.php:170
+msgid "Label"
+msgstr ""
+
+#: wpws-js/translations.php:171
+msgid "Remaining Seat Count"
+msgstr ""
+
+#: wpws-js/translations.php:172
+msgid "Search"
+msgstr ""
+
+#: wpws-js/translations.php:173
+msgid "Your widget shortcode"
+msgstr ""
+
+#: wpws-js/translations.php:174
+#, fuzzy
+#| msgid ""
+#| "Please copy and paste this information in your ticket when contacting "
+#| "support:"
+msgid "Copy and paste this shortcode into your pages and posts"
+msgstr "Prosím při kontaktu s podporou uvádějte tyto informace:"
+
+#: wpws-js/translations.php:175
+msgid "Copied to clipboard"
+msgstr ""
+
+#: wpws-js/translations.php:176
+#, fuzzy
+#| msgid "Copy for Support"
+msgid "Copy to Clipboard"
+msgstr "Kopírovat"
+
+#: wpws-js/translations.php:177
+msgid "Close"
+msgstr ""
+
+#: wpws-js/translations.php:178
+msgid "Microphone"
+msgstr ""
+
+#: wpws-js/translations.php:179
+msgid "Camera"
+msgstr ""
+
+#: wpws-js/translations.php:180
+msgid "Share Desktop"
+msgstr ""
+
+#: wpws-js/translations.php:181
+msgid "Full Screen"
+msgstr ""
+
+#: wpws-js/translations.php:182
+msgid "Recording"
+msgstr ""
+
+#: wpws-js/translations.php:183
+msgid "Mute Everyone"
+msgstr ""
+
+#: wpws-js/translations.php:184
+msgid "Invite"
+msgstr ""
+
+#: wpws-js/translations.php:185
+msgid "English (United States)"
+msgstr ""
+
+#: wpws-js/translations.php:186
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: wpws-js/translations.php:187
+msgid "English (Australia)"
+msgstr ""
+
+#: wpws-js/translations.php:188
+msgid "Russian"
+msgstr ""
+
+#: wpws-js/translations.php:189
+msgid "Danish"
+msgstr ""
+
+#: wpws-js/translations.php:190
+msgid "German"
+msgstr ""
+
+#: wpws-js/translations.php:191
+msgid "Greek"
+msgstr ""
+
+#: wpws-js/translations.php:192
+msgid "Spanish"
+msgstr ""
+
+#: wpws-js/translations.php:193
+msgid "Estonian"
+msgstr ""
+
+#: wpws-js/translations.php:194
+msgid "Farsi"
+msgstr ""
+
+#: wpws-js/translations.php:195
+msgid "Finnish"
+msgstr ""
+
+#: wpws-js/translations.php:196
+msgid "French"
+msgstr ""
+
+#: wpws-js/translations.php:197
+msgid "Hebrew"
+msgstr ""
+
+#: wpws-js/translations.php:198
+msgid "Italian"
+msgstr ""
+
+#: wpws-js/translations.php:199
+msgid "Japanese"
+msgstr ""
+
+#: wpws-js/translations.php:200
+msgid "Norwegian"
+msgstr ""
+
+#: wpws-js/translations.php:201
+msgid "Dutch"
+msgstr ""
+
+#: wpws-js/translations.php:202
+msgid "Polish"
+msgstr ""
+
+#: wpws-js/translations.php:203
+msgid "Portuguese"
+msgstr ""
+
+#: wpws-js/translations.php:204
+msgid "Romanian"
+msgstr ""
+
+#: wpws-js/translations.php:205
+msgid "Serbian"
+msgstr ""
+
+#: wpws-js/translations.php:206
+msgid "Swedish"
+msgstr ""
+
+#: wpws-js/translations.php:207
+msgid "Ukrainian"
+msgstr ""
+
+#: wpws-js/translations.php:208
+msgid "Chinese"
+msgstr ""
+
+#: wpws-js/translations.php:209
+msgid "deleted"
+msgstr ""
+
+#: wpws-js/translations.php:210
+#, fuzzy
+#| msgid "Once a minute"
+msgid "minute"
+msgstr "Každou minutu"
+
+#: wpws-js/translations.php:211
+#, fuzzy
+#| msgid "Once a minute"
+msgid "minutes"
+msgstr "Každou minutu"
+
+#: wpws-js/translations.php:212
+msgid "hour"
+msgstr ""
+
+#: wpws-js/translations.php:213
+msgid "hours"
+msgstr ""
+
+#: wpws-js/translations.php:214
+msgid "Enter the attendee details"
+msgstr ""
+
+#: wpws-js/translations.php:215
+msgid "OK"
+msgstr ""
+
+#: wpws-js/translations.php:216
+#, fuzzy
+#| msgid "No Attendees :("
+msgid "Add Attendees"
+msgstr "Žádní účastníci..."
+
+#: wpws-js/translations.php:217
+msgid ""
+"You can add attendees one by one using the New Attendee button below and "
+"entering their name and email address or you can import a csv file by "
+"clicking the Import CSV button."
+msgstr ""
+
+#: wpws-js/translations.php:218
+#, fuzzy
+#| msgid "No Attendees :("
+msgid "No attendees"
+msgstr "Žádní účastníci..."
+
+#: wpws-js/translations.php:219
+#, fuzzy
+#| msgid "Select a time to watch."
+msgid "Select a timeslot"
+msgstr "Zvolte čas sledování"
+
+#: wpws-js/translations.php:220
+msgid "Send confirmation e-mail to the attendee?"
+msgstr ""
+
+#: wpws-js/translations.php:221
+#, fuzzy
+#| msgid "No Attendees :("
+msgid "New Attendee..."
+msgstr "Žádní účastníci..."
+
+#: wpws-js/translations.php:222
+#, fuzzy
+#| msgid "Export CSV"
+msgid "Import CSV..."
+msgstr "Exportovat CSV"
+
+#: wpws-js/translations.php:223
+#, fuzzy
+#| msgid "Emails"
+msgid "Email"
+msgstr "Emaily"
+
+#: wpws-js/translations.php:224
+#, fuzzy
+#| msgid "Delete Selected"
+msgid "Delete Attendee"
+msgstr "Vymazat vybrané"
+
+#: wpws-js/translations.php:225
+#, fuzzy
+#| msgid "Registered Date"
+msgid "Registered At"
+msgstr "Registrace dne"
+
+#: wpws-js/translations.php:227
+msgid "Attended"
+msgstr ""
+
+#: wpws-js/translations.php:228
+msgid "Time Attended"
+msgstr ""
+
+#: wpws-js/translations.php:229
+msgid "Please create at least one webinar"
+msgstr ""
+
+#: wpws-js/translations.php:230
+#, fuzzy
+#| msgid "Create Webinars"
+msgid "Create Webinar"
+msgstr "Vytvořit webináře"
+
+#: wpws-js/translations.php:231
+#, fuzzy
+#| msgid "Delete Selected"
+msgid "Remove Selected"
+msgstr "Vymazat vybrané"
+
+#: wpws-js/translations.php:232
+#, fuzzy
+#| msgid "Export CSV"
+msgid "Export BCC"
+msgstr "Exportovat CSV"
+
+#: wpws-js/translations.php:233
+msgid "Export CSV"
+msgstr "Exportovat CSV"
+
+#: wpws-js/translations.php:234
+#, fuzzy
+#| msgid "You are registered for the webinar!"
+msgid "No attendees have registered for this webinar"
+msgstr "Jste registrováni na webinář!"
+
+#: wpws-js/translations.php:235
+msgid "No attendees match your filter"
+msgstr ""
+
+#: wpws-js/translations.php:236
+#, fuzzy
+#| msgid "Delete Selected"
+msgid "Delete Message"
+msgstr "Vymazat vybrané"
+
+#: wpws-js/translations.php:237
+msgid "Message"
+msgstr ""
+
+#: wpws-js/translations.php:238
+#, fuzzy
+#| msgid "Date/Time Color"
+msgid "Date/Time"
+msgstr "Barva pro datum / čas"
+
+#: wpws-js/translations.php:239
+msgid "Chat History"
+msgstr ""
+
+#: wpws-js/translations.php:240
+msgid "No messages have been sent in this webinar"
+msgstr ""
+
+#: wpws-js/translations.php:241
+msgid "No messages match your filter"
+msgstr ""
+
+#: wpws-js/translations.php:242
+#, fuzzy
+#| msgid "Add a Webinar to send a preview email."
+msgid "Select a webinar to see the preview"
+msgstr "Přidat webinář pro odeslání náhledu emailu"
+
+#: wpws-js/translations.php:243
+msgid "Page Layout"
+msgstr ""
+
+#: wpws-js/translations.php:244
+msgid "Colors"
+msgstr ""
+
+#: wpws-js/translations.php:245
+msgid "Top Border"
+msgstr ""
+
+#: wpws-js/translations.php:246
+msgid "Border Radius"
+msgstr "Rádius okrajů"
+
+#: wpws-js/translations.php:247
+msgid "Image / Video"
+msgstr ""
+
+#: wpws-js/translations.php:248
+msgid "Enable"
+msgstr ""
+
+#: wpws-js/translations.php:249
+#, fuzzy
+#| msgid "Content type"
+msgid "Content Type"
+msgstr "Typ obsahu"
+
+#: wpws-js/translations.php:250
+msgid "YouTube (Pre-recorded video)"
+msgstr ""
+
+#: wpws-js/translations.php:251
+msgid "Vimeo"
+msgstr ""
+
+#: wpws-js/translations.php:252
+msgid "Wistia"
+msgstr ""
+
+#: wpws-js/translations.php:253
+msgid "File (mp4, webm, ogg)"
+msgstr ""
+
+#: wpws-js/translations.php:254
+msgid "HLS Stream"
+msgstr ""
+
+#: wpws-js/translations.php:255
+msgid "Inline Frame (iframe)"
+msgstr ""
+
+#: wpws-js/translations.php:256
+msgid "Image"
+msgstr "Obrázek"
+
+#: wpws-js/translations.php:257
+#, fuzzy
+#| msgid "Video autoplay"
+msgid "Autoplay"
+msgstr "Automatické spuštění videa"
+
+#: wpws-js/translations.php:258
+msgid "Description"
+msgstr "Popis"
+
+#: wpws-js/translations.php:259
+#, fuzzy
+#| msgid "Questions"
+msgid "Sections"
+msgstr "Otázky"
+
+#: wpws-js/translations.php:260
+msgid "Margin"
+msgstr ""
+
+#: wpws-js/translations.php:261
+msgid "Separator Color"
+msgstr ""
+
+#: wpws-js/translations.php:262
+msgid "Separator Height"
+msgstr ""
+
+#: wpws-js/translations.php:263
+#, fuzzy
+#| msgid "Emails"
+msgid "Details"
+msgstr "Emaily"
+
+#: wpws-js/translations.php:264
+#, fuzzy
+#| msgid "Title text"
+msgid "Title Font"
+msgstr "Text nadpisu"
+
+#: wpws-js/translations.php:265
+msgid "Title Padding"
+msgstr ""
+
+#: wpws-js/translations.php:266
+#, fuzzy
+#| msgid "Content type"
+msgid "Content Font"
+msgstr "Typ obsahu"
+
+#: wpws-js/translations.php:267
+#, fuzzy
+#| msgid "Content"
+msgid "Content Padding"
+msgstr "Obsah"
+
+#: wpws-js/translations.php:268
+msgid "Icon"
+msgstr ""
+
+#: wpws-js/translations.php:269
+#, fuzzy
+#| msgid "Webinar name:"
+msgid "Webinar Name"
+msgstr "Název webináře"
+
+#: wpws-js/translations.php:270
+#, fuzzy
+#| msgid "Date/Time Color"
+msgid "Date & Time"
+msgstr "Barva pro datum / čas"
+
+#: wpws-js/translations.php:271
+msgid "Format"
+msgstr ""
+
+#: wpws-js/translations.php:272
+#, fuzzy
+#| msgid "Reminder"
+msgid "Set Reminder"
+msgstr "Připomenutí"
+
+#: wpws-js/translations.php:273
+#, fuzzy
+#| msgid "Webinar Replay Link"
+msgid "Webinar Link"
+msgstr "Odkaz na přehrání webináře"
+
+#: wpws-js/translations.php:274
+#, fuzzy
+#| msgid "Webinar Questions"
+msgid "Webinar Button"
+msgstr "Otázky účastníků"
+
+#: wpws-js/translations.php:275
+msgid "Layout"
+msgstr ""
+
+#: wpws-js/translations.php:276
+msgid "Width"
+msgstr ""
+
+#: wpws-js/translations.php:277
+msgid "Custom CSS"
+msgstr ""
+
+#: wpws-js/translations.php:278
+msgid "Add custom CSS to style this page"
+msgstr ""
+
+#: wpws-js/translations.php:279
+#, fuzzy
+#| msgid "Border Radius"
+msgid "Radius"
+msgstr "Rádius okrajů"
+
+#: wpws-js/translations.php:280
+msgid "Box Shadow"
+msgstr ""
+
+#: wpws-js/translations.php:281
+msgid "Top"
+msgstr ""
+
+#: wpws-js/translations.php:282
+msgid "Bottom"
+msgstr ""
+
+#: wpws-js/translations.php:283
+msgid "Left"
+msgstr ""
+
+#: wpws-js/translations.php:284
+msgid "Right"
+msgstr ""
+
+#: wpws-js/translations.php:285
+msgid "Size"
+msgstr ""
+
+#: wpws-js/translations.php:286
+msgid "Line Height"
+msgstr ""
+
+#: wpws-js/translations.php:287
+msgid "Weight"
+msgstr ""
+
+#: wpws-js/translations.php:288
+msgid "Normal"
+msgstr ""
+
+#: wpws-js/translations.php:289
+msgid "Bold"
+msgstr ""
+
+#: wpws-js/translations.php:290
+msgid "Bolder"
+msgstr ""
+
+#: wpws-js/translations.php:291
+msgid "Lighter"
+msgstr ""
+
+#: wpws-js/translations.php:292
+msgid "Transform"
+msgstr ""
+
+#: wpws-js/translations.php:293
+msgid "None"
+msgstr ""
+
+#: wpws-js/translations.php:294
+msgid "Capitalize"
+msgstr ""
+
+#: wpws-js/translations.php:295
+msgid "Uppercase"
+msgstr ""
+
+#: wpws-js/translations.php:296
+msgid "Lowercase"
+msgstr ""
+
+#: wpws-js/translations.php:297
+#, fuzzy
+#| msgid "Description"
+msgid "Decoration"
+msgstr "Popis"
+
+#: wpws-js/translations.php:298
+msgid "Line Through"
+msgstr ""
+
+#: wpws-js/translations.php:299
+#, fuzzy
+#| msgid "Sender name"
+msgid "Underline"
+msgstr "Jméne odesílatele"
+
+#: wpws-js/translations.php:300
+msgid "Underline Overline"
+msgstr ""
+
+#: wpws-js/translations.php:301
+msgid "Alignment"
+msgstr ""
+
+#: wpws-js/translations.php:302
+msgid "Center"
+msgstr ""
+
+#: wpws-js/translations.php:303
+msgid "Edit..."
+msgstr ""
+
+#: wpws-js/translations.php:304
+#, fuzzy
+#| msgid "Button Background Color"
+msgid "Use Custom Background"
+msgstr "Barva pozadí tlačítka"
+
+#: wpws-js/translations.php:305
+msgid "Click and drag to re-order"
+msgstr ""
+
+#: wpws-js/translations.php:306
+msgid "Block"
+msgstr ""
+
+#: wpws-js/translations.php:307
+msgid "Insert Block Above"
+msgstr ""
+
+#: wpws-js/translations.php:308
+#, fuzzy
+#| msgid "Duplicate"
+msgid "Duplicate Block"
+msgstr "Duplikovat"
+
+#: wpws-js/translations.php:309
+#, fuzzy
+#| msgid "Delete Selected"
+msgid "Delete Block"
+msgstr "Vymazat vybrané"
+
+#: wpws-js/translations.php:310
+msgid "Save changes"
+msgstr ""
+
+#: wpws-js/translations.php:311
+msgid "Add Block"
+msgstr ""
+
+#: wpws-js/translations.php:312
+msgid "Dump to log as JSON"
+msgstr ""
+
+#: wpws-js/translations.php:313
+#, fuzzy
+#| msgid "Webinar Settings"
+msgid "Editor Settings"
+msgstr "Nastavení webináře"
+
+#: wpws-js/translations.php:314
+msgid "Exit"
+msgstr ""
+
+#: wpws-js/translations.php:315
+msgid "Help and tutorials"
+msgstr ""
+
+#: wpws-js/translations.php:316
+msgid "Are you sure you want to delete this block?"
+msgstr ""
+
+#: wpws-js/translations.php:317
+msgid "Setup"
+msgstr ""
+
+#: wpws-js/translations.php:318
+msgid "Style"
+msgstr ""
+
+#: wpws-js/translations.php:319
+#, fuzzy
+#| msgid "Header Text color"
+msgid "Header Color"
+msgstr "Barva textu hlavičky"
+
+#: wpws-js/translations.php:320
+msgid "Logo"
+msgstr ""
+
+#: wpws-js/translations.php:322
+msgid "Visibility"
+msgstr ""
+
+#: wpws-js/translations.php:323
+#, fuzzy
+#| msgid "No Attendees :("
+msgid "All Attendees"
+msgstr "Žádní účastníci..."
+
+#: wpws-js/translations.php:324
+msgid "Only Team Members"
+msgstr ""
+
+#: wpws-js/translations.php:325
+msgid "Asker Decides"
+msgstr ""
+
+#: wpws-js/translations.php:326
+#, fuzzy
+#| msgid "Email options"
+msgid "Email to host"
+msgstr "Možnosti emailů"
+
+#: wpws-js/translations.php:327
+#, fuzzy
+#| msgid "Emails"
+msgid "Host Email"
+msgstr "Emaily"
+
+#: wpws-js/translations.php:328
+#, fuzzy
+#| msgid "Attendee Lists"
+msgid "Attendee Chat"
+msgstr "Seznam účastníků"
+
+#: wpws-js/translations.php:329
+#, fuzzy
+#| msgid "Attendee Lists"
+msgid "Attendee List"
+msgstr "Seznam účastníků"
+
+#: wpws-js/translations.php:330
+msgid "Hand Raising"
+msgstr ""
+
+#: wpws-js/translations.php:331
+msgid "Call to Action"
+msgstr ""
+
+#: wpws-js/translations.php:332
+msgid "Activation"
+msgstr ""
+
+#: wpws-js/translations.php:333
+msgid "Type"
+msgstr ""
+
+#: wpws-js/translations.php:334
+msgid "Manual"
+msgstr ""
+
+#: wpws-js/translations.php:335
+msgid "After a number of minutes"
+msgstr ""
+
+#: wpws-js/translations.php:336
+msgid "Delay"
+msgstr ""
+
+#: wpws-js/translations.php:337
+msgid "Minutes to wait before showing the CTA"
+msgstr ""
+
+#: wpws-js/translations.php:339
+#, fuzzy
+#| msgid "PHP Time Limit"
+msgid "Time Limited"
+msgstr "PHP Time Limit"
+
+#: wpws-js/translations.php:340
+msgid ""
+"Increase conversions by adding a time limit to your CTA and showing a "
+"countdown timer to your attendees. Your offer will be removed automatically "
+"when the time runs out"
+msgstr ""
+
+#: wpws-js/translations.php:341
+#, fuzzy
+#| msgid "Button color"
+msgid "Button"
+msgstr "Barva tlačítka"
+
+#: wpws-js/translations.php:342
+msgid "Text / HTML"
+msgstr ""
+
+#: wpws-js/translations.php:343
+msgid "Border Color"
+msgstr ""
+
+#: wpws-js/translations.php:344
+#, fuzzy
+#| msgid "Content text color"
+msgid "Content Color"
+msgstr "Barva textu obsahu"
+
+#: wpws-js/translations.php:345
+msgid "Headline"
+msgstr ""
+
+#: wpws-js/translations.php:346
+msgid "Subheading"
+msgstr ""
+
+#: wpws-js/translations.php:347
+msgid "Setup YouTube WebCam"
+msgstr ""
+
+#: wpws-js/translations.php:348
+msgid "Setup Encoder/OBS"
+msgstr ""
+
+#: wpws-js/translations.php:349
+msgid "Documentation"
+msgstr ""
+
+#: wpws-js/translations.php:350
+msgid "The maximum width. Set to 0 for 100%"
+msgstr ""
+
+#: wpws-js/translations.php:351
+#, fuzzy
+#| msgid "Question"
+msgid "Delete Question"
+msgstr "Otázka"
+
+#: wpws-js/translations.php:352
+msgid "Question"
+msgstr "Otázka"
+
+#: wpws-js/translations.php:353
+msgid "No questions have been asked in this webinar"
+msgstr ""
+
+#: wpws-js/translations.php:354
+msgid "No questions match your filter"
+msgstr ""
+
+#: wpws-js/translations.php:355
+#, fuzzy
+#| msgid "Header Image"
+msgid "Header"
+msgstr "Obrázek pro hlavičku"
+
+#: wpws-js/translations.php:356
+#, fuzzy
+#| msgid "Background color"
+msgid "Background color of the header"
+msgstr "Barva pozadí"
+
+#: wpws-js/translations.php:357
+#, fuzzy
+#| msgid "Background image"
+msgid "Background image of the header"
+msgstr "Obrázek na pozadí"
+
+#: wpws-js/translations.php:358
+msgid "Separator"
+msgstr ""
+
+#: wpws-js/translations.php:359
+#, fuzzy
+#| msgid "Description"
+msgid "Video & Description"
+msgstr "Popis"
+
+#: wpws-js/translations.php:360
+#, fuzzy
+#| msgid "Registrations"
+msgid "Registration Form"
+msgstr "Registrace"
+
+#: wpws-js/translations.php:361
+msgid "Background color of the registration form"
+msgstr ""
+
+#: wpws-js/translations.php:362
+msgid "Border for the registration form"
+msgstr ""
+
+#: wpws-js/translations.php:363
+msgid "Title"
+msgstr ""
+
+#: wpws-js/translations.php:364
+#, fuzzy
+#| msgid "Login Button Text"
+msgid "Login Button"
+msgstr "Text přihlašovacího tlačítka"
+
+#: wpws-js/translations.php:365
+#, fuzzy
+#| msgid "Register Title"
+msgid "Register Link"
+msgstr "Registrační nadpis"
+
+#: wpws-js/translations.php:366
+msgid "GDPR Optin"
+msgstr ""
+
+#: wpws-js/translations.php:367
+#, fuzzy
+#| msgid "Login Text"
+msgid "Optin Text"
+msgstr "Přihlašovací text"
+
+#: wpws-js/translations.php:368
+#, fuzzy
+#| msgid "You are registered for the webinar!"
+msgid "There was a problem registering you for this webinar"
+msgstr "Jste registrováni na webinář!"
+
+#: wpws-js/translations.php:369
+msgid "Successfully Saved!"
+msgstr ""
+
+#: wpws-js/translations.php:370
+msgid "An error ocurred while trying to save"
+msgstr ""
+
+#: wpws-js/translations.php:371
+msgid "An error ocurred while loading"
+msgstr ""
+
+#: wpws-js/translations.php:372
+msgid "Unsaved Changes"
+msgstr ""
+
+#: wpws-js/translations.php:373
+msgid "Would you like to save your changes before exiting?"
+msgstr ""
+
+#: wpws-js/translations.php:374
+#, fuzzy
+#| msgid "Edit Webinar"
+msgid "Edit Widget"
+msgstr "Editovat webinář"
+
+#: wpws-js/translations.php:375
+#, fuzzy
+#| msgid "Available Shortcodes:"
+msgid "View Shortcode"
+msgstr "Dostupné zkratky:"
+
+#: wpws-js/translations.php:376
+msgid "Create variation"
+msgstr ""
+
+#: wpws-js/translations.php:377
+#, fuzzy
+#| msgid "Delete Selected"
+msgid "Delete Widget"
+msgstr "Vymazat vybrané"
+
+#: wpws-js/translations.php:378
+msgid "Registrations"
+msgstr "Registrace"
+
+#: wpws-js/translations.php:379
+#, fuzzy
+#| msgid "Create Webinars"
+msgid "Create Widget"
+msgstr "Vytvořit webináře"
+
+#: wpws-js/translations.php:380
+msgid "Welcome to registration widgets!"
+msgstr ""
+
+#: wpws-js/translations.php:381
+msgid "Would you like to see our quick start guide?"
+msgstr ""
+
+#: wpws-js/translations.php:383
+msgid "New Widget"
+msgstr ""
+
+#: wpws-js/translations.php:384
+msgid "You don't have any widgets yet"
+msgstr ""
+
+#: wpws-js/translations.php:385
+#, fuzzy
+#| msgid "Email Sender Options"
+msgid "Email Sender"
+msgstr "Nastavení odesílání emailů"
+
+#: wpws-js/translations.php:386
+#, fuzzy
+#| msgid "\"From\" Name"
+msgid "From Name"
+msgstr "Jméno \"Od\""
+
+#: wpws-js/translations.php:387
+#, fuzzy
+#| msgid "\"From\" Email Address"
+msgid "From Email Address"
+msgstr "Emailová adresa odesílatele"
+
+#: wpws-js/translations.php:388
+msgid "Emails sent to attendees will be sent from this name and address"
+msgstr ""
+
+#: wpws-js/translations.php:389
+#, fuzzy
+#| msgid "Admin email"
+msgid "Admin Email"
+msgstr "Email administrátora"
+
+#: wpws-js/translations.php:390
+#, fuzzy
+#| msgid "Registration is closed for this webinar."
+msgid "New registration emails will be sent to this address."
+msgstr "Registrace pro tento webinář jsou uzavřeny"
+
+#: wpws-js/translations.php:391
+msgid "Email Template"
+msgstr "Šablona emailu"
+
+#: wpws-js/translations.php:392
+msgid "Header Image"
+msgstr "Obrázek pro hlavičku"
+
+#: wpws-js/translations.php:393
+#, fuzzy
+#| msgid "Base color"
+msgid "Base Color"
+msgstr "Základní barva"
+
+#: wpws-js/translations.php:394
+#, fuzzy
+#| msgid "Body Background color"
+msgid "Body Background Color"
+msgstr "Barva pozadí těla"
+
+#: wpws-js/translations.php:395
+#, fuzzy
+#| msgid "Body Text color"
+msgid "Body Text Color"
+msgstr "Barva textu těla"
+
+#: wpws-js/translations.php:396
+msgid "Button Background Color"
+msgstr "Barva pozadí tlačítka"
+
+#: wpws-js/translations.php:397
+#, fuzzy
+#| msgid "Button Text color"
+msgid "Button Text Color"
+msgstr "Barva textu tlačítka"
+
+#: wpws-js/translations.php:398
+msgid "Footer Text"
+msgstr "Text patičky"
+
+#: wpws-js/translations.php:399
+msgid "Include Profile and Unsubscribe Links"
+msgstr ""
+
+#: wpws-js/translations.php:400
+#, fuzzy
+#| msgid "Reset Default Template"
+msgid "Restore Defaults"
+msgstr "Resetovat defaultní šablonu"
+
+#: wpws-js/translations.php:401
+msgid "Enable this reminder?"
+msgstr "Aktivovat tento připomínač?"
+
+#: wpws-js/translations.php:402
+msgid "Subject"
+msgstr "Předmět"
+
+#: wpws-js/translations.php:403
+#, fuzzy
+#| msgid "Available Shortcodes:"
+msgid "Available shortcodes"
+msgstr "Dostupné zkratky:"
+
+#: wpws-js/translations.php:404
+msgid "Read More..."
+msgstr ""
+
+#: wpws-js/translations.php:405
+#, fuzzy
+#| msgid "Send Preview"
+msgid "Send Preview Email"
+msgstr "Odeslat náhled"
+
+#: wpws-js/translations.php:407
+msgid "Your license is active!"
+msgstr ""
+
+#: wpws-js/translations.php:408
+msgid "Your license appears to be invalid."
+msgstr ""
+
+#: wpws-js/translations.php:409
+msgid "You have reached your activation limit for this license"
+msgstr ""
+
+#: wpws-js/translations.php:410
+msgid "This website has not been activated"
+msgstr ""
+
+#: wpws-js/translations.php:411
+msgid "Your license has expired!"
+msgstr ""
+
+#: wpws-js/translations.php:412
+#, fuzzy
+#| msgid "Click here"
+msgid "Click here to renew"
+msgstr "Klikněte zde"
+
+#: wpws-js/translations.php:413
+msgid "Your license has been disabled"
+msgstr ""
+
+#: wpws-js/translations.php:414
+#, fuzzy
+#| msgid "Plugin Environment"
+msgid "Plugin Activation"
+msgstr "Pluginy"
+
+#: wpws-js/translations.php:415
+msgid "License Key"
+msgstr ""
+
+#: wpws-js/translations.php:416
+msgid "Activate"
+msgstr ""
+
+#: wpws-js/translations.php:417
+msgid "Deactivate"
+msgstr ""
+
+#: wpws-js/translations.php:418
+#, fuzzy
+#| msgid "Webinar Type"
+msgid "Webinar Folder"
+msgstr "Typ webináře"
+
+#: wpws-js/translations.php:419
+msgid "Performance"
+msgstr ""
+
+#: wpws-js/translations.php:420
+msgid "Use WebinarPress Connect"
+msgstr ""
+
+#: wpws-js/translations.php:421
+msgid "Recommended"
+msgstr ""
+
+#: wpws-js/translations.php:422
+msgid ""
+"Enable instantaneous updates for attendees and greatly reduce the load on "
+"your server by using our servers to send real-time updates to attendees "
+"using websockets."
+msgstr ""
+
+#: wpws-js/translations.php:423
+msgid "Please activate the plugin to use WebinarPress Connect"
+msgstr ""
+
+#: wpws-js/translations.php:424
+msgid "Reduce Server Load"
+msgstr ""
+
+#: wpws-js/translations.php:425
+msgid ""
+"If your webinars have a large number of attendees you can enable this option "
+"to reduce how often they connect to your website which will reduce the load "
+"on your server."
+msgstr ""
+
+#: wpws-js/translations.php:426
+msgid "Payment Processing"
+msgstr ""
+
+#: wpws-js/translations.php:427
+msgid "Enable WooCommerce"
+msgstr ""
+
+#: wpws-js/translations.php:428
+msgid "Use WooCommerce for payment processing of paid webinars"
+msgstr ""
+
+#: wpws-js/translations.php:429
+msgid "Redirect after the webinar has been added to the cart"
+msgstr ""
+
+#: wpws-js/translations.php:430
+msgid "Cart"
+msgstr ""
+
+#: wpws-js/translations.php:431
+msgid "Checkout"
+msgstr ""
+
+#: wpws-js/translations.php:432
+msgid "Styles"
+msgstr ""
+
+#: wpws-js/translations.php:433
+msgid "Use Theme Styles"
+msgstr ""
+
+#: wpws-js/translations.php:434
+msgid ""
+"Include your theme's css styles when generating webinar pages. Note, this "
+"only applies to legacy pages like the classic webinar layout"
+msgstr ""
+
+#: wpws-js/translations.php:435
+msgid "Pre-release Updates"
+msgstr ""
+
+#: wpws-js/translations.php:436
+msgid "Enable Beta Updates"
+msgstr ""
+
+#: wpws-js/translations.php:437
+msgid ""
+"Get updates for pre-release versions of WebinarPress when you update the "
+"plugin in WordPress"
+msgstr ""
+
+#: wpws-js/translations.php:438
+msgid "Logging"
+msgstr ""
+
+#: wpws-js/translations.php:439
+msgid "Enable Logging"
+msgstr ""
+
+#: wpws-js/translations.php:440
+msgid ""
+"Logging may slow down your website and should only be enabled if required by "
+"WebinarPress support"
+msgstr ""
+
+#: wpws-js/translations.php:441
+#, fuzzy
+#| msgid "Yes, download Pro!"
+msgid "Download Log"
+msgstr "Ano, stáhnout Pro verzi"
+
+#: wpws-js/translations.php:442
+msgid "Check"
+msgstr ""
+
+#: wpws-js/translations.php:443
+#, fuzzy
+#| msgid "Mailinglist"
+msgid "Mailing Lists"
+msgstr "Distribuční seznam"
+
+#: wpws-js/translations.php:444
+msgid "Drip"
+msgstr ""
+
+#: wpws-js/translations.php:445
+msgid "MailChimp"
+msgstr ""
+
+#: wpws-js/translations.php:446
+#, fuzzy
+#| msgid "Emails"
+msgid "Enormail"
+msgstr "Emaily"
+
+#: wpws-js/translations.php:447
+msgid "GetResponse"
+msgstr ""
+
+#: wpws-js/translations.php:448
+msgid "ActiveCampaign"
+msgstr ""
+
+#: wpws-js/translations.php:449
+msgid "ConvertKit"
+msgstr ""
+
+#: wpws-js/translations.php:450
+msgid "Mailrelay"
+msgstr ""
+
+#: wpws-js/translations.php:451
+msgid "MailerLite"
+msgstr ""
+
+#: wpws-js/translations.php:452
+msgid "Aweber"
+msgstr ""
+
+#: wpws-js/translations.php:453
+msgid "Revoke Access"
+msgstr ""
+
+#: wpws-js/translations.php:454
+msgid "Configure"
+msgstr ""
+
+#: wpws-js/translations.php:455
+msgid "API Key"
+msgstr ""
+
+#: wpws-js/translations.php:456
+msgid "API URL"
+msgstr ""
+
+#: wpws-js/translations.php:458
+msgid "Create Webinars"
+msgstr "Vytvořit webináře"
+
+#: wpws-js/translations.php:459
+msgid "Manage Subscribers"
+msgstr "Správa odběratelů"
+
+#: wpws-js/translations.php:460
+msgid "Access Control Bar"
+msgstr ""
+
+#: wpws-js/translations.php:461
+msgid "Manage Questions"
+msgstr ""
+
+#: wpws-js/translations.php:462
+msgid "Manage Chatlogs"
+msgstr ""
+
+#: wpws-js/translations.php:463
+#, fuzzy
+#| msgid "Settings"
+msgid "Change Settings"
+msgstr "Nastavení"
+
+#: wpws-js/translations.php:464
+msgid "Role"
+msgstr ""
+
+#: wpws-js/translations.php:465
+msgid "Roles & Permissions"
+msgstr "Role a oprávnění"
+
+#: wpws-js/translations.php:466
+msgid "Roles"
+msgstr ""
+
+#: wpws-js/translations.php:467
+#, fuzzy
+#| msgid "Server Info"
+msgid "System Info"
+msgstr "Server Info"
+
+#: wpws-js/translations.php:468
+msgid "Download"
+msgstr ""
+
+#: wpws-js/translations.php:469
+#, fuzzy
+#| msgid "Sender name"
+msgid "Send Test"
+msgstr "Jméne odesílatele"
+
+#: wpws-js/translations.php:470
+msgid "Webhooks"
+msgstr ""
+
+#: wpws-js/translations.php:471
+msgid "New Registration"
+msgstr "Nová registrace"
+
+#: wpws-js/translations.php:472
+#, fuzzy
+#| msgid "Add New Webinar"
+msgid "Attended Webinar"
+msgstr "Přidat nový webinář"
+
+#: wpws-js/translations.php:473
+msgid "Save"
+msgstr ""
+
+#: wpws-js/translations.php:475
+msgid "General"
+msgstr "Obecné"
+
+#: wpws-js/translations.php:476
+msgid "Emails"
+msgstr "Emaily"
+
+#: wpws-js/translations.php:477
+#, fuzzy
+#| msgid "Roles & Permissions"
+msgid "Permissions"
+msgstr "Role a oprávnění"
+
+#: wpws-js/translations.php:478
+#, fuzzy
+#| msgid "Email Template"
+msgid "Email Templates"
+msgstr "Šablona emailu"
+
+#: wpws-js/translations.php:479
+#, fuzzy
+#| msgid "Information"
+msgid "Confirmation"
+msgstr "Informace"
+
+#: wpws-js/translations.php:480
+msgid "One Day Before"
+msgstr ""
+
+#: wpws-js/translations.php:481
+msgid "One Hour Before"
+msgstr ""
+
+#: wpws-js/translations.php:482
+#, fuzzy
+#| msgid "Webinar Settings"
+msgid "Webinar Starting"
+msgstr "Nastavení webináře"
+
+#: wpws-js/translations.php:483
+#, fuzzy
+#| msgid "Webinar replay"
+msgid "Webinar Replay"
+msgstr "Přehrát webinář"
+
+#: wpws-js/translations.php:484
+msgid "Order Complete"
+msgstr ""
+
+#: wpws-js/translations.php:485
+msgid "Confirmation / Consent"
+msgstr ""
+
+#: wpws-js/translations.php:486
+msgid "Translations"
+msgstr ""
+
+#: wpws-js/translations.php:487
+msgid "Debug"
+msgstr ""
+
+#: wpws-js/translations.php:488
+#, fuzzy
+#| msgid "New Registration Options"
+msgid "Registration Confirmation"
+msgstr "Nastavení nových registrací"
+
+#: wpws-js/translations.php:489
+msgid "Enter the name of this webinar"
+msgstr ""
+
+#: wpws-js/translations.php:490
+#, fuzzy
+#| msgid "Webinar Questions"
+msgid "Webinar Page Translations"
+msgstr "Otázky účastníků"
+
+#: wpws-js/translations.php:491
+msgid ""
+"Use this page to translate text on the webinar page to your own language. "
+"Your changes will be used for all of your webinars so you don\\t need to set "
+"them individually"
+msgstr ""
+
+#: wpws-js/translations.php:492
+msgid "Summary"
+msgstr ""
+
+#: wpws-js/translations.php:493
+#, fuzzy
+#| msgid "Time"
+msgid "Timers"
+msgstr "Čas"
+
+#: wpws-js/translations.php:494
+msgid "Tabs"
+msgstr ""
+
+#: wpws-js/translations.php:495
+msgid "Chats"
+msgstr ""
+
+#: wpws-js/translations.php:496
+#, fuzzy
+#| msgid "Question"
+msgid "Question Menu"
+msgstr "Otázka"
+
+#: wpws-js/translations.php:497
+#, fuzzy
+#| msgid "Ask Question!"
+msgid "Ask a Question"
+msgstr "Položit otázku!"
+
+#: wpws-js/translations.php:498
+#, fuzzy
+#| msgid "Webinar Questions"
+msgid "Delete a Question"
+msgstr "Otázky účastníků"
+
+#: wpws-js/translations.php:499
+msgid "People"
+msgstr ""
+
+#: wpws-js/translations.php:500
+#, fuzzy
+#| msgid "Edit Webinar"
+msgid "Exit the Webinar"
+msgstr "Editovat webinář"
+
+#: wpws-js/translations.php:501
+#, fuzzy
+#| msgid "Webinar replay"
+msgid "Webinar Source"
+msgstr "Přehrát webinář"
+
+#: wpws-js/translations.php:502
+#, fuzzy
+#| msgid "Create Webinars"
+msgid "Start the Webinar"
+msgstr "Vytvořit webináře"
+
+#: wpws-js/translations.php:503
+#, fuzzy
+#| msgid "Edit Webinar"
+msgid "End the Webinar"
+msgstr "Editovat webinář"
+
+#: wpws-js/translations.php:504
+msgid "Everyone"
+msgstr ""
+
+#: wpws-js/translations.php:505
+msgid "Everyone can access this webinar, there are no restrictions."
+msgstr ""
+
+#: wpws-js/translations.php:506
+#, fuzzy
+#| msgid "WordPress Environment"
+msgid "WordPress Users"
+msgstr "Prostředí Wordpressu"
+
+#: wpws-js/translations.php:507
+msgid "Only specific WordPress users have access to this webinar."
+msgstr ""
+
+#: wpws-js/translations.php:508
+#, fuzzy
+#| msgid "WordPress Environment"
+msgid "WordPress Roles"
+msgstr "Prostředí Wordpressu"
+
+#: wpws-js/translations.php:509
+msgid "Only specific WordPress roles have access to this webinar."
+msgstr ""
+
+#: wpws-js/translations.php:510
+msgid "WooCommerce Memberships"
+msgstr ""
+
+#: wpws-js/translations.php:511
+msgid ""
+"Only specific WooCommerce membership levels have access to this webinar."
+msgstr ""
+
+#: wpws-js/translations.php:512
+#, fuzzy
+#| msgid "Webinars"
+msgid "Webinar Access"
+msgstr "Webináře"
+
+#: wpws-js/translations.php:513
+msgid "Select the WordPress users that can access this webinar"
+msgstr ""
+
+#: wpws-js/translations.php:514
+msgid "Select the WordPress roles that can access this webinar"
+msgstr ""
+
+#: wpws-js/translations.php:515
+msgid "WooCommerce Membership Roles"
+msgstr ""
+
+#: wpws-js/translations.php:516
+msgid ""
+"Please install and configure the 'WooCommerce Memberships' plugin to use "
+"this functionality."
+msgstr ""
+
+#: wpws-js/translations.php:517
+msgid "Select the WooCommerce Membership roles that can access this webinar"
+msgstr ""
+
+#: wpws-js/translations.php:518
+msgid "Redirect Restricted Visitors"
+msgstr ""
+
+#: wpws-js/translations.php:519
+msgid ""
+"When a visitor does not have access to the webinar redirect them to this page"
+msgstr ""
+
+#: wpws-js/translations.php:520
+#, fuzzy
+#| msgid "Webinar replay"
+msgid "Webinar Replays"
+msgstr "Přehrát webinář"
+
+#: wpws-js/translations.php:521
+msgid ""
+"When enabled, attendees can re-watch the webinar content after it finishes "
+"even if they couldn't attend their slot"
+msgstr ""
+
+#: wpws-js/translations.php:522
+msgid "Availability"
+msgstr ""
+
+#: wpws-js/translations.php:523
+#, fuzzy
+#| msgid "Replay available?"
+msgid "The replay is available forever"
+msgstr "Záznam k dispozici?"
+
+#: wpws-js/translations.php:524
+msgid "How long will the replay be available for?"
+msgstr ""
+
+#: wpws-js/translations.php:525
+msgid "Studio"
+msgstr ""
+
+#: wpws-js/translations.php:526
+msgid "Classic"
+msgstr ""
+
+#: wpws-js/translations.php:527
+msgid "Visual Editor"
+msgstr ""
+
+#: wpws-js/translations.php:528
+msgid "Launch Visual Editor"
+msgstr ""
+
+#: wpws-js/translations.php:529
+#, fuzzy
+#| msgid "Title text"
+msgid "Title Text"
+msgstr "Text nadpisu"
+
+#: wpws-js/translations.php:530
+msgid "Title Color"
+msgstr "Barva nadpisu"
+
+#: wpws-js/translations.php:531
+#, fuzzy
+#| msgid "Background image"
+msgid "Background Image"
+msgstr "Obrázek na pozadí"
+
+#: wpws-js/translations.php:532
+#, fuzzy
+#| msgid "Link above Text Color"
+msgid "Link Above Text Color"
+msgstr "Barva textu odkazu nad"
+
+#: wpws-js/translations.php:533
+#, fuzzy
+#| msgid "Link below Text Color"
+msgid "Link Below Text Color"
+msgstr "Barva textu odkazu pod"
+
+#: wpws-js/translations.php:534
+msgid "Ticket"
+msgstr "\"Vstupenka\""
+
+#: wpws-js/translations.php:535
+msgid "Border color-1"
+msgstr "Barva pozadí 1"
+
+#: wpws-js/translations.php:536
+#, fuzzy
+#| msgid "Header Background color"
+msgid "Header Background Color"
+msgstr "Barva pozadí hlavičky"
+
+#: wpws-js/translations.php:537
+#, fuzzy
+#| msgid "Header Text color"
+msgid "Header Text Color"
+msgstr "Barva textu hlavičky"
+
+#: wpws-js/translations.php:538
+#, fuzzy
+#| msgid "Button color"
+msgid "Button Color"
+msgstr "Barva tlačítka"
+
+#: wpws-js/translations.php:539
+msgid "Social Sharing"
+msgstr "Sociální sítě"
+
+#: wpws-js/translations.php:540
+msgid "Button Border Color"
+msgstr "Barva okraje tlačítka"
+
+#: wpws-js/translations.php:541
+msgid "Script Tags"
+msgstr ""
+
+#: wpws-js/translations.php:542
+msgid "Add code in <head>"
+msgstr ""
+
+#: wpws-js/translations.php:543
+msgid "Add code in <body>"
+msgstr ""
+
+#: wpws-js/translations.php:544
+#, fuzzy
+#| msgid "Countdown Page"
+msgid "Custom Page"
+msgstr "Stránka s odpočtem"
+
+#: wpws-js/translations.php:545
+msgid "Use custom page"
+msgstr ""
+
+#: wpws-js/translations.php:546
+msgid ""
+"When enabled, unregistered visitors will be sent a different page instead of "
+"the built in thank you page"
+msgstr ""
+
+#: wpws-js/translations.php:547
+msgid "Disable page"
+msgstr ""
+
+#: wpws-js/translations.php:548
+msgid ""
+"Redirect attendees directly to the countdown or webinar page after they "
+"signup instead of showing the confirmation page"
+msgstr ""
+
+#: wpws-js/translations.php:549
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "Jste registrováni na webinář!"
+
+#: wpws-js/translations.php:550
+msgid "Countdown Page"
+msgstr "Stránka s odpočtem"
+
+#: wpws-js/translations.php:551
+msgid "Show countdown timer"
+msgstr "Zobrazit odpočet"
+
+#: wpws-js/translations.php:552
+msgid ""
+"Show a real-time countdown timer on the page so attendees can see when the "
+"webinar will start"
+msgstr ""
+
+#: wpws-js/translations.php:553
+#, fuzzy
+#| msgid "Title Color"
+msgid "Tagline Color"
+msgstr "Barva nadpisu"
+
+#: wpws-js/translations.php:554
+#, fuzzy
+#| msgid "Description color"
+msgid "Description Color"
+msgstr "Barva popisu"
+
+#: wpws-js/translations.php:555
+msgid "Custom Fields"
+msgstr ""
+
+#: wpws-js/translations.php:556
+msgid ""
+"Collect extra information from your attendees when they sign up. Available "
+"field types include check-boxes, text boxes, phone numbers and drop down "
+"lists"
+msgstr ""
+
+#: wpws-js/translations.php:557
+#, fuzzy
+#| msgid "Webinar Settings"
+msgid "Use global settings"
+msgstr "Nastavení webináře"
+
+#: wpws-js/translations.php:558
+msgid "Require opt-in checkbox"
+msgstr ""
+
+#: wpws-js/translations.php:559
+msgid "Require explicit email consent"
+msgstr ""
+
+#: wpws-js/translations.php:560
+msgid ""
+"Attendees must confirm their registration by clicking an email confirmation "
+"link before they are registered for the webinar"
+msgstr ""
+
+#: wpws-js/translations.php:561
+msgid "Live"
+msgstr ""
+
+#: wpws-js/translations.php:562
+msgid ""
+"Best for live webinars! Fully manual, you decide exactly when the webinar "
+"starts and finishes."
+msgstr ""
+
+#: wpws-js/translations.php:563
+#, fuzzy
+#| msgid "Time"
+msgid "One Time"
+msgstr "Čas"
+
+#: wpws-js/translations.php:564
+msgid "Start automatically at a specific date and time that you choose."
+msgstr ""
+
+#: wpws-js/translations.php:565
+msgid "Recurring"
+msgstr ""
+
+#: wpws-js/translations.php:566
+msgid ""
+"Start automatically on the days of the week and timeslots that you choose. "
+"For example every Monday and Thursday at 10:00 and 18:00."
+msgstr ""
+
+#: wpws-js/translations.php:567
+msgid "Just in Time"
+msgstr ""
+
+#: wpws-js/translations.php:568
+msgid ""
+"Start automatically every fixed period of time, for example every 15 minutes "
+"or every hour so attendees never have to wait very long."
+msgstr ""
+
+#: wpws-js/translations.php:569
+msgid "Right Now"
+msgstr ""
+
+#: wpws-js/translations.php:570
+msgid ""
+"Attendees can join the webinar straight after registering without having to wait."
+msgstr ""
+
+#: wpws-js/translations.php:572
+msgid "Replay"
+msgstr ""
+
+#: wpws-js/translations.php:573
+msgid "Closed"
+msgstr ""
+
+#: wpws-js/translations.php:574
+#, fuzzy
+#| msgid "Go to Webinar"
+msgid "About your webinar"
+msgstr "Jít na webinář"
+
+#: wpws-js/translations.php:576
+msgid "What is your webinar about?"
+msgstr ""
+
+#: wpws-js/translations.php:577
+msgid "Your Webinar URL"
+msgstr "Odkaz na váš webinář"
+
+#: wpws-js/translations.php:578
+msgid "Edit"
+msgstr ""
+
+#: wpws-js/translations.php:579
+msgid "Webinar Type"
+msgstr "Typ webináře"
+
+#: wpws-js/translations.php:580
+#, fuzzy
+#| msgid "Status"
+msgid "Manual Status"
+msgstr "Stav"
+
+#: wpws-js/translations.php:581
+#, fuzzy
+#| msgid "Start a Hangout"
+msgid "Starts at"
+msgstr "Začít Hangout"
+
+#: wpws-js/translations.php:582
+msgid "Runs on"
+msgstr ""
+
+#: wpws-js/translations.php:583
+msgid "Recurring Times(s)"
+msgstr ""
+
+#: wpws-js/translations.php:584
+msgid "Starts every"
+msgstr ""
+
+#: wpws-js/translations.php:585
+msgid "Timezone and Duration"
+msgstr ""
+
+#: wpws-js/translations.php:586
+#, fuzzy
+#| msgid "Time"
+msgid "Timezone"
+msgstr "Čas"
+
+#: wpws-js/translations.php:587
+msgid "Estimated Duration"
+msgstr ""
+
+#: wpws-js/translations.php:588
+#, fuzzy
+#| msgid "Information"
+msgid "Duration"
+msgstr "Informace"
+
+#: wpws-js/translations.php:589
+msgid "Charge attendees to view this webinar"
+msgstr ""
+
+#: wpws-js/translations.php:590
+#, fuzzy
+#| msgid "Invalid webinar id."
+msgid "Paid webinar"
+msgstr "Neplatné ID webináře"
+
+#: wpws-js/translations.php:591
+msgid ""
+"Use WooCommerce to charge attendees to view this webinar. After the payment "
+"has been processed attendees will be sent an access link via email"
+msgstr ""
+
+#: wpws-js/translations.php:592
+msgid ""
+"Please activate WooCommerce integration in the WebinarPress integration "
+"settings page to enable paid webinars"
+msgstr ""
+
+#: wpws-js/translations.php:593
+#, fuzzy
+#| msgid "Webinar replay"
+msgid "Webinar Price"
+msgstr "Přehrát webinář"
+
+#: wpws-js/translations.php:594
+#, fuzzy
+#| msgid "just signed up for your webinar"
+msgid "Enter the name of your webinar"
+msgstr "se právě přihlásil(a) na váš webinář"
+
+#: wpws-js/translations.php:595
+#, fuzzy
+#| msgid "We are starting the webinar!"
+msgid "Who will be hosting this webinar?"
+msgstr "Webinář právě začíná!"
+
+#: wpws-js/translations.php:596
+#, fuzzy
+#| msgid "Import / Export"
+msgid "Import/Export Settings"
+msgstr "Importovat / Exportovat"
+
+#: wpws-js/translations.php:597
+msgid ""
+"Export webinar settings and import them later either into this website or "
+"any another website running WebinarPress Pro"
+msgstr ""
+
+#: wpws-js/translations.php:598
+#, fuzzy
+#| msgid "Settings"
+msgid "Export Settings"
+msgstr "Nastavení"
+
+#: wpws-js/translations.php:599
+#, fuzzy
+#| msgid "Settings"
+msgid "Import Settings"
+msgstr "Nastavení"
+
+#: wpws-js/translations.php:600
+msgid "Campaign"
+msgstr ""
+
+#: wpws-js/translations.php:601
+msgid "Sync Emails to a Mailing list"
+msgstr ""
+
+#: wpws-js/translations.php:602
+msgid "Automatically sync attendee email addresses with an external provider"
+msgstr ""
+
+#: wpws-js/translations.php:603
+msgid "Account"
+msgstr ""
+
+#: wpws-js/translations.php:604
+msgid "List"
+msgstr ""
+
+#: wpws-js/translations.php:605
+msgid "Show the webinar closed screen"
+msgstr ""
+
+#: wpws-js/translations.php:606
+msgid "Redirect to a url"
+msgstr ""
+
+#: wpws-js/translations.php:607
+msgid "When the webinar finishes"
+msgstr ""
+
+#: wpws-js/translations.php:608
+msgid "Redirection URL"
+msgstr ""
+
+#: wpws-js/translations.php:609
+msgid "Other"
+msgstr ""
+
+#: wpws-js/translations.php:610
+#, fuzzy
+#| msgid "New Registration Options"
+msgid "Allow Registration with Link"
+msgstr "Nastavení nových registrací"
+
+#: wpws-js/translations.php:611
+msgid ""
+"Allow attendees to automatically login or register with a link that can be "
+"added to pages or emails."
+msgstr ""
+
+#: wpws-js/translations.php:612
+msgid "See the documentation"
+msgstr ""
+
+#: wpws-js/translations.php:613
+msgid "Automatically register WP users"
+msgstr ""
+
+#: wpws-js/translations.php:614
+msgid ""
+"Automatically login and register WordPress users so they don't see the "
+"webinar registration/login page"
+msgstr ""
+
+#: wpws-js/translations.php:615
+#, fuzzy
+#| msgid "WordPress Environment"
+msgid "WordPress Post"
+msgstr "Prostředí Wordpressu"
+
+#: wpws-js/translations.php:616
+#, fuzzy
+#| msgid "Header Image"
+msgid "Featured Image"
+msgstr "Obrázek pro hlavičku"
+
+#: wpws-js/translations.php:617
+msgid "Set the WordPress featured image shown on archive pages"
+msgstr ""
+
+#: wpws-js/translations.php:618
+msgid "Edit the WordPress post associated with this webinar"
+msgstr ""
+
+#: wpws-js/translations.php:619
+#, fuzzy
+#| msgid "WordPress Environment"
+msgid "Edit WordPress Post"
+msgstr "Prostředí Wordpressu"
+
+#: wpws-js/translations.php:620
+msgid "Date/Time Color"
+msgstr "Barva pro datum / čas"
+
+#: wpws-js/translations.php:621
+#, fuzzy
+#| msgid "Content"
+msgid "Page Content"
+msgstr "Obsah"
+
+#: wpws-js/translations.php:622
+msgid "Show Content Section"
+msgstr "Zobrazit sekci s obsahem"
+
+#: wpws-js/translations.php:623
+msgid "Tab Layout"
+msgstr ""
+
+#: wpws-js/translations.php:624
+#, fuzzy
+#| msgid "New Registration"
+msgid "Hide Registration Form"
+msgstr "Nová registrace"
+
+#: wpws-js/translations.php:625
+msgid "Hide Login Form"
+msgstr ""
+
+#: wpws-js/translations.php:626
+#, fuzzy
+#| msgid "Font color"
+msgid "Font Color"
+msgstr "Barva písma"
+
+#: wpws-js/translations.php:627
+#, fuzzy
+#| msgid "Tab Background color"
+msgid "Tab Background Color"
+msgstr "Barva pozadí záložky"
+
+#: wpws-js/translations.php:628
+#, fuzzy
+#| msgid "Tab Text color"
+msgid "Tab Text Color"
+msgstr "Barva textu záložky"
+
+#: wpws-js/translations.php:629
+msgid "Register Tab"
+msgstr "Registrační záložka"
+
+#: wpws-js/translations.php:630
+msgid "Timeslots to show"
+msgstr ""
+
+#: wpws-js/translations.php:631
+msgid "Register Tab Text"
+msgstr "Text registrační záložky"
+
+#: wpws-js/translations.php:632
+msgid "Body"
+msgstr ""
+
+#: wpws-js/translations.php:633
+#, fuzzy
+#| msgid "Footer Text"
+msgid "Footer"
+msgstr "Text patičky"
+
+#: wpws-js/translations.php:634
+msgid "Purchase Tab"
+msgstr ""
+
+#: wpws-js/translations.php:635
+#, fuzzy
+#| msgid "Tab Text color"
+msgid "Tab Text"
+msgstr "Barva textu záložky"
+
+#: wpws-js/translations.php:636
+#, fuzzy
+#| msgid "Login Text"
+msgid "Link Text"
+msgstr "Přihlašovací text"
+
+#: wpws-js/translations.php:637
+msgid "Login Tab"
+msgstr "Přihlašovací záložka"
+
+#: wpws-js/translations.php:638
+#, fuzzy
+#| msgid "Show Description Box"
+msgid "Show Description"
+msgstr "Zobrazit box s popisem"
+
+#: wpws-js/translations.php:639
+msgid ""
+"Use Registration Widgets to create a fully customized registration page then "
+"redirect non-registered visitors to that page instead of the page generated "
+"by WebinarPress"
+msgstr ""
+
+#: wpws-js/translations.php:640
+#, fuzzy
+#| msgid "Disable registration"
+msgid "Disable Registration"
+msgstr "Zablokovat registrace"
+
+#: wpws-js/translations.php:641
+msgid ""
+"When registration is disabled new visitors will not be able to register but "
+"existing attendees can login and access the webinar"
+msgstr ""
+
+#: wpws-js/translations.php:642
+msgid "Limited Availability"
+msgstr ""
+
+#: wpws-js/translations.php:643
+msgid ""
+"Limit the number of attendees that can register for this webinar. When the "
+"limit is reached no new attendees will be able to register."
+msgstr ""
+
+#: wpws-js/translations.php:644
+#, fuzzy
+#| msgid "No Attendees :("
+msgid "Number of attendees"
+msgstr "Žádní účastníci..."
+
+#: wpws-js/translations.php:645
+msgid "Host & Description Box"
+msgstr "Host a popis webináře"
+
+#: wpws-js/translations.php:646
+msgid "Show Host Box"
+msgstr "Zobrazit infobox o hostu webináře"
+
+#: wpws-js/translations.php:647
+#, fuzzy
+#| msgid "Title Background color"
+msgid "Title Background Color"
+msgstr "Barva pozadí nadpisu"
+
+#: wpws-js/translations.php:648
+msgid "Title Text Color"
+msgstr "Barva textu nadpisu"
+
+#: wpws-js/translations.php:649
+msgid "Show Description Box"
+msgstr "Zobrazit box s popisem"
+
+#: wpws-js/translations.php:650
+msgid "Show Timestamps"
+msgstr ""
+
+#: wpws-js/translations.php:651
+msgid "Tab"
+msgstr ""
+
+#: wpws-js/translations.php:652
+#, fuzzy
+#| msgid "Background color"
+msgid "Background Text Color"
+msgstr "Barva pozadí"
+
+#: wpws-js/translations.php:653
+#, fuzzy
+#| msgid "Attendee Lists"
+msgid "Attendee Questions"
+msgstr "Seznam účastníků"
+
+#: wpws-js/translations.php:654
+#, fuzzy
+#| msgid "Email options"
+msgid "Email Questions to Host"
+msgstr "Možnosti emailů"
+
+#: wpws-js/translations.php:655
+msgid "Receiver Address"
+msgstr ""
+
+#: wpws-js/translations.php:656
+msgid "Submit Button"
+msgstr ""
+
+#: wpws-js/translations.php:657
+msgid "Hover Button (Hover)"
+msgstr ""
+
+#: wpws-js/translations.php:659
+#, fuzzy
+#| msgid "Show Incentive Box"
+msgid "Show Incentive"
+msgstr "Zobrazit pobídkový box"
+
+#: wpws-js/translations.php:660
+#, fuzzy
+#| msgid "Content text color"
+msgid "Content Text Color"
+msgstr "Barva textu obsahu"
+
+#: wpws-js/translations.php:662
+msgid "Show Action Box"
+msgstr ""
+
+#: wpws-js/translations.php:663
+#, fuzzy
+#| msgid "Background color"
+msgid "Hand Color"
+msgstr "Barva pozadí"
+
+#: wpws-js/translations.php:664
+#, fuzzy
+#| msgid "Button Hover Border Color"
+msgid "Hand Hover Color"
+msgstr "Barva okraje tlačítka při najetí myší"
+
+#: wpws-js/translations.php:665
+#, fuzzy
+#| msgid "Date/Time Color"
+msgid "Hand Active Color"
+msgstr "Barva pro datum / čas"
+
+#: wpws-js/translations.php:666
+msgid "Activate manually"
+msgstr ""
+
+#: wpws-js/translations.php:667
+msgid "Activate after a number of minutes have passed"
+msgstr ""
+
+#: wpws-js/translations.php:668
+msgid "Show the CTA"
+msgstr ""
+
+#: wpws-js/translations.php:669
+msgid "Minutes to wait before activating"
+msgstr ""
+
+#: wpws-js/translations.php:670
+msgid "CTA Type"
+msgstr ""
+
+#: wpws-js/translations.php:671
+msgid "Button URL"
+msgstr ""
+
+#: wpws-js/translations.php:672
+msgid "Button Text"
+msgstr ""
+
+#: wpws-js/translations.php:673
+msgid "Hide Title"
+msgstr "Skrýt nadpis"
+
+#: wpws-js/translations.php:674
+msgid "Media Source"
+msgstr ""
+
+#: wpws-js/translations.php:675
+msgid "WooCommerce Product"
+msgstr ""
+
+#: wpws-js/translations.php:676
+#, fuzzy
+#| msgid "Thank You Page"
+msgid "Thank you Message"
+msgstr "Děkovací stránka"
+
+#: wpws-js/translations.php:677
+#, fuzzy
+#| msgid "Available Shortcodes:"
+msgid "Available Shortcodes"
+msgstr "Dostupné zkratky:"
+
+#: wpws-js/translations.php:678
+msgid "read more"
+msgstr ""
+
+#: wpws-js/translations.php:679
+msgid "To use real-time servers"
+msgstr ""
+
+#: wpws-js/translations.php:680
+#, fuzzy
+#| msgid "Create Webinars"
+msgid "please active WebinarPress"
+msgstr "Vytvořit webináře"
+
+#: wpws-js/translations.php:681
+msgid ""
+"WordPress cron jobs do not appear to be working. To use real-time servers "
+"please"
+msgstr ""
+
+#: wpws-js/translations.php:682
+msgid "contact our support team"
+msgstr ""
+
+#: wpws-js/translations.php:683
+msgid "Your WebinarPress license has expired. To use real-time servers"
+msgstr ""
+
+#: wpws-js/translations.php:684
+#, fuzzy
+#| msgid "Please enter your name."
+msgid "please renew your license"
+msgstr "Prosím vložte vaše jméno"
+
+#: wpws-js/translations.php:685
+msgid ""
+"Your WebinarPress license appears to be invalid. To use real-time servers"
+msgstr ""
+
+#: wpws-js/translations.php:686
+#, fuzzy
+#| msgid "New Webinar"
+msgid "Save Webinar"
+msgstr "Nový webinář"
+
+#: wpws-js/translations.php:687
+msgid "Save Draft"
+msgstr ""
+
+#: wpws-js/translations.php:688
+msgid "Design"
+msgstr ""
+
+#: wpws-js/translations.php:689
+#, fuzzy
+#| msgid "Registrations"
+msgid "Registration"
+msgstr "Registrace"
+
+#: wpws-js/translations.php:690
+msgid "WooCommerce"
+msgstr ""
+
+#: wpws-js/translations.php:691
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: wpws-js/translations.php:692
+#, fuzzy
+#| msgid "Video Controls"
+msgid "Access Control"
+msgstr "Ovládání videa"
+
+#: wpws-js/translations.php:693
+#, fuzzy
+#| msgid "Mailinglist"
+msgid "Mailing List"
+msgstr "Distribuční seznam"
+
+#: wpws-js/translations.php:694
+msgid "GDPR / Consent"
+msgstr ""
+
+#: wpws-js/translations.php:695
+msgid "Export"
+msgstr ""
+
+#: wpws-js/translations.php:696
+msgid "Import / Export"
+msgstr "Importovat / Exportovat"
+
+#: wpws-js/translations.php:697
+msgid "Save & Publish"
+msgstr ""
+
+#: wpws-js/translations.php:698
+#, fuzzy
+#| msgid "Webinar"
+msgid "Webinar Room"
+msgstr "Webinář"
+
+#: wpws-js/translations.php:699
+msgid "Registration Page"
+msgstr "Registrační stránka"
+
+#: wpws-js/translations.php:700
+#, fuzzy
+#| msgid "just signed up for your webinar"
+msgid "Select a start time for your webinar"
+msgstr "se právě přihlásil(a) na váš webinář"
+
+#: wpws-js/translations.php:701
+#, fuzzy
+#| msgid "just signed up for your webinar"
+msgid "Enter the media source URL for your webinar"
+msgstr "se právě přihlásil(a) na váš webinář"
+
+#: wpws-js/translations.php:702
+#, fuzzy
+#| msgid "Registration is closed for this webinar."
+msgid "Enter the price of this webinar"
+msgstr "Registrace pro tento webinář jsou uzavřeny"
+
+#: wpws-js/translations.php:704
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Visit Registration Page"
+msgstr "Registrační stránka"
+
+#: wpws-js/translations.php:705
+#, fuzzy
+#| msgid "New Webinar"
+msgid "Access Webinar Room"
+msgstr "Nový webinář"
+
+#: wpws-js/translations.php:706
+msgid "Messages"
+msgstr ""
+
+#: wpws-js/translations.php:707
+#, fuzzy
+#| msgid "Duplicate this Webinar"
+msgid "Duplicate webinar"
+msgstr "Duplikovat tento webinář"
+
+#: wpws-js/translations.php:708
+#, fuzzy
+#| msgid "Create Webinars"
+msgid "Delete Webinar"
+msgstr "Vytvořit webináře"
+
+#: wpws-js/translations.php:709
+msgid "Draft"
+msgstr ""
+
+#: wpws-js/translations.php:710
+msgid "Status"
+msgstr "Stav"
+
+#: wpws-js/translations.php:714
+msgid "You don't have any webinars yet"
+msgstr ""
+
+#: wpws-js/translations.php:715
+msgid "No webinars match your filter"
+msgstr ""
+
+#: wpws-js/translations.php:716
+#, fuzzy
+#| msgid "Login Title"
+msgid "no title"
+msgstr "Přihlašovací nadpis"
+
+#: wpws-js/translations.php:717
+msgid "Last Modified"
+msgstr ""
+
+#: wpws-js/translations.php:718
+msgid "Auto-Delete In"
+msgstr ""
+
+#: wpws-js/translations.php:719
+msgid ""
+"The recording will be automatically deleted when this time runs out. Make "
+"sure you download the video as soon as possible."
+msgstr ""
+
+#: wpws-js/translations.php:720
+#, fuzzy
+#| msgid "Webinar Settings"
+msgid "Webinar Recordings"
+msgstr "Nastavení webináře"
+
+#: wpws-js/translations.php:721
+msgid "Delete"
+msgstr ""
+
+#: wpws-js/translations.php:722
+msgid "You don't have any webinar recordings at the moment"
+msgstr ""
+
+#: wpws-js/translations.php:723
+#, fuzzy
+#| msgid "No Attendees :("
+msgid "Delete Attendees"
+msgstr "Žádní účastníci..."
+
+#: wpws-js/translations.php:724
+msgid "Are you sure you want to delete this attendee?"
+msgstr ""
+
+#: wpws-js/translations.php:725
+msgid "Are you sure you want to delete these attendees"
+msgstr ""
+
+#: wpws-js/translations.php:726
+msgid "Unable to delete these attendees"
+msgstr ""
+
+#: wpws-js/translations.php:727
+msgid "Unable to load upcoming sessions"
+msgstr ""
+
+#: wpws-js/translations.php:728
+#, fuzzy
+#| msgid "Select webinar to view attendees for active webinars"
+msgid "Unable to add attendees to this webinar"
+msgstr "Zvolte webinář pro zobrazení počtu účastníků"
+
+#: wpws-js/translations.php:729
+msgid "Delete Chats"
+msgstr ""
+
+#: wpws-js/translations.php:730
+msgid "Are you sure you want to delete this chat message?"
+msgstr ""
+
+#: wpws-js/translations.php:731
+msgid "Are you sure you want to delete these chat messages"
+msgstr ""
+
+#: wpws-js/translations.php:732
+msgid "Unable to delete these chat messages"
+msgstr ""
+
+#: wpws-js/translations.php:733
+#, fuzzy
+#| msgid "Add a Webinar to send a preview email."
+msgid "Unable to send a preview email."
+msgstr "Přidat webinář pro odeslání náhledu emailu"
+
+#: wpws-js/translations.php:734
+#, fuzzy
+#| msgid "Questions"
+msgid "Delete Questions"
+msgstr "Otázky"
+
+#: wpws-js/translations.php:735
+msgid "Are you sure you want to delete this question?"
+msgstr ""
+
+#: wpws-js/translations.php:736
+msgid "Are you sure you want to delete these questions"
+msgstr ""
+
+#: wpws-js/translations.php:737
+msgid "Unable to delete these questions"
+msgstr ""
+
+#: wpws-js/translations.php:738
+#, fuzzy
+#| msgid "Disable registration"
+msgid "Delete registration form"
+msgstr "Zablokovat registrace"
+
+#: wpws-js/translations.php:739
+msgid "Are you sure you want to delete this widget?"
+msgstr ""
+
+#: wpws-js/translations.php:740
+msgid "Unable to delete this form"
+msgstr ""
+
+#: wpws-js/translations.php:741
+msgid "Looks like there is something wrong. Check the key and try again"
+msgstr ""
+
+#: wpws-js/translations.php:742
+msgid "Unable to revoke Aweber access."
+msgstr ""
+
+#: wpws-js/translations.php:743
+msgid "Unable to activate your license"
+msgstr ""
+
+#: wpws-js/translations.php:744
+msgid "Unable to activate your license."
+msgstr ""
+
+#: wpws-js/translations.php:745
+msgid "Unable to deactivate your license."
+msgstr ""
+
+#: wpws-js/translations.php:746
+msgid "Overwrite settings"
+msgstr ""
+
+#: wpws-js/translations.php:747
+msgid "This will overwrite your current settings. Do you want to continue?"
+msgstr ""
+
+#: wpws-js/translations.php:748
+#, fuzzy
+#| msgid "New webinar"
+msgid "Delete webinar"
+msgstr "Nový webinář"
+
+#: wpws-js/translations.php:749
+msgid ""
+"Are you sure you want to delete this webinar? Attendees, chats and question "
+"history will also be deleted."
+msgstr ""
+
+#: wpws-js/translations.php:750
+#, fuzzy
+#| msgid "Enable this reminder?"
+msgid "Unable to delete this webinar"
+msgstr "Aktivovat tento připomínač?"
+
+#: wpws-js/translations.php:751
+#, fuzzy
+#| msgid "Delete Selected"
+msgid "Delete Recording"
+msgstr "Vymazat vybrané"
+
+#: wpws-js/translations.php:752
+msgid "Are you sure you want to delete this recording?"
+msgstr ""
+
+#: wpws-js/translations.php:753
+msgid "Unable to delete webinar recording"
+msgstr ""
+
+#~ msgid "WP WebinarSystem Questions"
+#~ msgstr "WP WebinarSystem - Otázky"
+
+#~ msgid "Select webinar to view questions for active webinars"
+#~ msgstr "Vyberte webinář pro zobrazení otázek"
+
+#, php-format
+#~ msgid "You've successfully registered for %s"
+#~ msgstr "Registrace na webinář \"%s\" proběhla úspěšně!"
+
+#, php-format
+#~ msgid "You're already registered for %s"
+#~ msgstr "Na webinář \"%s\" jste již registrováni"
+
+#~ msgid "Please enter your email."
+#~ msgstr "Prosím zadejte Váš email"
+
+#~ msgid "Select a day to watch."
+#~ msgstr "Zvolte den sledování"
+
+#~ msgid "Please register before login."
+#~ msgstr "Před přihlášením se prosím registrujte."
+
+#~ msgid "WP WebinarSystem"
+#~ msgstr "WP WebinarSystem"
+
+#~ msgid "WebinarSystem"
+#~ msgstr "WebinarSystem"
+
+#~ msgid "Views"
+#~ msgstr "Zobrazení"
+
+#~ msgid "Hi"
+#~ msgstr "Dobrý den,"
+
+#~ msgid ""
+#~ "The webinar you signed up for starts in one hour. Below you will find the "
+#~ "link to attend the webinar."
+#~ msgstr ""
+#~ "Webinář, na který jste přihlášeni, začíná za jednu hodinu. Odkaz na "
+#~ "webinář je zde: "
+
+#~ msgid "Date:"
+#~ msgstr "Datum:"
+
+#~ msgid "Time:"
+#~ msgstr "Čas:"
+
+#~ msgid "See you then!"
+#~ msgstr "Na shledanou!"
+
+#~ msgid "Regards"
+#~ msgstr "S pozdravem"
+
+#~ msgid ""
+#~ "This is a reminder for your upcoming webinar tomorrow. Below you will "
+#~ "find the details of the webinar."
+#~ msgstr ""
+#~ "Připomenutí: webinář, na který jste si přihlásili, se koná již zítra. Zde "
+#~ "jsou podrobnosti k tomuto webináři:"
+
+#~ msgid "See you later!"
+#~ msgstr "Na shledanou!"
+
+#~ msgid "Make sure to join the webinar via this link:"
+#~ msgstr "Webináře se můžete zúčastnit kliknutím na tento odkaz:"
+
+#~ msgid "WP WebinarSystem Attendees"
+#~ msgstr "Účastníci"
+
+#~ msgid "Please add webinars to listup."
+#~ msgstr "Prosím přidejte webináře do seznam"
+
+#~ msgid "E-Mail"
+#~ msgstr "Email"
+
+#~ msgid "We are live in one hour!"
+#~ msgstr "Začínáme za jednu hodinu!"
+
+#~ msgid "Host Names"
+#~ msgstr "Jména prezentujících"
+
+#~ msgid "General Options"
+#~ msgstr "Obecná nastavení"
+
+#~ msgid "Live Page"
+#~ msgstr "Stránka s živým webinářem"
+
+#~ msgid "Replay Page"
+#~ msgstr "Stránka se záznamem webináře"
+
+#~ msgid "Webinar will be presented by:"
+#~ msgstr "Host webináře: "
+
+#~ msgid "Separate each by commas"
+#~ msgstr "Oddělujte čárkou"
+
+#~ msgid "Host Title Background color"
+#~ msgstr "Barva pozadí u hosta"
+
+#~ msgid "Host Title Text color"
+#~ msgstr "Barva textu nadpisu u hosta"
+
+#~ msgid "Host Text color"
+#~ msgstr "Barva textu u hosta"
+
+#~ msgid "Description Title Background color"
+#~ msgstr "Barva pozadí nadpisu popisu"
+
+#~ msgid "Description Title Text color"
+#~ msgstr "Barva textu nadpisu popisu"
+
+#~ msgid "Show Question box"
+#~ msgstr "Zobrazit box s otázkami"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Barva pozadí tlačítka při najetí myší"
+
+#~ msgid "Button Hover Text color"
+#~ msgstr "Barva textu tlačítka při najetí myší"
+
+#~ msgid "Title Text color"
+#~ msgstr "Barva textu nadpisu"
+
+#~ msgid "Incentive Title"
+#~ msgstr "Pobídkový nadpis"
+
+#~ msgid "Incentive box content"
+#~ msgstr "Obsah pobídkového boxu"
+
+#~ msgid "Preview Page"
+#~ msgstr "Zobrazit náhled"
+
+#~ msgid "Only use this generated link for test purposes"
+#~ msgstr "Pro testovací účely používajte pouze tento vygenerovaný odkaz"
+
+#~ msgid "WP WebinarSystem Options"
+#~ msgstr "Nastavení"
+
+#~ msgid "System Status"
+#~ msgstr "Stav systému"
+
+#~ msgid "Reminder day before Webinar"
+#~ msgstr "Připomenutí den před webinářem"
+
+#~ msgid "Reminder one hour before Webinar"
+#~ msgstr "Připomenutí hodinu před webinářem"
+
+#~ msgid "Reminder Webinar Starting"
+#~ msgstr "Připomenutí začátku webináře"
+
+#~ msgid "Sender email"
+#~ msgstr "Email odesílatele"
+
+#~ msgid "Upload"
+#~ msgstr "Nahrát"
+
+#~ msgid "Email Footer Text"
+#~ msgstr "Text patičky emailu"
+
+#~ msgid "Email Body Background color"
+#~ msgstr "Barva pozadí těla emailu"
+
+#~ msgid "Email Body Text color"
+#~ msgstr "Barva textu těla emailu"
+
+#~ msgid "Admin Email Address"
+#~ msgstr "Emailová adresa administrátora"
+
+#~ msgid "Reminder day before Webinar "
+#~ msgstr "Připomenutí den před webinářem"
+
+#~ msgid "Email Head"
+#~ msgstr "Hlavička emailu"
+
+#~ msgid "Your email address"
+#~ msgstr "Emailová adresa"
+
+#~ msgid "Reminder one hour before Webinar "
+#~ msgstr "Připomenutí hodinu před začátkem webináře"
+
+#~ msgid "Reminder when Webinar starts"
+#~ msgstr "Připomenutí začátku webináře"
+
+#~ msgid "Send Webinar Replay Link"
+#~ msgstr "Odeslat odkaz pro přehrání webináře"
+
+#~ msgid "Copied!"
+#~ msgstr "Zkopírováno!"
+
+#~ msgid "Get System Report"
+#~ msgstr "Získat report o systému"
+
+#~ msgid "Home URL"
+#~ msgstr "Hlavní URL (Home)"
+
+#~ msgid "Site URL"
+#~ msgstr "URL webu"
+
+#~ msgid "WP Version"
+#~ msgstr "Verze WP"
+
+#~ msgid "WP Multisite"
+#~ msgstr "WP Multisite"
+
+#~ msgid "WP Debug mode"
+#~ msgstr "WP Debug mode"
+
+#~ msgid "WP Cron status"
+#~ msgstr "WP Cron status"
+
+#~ msgid "Language"
+#~ msgstr "Jazyk"
+
+#~ msgid "Webinar System Version"
+#~ msgstr "Verze Webinar System"
+
+#~ msgid "Server Environment"
+#~ msgstr "Serverové prostředí"
+
+#~ msgid "PHP Version"
+#~ msgstr "Verze PHP"
+
+#~ msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+#~ msgstr "Nebylo možné zjistit verzi PHP, funkce phpversion() neexistuje."
+
+#~ msgid "PHP Post Max Size"
+#~ msgstr "PHP Post Max Size"
+
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+#~ msgid "Active Plugins ("
+#~ msgstr "Aktivní pluginy ("
+
+#~ msgid "Theme"
+#~ msgstr "Šablona"
+
+#~ msgid "Author URL"
+#~ msgstr "URL Autora"
+
+#~ msgid "Howdy"
+#~ msgstr "Dobrý den,"
+
+#~ msgid "We are going live now"
+#~ msgstr "Začínáme vysílat"
+
+#~ msgid ""
+#~ "Thank you for your registration for the webinar. Below you will find the "
+#~ "details of the webinar."
+#~ msgstr "Děkujeme za registraci na webinář. Detaily webináře:"
+
+#~ msgid "Title color"
+#~ msgstr "Barva nadpisu"
+
+#~ msgid "Countdown Page Background Image"
+#~ msgstr "Obrázek na pozadí stránky s odpočtem"
+
+#~ msgid "Upload Image"
+#~ msgstr "Nahrát obrázek"
+
+#~ msgid "Webinar starts at"
+#~ msgstr "Začátek webináře "
+
+#~ msgid "Thankyou Page Background Image"
+#~ msgstr "Děkovací stránka - obrázek na pozadí"
+
+#~ msgid "Video or Image URL"
+#~ msgstr "URL videa nebo obrázku"
+
+#~ msgid "Registration Page Video Image"
+#~ msgstr "Registrační stránka - video obrázek"
+
+#~ msgid "Paste Vimeo video ID here (Eg: 129673042)"
+#~ msgstr "Sem vložte Vimeo video ID (např.: 129673042)"
+
+#~ msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+#~ msgstr "URL obrázku (např.: https://priklad.cz/images/obrazek.jpg)"
+
+#~ msgid "Page Background image"
+#~ msgstr "Obrázek na pozadí stránky"
+
+#~ msgid "Registration Page Background Image"
+#~ msgstr "Registrační stránka - obrázek na pozadí"
+
+#~ msgid "Form & Tab Layout"
+#~ msgstr "Vzhled formuláře a záložek"
+
+#~ msgid "Position"
+#~ msgstr "Pozice"
+
+#~ msgid "Login Tab Text"
+#~ msgstr "Text přihlašovací záložky"
+
+#~ msgid "Button Background color"
+#~ msgstr "Barva pozadí tlačítka"
+
+#~ msgid "Button Border color"
+#~ msgstr "Barva okraje tlačítka"
+
+#~ msgid "CTA Button Text"
+#~ msgstr "Text akčního tlačítka"
+
+#~ msgid "Show Description Section"
+#~ msgstr "Zobrazit sekci s popisem"
+
+#~ msgid "Description text color"
+#~ msgstr "Barva textu popisu"
+
+#~ msgid "Description background color"
+#~ msgstr "Barva pozadí popisu"
+
+#~ msgid "Description border color"
+#~ msgstr "Barva okraje popisu"
+
+#~ msgid "Replay Page Background Image"
+#~ msgstr "Stránka se záznamem - podkladový obrázek"
+
+#~ msgid "Paste Vimeo video ID here (Eg: 129673042))"
+#~ msgstr "Sem vložte Vimeo video ID (např.: 129673042)"
+
+#~ msgid "Thank you Page Image"
+#~ msgstr "Obrázek pro děkovací stránku"
+
+#~ msgid "Border color-2"
+#~ msgstr "Barva pozadí 2"
+
+#~ msgid "Google Calendar"
+#~ msgstr "Google kalendář"
+
+#~ msgid "iCal / Outlook"
+#~ msgstr "iCal / Outlook"
+
+#~ msgid "Change WebinarSystem Settings"
+#~ msgstr "Změnit nastavení WebinarSystem"
+
+#~ msgid "%s only."
+#~ msgstr "Pouze %s."
+
+#~ msgid "Export TEXT"
+#~ msgstr "Exportovat TEXT"
+
+#~ msgid "Go Pro"
+#~ msgstr "Přejít na Pro verzi"
+
+#~ msgid "More Functionalities"
+#~ msgstr "Další funkcionality"
+
+#~ msgid "hrs"
+#~ msgstr "hod."
+
+#~ msgid ""
+#~ "Save and bookmark this URL so you can get access the live webinar "
+#~ "replay..."
+#~ msgstr "Uložte si tento odkaz do záložek."
+
+#~ msgid ""
+#~ "Paste Youtube/Hangouts URL here (Eg: https://www.youtube.com/watch?"
+#~ "v=3TkeXaMpLe9-XM OR http://youtu.be/CqlB2SiG-ac)"
+#~ msgstr ""
+#~ "Sem vložte Youtube / Hangouts URL (např. https://www.youtube.com/watch?"
+#~ "v=3TkeXaMpLe9-XM NEBO http://youtu.be/CqlB2SiG-ac)"
+
+#~ msgid ""
+#~ "Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-"
+#~ "XM)"
+#~ msgstr ""
+#~ "Sem vložte Youtube URL (např.: https://www.youtube.com/watch?"
+#~ "v=3TkeXaMpLe9-XM)"
+
+#~ msgid ""
+#~ "Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkeXaMpLe9-"
+#~ "XM OR http://youtu.be/CqlB2SiG-ac)"
+#~ msgstr ""
+#~ "Sem vložte Youtube URL (např.: https://www.youtube.com/watch?"
+#~ "v=3TkeXaMpLe9-XM NEBO http://youtu.be/CqlB2SiG-ac)"

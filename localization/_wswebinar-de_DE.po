@@ -1,0 +1,4712 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP WebinarSystem Pro\n"
+"POT-Creation-Date: 2021-05-18 17:31+0200\n"
+<<<<<<< HEAD
+"PO-Revision-Date: 2024-07-03 14:34+0530\n"
+=======
+"PO-Revision-Date: 2024-07-04 15:00+0530\n"
+>>>>>>> 71adbf8e45599c1f8254b5811c7aa7bab4354f8c
+"Last-Translator: Thambaru Wijesekara <thambaru@gmail.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-webinarsysteem-emails.php:230
+msgid "Join the webinar"
+msgstr "Zum Webinar gehen"
+
+<<<<<<< HEAD
+=======
+msgid "Join the Webinar"
+msgstr "Zum Webinar gehen"
+
+msgid "Press enter to submit your answer"
+msgstr "Drücken Sie die Eingabetaste, um Ihre Antwort abzusenden"
+
+msgid "Edit Answer"
+msgstr "Antwort bearbeiten"
+
+msgid "Delete Answer"
+msgstr "Antwort löschen"
+
+>>>>>>> 71adbf8e45599c1f8254b5811c7aa7bab4354f8c
+msgid "Start Webinar"
+msgstr "Webinar starten"
+
+msgid "Starting In"
+msgstr "Beginnt in"
+
+msgid "Enter presenter mode"
+msgstr "Präsentationsmodus betreten"
+
+msgid "Exit the webinar"
+msgstr "Webinar beenden"
+
+msgid "Chat"
+msgstr "Chat"
+
+msgid "View Results"
+msgstr "Ergebnisse anzeigen"
+
+msgid "No questions have been asked yet"
+msgstr "Es wurden noch keine Fragen gestellt"
+
+msgid "Connected"
+msgstr "Verbunden"
+
+msgid "Attendee Tabs"
+msgstr "Teilnehmer-Tabs"
+
+msgid "Stop Broadcasting"
+msgstr "Übertragung beenden"
+
+msgid "Press enter to submit your message..."
+msgstr "Drücken Sie die Eingabetaste, um Ihre Nachricht zu senden..."
+
+msgid "Launch Poll"
+msgstr "Umfrage starten"
+
+msgid "Poll Results"
+msgstr "Umfrageergebnisse"
+
+msgid "Update Webinar Source"
+msgstr "Webinar-Quelle aktualisieren"
+
+msgid "Are you sure you want to start the webinar?"
+msgstr "Sind Sie sicher, dass Sie das Webinar starten möchten?"
+
+msgid "Are you sure you want to end the webinar?"
+msgstr "Sind Sie sicher, dass Sie das Webinar beenden möchten?"
+
+msgid "Close Poll"
+msgstr "Umfrage schließen"
+
+msgid "New Action"
+msgstr "Neue Aktion"
+
+msgid "Choose the action to be performed during the webinar"
+msgstr "Wählen Sie die Aktion, die während des Webinars durchgeführt werden soll"
+
+msgid "Choose your poll"
+msgstr "Wählen Sie Ihre Umfrage"
+
+msgid "Launch the poll at"
+msgstr "Umfrage starten um"
+
+msgid "Automatically close the poll at a specific time"
+msgstr "Umfrage zu einem bestimmten Zeitpunkt automatisch schließen"
+
+msgid "Create Action"
+msgstr "Aktion erstellen"
+
+msgid "Attendees can join the webinar straight after registering without having to wait."
+msgstr "Teilnehmer können dem Webinar direkt nach der Registrierung beitreten, ohne warten zu müssen."
+
+msgid "The maximum width. Set to 0 for 100%"
+msgstr "Die maximale Breite. Setzen Sie auf 0 für 100%"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Page Layout (Depreciated)"
+msgstr "Seitenlayout (veraltet)"
+
+msgid "Choose the timestamp when the poll should close"
+msgstr "Wählen Sie den Zeitpunkt, wann die Umfrage geschlossen werden soll"
+
+msgid "Edit Poll"
+msgstr "Umfrage bearbeiten"
+
+msgid "Actions"
+msgstr "Aktionen"
+
+msgid "Add Action"
+msgstr "Aktion hinzufügen"
+
+msgid "Action/Value"
+msgstr "Aktion/Wert"
+
+msgid "Emails sent to attendees will be sent from this name and address."
+msgstr "Von diesem Namen und dieser Adresse werden E-Mails an die Teilnehmer gesendet."
+
+msgid "Search Engine Optimization"
+msgstr "Suchmaschinenoptimierung"
+
+msgid "Keywords"
+msgstr "Schlüsselwörter"
+
+msgid "Open Graph Tags"
+msgstr "Open Graph-Tags"
+
+msgid "Joined At"
+msgstr "Beigetreten am"
+
+msgid "Certificate ID"
+msgstr "Zertifikats-ID"
+
+msgid "Sent Status"
+msgstr "Sende-Status"
+
+msgid "Archive Webinar"
+msgstr "Webinar archivieren"
+
+msgid "Unarchive Webinar"
+msgstr "Webinar aus dem Archiv holen"
+
+msgid "Responses"
+msgstr "Antworten"
+
+msgid "Answers"
+msgstr "Antworten"
+
+msgid "Close Preview"
+msgstr "Vorschau schließen"
+
+msgid "Form Text"
+msgstr "Formulartext"
+
+msgid "Submit"
+msgstr "Absenden"
+
+msgid "Analytics"
+msgstr "Analysen"
+
+msgid "Results"
+msgstr "Ergebnisse"
+
+msgid "Delete Poll"
+msgstr "Umfrage löschen"
+
+msgid "Duplicate Poll"
+msgstr "Umfrage duplizieren"
+
+msgid "Reorder this answer"
+msgstr "Diese Antwort neu anordnen"
+
+msgid "Delete this answer"
+msgstr "Diese Antwort löschen"
+
+msgid "Trigger events at specific points in your automated webinars like showing a poll"
+msgstr "Lösen Sie Ereignisse zu bestimmten Zeitpunkten in Ihren automatisierten Webinaren aus, wie das Anzeigen einer Umfrage"
+
+#: includes/class-webinarsysteem-emails.php:240
+msgid "Confirm my registration"
+msgstr "Einmalige Registrierung"
+
+#: includes/class-webinarsysteem-emails.php:736
+msgid "Every 5 minutes"
+msgstr "Alle 5 Minuten"
+
+#: includes/class-webinarsysteem-emails.php:741
+msgid "Every 1 minute"
+msgstr "Alle 10 Minuten"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:369
+#, php-format
+msgid "Unexpectedly aWeber has been disconnected from the server. You are no longer subscribed to aWeber mailinglist. For Changes go to <a href=\"%s\">WebinarSysteem Settings</a>."
+msgstr "Unerwartet wurde aWeber vom Server getrennt. Sie haben die aWeber-Mailingliste nicht mehr abonniert. Für Änderungen gehen Sie zu <a href=\"%s\">WebinarSysteem Einstellungen</a> ."
+
+#: includes/class-webinarsysteem-mediaserver.php:385
+msgid "Every minute"
+msgstr "Alle Minuten"
+
+#: includes/class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr "Ja, laden Sie Pro herunter!"
+
+#: includes/class-webinarsysteem-promotional-notices.php:47
+#, php-format
+msgid "If you like <strong>WebinarPress</strong> please leave us a %s rating. A huge thank you in advance!"
+msgstr "Wenn Sie <strong>WP WebinarSystem</strong> mögen, <strong>hinterlassen</strong> Sie uns bitte eine %s Bewertung. Ein riesiges Dankeschön im Voraus!"
+
+#: includes/class-webinarsysteem-registration-widget.php:61
+#: includes/class-webinarsysteem.php:767 includes/class-webinarsysteem.php:768
+#: wpws-js/translations.php:387
+msgid "Registration Widgets"
+msgstr "Registrierungs-Widgets"
+
+#: includes/class-webinarsysteem-registration-widget.php:62
+#: includes/class-webinarsysteem-registration-widget.php:63
+msgid "Registration Widget"
+msgstr "Registrierungs-Widget"
+
+#: includes/class-webinarsysteem-registration-widget.php:64
+#: includes/class-webinarsysteem-registration-widget.php:65
+msgid "Add Registration Widget"
+msgstr "Registrierungs-Widget hinzufügen"
+
+#: includes/class-webinarsysteem-registration-widget.php:66
+msgid "New Registration Widget"
+msgstr "Neues Registrierungs-Widget"
+
+#: includes/class-webinarsysteem-registration-widget.php:67
+msgid "Edit Registration Widget"
+msgstr "Registrierungs-Widget bearbeiten"
+
+#: includes/class-webinarsysteem-registration-widget.php:68
+msgid "View Registration Widget"
+msgstr "Registrierungs-Widget anzeigen"
+
+#: includes/class-webinarsysteem-shortcodes.php:45
+#: includes/class-webinarsysteem-shortcodes.php:175
+msgid "Error: "
+msgstr "Fehler: "
+
+#: includes/class-webinarsysteem-shortcodes.php:45
+#: includes/class-webinarsysteem-shortcodes.php:175
+msgid "Invalid webinar id."
+msgstr "Ungültige Webinar-ID."
+
+#: includes/class-webinarsysteem-shortcodes.php:51
+#: includes/templates/webinar-registration.php:59
+msgid "Sign Up"
+msgstr "Registrieren"
+
+#: includes/class-webinarsysteem-shortcodes.php:66
+msgid "You need to buy a ticket to register for this webinar. Ticket sales is closed at this moment."
+msgstr "Sie müssen ein Ticket kaufen, um sich für dieses Webinar anzumelden. Der Kartenverkauf ist in diesem Moment geschlossen."
+
+#: includes/class-webinarsysteem-shortcodes.php:71
+#, php-format
+msgid "You need to buy a ticket to register for this webinar. <a href=\"%s\">Click here</a> to buy a ticket."
+msgstr "Sie müssen ein Ticket kaufen, um sich für dieses Webinar anzumelden. <a href=\"%s\">Klicken Sie hier</a> , um ein Ticket zu kaufen."
+
+#: includes/class-webinarsysteem-shortcodes.php:84
+#: includes/templates/webinar-registration.php:478
+msgid "Registration is closed for this webinar."
+msgstr "Eine Anmeldung ist für dieses Webinar nicht mehr möglich."
+
+#: includes/class-webinarsysteem-shortcodes.php:98
+#: includes/templates/webinar-registration.php:344
+msgid "Your Name"
+msgstr "Ihr Name"
+
+#: includes/class-webinarsysteem-shortcodes.php:101
+#: includes/class-webinarsysteem-shortcodes.php:195
+#: includes/templates/webinar-registration.php:356
+#: includes/templates/webinar-registration.php:462 wpws-js/translations.php:414
+msgid "Your Email Address"
+msgstr "Ihre E-Mail-Adresse"
+
+#: includes/class-webinarsysteem-shortcodes.php:151
+#: includes/class-webinarsysteem-shortcodes.php:191
+#: includes/templates/webinar-registration.php:456
+msgid "This email is not registered."
+msgstr "Diese E-Mail-Adresse ist leider nicht registriert."
+
+#: includes/class-webinarsysteem-text-override.php:7
+msgid "My Webinar Tickets"
+msgstr "Meine Webinar Tickets"
+
+#: includes/class-webinarsysteem-text-override.php:8
+#: includes/class-webinarsysteem.php:867 includes/class-webinarsysteem.php:868
+#: includes/templates/webinar-confirmation.php:227 wpws-js/translations.php:82
+msgid "Webinar"
+msgstr "Webinar"
+
+#: includes/class-webinarsysteem-text-override.php:9
+#: includes/class-webinarsysteem-woocommerce-integration.php:794
+#: includes/class-webinarsysteem-woocommerce-integration.php:828
+#: wpws-js/translations.php:230
+msgid "Session"
+msgstr "Sitzung"
+
+#: includes/class-webinarsysteem-text-override.php:10
+msgid "Join"
+msgstr "Beitreten"
+
+#: includes/class-webinarsysteem-text-override.php:11
+msgid "Join webinar"
+msgstr "Kostenpflichtiges Webinar"
+
+#: includes/class-webinarsysteem-text-override.php:12
+#: includes/templates/webinar-confirmation.php:231
+#: includes/templates/webinar-registration.php:226
+msgid "Time"
+msgstr "Zeit"
+
+#: includes/class-webinarsysteem-text-override.php:13
+msgid "Order"
+msgstr "Reihenfolge"
+
+#: includes/class-webinarsysteem-updater.php:127
+#, php-format
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr "Es ist eine neue Version von %1$s verfügbar. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">Details der Version %3$s anzeigen</a>."
+
+#: includes/class-webinarsysteem-updater.php:134
+#, php-format
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\">update now</a>."
+msgstr "Es ist eine neue Version von %1$s verfügbar. <a target=“_blank“ class=“thickbox“ href=“%2$s“>Details der Version %3$s anzeigen</a> oder <a href=“%4$s“>jetzt aktualisieren</a>."
+
+#: includes/class-webinarsysteem-updater.php:229
+msgid "You do not have permission to install plugin updates"
+msgstr "Du hast keine Berechtigung, um Aktualisierungen für Erweiterungen durchzuführen"
+
+#: includes/class-webinarsysteem-updater.php:230
+msgid "Error"
+msgstr "Fehler"
+
+#: includes/class-webinarsysteem-userpages.php:6
+#: includes/class-webinarsysteem-userpages.php:7
+msgid "WPWS Page"
+msgstr "Wpws-Seite"
+
+#: includes/class-webinarsysteem-userpages.php:30
+msgid "You are now unsubscribed"
+msgstr "Sie sind jetzt abgemeldet"
+
+#: includes/class-webinarsysteem-userpages.php:31
+msgid "Webinar Subscription"
+msgstr "Webinar Fragen"
+
+#: includes/class-webinarsysteem-userpages.php:50
+msgid "Webinar Overview"
+msgstr "Webinar Übersicht"
+
+#: includes/class-webinarsysteem-userpages.php:131
+msgid "You have been unsubscribed from all webinar emails"
+msgstr "Sie haben noch keine Webinare abonniert"
+
+#: includes/class-webinarsysteem-userpages.php:138
+msgid "Subscribe again"
+msgstr "Webinarabmeldung"
+
+#: includes/class-webinarsysteem-userpages.php:145
+msgid "You are subscribed to webinar emails"
+msgstr "Sie haben noch keine Webinare abonniert :("
+
+#: includes/class-webinarsysteem-userpages.php:152
+#: includes/templates/template-email-layout.php:144
+msgid "Unsubscribe"
+msgstr "Webinarabmeldung"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:55
+#, php-format
+msgid "Please install/activate WooCommerce first to integrate with WebinarSystem. You can find WooCommerce <a href=\"%s\" class=\"thickbox\" aria-label=\"Download WooCommerce for WebinarSystem\" data-title=\"WooCommerce\">here</a>."
+msgstr "Bitte installieren / aktivieren Sie zuerst WooCommerce, um es mit WebinarSystem zu integrieren. Sie können WooCommerce <a href=\"%s\" class=\"thickbox\" aria-label=\"Download WooCommerce for WebinarSystem\" data-title=\"WooCommerce\">hier finden</a> ."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:118
+msgid "View Cart"
+msgstr "Warenkorb anzeigen"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:119
+#, php-format
+msgid "You cannot add another &quot;%s&quot; to your cart."
+msgstr "Sie können kein weiteres Exemplar von „%s“ zu Ihrem Warenkorb hinzufügen."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:130
+msgid "Please select a session."
+msgstr "Bitte wählen Sie eine Zeit."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:144
+msgid "There are no more places available for this webinar"
+msgstr "Löschen Sie alle Chat-Nachrichten für dieses Webinar"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:241
+msgid "Please check the box to proceed further."
+msgstr "Bitte überprüfen Sie das Kästchen, um weiter zu gehen."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:421
+msgid "Webinar Product"
+msgstr "Webinar Produkt"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:632
+msgid "You will receive your webinar ticket as soon as the payment for your order completes."
+msgstr "Sobald die Bezahlung abgeschlossen ist, erhalten Sie/erhältst du das Webinar Ticket."
+
+#: includes/class-webinarsysteem.php:572 includes/class-webinarsysteem.php:1433
+#: wpws-js/translations.php:733
+msgid "Automated"
+msgstr "Automatisch"
+
+#: includes/class-webinarsysteem.php:573 wpws-js/translations.php:489
+msgid "Countdown"
+msgstr "Countdown"
+
+#: includes/class-webinarsysteem.php:738 includes/class-webinarsysteem.php:739
+msgid "WebinarPress"
+msgstr "Webinare"
+
+#: includes/class-webinarsysteem.php:749 includes/class-webinarsysteem.php:750
+#: includes/class-webinarsysteem.php:866 wpws-js/translations.php:734
+msgid "Webinars"
+msgstr "Webinare"
+
+#: includes/class-webinarsysteem.php:758 includes/class-webinarsysteem.php:759
+#: includes/class-webinarsysteem.php:871 wpws-js/translations.php:735
+msgid "New Webinar"
+msgstr "Neues Webinar"
+
+#: includes/class-webinarsysteem.php:777 includes/class-webinarsysteem.php:778
+#: wpws-js/translations.php:25
+msgid "Attendees"
+msgstr "Teilnehmer"
+
+#: includes/class-webinarsysteem.php:786 includes/class-webinarsysteem.php:787
+msgid "Chatlogs"
+msgstr "Chatverläufe"
+
+#: includes/class-webinarsysteem.php:795 includes/class-webinarsysteem.php:796
+#: wpws-js/translations.php:325
+msgid "Questions"
+msgstr "Fragen"
+
+#: includes/class-webinarsysteem.php:806 includes/class-webinarsysteem.php:807
+msgid "Recordings"
+msgstr "Aufzeichnungen"
+
+#: includes/class-webinarsysteem.php:816 includes/class-webinarsysteem.php:817
+#: wpws-js/translations.php:491
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/class-webinarsysteem.php:869 includes/class-webinarsysteem.php:870
+msgid "Add New Webinar"
+msgstr "Webinar erstellen"
+
+#: includes/class-webinarsysteem.php:872 wpws-js/translations.php:725
+msgid "Edit Webinar"
+msgstr "Webinar bearbeiten"
+
+#: includes/class-webinarsysteem.php:873
+msgid "View Webinar"
+msgstr "Webinar anschauen"
+
+#: includes/class-webinarsysteem.php:1146
+msgid "Please save your webinar first before previewing."
+msgstr "Bitte speichere oder veröffentliche dein Webinar zuerst, um die Vorschauseite betrachten zu können."
+
+#: includes/class-webinarsysteem.php:1799 wpws-js/translations.php:14
+msgid "Monday"
+msgstr "Montag"
+
+#: includes/class-webinarsysteem.php:1800 wpws-js/translations.php:15
+msgid "Tuesday"
+msgstr "Dienstag"
+
+#: includes/class-webinarsysteem.php:1801 wpws-js/translations.php:16
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+#: includes/class-webinarsysteem.php:1802 wpws-js/translations.php:17
+msgid "Thursday"
+msgstr "Donnerstag"
+
+#: includes/class-webinarsysteem.php:1803 wpws-js/translations.php:18
+msgid "Friday"
+msgstr "Freitag"
+
+#: includes/class-webinarsysteem.php:1804 wpws-js/translations.php:19
+msgid "Saturday"
+msgstr "Samstag"
+
+#: includes/class-webinarsysteem.php:1805 wpws-js/translations.php:20
+msgid "Sunday"
+msgstr "Sonntag"
+
+#: includes/class-webinarsysteem.php:2013
+msgid "Host and Description Box"
+msgstr "Gastgeber und Beschreibung"
+
+#: includes/class-webinarsysteem.php:2018
+#: includes/templates/webinar-live.php:374
+msgid "Question Box"
+msgstr "Fragen-Box"
+
+#: includes/class-webinarsysteem.php:2024
+msgid "Message Center"
+msgstr "Nachrichten Center"
+
+#: includes/class-webinarsysteem.php:2029
+msgid "Live Chatbox"
+msgstr "Live Chat-Fenster"
+
+#: includes/class-webinarsysteem.php:2036 wpws-js/translations.php:680
+msgid "Incentive Box"
+msgstr "Anreiz Box"
+
+#: includes/class-webinarsysteem.php:2040 wpws-js/translations.php:683
+msgid "Action Box"
+msgstr "Action Box link"
+
+#: includes/class-webinarsysteem.php:2046
+msgid "Clear all Raised Hands"
+msgstr "Lösche alle erhobenen Hände"
+
+#: includes/class-webinarsysteem.php:2052
+msgid "Call to action"
+msgstr "Call To Action (Handlungssaufforderung)"
+
+#: includes/class-webinarsysteem.php:2223
+msgid "Your MySQL version is out of date, and some functionalities of WebinarPress won't work as expected. Please upgrade the MySQL version on your server to a minimum of MySQL 5.5.50 or higher."
+msgstr "Ihre MySQL-Version ist veraltet, und einige Funktionalitäten des WP-webinarsystems funktionieren nicht wie erwartet. Bitte aktualisieren Sie die MySQL-Version auf Ihrem Server auf ein Minimum von MySQL 5.6.36 oder höher."
+
+#: includes/class-webinarsysteem.php:2230
+msgid "Your PHP version is out of date, and some functionalities of WebinarPress won't work as expected. Please upgrade the PHP version on your server to a minimum of PHP 5.6 or higher."
+msgstr "Ihre PHP-Version ist veraltet, und einige Funktionalitäten von WP webinarsystem funktionieren nicht wie erwartet. Bitte aktualisieren Sie die PHP-Version auf Ihrem Server auf ein Minimum von PHP 5,6 oder höher."
+
+#: includes/class-webinarsysteem.php:2816
+msgctxt "drip pointer"
+msgid "Find out how to create a compelling webinar that drives conversions in this ridiculously actionable (and FREE) 5-part email course."
+msgstr "Erfahren Sie, wie Sie in diesem unglaublich praxisorientierten (und KOSTENLOSEN) 5-teiligen E-Mail-Kurs ein überzeugendes Webinar erstellen, das Conversions generiert."
+
+#: includes/class-webinarsysteem.php:2821
+msgid "Email Address:"
+msgstr "Ihre E-Mail-Adresse:"
+
+#: includes/class-webinarsysteem.php:2827
+msgctxt "drip pointer"
+msgid "Want to know the Secrets of Highly Engaging Webinars?"
+msgstr "Möchten Sie die Geheimnisse äußerst spannender Webinare erfahren?"
+
+#: includes/class-webinarsysteem.php:2829
+msgctxt "drip pointer"
+msgid "Yes, please!"
+msgstr "Ja, bitte!"
+
+#: includes/class-webinarsysteem.php:2831
+msgctxt "drip pointer"
+msgid "No, thanks"
+msgstr "Nein, danke"
+
+#: includes/libs/system-snapshot-report.php:128
+#: includes/libs/system-snapshot-report.php:129 wpws-js/translations.php:9
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/libs/system-snapshot-report.php:128
+#: includes/libs/system-snapshot-report.php:129 wpws-js/translations.php:10
+msgid "No"
+msgstr "Nein"
+
+#: includes/libs/system-snapshot-report.php:130
+#: includes/libs/system-snapshot-report.php:138 wpws-js/translations.php:342
+msgid "Enabled"
+msgstr "Sound aktivieren"
+
+#: includes/libs/system-snapshot-report.php:130
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: includes/libs/system-snapshot-report.php:130
+msgid "Not Set"
+msgstr "Nicht festgelegt"
+
+#: includes/libs/system-snapshot-report.php:131
+msgid "Acceptable"
+msgstr "Akzeptabel"
+
+#: includes/libs/system-snapshot-report.php:131
+msgid "Too Long"
+msgstr "Zu lang"
+
+#: includes/libs/system-snapshot-report.php:132
+#: includes/libs/system-snapshot-report.php:133
+#: includes/libs/system-snapshot-report.php:136
+msgid "n/a"
+msgstr "nicht verfügbar"
+
+#: includes/libs/system-snapshot-report.php:134
+#: includes/libs/system-snapshot-report.php:139
+#: includes/libs/system-snapshot-report.php:140
+msgid "On"
+msgstr "An"
+
+#: includes/libs/system-snapshot-report.php:134
+#: includes/libs/system-snapshot-report.php:139
+#: includes/libs/system-snapshot-report.php:140
+msgid "Off"
+msgstr "Aus"
+
+#: includes/libs/system-snapshot-report.php:141
+msgid "Your server supports fsockopen."
+msgstr "Ihr Server unterstützt fsockopen."
+
+#: includes/libs/system-snapshot-report.php:141
+msgid "Your server does not support fsockopen."
+msgstr "Ihr Server unterstützt fsockopen nicht."
+
+#: includes/libs/system-snapshot-report.php:142
+msgid "Your server supports cURL."
+msgstr "Ihr Server unterstützt cURL."
+
+#: includes/libs/system-snapshot-report.php:142
+msgid "Your server does not support cURL."
+msgstr "Ihr Server unterstützt cURL nicht."
+
+#: includes/libs/system-snapshot-report.php:143
+msgid "Your server has the SOAP Client enabled."
+msgstr "Ihr Server hat den SOAP-Client aktiviert."
+
+#: includes/libs/system-snapshot-report.php:143
+msgid "Your server does not have the SOAP Client enabled."
+msgstr "Ihr Server hat den SOAP-Client nicht aktiviert."
+
+#: includes/libs/system-snapshot-report.php:144
+msgid "Your server has SUHOSIN installed."
+msgstr "SUHOSIN installiert."
+
+#: includes/libs/system-snapshot-report.php:144
+msgid "Your server does not have SUHOSIN installed."
+msgstr "Ihr Server hat SUHOSIN nicht installiert."
+
+#: includes/libs/system-snapshot-report.php:145
+msgid "Your server has OpenSSL installed."
+msgstr "Ihr Server hat OpenSSL installiert."
+
+#: includes/libs/system-snapshot-report.php:145
+msgid "Your server does not have OpenSSL installed."
+msgstr "Ihr Server hat OpenSSL nicht installiert."
+
+#: includes/shortcodes/class-webinarsysteem-confirmation-shortcodes.php:91
+#: includes/shortcodes/class-webinarsysteem-confirmation-shortcodes.php:113
+msgid "Go to webinar"
+msgstr "Zum Webinar gehen"
+
+#: includes/shortcodes/class-webinarsysteem-confirmation-shortcodes.php:185
+msgid "Add to Calendar"
+msgstr "Zum Kalender hinzufügen"
+
+#: includes/templates/template-email-layout.php:142
+msgid "Manage Subscription"
+msgstr "Webinar Fragen"
+
+#: includes/templates/template-video-source.php:14
+msgid "Enable Sound"
+msgstr "Sound aktivieren"
+
+#: includes/templates/webinar-closed.php:44
+msgid "Unfortunately, this webinar is closed."
+msgstr "Dieses Webinar ist leider geschlossen.."
+
+#: includes/templates/webinar-closed.php:47
+msgid "Click here"
+msgstr "Hier klicken"
+
+#: includes/templates/webinar-closed.php:47
+msgid "to go to our homepage."
+msgstr "um auf unsere Webseite zu gelangen."
+
+#: includes/templates/webinar-confirmation.php:197
+msgid "Here is the webinar URL..."
+msgstr "Hier die Internet-Adresse (URL) zum Webinar…"
+
+#: includes/templates/webinar-confirmation.php:205
+msgid "Save and bookmark this URL so you can get access to the webinar..."
+msgstr "URL zum Webinarraum speichern..."
+
+#: includes/templates/webinar-confirmation.php:215
+msgid "Your Webinar Ticket"
+msgstr "Ihr Ticket zum Webinar"
+
+#: includes/templates/webinar-confirmation.php:216
+msgid "The Webinar Event Information..."
+msgstr "Informationen zum Webinar…"
+
+#: includes/templates/webinar-confirmation.php:228
+#: includes/templates/webinar-live.php:342
+#: includes/templates/webinar-registration.php:230 wpws-js/translations.php:470
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "Gastgeber"
+msgstr[1] "Gastgeber"
+
+#: includes/templates/webinar-confirmation.php:230
+#: includes/templates/webinar-registration.php:225
+msgid "Date"
+msgstr "Datum"
+
+#: includes/templates/webinar-confirmation.php:246
+msgid "Join Webinar in Progress..."
+msgstr "Webinar beitreten…"
+
+#: includes/templates/webinar-confirmation.php:254
+msgid "View Webinar Replay"
+msgstr "Webinar-Aufzeichnung anschauen"
+
+#: includes/templates/webinar-confirmation.php:281
+msgid "Add To Your Calendar"
+msgstr "Zum Kalender hinzufügen"
+
+#: includes/templates/webinar-confirmation.php:282
+msgid "Remind Yourself Of The Event"
+msgstr "Erinnerung erstellen"
+
+#: includes/templates/webinar-countdown.php:94
+msgid "will begin in"
+msgstr "beginnt in"
+
+#: includes/templates/webinar-countdown.php:95
+msgid "will begin shortly"
+msgstr "beginnt in Kürze"
+
+#: includes/templates/webinar-countdown.php:100
+msgid "will start"
+msgstr "beginnt"
+
+#: includes/templates/webinar-countdown.php:101
+msgid "on"
+msgstr "am"
+
+#: includes/templates/webinar-countdown.php:102
+msgid "at"
+msgstr "um"
+
+#: includes/templates/webinar-countdown.php:108
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "Bitte kommen Sie dann zurück. Danke für Ihre Geduld"
+
+#: includes/templates/webinar-countdown.php:119
+msgid "Just a second, we are starting the broadcast. This page will refresh automatically..."
+msgstr "Nur einen Moment bitte. Wir fangen jetzt an. Diese Seite wird automatisch neu geladen…"
+
+#: includes/templates/webinar-countdown.php:129
+#: includes/templates/webinar-live.php:484
+msgid "Something is wrong with your Add Questions form. Please re-check all fields are filled correctly"
+msgstr "Mit Ihrem Frage-stellen-Formular stimmt etwas nicht. Bitte überprüfen Sie, dass alle Felder korrekt ausgefüllt sind"
+
+#: includes/templates/webinar-countdown.php:130
+#: includes/templates/webinar-live.php:485
+msgid "Please wait.."
+msgstr "Bitte warten.."
+
+#: includes/templates/webinar-live.php:354
+msgid "Information"
+msgstr "Informationen"
+
+#: includes/templates/webinar-live.php:378
+msgid "Chat box"
+msgstr "Chat-Fenster"
+
+#: includes/templates/webinar-live.php:387
+msgid "Ask your question!"
+msgstr "Stellen Sie Ihre Frage!"
+
+msgid "Register Now"
+msgstr "Jetzt registrieren"
+
+#: includes/templates/webinar-live.php:392
+msgid "Your name"
+msgstr "Ihr Name"
+
+#: includes/templates/webinar-live.php:398
+msgid "Your email"
+msgstr "Ihre E-Mail-Adresse"
+
+msgid "Your Email"
+msgstr "Ihre E-Mail-Adresse"
+
+#: includes/templates/webinar-live.php:404
+msgid "Type your question here.."
+msgstr "Schreiben Sie hier Ihre Frage.."
+
+#: includes/templates/webinar-live.php:408
+msgid "Ask Question!"
+msgstr "Frage stellen!"
+
+#: includes/templates/webinar-live.php:412
+msgid "My Questions"
+msgstr "Meine Fragen"
+
+#: includes/templates/webinar-live.php:423
+msgid "Live Chat"
+msgstr "Live Chat"
+
+#: includes/templates/webinar-live.php:426
+msgid "Private"
+msgstr "Privat"
+
+#: includes/templates/webinar-live.php:427
+msgid "Public"
+msgstr "Öffentlich"
+
+#: includes/templates/webinar-live.php:451
+msgid "Send"
+msgstr "Senden"
+
+#: includes/templates/webinar-registration.php:2
+msgid "No script kiddies please!"
+msgstr "Keine Skript-Kiddies bitte!"
+
+#: includes/templates/webinar-registration.php:54 wpws-js/translations.php:78
+msgid "Register"
+msgstr "Registrieren"
+
+msgid "Already Registered?"
+msgstr "Bereits registriert?"
+
+msgid "Not Registered?"
+msgstr "Noch nicht registriert?"
+
+#: includes/templates/webinar-registration.php:55
+#: includes/templates/webinar-registration.php:71 wpws-js/translations.php:79
+msgid "Login"
+msgstr "Anmelden"
+
+#: includes/templates/webinar-registration.php:57
+msgid "Free Sign Up:"
+msgstr "Kostenlose Registrierung:"
+
+#: includes/templates/webinar-registration.php:92
+msgid "Buy a webinar ticket"
+msgstr "Ein Webinar-Ticket kaufen"
+
+#: includes/templates/webinar-registration.php:350
+msgid "Unfortunately, you can't use a general info@.. address. Please use a personal e-mail address"
+msgstr "Leider ist die Verwendung einer \"info@\" E-Mail Adresse vom Webinar-Gastgeber nicht gestattet. Bitte eine private E-Mail Adresse verwenden, vielen Dank"
+
+#: includes/templates/webinar-registration.php:430
+msgid "Of course we will handle your data safely."
+msgstr "Selbstverständlich werden wir sorgfältig mit Ihren Daten umgehen."
+
+#: includes/utils/class-webinarsysteem-time-format.php:26
+#, php-format
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wpws-js/translations.php:3
+msgid "Clear"
+msgstr "Löschen"
+
+#: wpws-js/translations.php:4
+msgid "Edit this field"
+msgstr "Dieses Feld bearbeiten"
+
+#: wpws-js/translations.php:5
+msgid "Delete this field"
+msgstr "Dieses Feld löschen"
+
+#: wpws-js/translations.php:6
+msgid "Click and drag to reorder"
+msgstr "Zum Neuordnen klicken und ziehen"
+
+#: wpws-js/translations.php:7
+msgid "Delete Field"
+msgstr "Feld löschen"
+
+#: wpws-js/translations.php:8
+msgid "Are you sure you want to delete this field?"
+msgstr "Möchten Sie bestimmte Fragen wirklich löschen?"
+
+#: wpws-js/translations.php:11
+msgid "Add Custom Field"
+msgstr "Benutzerdefiniertes Feld hinzufügen"
+
+#: wpws-js/translations.php:12
+msgid "Enter the name of this field"
+msgstr "Geben Sie den Namen dieses Feldes ein"
+
+#: wpws-js/translations.php:13
+msgid "Option 1|value1\\nOption 2|value\\nOption 3|value3\\n..."
+msgstr "Option 1|Wert1\\nOption 2|Wert2\\nOption 3|Wert3\\n..."
+
+#: wpws-js/translations.php:21
+msgid "Hide the toolbar"
+msgstr "Symbolleiste ausblenden"
+
+#: wpws-js/translations.php:22
+msgid "Buttons"
+msgstr "Button URL"
+
+#: wpws-js/translations.php:23
+msgid "Jitsi Domain"
+msgstr "Jitsi-Domain"
+
+#: wpws-js/translations.php:24
+msgid "Team Members"
+msgstr "Teammitglieder"
+
+#: wpws-js/translations.php:26
+msgid "Automatically Start"
+msgstr "Automatisch starten"
+
+#: wpws-js/translations.php:27
+msgid "Show Controls"
+msgstr "Steuerelemente anzeigen"
+
+#: wpws-js/translations.php:28
+msgid "Show Play Button"
+msgstr "Zeige großen Play-Button"
+
+#: wpws-js/translations.php:29
+msgid "Simulate Webinar Content"
+msgstr "Webinarinhalte simulieren"
+
+#: wpws-js/translations.php:31
+msgid "Video ID or Vimeo URL"
+msgstr "Video- oder Bild-Adresse (URL)"
+
+#: wpws-js/translations.php:30
+msgid "URL"
+msgstr "URL"
+
+#: wpws-js/translations.php:32
+msgid "Channel Name"
+msgstr "Kanalname"
+
+#: wpws-js/translations.php:33
+msgid "Embed Code"
+msgstr "Einbettungscode"
+
+#: wpws-js/translations.php:34
+msgid "Zoom (Requires HTTPS)"
+msgstr "Zoom (erfordert HTTPS)"
+
+#: wpws-js/translations.php:35
+msgid "Zoom Invitation"
+msgstr "Zoom-Einladung"
+
+#: wpws-js/translations.php:36
+msgid "Jitsi (Requires HTTPS)"
+msgstr "Jitsi (erfordert HTTPS)"
+
+#: wpws-js/translations.php:37
+msgid "Frame Source"
+msgstr "Iframe Source URL"
+
+#: wpws-js/translations.php:38
+msgid "Embedded / HTML"
+msgstr "Eingebettet / HTML"
+
+#: wpws-js/translations.php:39
+msgid "EmbedHTML"
+msgstr "HTML einbetten"
+
+#: wpws-js/translations.php:40
+msgid "Image URL"
+msgstr "Bild URL"
+
+#: wpws-js/translations.php:41
+msgid "JavaScript Embed Code"
+msgstr "JavaScript Einbettungscode"
+
+#: wpws-js/translations.php:42
+msgid "You will be asked to setup your YouTube Live stream from the webinar room"
+msgstr "Sie werden gebeten, Ihren YouTube-Livestream aus dem Webinar-Raum einzurichten"
+
+#: wpws-js/translations.php:43
+msgid "Your Zoom meeting URL"
+msgstr "Ihre Webinar URL"
+
+#: wpws-js/translations.php:44
+msgid "For live webinars you can leave this blank until the webinar starts"
+msgstr "Für Live-Webinare können Sie dies bis zum Beginn des Webinars leer lassen"
+
+#: wpws-js/translations.php:45
+msgid "Select"
+msgstr "Auswählen"
+
+#: wpws-js/translations.php:46
+msgid "Remove this time"
+msgstr "Diese Zeit entfernen"
+
+#: wpws-js/translations.php:47
+msgid "Add another time"
+msgstr "Weitere Zeit hinzufügen"
+
+#: wpws-js/translations.php:48
+msgid "Default"
+msgstr "Standard Zeitzone"
+
+#: wpws-js/translations.php:49
+msgid "WordPress Default"
+msgstr "WordPress System"
+
+#: wpws-js/translations.php:50
+msgid "Editor"
+msgstr "Bearbeiten"
+
+#: wpws-js/translations.php:51
+msgid "HTML"
+msgstr "HTML"
+
+#: wpws-js/translations.php:52
+msgid "Add Media"
+msgstr "Medien hinzufügen"
+
+#: wpws-js/translations.php:53
+msgid "..."
+msgstr "..."
+
+#: wpws-js/translations.php:54
+msgid "Choose"
+msgstr "Auswählen"
+
+#: wpws-js/translations.php:55
+msgid "Remove"
+msgstr "Entfernen"
+
+#: wpws-js/translations.php:56
+msgid "Select an image"
+msgstr "Ein Bild auswählen"
+
+#: wpws-js/translations.php:57
+msgid "Show this message every time"
+msgstr "Diese Nachricht jedes Mal anzeigen"
+
+#: wpws-js/translations.php:58
+msgid "Yes!"
+msgstr "Ja!"
+
+#: wpws-js/translations.php:59
+msgid "No, thanks"
+msgstr "Nein, danke"
+
+#: wpws-js/translations.php:60
+msgid "Start the webinar to begin the video"
+msgstr "Starten Sie das Webinar, um das Video zu starten"
+
+#: wpws-js/translations.php:61
+msgid "The webinar has finished"
+msgstr "Das Webinar ist beendet"
+
+#: wpws-js/translations.php:62
+msgid "Read More"
+msgstr "Mehr erfahren"
+
+#: wpws-js/translations.php:63
+msgid "Your WebinarPress license has expired, please renew to stay up to date with the latest updates and security patches"
+msgstr "Ihr WebinarSystem-Lizenzschlüssel ist abgelaufen! Bitte erneuern Sie es erneut, bevor Sie das Plugin verwenden"
+
+#: wpws-js/translations.php:64
+msgid "Renew Now"
+msgstr "Jetzt schaffen"
+
+#: wpws-js/translations.php:65
+msgid "Your WebinarPress license has been disabled, please buy a new license to stay up to date with the latest updates and security patches"
+msgstr "Ihre WebinarPress-Lizenz wurde deaktiviert. Bitte kaufen Sie eine neue Lizenz, um mit den neuesten Updates und Sicherheitspatches auf dem Laufenden zu bleiben"
+
+#: wpws-js/translations.php:66
+msgid "Buy Now"
+msgstr "Jetzt kaufen"
+
+#: wpws-js/translations.php:67
+msgid "Activate WebinarPress to stay up to date with the latest updates and security patches"
+msgstr "Aktivieren Sie WebinarPress, um mit den neuesten Updates und Sicherheitspatches auf dem Laufenden zu bleiben"
+
+#: wpws-js/translations.php:68
+msgid "Activate Now"
+msgstr "Jetzt aktivieren"
+
+#: wpws-js/translations.php:69
+msgid "WebinarPress is not activated on this website, please re-activate to stay up to date with the latest updates and security patches"
+msgstr "WebinarPress ist auf dieser Website nicht aktiviert. Bitte aktivieren Sie es erneut, um mit den neuesten Updates und Sicherheitspatches auf dem Laufenden zu bleiben"
+
+#: wpws-js/translations.php:70
+msgid "admin.php?page=wswbn-settings"
+msgstr "admin.php?page=wswbn-settings"
+
+#: wpws-js/translations.php:71
+msgid "Activate real-time servers to reduce your server load and enable instant updates to your webinars"
+msgstr "Aktivieren Sie Echtzeitserver, um die Serverlast zu reduzieren und sofortige Updates für Ihre Webinare zu ermöglichen"
+
+#: wpws-js/translations.php:72
+msgid "Enable Now"
+msgstr "Sound aktivieren"
+
+#: wpws-js/translations.php:73
+msgid "Please activate WebinarPress to use WebinarPress Connect"
+msgstr "Bitte aktivieren Sie WebinarPress, um WebinarPress Connect zu verwenden"
+
+#: wpws-js/translations.php:74
+msgid "Choose a template"
+msgstr "Auf Standard-Vorlage zurücksetzen"
+
+#: wpws-js/translations.php:75
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: wpws-js/translations.php:76
+msgid "Display On"
+msgstr "Anzeigen auf"
+
+#: wpws-js/translations.php:77
+msgid "All"
+msgstr "Alle"
+
+#: wpws-js/translations.php:80
+msgid "Name"
+msgstr "Name"
+
+#: wpws-js/translations.php:81
+msgid "Please give this widget a name"
+msgstr "Bitte geben Sie diesem Widget einen Namen"
+
+#: wpws-js/translations.php:83
+msgid "Please select a webinar to use with this widget"
+msgstr "Bitte wählen Sie ein Webinar aus, das Sie mit diesem Widget verwenden möchten"
+
+#: wpws-js/translations.php:84
+msgid "Custom Confirmation Page"
+msgstr "Benutzerdefinierte Bestätigungsseite"
+
+#: wpws-js/translations.php:85
+msgid "Send users to a custom page after successfully registering"
+msgstr "Benutzer nach erfolgreicher Registrierung zu einer benutzerdefinierten Seite weiterleiten"
+
+#: wpws-js/translations.php:86
+msgid "Date Locale"
+msgstr "Datumsformat"
+
+#: wpws-js/translations.php:87
+msgid "Select the country/locale to use when showing dates"
+msgstr "Wählen Sie das Land/die Region aus, um das Datumsformat festzulegen"
+
+#: wpws-js/translations.php:88
+msgid "Layout Settings"
+msgstr "Einstellungen"
+
+#: wpws-js/translations.php:89
+msgid "Background"
+msgstr "Hintergrundfarbe"
+
+#: wpws-js/translations.php:90
+msgid "Background color of the widget"
+msgstr "Button Hintergrundfarbe"
+
+#: wpws-js/translations.php:91
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: wpws-js/translations.php:92
+msgid "Text color of messages"
+msgstr "Textfarbe"
+
+#: wpws-js/translations.php:93
+msgid "Max Width"
+msgstr "Maximale Breite"
+
+#: wpws-js/translations.php:94
+msgid "The maximum width of the widget. Set to 0 for 100%"
+msgstr "Die maximale Breite des Widgets. Auf 0 setzen für 100%"
+
+#: wpws-js/translations.php:95
+msgid "Padding"
+msgstr "Abstand"
+
+#: wpws-js/translations.php:96
+msgid "Top, bottom, left, right in pixels"
+msgstr "Oben, unten, links, rechts in Pixeln"
+
+#: wpws-js/translations.php:97
+msgid "Border"
+msgstr "Rahmen"
+
+#: wpws-js/translations.php:98
+msgid "Border for the entire widget"
+msgstr "Rahmen für das gesamte Widget"
+
+#: wpws-js/translations.php:99
+msgid "Registration Error"
+msgstr "Registrierungen"
+
+#: wpws-js/translations.php:100
+msgid "Shown if registration fails due to an error"
+msgstr "Wird angezeigt, wenn die Registrierung aufgrund eines Fehlers fehlschlägt"
+
+#: wpws-js/translations.php:101
+msgid "Provide a registration error message"
+msgstr "Anmeldeformular ausblenden"
+
+#: wpws-js/translations.php:102
+msgid "Registration Limit Reached"
+msgstr "Anmelde-Seite"
+
+#: wpws-js/translations.php:103
+msgid "Provide a registration limit reached message"
+msgstr "Geben Sie eine Nachricht an, wenn das Anmelde-Limit erreicht ist"
+
+#: wpws-js/translations.php:104
+msgid "Registration Pending"
+msgstr "Anmelde-Seite"
+
+#: wpws-js/translations.php:105
+msgid "Login Failed"
+msgstr "Login-Titel"
+
+#: wpws-js/translations.php:106
+msgid "Shown if a login attempt fails"
+msgstr "Wird angezeigt, wenn ein Anmeldeversuch fehlschlägt"
+
+#: wpws-js/translations.php:107
+msgid "Provide a login failed message"
+msgstr "Geben Sie eine Anmeldefehlermeldung an"
+
+#: wpws-js/translations.php:108
+msgid "Display as Popup"
+msgstr "Als Popup anzeigen"
+
+#: wpws-js/translations.php:109
+msgid "Trigger On Click"
+msgstr "Bei Klick auslösen"
+
+#: wpws-js/translations.php:110
+msgid "Display this widget as a modal popup when the visitor clicks a link or a button"
+msgstr "Zeigen Sie dieses Widget als modales Popup an, wenn der Besucher auf einen Link oder eine Schaltfläche klickt"
+
+#: wpws-js/translations.php:111
+msgid "CSS Selector"
+msgstr "Auswählen"
+
+#: wpws-js/translations.php:112
+msgid "A CSS selector string for a trigger element of your choosing. This widget will be triggered by clicking the element. For example: a.open_webinar_widget"
+msgstr "Ein CSS-Selektor für ein Auslöser-Element Ihrer Wahl. Dieses Widget wird durch Klicken auf das Element ausgelöst. Zum Beispiel: a.open_webinar_widget"
+
+#: wpws-js/translations.php:113
+msgid "Register Text"
+msgstr "Registrieren Sie den Text"
+
+msgid "Login Text"
+msgstr "Anmeldetext"
+
+msgid "Button Font"
+msgstr "Schaltflächenschrift"
+
+msgid "Height"
+msgstr "Höhe"
+
+msgid "Register Button"
+msgstr "Registrieren Sie den Text"
+
+#: wpws-js/translations.php:118
+msgid "Active Font"
+msgstr "Aktivieren"
+
+#: wpws-js/translations.php:119
+msgid "Session Font"
+msgstr "Schriftart der Sitzung"
+
+#: wpws-js/translations.php:120
+msgid "Sessions to Show"
+msgstr "Anzuzeigende Sitzungen"
+
+#: wpws-js/translations.php:121
+msgid "Visitor Timezone"
+msgstr "Zeitzone Server"
+
+#: wpws-js/translations.php:122
+msgid "Spacing"
+msgstr "Abstand"
+
+#: wpws-js/translations.php:123
+msgid "Alternate Sessions"
+msgstr "Alternative Sitzungen"
+
+#: wpws-js/translations.php:124
+msgid "Dropdowns"
+msgstr "Dropdown-Menüs"
+
+#: wpws-js/translations.php:125
+msgid "Font Size"
+msgstr "Schriftgröße"
+
+#: wpws-js/translations.php:126
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: wpws-js/translations.php:127
+msgid "Hovered Text"
+msgstr "Textfarbe Hovereffekt"
+
+#: wpws-js/translations.php:128
+msgid "Hovered Background"
+msgstr "Hintergrundfarbe für die Kopfzeile"
+
+#: wpws-js/translations.php:129
+msgid "Selected Text"
+msgstr "Auswählen"
+
+#: wpws-js/translations.php:130
+msgid "Selected Background"
+msgstr "Hintergrundfarbe für den Titel"
+
+#: wpws-js/translations.php:131
+msgid "Date Format"
+msgstr "Datumsformat"
+
+#: wpws-js/translations.php:132
+msgid "Time Format"
+msgstr "Zeitformat"
+
+#: wpws-js/translations.php:133
+msgid "Sessions Dropdown"
+msgstr "Dropdown-Menü für Sitzungen"
+
+#: wpws-js/translations.php:134
+msgid "Calendar Block"
+msgstr "Kalender"
+
+#: wpws-js/translations.php:135
+msgid "Month Text"
+msgstr "Login Text"
+
+#: wpws-js/translations.php:136
+msgid "Date Text"
+msgstr "Fusszeilen-Text"
+
+#: wpws-js/translations.php:137
+msgid "Month Background"
+msgstr "Button Hintergrundfarbe"
+
+#: wpws-js/translations.php:138
+msgid "Date Background"
+msgstr "Hintergrundfarbe für die Seite"
+
+#: wpws-js/translations.php:139
+msgid "Date and Time"
+msgstr "Datum und Uhrzeit"
+
+#: wpws-js/translations.php:140
+msgid "Day of week"
+msgstr "Wochentag"
+
+#: wpws-js/translations.php:141
+msgid "Month and day"
+msgstr "Monat und Tag"
+
+#: wpws-js/translations.php:142
+msgid "Webinar Time"
+msgstr "Webinar-Zeit"
+
+#: wpws-js/translations.php:143
+msgid "Calendar"
+msgstr "Kalender"
+
+#: wpws-js/translations.php:144
+msgid "Block Spacing"
+msgstr "Blockabstand"
+
+#: wpws-js/translations.php:145
+msgid "Unit Text"
+msgstr "Registrieren Sie den Text"
+
+#: wpws-js/translations.php:146
+msgid "Description Text"
+msgstr "Textfarbe der Beschreibung"
+
+#: wpws-js/translations.php:147
+msgid "Text"
+msgstr "Text"
+
+#: wpws-js/translations.php:148
+msgid "Days"
+msgstr "Tage"
+
+msgid "days"
+msgstr "Tage"
+
+msgid "hrs"
+msgstr "Stunden"
+
+msgid "mins"
+msgstr "Minuten"
+
+msgid "secs"
+msgstr "Sekunden"
+
+#: wpws-js/translations.php:149
+msgid "Hours"
+msgstr "Stunden"
+
+#: wpws-js/translations.php:150
+msgid "Minutes"
+msgstr "Minuten"
+
+#: wpws-js/translations.php:151
+msgid "Seconds"
+msgstr "Sekunden"
+
+#: wpws-js/translations.php:152
+msgid "Countdown Timer"
+msgstr "Countdown-Seite"
+
+#: wpws-js/translations.php:153
+msgid "Text Boxes & Dropdowns"
+msgstr "Textfelder & Dropdown-Menüs"
+
+#: wpws-js/translations.php:154
+msgid "Name Placeholder"
+msgstr "Platzhalter für Name"
+
+msgid "Resend Confirmation Email"
+msgstr "Bestätigungs-E-Mail erneut senden"
+
+msgid "Resend Order Confirmation Email"
+msgstr "Bestellbestätigungs-E-Mail erneut senden"
+
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+msgid "Please check your email to complete your registration"
+msgstr "Bitte überprüfen Sie Ihre E-Mails, um Ihre Registrierung abzuschließen"
+
+msgid "You don't appear to be registered for this webinar"
+msgstr "Sie scheinen nicht für dieses Webinar registriert zu sein"
+
+msgid "Webinar Password"
+msgstr "Webinar-Passwort"
+
+msgid "The password entered is incorrect"
+msgstr "Das eingegebene Passwort ist falsch"
+
+#: wpws-js/translations.php:155
+msgid "Email Placeholder"
+msgstr "Platzhalter für E-Mail"
+
+#: wpws-js/translations.php:156
+msgid "Check Boxes"
+msgstr "Auswahlkästchen"
+
+#: wpws-js/translations.php:157
+msgid "Color"
+msgstr "Farbe"
+
+#: wpws-js/translations.php:158
+msgid "Font"
+msgstr "Schriftart"
+
+#: wpws-js/translations.php:159
+msgid "Show Alternate Sessions"
+msgstr "Alternative Sitzungen anzeigen"
+
+#: wpws-js/translations.php:160
+msgid "GDPR"
+msgstr "DSGVO"
+
+#: wpws-js/translations.php:161
+msgid "Opt-in Text"
+msgstr "Opt-in-Text"
+
+#: wpws-js/translations.php:162
+msgid "Field Order"
+msgstr "Feldreihenfolge"
+
+#: wpws-js/translations.php:163
+msgid "Input Form"
+msgstr "Eingabeformular"
+
+#: wpws-js/translations.php:164
+msgid "Content"
+msgstr "Inhalt"
+
+#: wpws-js/translations.php:165
+msgid "Html Editor"
+msgstr "HTML-Editor"
+
+#: wpws-js/translations.php:166
+msgid "Login Link"
+msgstr "Login-Titel"
+
+msgid "Congratulations... you've been registered!"
+msgstr "Herzlichen Glückwunsch... Sie sind registriert!"
+
+msgid "Registered Message"
+msgstr "Registrierungsnachricht"
+
+msgid "Your webinar link"
+msgstr "Link zum Webinar"
+
+msgid "Your Webinar Link"
+msgstr "Link zum Webinar"
+
+#: wpws-js/translations.php:167
+msgid "Seats Font"
+msgstr "Schriftart der Plätze"
+
+#: wpws-js/translations.php:168
+msgid "Label Font"
+msgstr "Schriftart des Labels"
+
+#: wpws-js/translations.php:169
+msgid "Label"
+msgstr "Label"
+
+#: wpws-js/translations.php:170
+msgid "Remaining Seat Count"
+msgstr "Verbleibende Sitzplätze"
+
+#: wpws-js/translations.php:171
+msgid "Search"
+msgstr "Suchen"
+
+#: wpws-js/translations.php:172
+msgid "Your widget shortcode"
+msgstr "Ihr Widget-Shortcode"
+
+#: wpws-js/translations.php:173
+msgid "Copy and paste this shortcode into your pages and posts"
+msgstr "Bitte kopieren Sie diese Informationen in Ihr Ticket wenn Sie den Support kontaktieren"
+
+#: wpws-js/translations.php:174
+msgid "Copied to clipboard"
+msgstr "In die Zwischenablage kopiert"
+
+#: wpws-js/translations.php:175
+msgid "Copy to Clipboard"
+msgstr "Kopie für den Support"
+
+#: wpws-js/translations.php:176
+msgid "Close"
+msgstr "Geschlossen"
+
+#: wpws-js/translations.php:177
+msgid "Your widget HTML"
+msgstr "Ihr Widget-HTML"
+
+#: wpws-js/translations.php:178
+msgid "Copy and paste this HTML into your pages and posts"
+msgstr "Kopieren Sie dieses HTML und fügen Sie es in Ihre Seiten und Beiträge ein"
+
+#: wpws-js/translations.php:179
+msgid "If you make changes to the registration widget after adding this HTML to your pages you will need to re-generate the HTML and update your pages to apply the changes."
+msgstr "Wenn Sie nach dem Hinzufügen dieses HTMLs zu Ihren Seiten Änderungen am Registrierungs-Widget vornehmen, müssen Sie das HTML neu generieren und Ihre Seiten aktualisieren, um die Änderungen zu übernehmen."
+
+#: wpws-js/translations.php:180
+msgid "Microphone"
+msgstr "Mikrofon"
+
+#: wpws-js/translations.php:181
+msgid "Camera"
+msgstr "Kamera"
+
+#: wpws-js/translations.php:182
+msgid "Share Desktop"
+msgstr "Desktop teilen"
+
+#: wpws-js/translations.php:183
+msgid "Full Screen"
+msgstr "Vollbildschirm aktivieren"
+
+#: wpws-js/translations.php:184
+msgid "Recording"
+msgstr "Neu konfigurieren"
+
+#: wpws-js/translations.php:185
+msgid "Mute Everyone"
+msgstr "Alle stummschalten"
+
+#: wpws-js/translations.php:186
+msgid "Invite"
+msgstr "Einladen"
+
+#: wpws-js/translations.php:187
+msgid "English (United States)"
+msgstr "Englisch (Vereinigte Staaten)"
+
+#: wpws-js/translations.php:188
+msgid "English (United Kingdom)"
+msgstr "Englisch (Vereinigtes Königreich)"
+
+#: wpws-js/translations.php:189
+msgid "English (Australia)"
+msgstr "Englisch (Australien)"
+
+#: wpws-js/translations.php:190
+msgid "Russian"
+msgstr "Russisch"
+
+#: wpws-js/translations.php:191
+msgid "Danish"
+msgstr "Dänisch"
+
+#: wpws-js/translations.php:192
+msgid "German"
+msgstr "Deutsch"
+
+#: wpws-js/translations.php:193
+msgid "Greek"
+msgstr "Griechisch"
+
+#: wpws-js/translations.php:194
+msgid "Spanish"
+msgstr "Spanisch"
+
+#: wpws-js/translations.php:195
+msgid "Estonian"
+msgstr "Estnisch"
+
+#: wpws-js/translations.php:196
+msgid "Farsi"
+msgstr "Persisch"
+
+#: wpws-js/translations.php:197
+msgid "Finnish"
+msgstr "Finnisch"
+
+#: wpws-js/translations.php:198
+msgid "French"
+msgstr "Französisch"
+
+#: wpws-js/translations.php:199
+msgid "Hebrew"
+msgstr "Hebräisch"
+
+#: wpws-js/translations.php:200
+msgid "Italian"
+msgstr "Italienisch"
+
+#: wpws-js/translations.php:201
+msgid "Japanese"
+msgstr "Japanisch"
+
+#: wpws-js/translations.php:202
+msgid "Norwegian"
+msgstr "Norwegisch"
+
+#: wpws-js/translations.php:203
+msgid "Dutch"
+msgstr "Niederländisch"
+
+#: wpws-js/translations.php:204
+msgid "Polish"
+msgstr "Polnisch"
+
+#: wpws-js/translations.php:205
+msgid "Portuguese"
+msgstr "Portugiesisch"
+
+#: wpws-js/translations.php:206
+msgid "Romanian"
+msgstr "Rumänisch"
+
+#: wpws-js/translations.php:207
+msgid "Slovak"
+msgstr "Slowakisch"
+
+#: wpws-js/translations.php:208
+msgid "Serbian"
+msgstr "Serbisch"
+
+#: wpws-js/translations.php:209
+msgid "Swedish"
+msgstr "Schwedisch"
+
+#: wpws-js/translations.php:210
+msgid "Ukrainian"
+msgstr "Ukrainisch"
+
+#: wpws-js/translations.php:211
+msgid "Chinese"
+msgstr "Chinesisch"
+
+#: wpws-js/translations.php:212
+msgid "Turkish"
+msgstr "Türkisch"
+
+#: wpws-js/translations.php:213
+msgid "deleted"
+msgstr "gelöscht"
+
+#: wpws-js/translations.php:214
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "Minute"
+msgstr[1] "Minuten"
+
+#: wpws-js/translations.php:216
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "Stunde"
+msgstr[1] "Stunden"
+
+#: wpws-js/translations.php:218
+msgid "Enter the attendee details"
+msgstr "Geben Sie die Teilnehmerdetails ein"
+
+#: wpws-js/translations.php:219
+msgid "OK"
+msgstr "OK"
+
+#: wpws-js/translations.php:220
+msgid "Add Attendees"
+msgstr "Teilnehmer"
+
+#: wpws-js/translations.php:221
+msgid "You can add attendees one by one using the New Attendee button below and entering their name and email address or you can import a csv file by clicking the Import CSV button."
+msgstr "Sie können Teilnehmer einzeln hinzufügen, indem Sie unten auf die Schaltfläche Neue Teilnehmer klicken und ihren Namen und ihre E-Mail-Adresse eingeben, oder Sie können eine CSV-Datei importieren, indem Sie auf die Schaltfläche CSV importieren klicken."
+
+#: wpws-js/translations.php:222
+msgid "No attendees"
+msgstr "Keine Teilnehmer"
+
+#: wpws-js/translations.php:223
+msgid "Select a timeslot"
+msgstr "Wählen Sie eine Uhrzeit"
+
+#: wpws-js/translations.php:224
+msgid "Send confirmation e-mail to the attendee?"
+msgstr "Webinar-Bestätigungsnachricht an den Teilnehmer senden?"
+
+#: wpws-js/translations.php:225
+msgid "New Attendee..."
+msgstr "Keine Teilnehmer..."
+
+#: wpws-js/translations.php:226
+msgid "Import CSV..."
+msgstr "CSV importieren..."
+
+#: wpws-js/translations.php:227
+msgid "Email"
+msgstr "E-Mail"
+
+#: wpws-js/translations.php:228
+msgid "Delete Attendee"
+msgstr "Teilnehmer"
+
+#: wpws-js/translations.php:229
+msgid "Registered At"
+msgstr "Registrierungs-Datum"
+
+#: wpws-js/translations.php:231
+msgid "Attended"
+msgstr "Teilgenommen"
+
+#: wpws-js/translations.php:232
+msgid "Time Attended"
+msgstr "Teilgenommen"
+
+#: wpws-js/translations.php:233
+msgid "Please create at least one webinar"
+msgstr "Löschen Sie alle Chat-Nachrichten für dieses Webinar"
+
+#: wpws-js/translations.php:234
+msgid "Create Webinar"
+msgstr "Webinare erstellen"
+
+#: wpws-js/translations.php:235
+msgid "Remove Selected"
+msgstr "Ausgewählte entfernen"
+
+#: wpws-js/translations.php:236
+msgid "Export BCC"
+msgstr "BCC exportieren"
+
+#: wpws-js/translations.php:237
+msgid "Export CSV"
+msgstr "CSV exportieren"
+
+#: wpws-js/translations.php:238
+msgid "No attendees have registered for this webinar"
+msgstr "Sie sind für das Webinar angemeldet"
+
+#: wpws-js/translations.php:239
+msgid "No attendees match your filter"
+msgstr "Keine Teilnehmer entsprechen Ihrem Filter"
+
+#: wpws-js/translations.php:240
+msgid "Delete Message"
+msgstr "Neue Nachricht"
+
+#: wpws-js/translations.php:241
+msgid "Message"
+msgstr "Nachrichten Center"
+
+#: wpws-js/translations.php:242
+msgid "Date/Time"
+msgstr "Farbe für Datum/Zeit"
+
+#: wpws-js/translations.php:243
+msgid "Chat History"
+msgstr "Chatverlauf"
+
+#: wpws-js/translations.php:244
+msgid "No messages have been sent in this webinar"
+msgstr "In diesem Webinar wurden keine Nachrichten gesendet"
+
+#: wpws-js/translations.php:245
+msgid "No messages match your filter"
+msgstr "Es gibt keine Nachrichten, die Ihrem Filter entsprechen"
+
+#: wpws-js/translations.php:246
+msgid "Select a webinar to see the preview"
+msgstr "Erstellen Sie ein Webinar um eine E-Mail-Vorschau zu senden"
+
+#: wpws-js/translations.php:247
+msgid "Page Layout"
+msgstr "Reiter Layout"
+
+#: wpws-js/translations.php:248
+msgid "Colors"
+msgstr "Textfarbe"
+
+#: wpws-js/translations.php:249
+msgid "Top Border"
+msgstr "Reiter Rahmenfarbe"
+
+#: wpws-js/translations.php:250
+msgid "Border Radius"
+msgstr "Rahmen Radius"
+
+#: wpws-js/translations.php:251
+msgid "Image / Video"
+msgstr "Bild / Video"
+
+#: wpws-js/translations.php:252
+msgid "Enable"
+msgstr "Sound aktivieren"
+
+#: wpws-js/translations.php:253
+msgid "Content Type"
+msgstr "Inhaltstyp"
+
+#: wpws-js/translations.php:254
+msgid "YouTube (Pre-recorded video)"
+msgstr ""
+
+#: wpws-js/translations.php:255
+msgid "Vimeo"
+msgstr "Vimeo ID"
+
+#: wpws-js/translations.php:256
+msgid "Wistia"
+msgstr ""
+
+#: wpws-js/translations.php:257
+msgid "File (mp4, webm, ogg)"
+msgstr ""
+
+#: wpws-js/translations.php:258
+msgid "HLS Stream"
+msgstr "HLS Stream"
+
+#: wpws-js/translations.php:259
+msgid "Inline Frame (iframe)"
+msgstr "Inline Frame (iframe)"
+
+#: wpws-js/translations.php:260
+msgid "Image"
+msgstr "Bild"
+
+#: wpws-js/translations.php:261
+msgid "Autoplay"
+msgstr "Video automatisch abspielen"
+
+#: wpws-js/translations.php:262
+msgid "Description"
+msgstr "Beschreibung"
+
+#: wpws-js/translations.php:263
+msgid "Sections"
+msgstr "Fragen"
+
+#: wpws-js/translations.php:264
+msgid "Margin"
+msgstr "Rand"
+
+#: wpws-js/translations.php:265
+msgid "Separator Color"
+msgstr "Textfarbe"
+
+#: wpws-js/translations.php:266
+msgid "Separator Height"
+msgstr "Trennzeichenhöhe"
+
+#: wpws-js/translations.php:267
+msgid "Details"
+msgstr "E-Mails"
+
+#: wpws-js/translations.php:268
+msgid "Title Font"
+msgstr "Titeltext"
+
+#: wpws-js/translations.php:269
+msgid "Title Padding"
+msgstr "Titelabstand"
+
+#: wpws-js/translations.php:270
+msgid "Content Font"
+msgstr "Inhaltstyp"
+
+#: wpws-js/translations.php:271
+msgid "Content Padding"
+msgstr "Inhalt"
+
+#: wpws-js/translations.php:272
+msgid "Icon"
+msgstr ""
+
+#: wpws-js/translations.php:273
+msgid "Webinar Name"
+msgstr "Name des Webinars"
+
+#: wpws-js/translations.php:274
+msgid "Date & Time"
+msgstr "Farbe für Datum/Zeit"
+
+#: wpws-js/translations.php:275
+msgid "Format"
+msgstr ""
+
+#: wpws-js/translations.php:276
+msgid "Set Reminder"
+msgstr "Erinnerung"
+
+#: wpws-js/translations.php:277
+msgid "Webinar Link"
+msgstr "Link zur Webinar Aufzeichnung"
+
+#: wpws-js/translations.php:278
+msgid "Webinar Button"
+msgstr "Webinar-Aktion"
+
+#: wpws-js/translations.php:279
+msgid "Layout"
+msgstr "Reiter Layout"
+
+#: wpws-js/translations.php:280
+msgid "Width"
+msgstr "Breite"
+
+#: wpws-js/translations.php:281
+msgid "Custom CSS"
+msgstr "Benutzerdefiniertes CSS"
+
+#: wpws-js/translations.php:282
+msgid "Add custom CSS to style this page"
+msgstr "Fügen Sie benutzerdefiniertes CSS hinzu, um diese Seite zu gestalten"
+
+#: wpws-js/translations.php:283
+msgid "Radius"
+msgstr "Rahmen Radius"
+
+#: wpws-js/translations.php:284
+msgid "Box Shadow"
+msgstr "Schatten"
+
+#: wpws-js/translations.php:285
+msgid "Top"
+msgstr "Oben"
+
+#: wpws-js/translations.php:286
+msgid "Bottom"
+msgstr "Unten"
+
+#: wpws-js/translations.php:287
+msgid "Left"
+msgstr "Links"
+
+#: wpws-js/translations.php:288
+msgid "Right"
+msgstr "Rechts"
+
+#: wpws-js/translations.php:289
+msgid "Size"
+msgstr "Größe"
+
+#: wpws-js/translations.php:290
+msgid "Line Height"
+msgstr "Zeilenhöhe"
+
+#: wpws-js/translations.php:291
+msgid "Weight"
+msgstr "Stärke"
+
+#: wpws-js/translations.php:292
+msgid "Normal"
+msgstr "Normal"
+
+#: wpws-js/translations.php:293
+msgid "Bold"
+msgstr "Fett"
+
+#: wpws-js/translations.php:294
+msgid "Bolder"
+msgstr "Fetter"
+
+#: wpws-js/translations.php:295
+msgid "Lighter"
+msgstr "Leichter"
+
+#: wpws-js/translations.php:296
+msgid "Transform"
+msgstr "Umsetzen"
+
+#: wpws-js/translations.php:297
+msgid "None"
+msgstr "Keine"
+
+#: wpws-js/translations.php:298
+msgid "Capitalize"
+msgstr "Großschreibung"
+
+#: wpws-js/translations.php:299
+msgid "Uppercase"
+msgstr "Großbuchstaben"
+
+#: wpws-js/translations.php:300
+msgid "Lowercase"
+msgstr "Kleinbuchstaben"
+
+#: wpws-js/translations.php:301
+msgid "Decoration"
+msgstr "Dekoration"
+
+#: wpws-js/translations.php:302
+msgid "Line Through"
+msgstr "Durchgestrichen"
+
+#: wpws-js/translations.php:303
+msgid "Underline"
+msgstr "Unterstrichen"
+
+#: wpws-js/translations.php:304
+msgid "Underline Overline"
+msgstr "Unterstrich Überstrich"
+
+#: wpws-js/translations.php:305
+msgid "Alignment"
+msgstr "Ausrichtung"
+
+#: wpws-js/translations.php:306
+msgid "Center"
+msgstr "Zentriert"
+
+#: wpws-js/translations.php:307
+msgid "Edit..."
+msgstr "Bearbeiten..."
+
+#: wpws-js/translations.php:308
+msgid "Use Custom Background"
+msgstr "Button Hintergrundfarbe"
+
+#: wpws-js/translations.php:309
+msgid "Click and drag to re-order"
+msgstr "Zum Neuanordnen anklicken und ziehen"
+
+#: wpws-js/translations.php:310
+msgid "Block"
+msgstr "Block"
+
+#: wpws-js/translations.php:311
+msgid "Insert Block Above"
+msgstr "Block oben einfügen"
+
+#: wpws-js/translations.php:312
+msgid "Duplicate Block"
+msgstr "Block duplizieren"
+
+#: wpws-js/translations.php:313
+msgid "Delete Block"
+msgstr "Block löschen"
+
+#: wpws-js/translations.php:314
+msgid "Save changes"
+msgstr "Änderungen speichern"
+
+msgid "Save Changes"
+msgstr "Änderungen Speichern"
+
+msgid "The favicon used in all generated webinar pages"
+msgstr "Das Favicon, das in allen generierten Webinar-Seiten verwendet wird"
+
+#: wpws-js/translations.php:315
+msgid "Add Block"
+msgstr "Block hinzufügen"
+
+#: wpws-js/translations.php:316
+msgid "Dump to log as JSON"
+msgstr "Als JSON in das Protokoll ausgeben"
+
+#: wpws-js/translations.php:317
+msgid "Editor Settings"
+msgstr "Editor Einstellungen"
+
+#: wpws-js/translations.php:318
+msgid "Exit"
+msgstr "Beenden"
+
+#: wpws-js/translations.php:319
+msgid "Help and tutorials"
+msgstr "Hilfe und Anleitungen"
+
+#: wpws-js/translations.php:320
+msgid "Are you sure you want to delete this block?"
+msgstr "Möchten Sie diesen Block wirklich löschen?"
+
+#: wpws-js/translations.php:321
+msgid "Setup"
+msgstr "Aufstellen"
+
+#: wpws-js/translations.php:322
+msgid "Style"
+msgstr "Stil"
+
+#: wpws-js/translations.php:323
+msgid "Header Color"
+msgstr "Kopfzeilenfarbe"
+
+#: wpws-js/translations.php:324
+msgid "Logo"
+msgstr "Logo"
+
+#: wpws-js/translations.php:326
+msgid "Visibility"
+msgstr "Sichtbarkeit"
+
+#: wpws-js/translations.php:327
+msgid "All Attendees"
+msgstr "Alle Teilnehmer"
+
+#: wpws-js/translations.php:328
+msgid "Only Team Members"
+msgstr "Nur Teammitglieder"
+
+#: wpws-js/translations.php:329
+msgid "Asker Decides"
+msgstr "Fragender entscheidet"
+
+#: wpws-js/translations.php:330
+msgid "Email to host"
+msgstr "E-Mail Einstellungen"
+
+#: wpws-js/translations.php:331
+msgid "Host Email"
+msgstr "E-Mails"
+
+#: wpws-js/translations.php:332
+msgid "Attendee Chat"
+msgstr "Teilnehmer-Liste"
+
+#: wpws-js/translations.php:333
+msgid "Attendee List"
+msgstr "Teilnehmer-Liste"
+
+#: wpws-js/translations.php:334
+msgid "Hand Raising"
+msgstr "Handheben"
+
+#: wpws-js/translations.php:335
+msgid "Call to Action"
+msgstr "Call To Action (Handlungssaufforderung)"
+
+#: wpws-js/translations.php:336
+msgid "Activation"
+msgstr "Aktivieren"
+
+#: wpws-js/translations.php:337
+msgid "Type"
+msgstr "CTA-Typ"
+
+#: wpws-js/translations.php:338
+msgid "Manual"
+msgstr "Manuell"
+
+#: wpws-js/translations.php:339
+msgid "After a number of minutes"
+msgstr "Nach einer bestimmten Anzahl von Minuten"
+
+#: wpws-js/translations.php:340
+msgid "Delay"
+msgstr "Verzögerung"
+
+#: wpws-js/translations.php:343
+msgid "Time Limited"
+msgstr "Zeitlich begrenzt"
+
+#: wpws-js/translations.php:345
+msgid "Button"
+msgstr "Schaltfläche"
+
+#: wpws-js/translations.php:346
+msgid "Text / HTML"
+msgstr "Text / HTML"
+
+#: wpws-js/translations.php:347
+msgid "Border Color"
+msgstr "Rahmenfarbe"
+
+#: wpws-js/translations.php:348
+msgid "Content Color"
+msgstr "Inhaltsfarbe"
+
+#: wpws-js/translations.php:349
+msgid "Headline"
+msgstr "Überschrift"
+
+#: wpws-js/translations.php:350
+msgid "Subheading"
+msgstr "Unterüberschrift"
+
+#: wpws-js/translations.php:355
+msgid "Delete Question"
+msgstr "Frage löschen"
+
+#: wpws-js/translations.php:356
+msgid "Question"
+msgstr "Frage"
+
+#: wpws-js/translations.php:357
+msgid "No questions have been asked in this webinar"
+msgstr "In diesem Webinar wurden keine Fragen gestellt"
+
+#: wpws-js/translations.php:358
+msgid "No questions match your filter"
+msgstr "Keine Fragen entsprechen Ihrem Filter"
+
+#: wpws-js/translations.php:359
+msgid "Header"
+msgstr "Kopfzeilen-Bild"
+
+#: wpws-js/translations.php:360
+msgid "Background color of the header"
+msgstr "Button Hintergrundfarbe"
+
+#: wpws-js/translations.php:361
+msgid "Background image of the header"
+msgstr "Hintergrund-Bild"
+
+#: wpws-js/translations.php:362
+msgid "Separator"
+msgstr "Trennzeichen"
+
+#: wpws-js/translations.php:363
+msgid "Video & Description"
+msgstr "Ticket Beschreibung"
+
+#: wpws-js/translations.php:364
+msgid "Registration Form"
+msgstr "Anmeldeformular ausblenden"
+
+#: wpws-js/translations.php:365
+msgid "Background color of the registration form"
+msgstr "Button Hintergrundfarbe"
+
+#: wpws-js/translations.php:366
+msgid "Border for the registration form"
+msgstr "Rahmen für das Anmeldeformular"
+
+#: wpws-js/translations.php:367
+msgid "Title"
+msgstr "Titel"
+
+#: wpws-js/translations.php:368
+msgid "Login Button"
+msgstr "Login-Schaltfläche Text"
+
+#: wpws-js/translations.php:369
+msgid "Register Link"
+msgstr "Registriert am"
+
+#: wpws-js/translations.php:370
+msgid "GDPR Optin"
+msgstr "GDPR Opt-in"
+
+#: wpws-js/translations.php:371
+msgid "Optin Text"
+msgstr "GDPR-Opt-in-Text"
+
+#: wpws-js/translations.php:372
+msgid "There was a problem registering you for this webinar"
+msgstr "Sie sind für das Webinar angemeldet"
+
+msgid "Successfully Saved! If You use HTML snippet update it please."
+msgstr "Erfolgreich gespeichert! Bitte aktualisieren Sie das HTML-Schnipsel, falls Sie es verwenden."
+
+msgid "An error ocurred while trying to save"
+msgstr "Beim Speichern ist ein Fehler aufgetreten"
+
+msgid "An error ocurred while loading"
+msgstr "Beim Laden ist ein Fehler aufgetreten"
+
+msgid "Unsaved Changes"
+msgstr "Ungespeicherte Änderungen"
+
+#: wpws-js/translations.php:377
+msgid "Would you like to save your changes before exiting?"
+msgstr "Möchten Sie Ihre Änderungen vor dem Beenden speichern?"
+
+#: wpws-js/translations.php:378
+msgid "Edit Widget"
+msgstr "Webinar bearbeiten"
+
+#: wpws-js/translations.php:379
+msgid "View Shortcode"
+msgstr "Vorhandene Shortcodes"
+
+msgid "View HTML"
+msgstr "HTML anzeigen"
+
+#: wpws-js/translations.php:381
+msgid "Create variation"
+msgstr "Jetzt schaffen"
+
+#: wpws-js/translations.php:382
+msgid "Delete Widget"
+msgstr "Widget löschen"
+
+#: wpws-js/translations.php:383
+msgid "Registrations"
+msgstr "Registrierungen"
+
+#: wpws-js/translations.php:384
+msgid "Create Widget"
+msgstr "Webinare erstellen"
+
+#: wpws-js/translations.php:385
+msgid "Welcome to registration widgets!"
+msgstr "Kundenspezifische Registrierungsfelder!"
+
+#: wpws-js/translations.php:386
+msgid "Would you like to see our quick start guide?"
+msgstr "Möchten Sie unsere Schnellstartanleitung ansehen?"
+
+#: wpws-js/translations.php:388
+msgid "New Widget"
+msgstr "Neues Widget"
+
+#: wpws-js/translations.php:389
+msgid "You don't have any widgets yet"
+msgstr "Sie haben noch keine Widgets"
+
+#: wpws-js/translations.php:390
+msgid "Email Sender"
+msgstr "E-Mail Absender Einstellungen"
+
+#: wpws-js/translations.php:391
+msgid "From Name"
+msgstr "Von Name"
+
+#: wpws-js/translations.php:392
+msgid "From Email Address"
+msgstr "Von E-Mail-Adresse"
+
+#: wpws-js/translations.php:394
+msgid "Admin Email"
+msgstr "E-Mail des Administrators"
+
+#: wpws-js/translations.php:395
+msgid "New registration emails will be sent to this address."
+msgstr "Eine Anmeldung ist für dieses Webinar nicht mehr möglich."
+
+#: wpws-js/translations.php:396
+msgid "Email Template"
+msgstr "Email Vorlage"
+
+#: wpws-js/translations.php:397
+msgid "Header Image"
+msgstr "Kopfzeilen-Bild"
+
+#: wpws-js/translations.php:398
+msgid "Image height"
+msgstr "Bildhöhe"
+
+#: wpws-js/translations.php:399
+msgid "Your header image max-height(px)"
+msgstr "Maximale Höhe Ihres Headerbildes (px)"
+
+#: wpws-js/translations.php:400
+msgid "Base Color"
+msgstr "Grundfarbe"
+
+#: wpws-js/translations.php:401
+msgid "Body Background Color"
+msgstr "Hintergrundfarbe für den Hauptteil"
+
+#: wpws-js/translations.php:402
+msgid "Body Text Color"
+msgstr "Textfarbe für den Hauptteil"
+
+#: wpws-js/translations.php:403
+msgid "Button Background Color"
+msgstr "Button Hintergrundfarbe"
+
+#: wpws-js/translations.php:404
+msgid "Button Text Color"
+msgstr "Textfarbe für die Schaltfläche"
+
+#: wpws-js/translations.php:405
+msgid "Footer Text"
+msgstr "Fusszeilen-Text"
+
+#: wpws-js/translations.php:406
+msgid "Restore Defaults"
+msgstr "Auf Standard-Vorlage zurücksetzen"
+
+#: wpws-js/translations.php:407
+msgid "Include Profile and Unsubscribe Links"
+msgstr "Profil aktivieren und Link abmelden"
+
+#: wpws-js/translations.php:408
+msgid "Re-subscribe unsubscribed attendees to emails when they register for a webinar"
+msgstr "Abgemeldete Teilnehmer erneut für E-Mails anmelden, wenn sie sich für ein Webinar registrieren"
+
+#: wpws-js/translations.php:409
+msgid "Enable this reminder?"
+msgstr "Diese Erinnerung einschalten?"
+
+#: wpws-js/translations.php:410
+msgid "Subject"
+msgstr "Betreff"
+
+#: wpws-js/translations.php:411
+msgid "Available shortcodes"
+msgstr "Vorhandene Shortcodes"
+
+#: wpws-js/translations.php:412
+msgid "Read More..."
+msgstr "Mehr lesen..."
+
+#: wpws-js/translations.php:413
+msgid "Send Preview Email"
+msgstr "Vorschau senden"
+
+#: wpws-js/translations.php:415
+msgid "Your license is active!"
+msgstr "Ihr WebinarSystem ist aktiv!"
+
+#: wpws-js/translations.php:416
+msgid "Your license appears to be invalid."
+msgstr "Ihre Lizenz scheint ungültig zu sein."
+
+#: wpws-js/translations.php:417
+msgid "You have reached your activation limit for this license"
+msgstr "Sie haben Ihr Aktivierungslimit für diese Lizenz erreicht"
+
+#: wpws-js/translations.php:418
+msgid "This website has not been activated"
+msgstr "WPWebinarSystem Lizenz wurde aktiviert"
+
+#: wpws-js/translations.php:419
+msgid "Your license has expired!"
+msgstr "WPWebinarSystem Lizenz wurde aktiviert!"
+
+#: wpws-js/translations.php:420
+msgid "Click here to renew"
+msgstr "Hier klicken"
+
+#: wpws-js/translations.php:421
+msgid "Your license has been disabled"
+msgstr "WPWebinarSystem Lizenz wurde deaktiviert"
+
+#: wpws-js/translations.php:422
+msgid "Plugin Activation"
+msgstr "Umgebung der Erweiterungen"
+
+#: wpws-js/translations.php:423
+msgid "License Key"
+msgstr "Lizenz-Schlüssel"
+
+#: wpws-js/translations.php:424
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: wpws-js/translations.php:425
+msgid "Deactivate"
+msgstr "Lizenz deaktivieren"
+
+#: wpws-js/translations.php:426
+msgid "Webinar Folder"
+msgstr "Webinar Titel"
+
+#: wpws-js/translations.php:427
+msgid "Performance"
+msgstr "Leistung"
+
+#: wpws-js/translations.php:428
+msgid "Use WebinarPress Connect"
+msgstr "Webinar Produkt"
+
+#: wpws-js/translations.php:429
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: wpws-js/translations.php:430
+msgid "Enable instantaneous updates for attendees and greatly reduce the load on your server by using our servers to send real-time updates to attendees using websockets."
+msgstr "Aktivieren Sie sofortige Updates für Teilnehmer und reduzieren Sie die Serverlast erheblich, indem Sie unsere Server verwenden, um Echtzeit-Updates an Teilnehmer mit Websockets zu senden."
+
+#: wpws-js/translations.php:431
+msgid "Please activate the plugin to use WebinarPress Connect"
+msgstr "Bitte aktivieren Sie das Plugin, um WebinarPress Connect zu verwenden"
+
+#: wpws-js/translations.php:432
+msgid "Reduce Server Load"
+msgstr "Server locale"
+
+#: wpws-js/translations.php:433
+msgid "If your webinars have a large number of attendees you can enable this option to reduce how often they connect to your website which will reduce the load on your server."
+msgstr "Wenn Ihre Webinare viele Teilnehmer haben, können Sie diese Option aktivieren, um die Häufigkeit zu reduzieren, mit der sie sich mit Ihrer Website verbinden, was die Serverlast verringert."
+
+#: wpws-js/translations.php:434
+msgid "Payment Processing"
+msgstr "Zahlungsabwicklung"
+
+#: wpws-js/translations.php:435
+msgid "Enable WooCommerce"
+msgstr "WooCommerce aktivieren"
+
+#: wpws-js/translations.php:436
+msgid "Use WooCommerce for payment processing of paid webinars"
+msgstr "Verwenden Sie WooCommerce für die Zahlungsabwicklung kostenpflichtiger Webinare"
+
+#: wpws-js/translations.php:437
+msgid "Redirect after the webinar has been added to the cart"
+msgstr "Weiterleitung, nachdem das Webinar zum Warenkorb hinzugefügt wurde"
+
+#: wpws-js/translations.php:438
+msgid "Cart"
+msgstr "Warenkorb"
+
+#: wpws-js/translations.php:439
+msgid "Checkout"
+msgstr "Zur Kasse"
+
+#: wpws-js/translations.php:440
+msgid "Product"
+msgstr "Produkt"
+
+#: wpws-js/translations.php:441
+msgid "Styles"
+msgstr "Stile"
+
+#: wpws-js/translations.php:442
+msgid "Use Theme Styles"
+msgstr "Verwenden Sie Themen Stile"
+
+#: wpws-js/translations.php:443
+msgid "Include your theme's css styles when generating webinar pages. Note, this only applies to legacy pages like the classic webinar layout"
+msgstr "Schließen Sie die CSS-Stile Ihres Themes ein, wenn Sie Webinar-Seiten generieren. Beachten Sie, dass dies nur für veraltete Seiten wie das klassische Webinar-Layout gilt"
+
+#: wpws-js/translations.php:444
+msgid "Pre-release Updates"
+msgstr "Vorabversionen aktualisieren"
+
+#: wpws-js/translations.php:445
+msgid "Enable Beta Updates"
+msgstr "Beta-Aktualisierungen aktivieren"
+
+#: wpws-js/translations.php:446
+msgid "Get updates for pre-release versions of WebinarPress when you update the plugin in WordPress"
+msgstr "Erhalten Sie Updates für Vorabversionen von WebinarPress, wenn Sie das Plugin in WordPress aktualisieren"
+
+#: wpws-js/translations.php:447
+msgid "Add code in <head>"
+msgstr "Code im <head>-Bereich einfügen"
+
+#: wpws-js/translations.php:448
+msgid "Script Tags"
+msgstr "Script-Tags"
+
+#: wpws-js/translations.php:449
+msgid "Add code in <body>"
+msgstr "Code im <body>-Bereich einfügen"
+
+#: wpws-js/translations.php:450
+msgid "Logging"
+msgstr "Protokollierung"
+
+#: wpws-js/translations.php:451
+msgid "Enable Logging"
+msgstr "Sound aktivieren"
+
+#: wpws-js/translations.php:452
+msgid "Logging may slow down your website and should only be enabled if required by WebinarPress support"
+msgstr "Die Protokollierung kann Ihre Website verlangsamen und sollte nur aktiviert werden, wenn dies vom WebinarPress-Support benötigt wird"
+
+#: wpws-js/translations.php:453
+msgid "Download Log"
+msgstr "Ja, laden Sie Pro herunter"
+
+#: wpws-js/translations.php:454
+msgid "Check"
+msgstr "Überprüfen"
+
+#: wpws-js/translations.php:455
+msgid "Mailing Lists"
+msgstr "Mailing-Listen"
+
+#: wpws-js/translations.php:456
+msgid "Drip"
+msgstr ""
+
+#: wpws-js/translations.php:457
+msgid "MailChimp"
+msgstr ""
+
+#: wpws-js/translations.php:458
+msgid "Enormail"
+msgstr ""
+
+#: wpws-js/translations.php:459
+msgid "GetResponse"
+msgstr ""
+
+#: wpws-js/translations.php:460
+msgid "ActiveCampaign"
+msgstr ""
+
+#: wpws-js/translations.php:461
+msgid "ConvertKit"
+msgstr ""
+
+#: wpws-js/translations.php:462
+msgid "Mailrelay"
+msgstr ""
+
+#: wpws-js/translations.php:463
+msgid "MailerLite"
+msgstr ""
+
+#: wpws-js/translations.php:464
+msgid "Aweber"
+msgstr ""
+
+#: wpws-js/translations.php:465
+msgid "Revoke Access"
+msgstr "Zugang"
+
+#: wpws-js/translations.php:466
+msgid "Configure"
+msgstr "Konfigurieren"
+
+#: wpws-js/translations.php:467
+msgid "Mail Octopus"
+msgstr ""
+
+#: wpws-js/translations.php:468
+msgid "API Key"
+msgstr "Drip API Schlüssel"
+
+#: wpws-js/translations.php:469
+msgid "API URL"
+msgstr "Bild URL"
+
+#: wpws-js/translations.php:471
+msgid "Create Webinars"
+msgstr "Webinare erstellen"
+
+#: wpws-js/translations.php:472
+msgid "Manage Subscribers"
+msgstr "Teilnehmer verwalten"
+
+#: wpws-js/translations.php:473
+msgid "Access Control Bar"
+msgstr "Zugriffskontrollleiste"
+
+#: wpws-js/translations.php:474
+msgid "Manage Questions"
+msgstr "Bearbeite Fragen"
+
+#: wpws-js/translations.php:475
+msgid "Manage Chatlogs"
+msgstr "Chatlogs verwalten"
+
+#: wpws-js/translations.php:476
+msgid "Change Settings"
+msgstr "Styling Einstellungen"
+
+#: wpws-js/translations.php:477
+msgid "Role"
+msgstr "Rolle"
+
+#: wpws-js/translations.php:478
+msgid "Roles & Permissions"
+msgstr "Rollen & Berechtigungen"
+
+#: wpws-js/translations.php:479
+msgid "Roles"
+msgstr "Rollen"
+
+#: wpws-js/translations.php:480
+msgid "System Info"
+msgstr "Systeminformationen"
+
+#: wpws-js/translations.php:482
+msgid "Download"
+msgstr "Herunterladen"
+
+#: wpws-js/translations.php:483
+msgid "Send Test"
+msgstr "Test senden"
+
+#: wpws-js/translations.php:483
+msgid "Webhooks"
+msgstr "Webhooks"
+
+#: wpws-js/translations.php:484
+msgid "New Registration"
+msgstr "Neue Anmeldung"
+
+#: wpws-js/translations.php:485
+msgid "Attended Webinar"
+msgstr "An Webinar"
+
+#: wpws-js/translations.php:486
+msgid "Global Scripts"
+msgstr "Globale Skripte"
+
+#: wpws-js/translations.php:487
+msgid "Registration"
+msgstr "Registrierungen"
+
+#: wpws-js/translations.php:488
+msgid "Confirmation"
+msgstr "Bestätigung"
+
+msgid "After the webinar"
+msgstr "Nach dem Webinar"
+
+#: wpws-js/translations.php:490
+msgid "Save"
+msgstr "Speichern"
+
+#: wpws-js/translations.php:492
+msgid "General"
+msgstr "Allgemein"
+
+#: wpws-js/translations.php:493
+msgid "Emails"
+msgstr "E-Mails"
+
+#: wpws-js/translations.php:494
+msgid "Permissions"
+msgstr "Rollen & Berechtigungen"
+
+#: wpws-js/translations.php:495
+msgid "Email Templates"
+msgstr "Email Vorlage"
+
+#: wpws-js/translations.php:496
+msgid "One Day Before"
+msgstr "Einen Tag vorher"
+
+#: wpws-js/translations.php:497
+msgid "One Hour Before"
+msgstr "Eine Stunde vorher"
+
+#: wpws-js/translations.php:498
+msgid "Webinar Starting"
+msgstr "Webinar startet"
+
+#: wpws-js/translations.php:499
+msgid "Webinar Replay"
+msgstr "Webinar Aufzeichnung"
+
+#: wpws-js/translations.php:500
+msgid "Order Complete"
+msgstr "Rahmenfarbe"
+
+msgid "Confirmation / Consent"
+msgstr "Bestätigung / Zustimmung"
+
+msgid "Translations"
+msgstr "Übersetzungen"
+
+msgid "Poll Name"
+msgstr "Umfragename"
+
+msgid "Give this poll a name"
+msgstr "Geben Sie dieser Umfrage einen Namen"
+
+msgid "Thank you message"
+msgstr "Dankesnachricht"
+
+msgid "Your response has been submitted"
+msgstr "Ihre Antwort wurde übermittelt"
+
+msgid "Add Question"
+msgstr "Frage hinzufügen"
+
+msgid "New Poll"
+msgstr "Neue Umfrage"
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Give this simulated chat name"
+msgstr "Geben Sie diesem simulierten Chat einen Namen"
+
+msgid "Debug"
+msgstr "Fehlerbehebung"
+
+#: wpws-js/translations.php:504
+msgid "Registration Confirmation"
+msgstr "Registrierungsbestätigung"
+
+#: wpws-js/translations.php:505
+msgid "Enter the name of this webinar"
+msgstr "Löschen Sie alle Chat-Nachrichten für dieses Webinar"
+
+#: wpws-js/translations.php:506
+msgid "Webinar Page Translations"
+msgstr "Webinar-Seitenübersetzungen"
+
+msgid "Poll Form"
+msgstr "Umfrageformular"
+
+#: wpws-js/translations.php:507
+msgid "Use this page to translate text on the webinar page to your own language. Your changes will be used for all of your webinars so you don't need to set them individually"
+msgstr "Auf dieser Seite können Sie den Text auf der Webinar-Seite in Ihre eigene Sprache übersetzen. Ihre Änderungen werden für alle Ihre Webinare übernommen, sodass Sie sie nicht einzeln festlegen müssen"
+
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+msgid "Timers"
+msgstr "Timer"
+
+msgid "Tabs"
+msgstr "Registerkarten"
+
+#: wpws-js/translations.php:511
+msgid "Chats"
+msgstr "Chatverläufe"
+
+#: wpws-js/translations.php:512
+msgid "Question Menu"
+msgstr "Frage"
+
+#: wpws-js/translations.php:513
+msgid "Ask a Question"
+msgstr "Frage stellen"
+
+#: wpws-js/translations.php:514
+msgid "Delete a Question"
+msgstr "Private Fragen"
+
+msgid "People"
+msgstr "Personen"
+
+#: wpws-js/translations.php:517
+msgid "Webinar Source"
+msgstr "Vorkommen des Webinars"
+
+#: wpws-js/translations.php:518
+msgid "Start the Webinar"
+msgstr "Starten Sie das Webinar"
+
+#: wpws-js/translations.php:519
+msgid "End the Webinar"
+msgstr "Webinar bearbeiten"
+
+msgid "Everyone"
+msgstr "Alle"
+
+msgid "Everyone can access this webinar, there are no restrictions."
+msgstr "Jeder kann auf dieses Webinar zugreifen, es gibt keine Beschränkungen."
+
+msgid "WordPress Users"
+msgstr "WordPress-Benutzer\"  # More specific translatio"
+
+msgid "Only specific WordPress users have access to this webinar."
+msgstr "Nur bestimmte WordPress-Benutzer haben Zugriff auf dieses Webinar."
+
+msgid "WordPress Roles"
+msgstr "WordPress-Rollen\"  # More specific translatio"
+
+msgid "Only specific WordPress roles have access to this webinar."
+msgstr "Nur bestimmte WordPress-Rollen haben Zugriff auf dieses Webinar."
+
+msgid "WooCommerce Memberships"
+msgstr "WooCommerce-Mitgliedschaften"
+
+msgid "Only specific WooCommerce membership levels have access to this webinar."
+msgstr "Nur bestimmte WooCommerce-Mitgliedschaftsstufen haben Zugriff auf dieses Webinar."
+
+msgid "Webinar Access"
+msgstr "Webinar-Zugriff"
+
+msgid "Select the WordPress users that can access this webinar"
+msgstr "Wählen Sie die WordPress-Benutzer aus, die auf dieses Webinar zugreifen können"
+
+msgid "Select the WordPress roles that can access this webinar"
+msgstr "Wählen Sie die WordPress-Rollen aus, die auf dieses Webinar zugreifen können"
+
+msgid "WooCommerce Membership Levels\"  // Corrected ter"
+msgstr "WooCommerce-Mitgliedschaftsstufen"
+
+#: wpws-js/translations.php:532
+msgid "Please install and configure the 'WooCommerce Memberships' plugin to use this functionality."
+msgstr "Bitte installieren und konfigurieren Sie das Plugin \"WooCommerce-Mitgliedschaften\", um diese Funktionalität zu nutzen."
+
+msgid "Select the WooCommerce Membership Levels that can access this webinar"
+msgstr "Wählen Sie die WooCommerce-Mitgliedschaftsstufen aus, die auf dieses Webinar zugreifen können"
+
+msgid "Redirect Restricted Visitors"
+msgstr "Besucher ohne Zugriff weiterleiten"
+
+msgid "When a visitor does not have access to the webinar, leiten Sie sie auf diese Seite weiter"
+msgstr "Wenn ein Besucher keinen Zugriff auf das Webinar hat, leiten Sie ihn auf diese Seite weiter"
+
+#: wpws-js/translations.php:536
+msgid "Webinar Replays"
+msgstr "Webinar Aufzeichnung"
+
+msgid "When enabled, attendees can re-watch the webinar content after it finishes even if they couldn't attend their slot."
+msgstr "Wenn aktiviert, können Teilnehmer die Webinar-Aufzeichnung auch nach Abschluss des Webinars erneut ansehen, selbst wenn sie ihren ursprünglichen Termin nicht wahrnehmen konnten."
+
+msgid "Availability"
+msgstr "Verfügbarkeit"
+
+msgid "The replay is available forever"
+msgstr "Die Aufzeichnung ist dauerhaft verfügbar"
+
+msgid "How long will the replay be available for?"
+msgstr "Wie lange wird die Aufzeichnung verfügbar sein?"
+
+#: wpws-js/translations.php:541
+msgid "Studio"
+msgstr ""
+
+#: wpws-js/translations.php:542
+msgid "Classic"
+msgstr ""
+
+#: wpws-js/translations.php:543
+msgid "Visual Editor"
+msgstr "Visuellen Editor"
+
+#: wpws-js/translations.php:544
+msgid "Launch Visual Editor"
+msgstr "Visuellen Editor starten"
+
+#: wpws-js/translations.php:545
+msgid "Title Text"
+msgstr "Titeltext"
+
+#: wpws-js/translations.php:546
+msgid "Title Color"
+msgstr "Titelfarbe"
+
+#: wpws-js/translations.php:547
+msgid "Background Image"
+msgstr "Hintergrund-Bild"
+
+#: wpws-js/translations.php:548
+msgid "Link Above Text Color"
+msgstr "Textfarbe für den Link über dem Text"
+
+#: wpws-js/translations.php:549
+msgid "Link Below Text Color"
+msgstr "Textfarbe für den Link unterhalb des Textes"
+
+#: wpws-js/translations.php:550
+msgid "Ticket"
+msgstr "Ticket"
+
+#: wpws-js/translations.php:551
+msgid "Border color-1"
+msgstr "Erste Rahmenfarbe"
+
+#: wpws-js/translations.php:552
+msgid "Header Background Color"
+msgstr "Hintergrundfarbe für die Kopfzeile"
+
+#: wpws-js/translations.php:553
+msgid "Header Text Color"
+msgstr "Textfarbe für die Kopfzeile"
+
+#: wpws-js/translations.php:554
+msgid "Button Color"
+msgstr "Farbe der Schaltfläche"
+
+#: wpws-js/translations.php:555
+msgid "Social Sharing"
+msgstr "Teilen in sozialen Netzwerken"
+
+#: wpws-js/translations.php:556
+msgid "Button Border Color"
+msgstr "Schaltflächenrahmenfarbe"
+
+#: wpws-js/translations.php:557
+msgid "Custom Page"
+msgstr "Countdown-Seite"
+
+msgid "Use custom page"
+msgstr "Benutzerdefinierte Seite verwenden"
+
+msgid "When enabled, unregistered visitors will be sent a different page instead of the built in thank you page"
+msgstr "Wenn aktiviert, wird nicht registrierten Besuchern anstelle der standardmäßigen Dankesseite eine andere Seite angezeigt"
+
+msgid "Disable page"
+msgstr "Seite deaktivieren"
+
+msgid "Redirect attendees directly to the countdown or webinar page after they signup instead of showing the confirmation page"
+msgstr "Leiten Sie Teilnehmer nach der Anmeldung direkt zur Countdown- oder Webinar-Seite weiter, anstatt die Bestätigungsseite anzuzeigen"
+
+#: wpws-js/translations.php:562
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "Ja! Sie sind für das Webinar angemeldet!"
+
+#: wpws-js/translations.php:563
+msgid "Countdown Page"
+msgstr "Countdown-Seite"
+
+#: wpws-js/translations.php:564
+msgid "Show countdown timer"
+msgstr "Countdown anzeigen"
+
+msgid "Show a real-time countdown timer on the page so attendees can see when the webinar will start"
+msgstr "Zeigen Sie auf der Seite einen Echtzeit-Countdown-Timer an, damit die Teilnehmer sehen können, wann das Webinar beginnt"
+
+#: wpws-js/translations.php:566
+msgid "Tagline Color"
+msgstr "Farbe des Untertitels"
+
+#: wpws-js/translations.php:567
+msgid "Description Color"
+msgstr "Farbe der Beschreibung"
+
+#: wpws-js/translations.php:568
+msgid "Custom Fields"
+msgstr "Kundenspezifische Registrierungsfelder"
+
+#: wpws-js/translations.php:569
+msgid "Collect extra information from your attendees when they sign up. Available field types include checkboxes, text boxes, phone numbers and dropdown lists"
+msgstr "Sammeln Sie bei der Anmeldung zusätzliche Informationen von Ihren Teilnehmern. Verfügbare Feldtypen umfassen Checkboxen, Textfelder, Telefonnummern und Dropdown-Listen"
+
+#: wpws-js/translations.php:570
+msgid "Use global settings"
+msgstr "Webinar Einstellungen"
+
+msgid "Emails sent to attendees will be sent from this name and address"
+msgstr "E-Mails an Teilnehmer werden von diesem Namen und dieser Adresse gesendet"
+
+msgid "Require opt-in checkbox"
+msgstr "Opt-in-Checkbox erforderlich"
+
+msgid "Require explicit email consent"
+msgstr "Explizite E-Mail-Einwilligung erforderlich"
+
+msgid "Attendees have to confirm their registration by clicking an email confirmation link before they are registered for the webinar"
+msgstr "Teilnehmer müssen ihre Anmeldung durch Klicken auf einen Bestätigungslink in der E-Mail bestätigen, bevor sie für das Webinar registriert sind"
+
+msgid "After signing up"
+msgstr "Nach der Anmeldung"
+
+#: wpws-js/translations.php:576
+msgid "Show a message"
+msgstr "Neue Nachricht"
+
+#: wpws-js/translations.php:577
+msgid "Redirect to a page"
+msgstr "Umleitung"
+
+#: wpws-js/translations.php:578
+msgid "Redirect to"
+msgstr "Umleitung"
+
+#: wpws-js/translations.php:579
+msgid "Live"
+msgstr "Live"
+
+msgid "Best for live webinars! Fully manual, you decide exactly when the webinar starts and finishes."
+msgstr "Am besten für Live-Webinare! Vollständig manuell, Sie entscheiden genau, wann das Webinar beginnt und endet."
+
+msgid "One Time"
+msgstr "Einmalig"
+
+msgid "Start automatically at a specific date and time that you choose."
+msgstr "Automatischer Start zu einem bestimmten Datum und Uhrzeit Ihrer Wahl."
+
+msgid "Recurring"
+msgstr "Wiederkehrend"
+
+msgid "Start automatically on the days of the week and timeslots that you choose. For example every Monday and Thursday at 10:00 and 18:00."
+msgstr "Automatischer Start an den von Ihnen gewählten Wochentagen und Zeitfenstern. Zum Beispiel jeden Montag und Donnerstag um 10:00 und 18:00 Uhr."
+
+msgid "Just in Time"
+msgstr "Pünktlich"
+
+msgid "Start automatically every fixed period of time, for example every 15 minutes or every hour so attendees never have to wait very long."
+msgstr "Automatischer Start in regelmäßigen Abständen, zum Beispiel alle 15 Minuten oder jede Stunde, damit die Teilnehmer nie lange warten müssen."
+
+msgid "Right Now"
+msgstr "Jetzt"
+
+msgid "Attendees can attend the webinar straight after registering without having to wait."
+msgstr "Teilnehmer können direkt nach der Anmeldung am Webinar teilnehmen, ohne warten zu müssen."
+
+#: wpws-js/translations.php:589
+msgid "Replay"
+msgstr "Wiederholen"
+
+#: wpws-js/translations.php:590
+msgid "Closed"
+msgstr "Geschlossen"
+
+#: wpws-js/translations.php:591
+msgid "About your webinar"
+msgstr "Zum Webinar gehen"
+
+#: wpws-js/translations.php:592
+msgid "Webinar Title"
+msgstr "Webinar Titel"
+
+#: wpws-js/translations.php:593
+msgid "What is your about?"
+msgstr "Worum geht es bei Ihnen?"
+
+#: wpws-js/translations.php:593
+msgid "What is your webinar about?"
+msgstr "Worum geht es in Ihrem Webinar?"
+
+#: wpws-js/translations.php:594
+msgid "Your Webinar URL"
+msgstr "Ihre Webinar URL"
+
+#: wpws-js/translations.php:595
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: wpws-js/translations.php:596
+msgid "Webinar Type"
+msgstr "Art des Webinars"
+
+#: wpws-js/translations.php:597
+msgid "Manual Status"
+msgstr "Status"
+
+#: wpws-js/translations.php:598
+msgid "Starts at"
+msgstr "Starten Sie das Webinar"
+
+#: wpws-js/translations.php:599
+msgid "Runs on"
+msgstr "Läuft nur auf"
+
+#: wpws-js/translations.php:600
+msgid "Recurring Times(s)"
+msgstr "Findet statt um"
+
+#: wpws-js/translations.php:601
+msgid "Starts every"
+msgstr "Starten Sie das Webinar"
+
+#: wpws-js/translations.php:602
+msgid "Timezone and Duration"
+msgstr "Zeitzone und Dauer"
+
+#: wpws-js/translations.php:603
+msgid "Timezone"
+msgstr "Zeitzone"
+
+#: wpws-js/translations.php:604
+msgid "Estimated Duration"
+msgstr "Geschätzte Dauer"
+
+#: wpws-js/translations.php:605
+msgid "Duration"
+msgstr "Informationen"
+
+#: wpws-js/translations.php:606
+msgid "Charge attendees to view this webinar"
+msgstr "Chatlog ist für dieses Webinar leer"
+
+#: wpws-js/translations.php:607
+msgid "Paid webinar"
+msgstr "Kostenpflichtiges Webinar"
+
+#: wpws-js/translations.php:608
+msgid "Use WooCommerce to charge attendees to view this webinar. After the payment has been processed attendees will be sent an access link via email"
+msgstr "Nutzen Sie WooCommerce, um Teilnehmer für die Teilnahme an diesem Webinar zu berechnen. Nach der Zahlungsabwicklung erhalten die Teilnehmer per E-Mail einen Zugangslink"
+
+#: wpws-js/translations.php:609
+msgid "Please activate WooCommerce integration in the WebinarPress integration settings page to enable paid webinars"
+msgstr "Bitte aktivieren Sie die WooCommerce-Integration auf der WebinarPress-Integrationsseite, um kostenpflichtige Webinare zu aktivieren"
+
+#: wpws-js/translations.php:610
+msgid "Webinar Price"
+msgstr "Webinar Preis"
+
+#: wpws-js/translations.php:611
+msgid "Enter the name of your webinar"
+msgstr "Geben Sie den Namen Ihres Webinars ein"
+
+#: wpws-js/translations.php:612
+msgid "Who will be hosting this webinar?"
+msgstr "Wir beginnen jetzt mit dem Webinar?"
+
+#: wpws-js/translations.php:613
+msgid "Import/Export Settings"
+msgstr "Import / Export"
+
+#: wpws-js/translations.php:614
+msgid "Export webinar settings and import them later either into this website or any another website running WebinarPress Pro"
+msgstr "Exportieren Sie Webinar-Einstellungen und importieren Sie sie später entweder in diese Website oder eine andere Website, die WebinarPress Pro verwendet"
+
+#: wpws-js/translations.php:615
+msgid "Export Settings"
+msgstr "Einstellungen"
+
+#: wpws-js/translations.php:616
+msgid "Import Settings"
+msgstr "Einstellungen"
+
+#: wpws-js/translations.php:617
+msgid "Campaign"
+msgstr "Drip Kampagnen"
+
+#: wpws-js/translations.php:618
+msgid "Sync Emails to a Mailing list"
+msgstr "E-Mails mit einer Mailingliste synchronisieren"
+
+#: wpws-js/translations.php:619
+msgid "Automatically sync attendee email addresses with an external provider"
+msgstr "Synchronisieren Sie automatisch die E-Mail-Adressen der Teilnehmer mit einem externen Anbieter"
+
+#: wpws-js/translations.php:620
+msgid "Account"
+msgstr "Drip Konten"
+
+#: wpws-js/translations.php:621
+msgid "List"
+msgstr "Liste"
+
+#: wpws-js/translations.php:622
+msgid "Show the webinar closed screen"
+msgstr "Zeigen Sie den geschlossenen Bildschirm des Webinars"
+
+#: wpws-js/translations.php:623
+msgid "Redirect to a url"
+msgstr "Umleitung"
+
+#: wpws-js/translations.php:624
+msgid "When the webinar finishes"
+msgstr "Wenn das Webinar beendet ist"
+
+#: wpws-js/translations.php:625
+msgid "Redirection URL"
+msgstr "Umleitung"
+
+#: wpws-js/translations.php:626
+msgid "Exit URL"
+msgstr "Website-Adresse (URL)"
+
+#: wpws-js/translations.php:627
+msgid "Custom exit URL"
+msgstr "WordPress-Adresse (URL)"
+
+#: wpws-js/translations.php:628
+msgid "Automatic Registration"
+msgstr "Kundenspezifische Registrierungsfelder"
+
+#: wpws-js/translations.php:629
+msgid "Allow Registration with Link"
+msgstr "Einstellungen für Neu-Anmeldung"
+
+#: wpws-js/translations.php:630
+msgid "Allow attendees to automatically login or register with a link that can be added to pages or emails."
+msgstr "Erlauben Sie Teilnehmern, sich automatisch anzumelden oder zu registrieren, indem Sie einen Link zu Seiten oder E-Mails hinzufügen."
+
+#: wpws-js/translations.php:631
+msgid "See the documentation"
+msgstr "Dokumentation anzeigen"
+
+#: wpws-js/translations.php:632
+msgid "Automatically register WordPress users"
+msgstr "WordPress-Benutzer automatisch registrieren"
+
+#: wpws-js/translations.php:633
+msgid "Automatically login and register WordPress users so they don't see the webinar registration/login page"
+msgstr "Melden Sie WordPress-Benutzer automatisch an und registrieren Sie sie, damit sie die Anmelde-/Registrierungsseite des Webinars nicht sehen"
+
+#: wpws-js/translations.php:634
+msgid "Register for the current session"
+msgstr "Erinnerung einen Tag vor dem Webinar"
+
+#: wpws-js/translations.php:635
+msgid "If there is active session then register the attendee for that session instead of the next session. If there is no active session then the attendee will be registered for the next available session."
+msgstr "Wenn eine aktive Sitzung vorhanden ist, melden Sie den Teilnehmer für diese Sitzung an, anstatt für die nächste Sitzung. Wenn keine aktive Sitzung vorhanden ist, wird der Teilnehmer für die nächste verfügbare Sitzung angemeldet."
+
+#: wpws-js/translations.php:636
+msgid "WordPress Post"
+msgstr "WordPress Beitrag"
+
+#: wpws-js/translations.php:637
+msgid "Featured Image"
+msgstr "Kopfzeilen-Bild"
+
+#: wpws-js/translations.php:638
+msgid "Set the WordPress featured image shown on archive pages"
+msgstr "Legen Sie das WordPress Beitragsbild fest, das auf Archivseiten angezeigt wird"
+
+#: wpws-js/translations.php:639
+msgid "Edit the WordPress post associated with this webinar"
+msgstr "Bearbeiten Sie den WordPress Beitrag, der mit diesem Webinar verbunden ist"
+
+#: wpws-js/translations.php:640
+msgid "Edit WordPress Post"
+msgstr "WordPress Beitrag bearbeiten"
+
+#: wpws-js/translations.php:641
+msgid "Enter full url to your exit page"
+msgstr "Geben Sie die vollständige URL Ihrer Ausstiegsseite ein"
+
+#: wpws-js/translations.php:642
+msgid "Date/Time Color"
+msgstr "Farbe für Datum/Zeit"
+
+#: wpws-js/translations.php:643
+msgid "Page Content"
+msgstr "Inhalt"
+
+#: wpws-js/translations.php:644
+msgid "Show Content Section"
+msgstr "Inhaltsbereich anzeigen"
+
+#: wpws-js/translations.php:645
+msgid "Tab Layout"
+msgstr "Reiter Layout"
+
+#: wpws-js/translations.php:646
+msgid "Hide Registration Form"
+msgstr "Anmeldeformular ausblenden"
+
+#: wpws-js/translations.php:647
+msgid "Hide Login Form"
+msgstr "Login-Formular ausblenden"
+
+#: wpws-js/translations.php:648
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+#: wpws-js/translations.php:649
+msgid "Tab Background Color"
+msgstr "Reiter Hintergrundfarbe"
+
+#: wpws-js/translations.php:650
+msgid "Tab Text Color"
+msgstr "Schriftfarbe"
+
+#: wpws-js/translations.php:651
+msgid "Register Tab"
+msgstr "Registerkarte registrieren"
+
+#: wpws-js/translations.php:652
+msgid "Timeslots to show"
+msgstr "Anzuzeigende Zeitslots"
+
+#: wpws-js/translations.php:653
+msgid "Register Tab Text"
+msgstr "Text für Registerkarte"
+
+#: wpws-js/translations.php:654
+msgid "Body"
+msgstr "Inhalt"
+
+#: wpws-js/translations.php:655
+msgid "Footer"
+msgstr "Fußzeile"
+
+#: wpws-js/translations.php:656
+msgid "Purchase Tab"
+msgstr "Kauftab"
+
+#: wpws-js/translations.php:657
+msgid "Tab Text"
+msgstr "Tab-Text"
+
+#: wpws-js/translations.php:658
+msgid "Link Text"
+msgstr "Link-Text"
+
+#: wpws-js/translations.php:659
+msgid "Login Tab"
+msgstr "Login-Tab"
+
+#: wpws-js/translations.php:660
+msgid "Show Description"
+msgstr "Beschreibungs-Box anzeigen"
+
+#: wpws-js/translations.php:661
+msgid "Use Registration Widgets to create a fully customized registration page then redirect non-registered visitors to that page instead of the page generated by WebinarPress"
+msgstr "Verwenden Sie Registrierungselemente, um eine vollständig angepasste Registrierungsseite zu erstellen, und leiten Sie nicht registrierte Besucher auf diese Seite um, anstatt auf die von WebinarPress generierte Seite"
+
+#: wpws-js/translations.php:662
+msgid "Disable Registration"
+msgstr "Registrierung ausschalten"
+
+#: wpws-js/translations.php:663
+msgid "When registration is disabled new visitors will not be able to register but existing attendees can login and access the webinar"
+msgstr "Wenn die Registrierung deaktiviert ist, können sich neue Besucher nicht registrieren, aber vorhandene Teilnehmer können sich anmelden und auf das Webinar zugreifen"
+
+#: wpws-js/translations.php:664
+msgid "Limited Availability"
+msgstr "Begrenzte Verfügbarkeit"
+
+#: wpws-js/translations.php:665
+msgid "Limit the number of attendees that can register for this webinar. When the limit is reached no new attendees will be able to register."
+msgstr "Begrenzen Sie die Anzahl der Teilnehmer, die sich für dieses Webinar registrieren können. Wenn das Limit erreicht ist, können sich keine neuen Teilnehmer mehr registrieren."
+
+#: wpws-js/translations.php:666
+msgid "Number of attendees"
+msgstr "Anzahl der Teilnehmer"
+
+#: wpws-js/translations.php:667
+msgid "Host & Description Box"
+msgstr "Gastgeber & Beschreibungs Box"
+
+#: wpws-js/translations.php:668
+msgid "Show Host Box"
+msgstr "Gastgeber-Box anzeigen"
+
+#: wpws-js/translations.php:669
+msgid "Title Background Color"
+msgstr "Hintergrundfarbe für den Titel"
+
+#: wpws-js/translations.php:670
+msgid "Title Text Color"
+msgstr "Titel Textfarbe"
+
+#: wpws-js/translations.php:671
+msgid "Show Description Box"
+msgstr "Beschreibungs-Box anzeigen"
+
+#: wpws-js/translations.php:672
+msgid "Show Timestamps"
+msgstr "Zeitstempel anzeigen"
+
+#: wpws-js/translations.php:673
+msgid "Tab"
+msgstr "Tab"
+
+#: wpws-js/translations.php:674
+msgid "Background Text Color"
+msgstr "Hintergrundfarbe"
+
+#: wpws-js/translations.php:675
+msgid "Attendee Questions"
+msgstr "Teilnehmer-Liste"
+
+#: wpws-js/translations.php:676
+msgid "Email Questions to Host"
+msgstr "E-Mail Einstellungen"
+
+#: wpws-js/translations.php:677
+msgid "Receiver Address"
+msgstr "Empfängeradresse"
+
+#: wpws-js/translations.php:678
+msgid "Submit Button"
+msgstr "Senden"
+
+#: wpws-js/translations.php:679
+msgid "Hover Button (Hover)"
+msgstr "Schweben über Schaltfläche (Hover)"
+
+#: wpws-js/translations.php:681
+msgid "Show Incentive"
+msgstr "Incentive Box anzeigen"
+
+#: wpws-js/translations.php:682
+msgid "Content Text Color"
+msgstr "Inhalt Textfarbe"
+
+#: wpws-js/translations.php:684
+msgid "Show Action Box"
+msgstr "Beschreibungs-Box anzeigen"
+
+#: wpws-js/translations.php:685
+msgid "Hand Color"
+msgstr "Hintergrundfarbe"
+
+#: wpws-js/translations.php:686
+msgid "Hand Hover Color"
+msgstr "Hover-Farbe"
+
+#: wpws-js/translations.php:687
+msgid "Hand Active Color"
+msgstr "Button Farbe bei aktivem Zustand"
+
+#: wpws-js/translations.php:688
+msgid "Activate manually"
+msgstr "Call To Actio (CTA = Handlungsaufforderung) aktivieren"
+
+#: wpws-js/translations.php:689
+msgid "Activate after a number of minutes have passed"
+msgstr "Aktivieren, nachdem eine bestimmte Anzahl von Minuten vergangen ist"
+
+#: wpws-js/translations.php:690
+msgid "Show the CTA"
+msgstr "CTA anzeigen"
+
+#: wpws-js/translations.php:691
+msgid "Minutes to wait before activating"
+msgstr "Minuten warten, bevor aktiviert wird"
+
+#: wpws-js/translations.php:692
+msgid "CTA Type"
+msgstr "CTA-Typ"
+
+#: wpws-js/translations.php:693
+msgid "Button URL"
+msgstr "Button URL"
+
+#: wpws-js/translations.php:694
+msgid "Button Text"
+msgstr "Button Text"
+
+#: wpws-js/translations.php:695
+msgid "Hide Title"
+msgstr "Titel verstecken"
+
+#: wpws-js/translations.php:696
+msgid "Media Source"
+msgstr "Medienquelle"
+
+#: wpws-js/translations.php:697
+msgid "WooCommerce Product"
+msgstr "Webinar Produkt"
+
+#: wpws-js/translations.php:698
+msgid "Thank you Message"
+msgstr "Danke-Seite"
+
+#: wpws-js/translations.php:699
+msgid "Available Shortcodes"
+msgstr "Vorhandene Shortcodes"
+
+#: wpws-js/translations.php:700
+msgid "read more"
+msgstr "mehr lesen"
+
+#: wpws-js/translations.php:701
+msgid "To use real-time servers"
+msgstr "Um Echtzeit-Server zu verwenden"
+
+#: wpws-js/translations.php:702
+msgid "please active WebinarPress"
+msgstr "Webinare erstellen"
+
+#: wpws-js/translations.php:703
+msgid "WordPress cron jobs do not appear to be working. To use real-time servers please"
+msgstr "Die WordPress-Cron-Jobs scheinen nicht zu funktionieren. Um Echtzeit-Server zu verwenden, bitte"
+
+#: wpws-js/translations.php:704
+msgid "contact our support team"
+msgstr "kontaktieren Sie unser Support-Team"
+
+#: wpws-js/translations.php:705
+msgid "Your WebinarPress license has expired. To use real-time servers"
+msgstr "WPWebinarSystem Lizenz wurde deaktiviert"
+
+#: wpws-js/translations.php:706
+msgid "please renew your license"
+msgstr "Bitte geben Sie Ihren Namen ein"
+
+#: wpws-js/translations.php:707
+msgid "Your WebinarPress license appears to be invalid. To use real-time servers"
+msgstr "Ihre WebinarPress-Lizenz scheint ungültig zu sein. Um Echtzeit-Server zu verwenden"
+
+#: wpws-js/translations.php:708
+msgid "Save Webinar"
+msgstr "Starten Sie das Webinar"
+
+#: wpws-js/translations.php:709
+msgid "Save Draft"
+msgstr "Entwurf speichern"
+
+#: wpws-js/translations.php:710
+msgid "Design"
+msgstr "Design"
+
+#: wpws-js/translations.php:711
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: wpws-js/translations.php:712
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: wpws-js/translations.php:713
+msgid "Access Control"
+msgstr "Zugangskontrolle"
+
+#: wpws-js/translations.php:714
+msgid "Mailing List"
+msgstr "Mailing-Liste"
+
+#: wpws-js/translations.php:715
+msgid "GDPR / Consent"
+msgstr "DSGVO / Einwilligung"
+
+#: wpws-js/translations.php:716
+msgid "Other"
+msgstr "Sonstiges"
+
+#: wpws-js/translations.php:717
+msgid "Export"
+msgstr "Export"
+
+#: wpws-js/translations.php:718
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: wpws-js/translations.php:719
+msgid "Save & Publish"
+msgstr "Speichern & Veröffentlichen"
+
+#: wpws-js/translations.php:720
+msgid "Webinar Room"
+msgstr "Webinar Time"
+
+#: wpws-js/translations.php:721
+msgid "Registration Page"
+msgstr "Anmelde-Seite"
+
+#: wpws-js/translations.php:722
+msgid "Select a start time for your webinar"
+msgstr "Wählen Sie eine Startzeit für Ihr Webinar aus"
+
+#: wpws-js/translations.php:723
+msgid "Enter the media source URL for your webinar"
+msgstr "Gib die Medienquelle URL für dein Webinar ein"
+
+#: wpws-js/translations.php:724
+msgid "Enter the price of this webinar"
+msgstr "Löschen Sie alle Chat-Nachrichten für dieses Webinar"
+
+#: wpws-js/translations.php:726
+msgid "Visit Registration Page"
+msgstr "Anmelde-Seite"
+
+#: wpws-js/translations.php:727
+msgid "Access Webinar Room"
+msgstr "An Webinar"
+
+#: wpws-js/translations.php:728
+msgid "Messages"
+msgstr "Nachrichten Center"
+
+#: wpws-js/translations.php:729
+msgid "Duplicate webinar"
+msgstr "Webinar kopieren"
+
+#: wpws-js/translations.php:730
+msgid "Delete Webinar"
+msgstr "Webinare erstellen"
+
+#: wpws-js/translations.php:731
+msgid "Draft"
+msgstr ""
+
+#: wpws-js/translations.php:732
+msgid "Status"
+msgstr "Status"
+
+#: wpws-js/translations.php:736
+msgid "You don't have any webinars yet"
+msgstr "Sie haben noch keine Webinare abonniert"
+
+#: wpws-js/translations.php:737
+msgid "No webinars match your filter"
+msgstr "Keine Webinare entsprechen Ihrem Filter"
+
+#: wpws-js/translations.php:738
+msgid "no title"
+msgstr "Kein Titel"
+
+#: wpws-js/translations.php:739
+msgid "Last Modified"
+msgstr "Zuletzt geändert"
+
+#: wpws-js/translations.php:740
+msgid "Auto-Delete In"
+msgstr "Automatisch löschen in"
+
+#: wpws-js/translations.php:741
+msgid "The recording will be automatically deleted when this time runs out. Make sure you download the video as soon as possible."
+msgstr "Die Aufnahme wird automatisch gelöscht, wenn diese Zeit abläuft. Stellen Sie sicher, dass Sie das Video so schnell wie möglich herunterladen."
+
+#: wpws-js/translations.php:742
+msgid "Webinar Recordings"
+msgstr "Webinar-Aufnahmen"
+
+msgid "Limit how close to the start of the webinar attendees can register. For example a setting of 1 hour will register attendees for the following session 1 hour before the next session starts."
+msgstr "Begrenzen Sie, wie nahe am Beginn des Webinars sich Teilnehmer registrieren können. Zum Beispiel registriert eine Einstellung von 1 Stunde Teilnehmer für die nächste Sitzung 1 Stunde vor Beginn der nächsten Sitzung."
+
+#: wpws-js/translations.php:743
+msgid "Delete"
+msgstr "Löschen"
+
+#: wpws-js/translations.php:744
+msgid "You don't have any webinar recordings at the moment"
+msgstr "Sie haben derzeit keine Webinar-Aufnahmen"
+
+#: wpws-js/translations.php:745
+msgid "Delete Attendees"
+msgstr "Teilnehmer"
+
+#: wpws-js/translations.php:746
+msgid "Are you sure you want to delete this attendee?"
+msgstr "Möchten Sie bestimmte Fragen wirklich löschen?"
+
+#: wpws-js/translations.php:747
+msgid "Are you sure you want to delete these attendees"
+msgstr "Möchten Sie bestimmte Fragen wirklich löschen"
+
+#: wpws-js/translations.php:748
+msgid "Unable to delete these attendees"
+msgstr "Diese Teilnehmer können nicht gelöscht werden"
+
+#: wpws-js/translations.php:749
+msgid "Unable to load upcoming sessions"
+msgstr "Kommende Sitzungen können nicht geladen werden"
+
+#: wpws-js/translations.php:750
+msgid "Unable to add attendees to this webinar"
+msgstr "Wähle ein Webinar aus um dessen Teilnehmer zu sehen"
+
+#: wpws-js/translations.php:751
+msgid "Delete Chats"
+msgstr "Chats löschen"
+
+#: wpws-js/translations.php:752
+msgid "Are you sure you want to delete this chat message?"
+msgstr "Möchten Sie diese Chat-Nachricht wirklich löschen?"
+
+#: wpws-js/translations.php:753
+msgid "Are you sure you want to delete these chat messages"
+msgstr "Möchten Sie wirklich den ausgewählten Chat löschen"
+
+#: wpws-js/translations.php:754
+msgid "Unable to delete these chat messages"
+msgstr "Möchten Sie wirklich den ausgewählten Chat löschen"
+
+#: wpws-js/translations.php:755
+msgid "Unable to send a preview email."
+msgstr "Erstellen Sie ein Webinar um eine E-Mail-Vorschau zu senden."
+
+#: wpws-js/translations.php:756
+msgid "Delete Questions"
+msgstr "Private Fragen"
+
+#: wpws-js/translations.php:757
+msgid "Are you sure you want to delete this question?"
+msgstr "Möchten Sie bestimmte Fragen wirklich löschen?"
+
+#: wpws-js/translations.php:758
+msgid "Are you sure you want to delete these questions"
+msgstr "Möchten Sie bestimmte Fragen wirklich löschen"
+
+#: wpws-js/translations.php:759
+msgid "Unable to delete these questions"
+msgstr "Diese Fragen können nicht gelöscht werden"
+
+#: wpws-js/translations.php:760
+msgid "Delete registration form"
+msgstr "Anmeldeformular ausblenden"
+
+#: wpws-js/translations.php:761
+msgid "Are you sure you want to delete this widget?"
+msgstr "Möchten Sie bestimmte Fragen wirklich löschen?"
+
+#: wpws-js/translations.php:762
+msgid "Unable to delete this form"
+msgstr "Dieses Formular kann nicht gelöscht werden"
+
+#: wpws-js/translations.php:763
+msgid "Looks like there is something wrong. Check the key and try again"
+msgstr "Es scheint ein Problem zu geben. Überprüfen Sie den Schlüssel und versuchen Sie es erneut"
+
+#: wpws-js/translations.php:764
+msgid "Unable to revoke Aweber access."
+msgstr "Aweber-Zugriff kann nicht widerrufen werden."
+
+#: wpws-js/translations.php:765
+msgid "Unable to activate your license"
+msgstr "Lizenz deaktivieren"
+
+#: wpws-js/translations.php:766
+msgid "Unable to activate your license."
+msgstr "Lizenz deaktivieren."
+
+#: wpws-js/translations.php:767
+msgid "Unable to deactivate your license."
+msgstr "Deaktivierung Ihrer Lizenz nicht möglich."
+
+#: wpws-js/translations.php:768
+msgid "Overwrite settings"
+msgstr "Einstellungen überschreiben"
+
+#: wpws-js/translations.php:769
+msgid "This will overwrite your current settings. Do you want to continue?"
+msgstr "Dies überschreibt Ihre aktuellen Einstellungen. Möchten Sie fortfahren?"
+
+#: wpws-js/translations.php:770
+msgid "Delete webinar"
+msgstr "Neues Webinar"
+
+#: wpws-js/translations.php:771
+msgid "Are you sure you want to delete this webinar? Attendees, chats and question history will also be deleted."
+msgstr "Sind Sie sicher, dass Sie dieses Webinar löschen möchten? Teilnehmer, Chats und Frageverlauf werden ebenfalls gelöscht."
+
+#: wpws-js/translations.php:772
+msgid "Unable to delete this webinar"
+msgstr "Chatlog ist für dieses Webinar leer"
+
+#: wpws-js/translations.php:774
+msgid "Are you sure you want to delete this recording?"
+msgstr "Möchten Sie bestimmte Fragen wirklich löschen?"
+
+#: wpws-js/translations.php:773
+msgid "Delete Recording"
+msgstr "Aufzeichnung löschen"
+
+#: wpws-js/translations.php:775
+msgid "Unable to delete webinar recording"
+msgstr "Webinar-Aufzeichnung kann nicht gelöscht werden"
+
+msgid "Simulated Chat"
+msgstr "Simulierter Chat"
+
+msgid "Certificate"
+msgstr "Zertifikat"
+
+msgid "New Simulated Chat"
+msgstr "Neuer simulierter Chat"
+
+msgid "Add Chat Message"
+msgstr "Chat-Nachricht hinzufügen"
+
+msgid "Simulated Chat Name"
+msgstr "Name des simulierten Chats"
+
+msgid "Chat Username"
+msgstr "Chat-Benutzername"
+
+msgid "Chat Message"
+msgstr "Chat-Nachricht"
+
+msgid "Launch the chat at"
+msgstr "Chat starten um"
+
+msgid "Registration Fields"
+msgstr "Registrierungsfelder"
+
+msgid "Required"
+msgstr "Erforderlich"
+
+msgid "Optional"
+msgstr "Optional"
+
+msgid "Hidden"
+msgstr "Versteckt"
+
+msgid "Password Protected"
+msgstr "Passwortgeschützt"
+
+msgid "Custom Registration Page"
+msgstr "Benutzerdefinierte Registrierungsseite"
+
+msgid "Choose the exact timestamp that the chat message should be launched"
+msgstr "Wählen Sie den genauen Zeitpunkt aus, zu dem die Chat-Nachricht gestartet werden soll"
+
+msgid "Choose the exact timestamp that the poll should be launched"
+msgstr "Wählen Sie den genauen Zeitpunkt, zu dem die Umfrage gestartet werden soll"
+
+msgid "Send Certificate"
+msgstr "Zertifikat senden"
+
+msgid "Attendee Polls"
+msgstr "Teilnehmerumfragen"
+
+msgid "Polls"
+msgstr "Umfragen"
+
+msgid "Collect extra information from your attendees when they sign up. Available field types include check-boxes, text boxes, phone numbers and drop down lists"
+msgstr "Sammeln Sie zusätzliche Informationen von Ihren Teilnehmern, wenn sie sich anmelden. Verfügbare Feldtypen umfassen Kontrollkästchen, Textfelder, Telefonnummern und Dropdown-Listen"
+
+msgid "Password protect the webinar so that attendees have to enter a password to register for the webinar"
+msgstr "Schützen Sie das Webinar mit einem Passwort, damit die Teilnehmer ein Passwort eingeben müssen, um sich für das Webinar anzumelden"
+
+msgid "Limit the number of attendees that can register for this webinar. When the limit is reached no new attendees will be able to register"
+msgstr "Begrenzen Sie die Anzahl der Teilnehmer, die sich für dieses Webinar anmelden können. Wenn das Limit erreicht ist, können sich keine neuen Teilnehmer mehr anmelden"
+
+msgid "Show a static image after the video finishes"
+msgstr "Zeigen Sie ein statisches Bild, nachdem das Video beendet ist"
+
+msgid "No Attendees!"
+msgstr "Keine Teilnehmer!"
+
+msgid "No messages have been left in this webinar"
+msgstr "Es wurden keine Nachrichten in diesem Webinar hinterlassen"
+
+msgid "When an attendee registers for a paid webinar"
+msgstr "Wenn sich ein Teilnehmer für ein kostenpflichtiges Webinar registriert"
+
+msgid "Enable Chrome optimizations and the gallery view"
+msgstr "Chrome-Optimierungen und die Galerieansicht aktivieren"
+
+msgid "Zoom Settings"
+msgstr "Zoom-Einstellungen"
+
+msgid "Warning - this will prevent resources from third-party domains from being loaded on your webinar page, for example scripts loaded in the script tags."
+msgstr "Warnung - dies verhindert, dass Ressourcen von Drittanbieter-Domains auf Ihrer Webinar-Seite geladen werden, zum Beispiel Skripte, die in den Skript-Tags geladen werden."
+
+msgid "Add code in HEAD"
+msgstr "Code im HEAD hinzufügen"
+
+msgid "Add code in BODY"
+msgstr "Code im BODY hinzufügen"
+
+msgid "Select Certificate"
+msgstr "Zertifikat auswählen"
+
+msgid "Export Certificates (PDF)"
+msgstr "Zertifikate exportieren (PDF)"
+
+msgid "Search Webinars"
+msgstr "Webinare durchsuchen"
+
+msgid "Nobody has said anything yet"
+msgstr "Noch niemand hat etwas gesagt"
+
+#~ msgid "No slots available"
+#~ msgstr "Keine Slots verfügbar"
+
+#~ msgid "WP WebinarSystem Chatlogs"
+#~ msgstr "WP WebinarSystem Chatlogs"
+
+#~ msgid "Select webinar to view chatlogs for active webinars"
+#~ msgstr "Wählen Sie ein Webinar aus, um Chatlogs für aktive Webinare anzuzeigen"
+
+#~ msgid "Invalid Drip API key. To fix, please visit <a href=\"%s\">WebinarSystem Settings</a>."
+#~ msgstr "Ungültiger Drip API key. Bitte korrigiere dies bei den: <a href=\"%s\">WebinarSystem Einstellungen</a>."
+
+#~ msgid "Invalid Enormail API key. To fix, please visit <a href=\"%s\">WebinarSystem Settings</a>."
+#~ msgstr "Ungültiger Enormail API key. Bitte korrigiere dies bei den: <a href=\"%s\">WebinarSystem Einstellungen</a>."
+
+#~ msgid "Invalid %s API KEY and URL."
+#~ msgstr "Ungültiger API-Schlüssel und URL von %s."
+
+#~ msgid "Please visit <a href=\"%s\">WebinarSystem Settings</a> to fix."
+#~ msgstr "Bitte besuchen Sie <a href=\"%s\">WebinarSystem-Einstellungen</a> zur Behebung."
+
+#~ msgid "Please add both API KEY and URL"
+#~ msgstr "Bitte fügen Sie sowohl API KEY als auch URL hinzu"
+
+#~ msgid "Invalid API credentials."
+#~ msgstr "Ungültige API-Anmeldeinformationen."
+
+#~ msgid "Invalid api key!"
+#~ msgstr "Ungültiger API Schlüssel!"
+
+#~ msgid "Invalid MailChimp API key. To fix, please visit <a href=\"%s\">WebinarSystem Settings</a>."
+#~ msgstr "Ungültiger MailChimp API key. Bitte korrigiere dies bei den: <a href=\"%s\">WebinarSystem Einstellungen</a>."
+
+#~ msgid "Now you completed the aWeber authentication. For changes Go to <a href=\"%s\">WebinarSysteem Settings</a>."
+#~ msgstr "Jetzt haben Sie die aWeber-Authentifizierung abgeschlossen. Für Änderungen Gehen Sie zu <a href=\"%s\">WebinarSysteem Einstellungen</a> ."
+
+#~ msgid "Invalid Getresponse API key. To fix, please visit <a href=\"%s\">WebinarSystem Settings</a>."
+#~ msgstr "Ungültiger Getresponse API key. Bitte korrigiere dies bei den: <a href=\"%s\">WebinarSystem Einstellungen</a>."
+
+#~ msgid "WP WebinarSystem Questions"
+#~ msgstr "WP WebinarSystem Fragen"
+
+#~ msgid "Select webinar to view questions for active webinars"
+#~ msgstr "Wähle ein Webinar um Fragen des aktiven Webinars zu sehen"
+
+#~ msgid "Loading available timeslots..."
+#~ msgstr "Lade verfügbare Zeitfenster…"
+
+#~ msgid "You've successfully registered for %s"
+#~ msgstr "Registrierung für %s war erfolgreich"
+
+#~ msgid "You're already registered for %s"
+#~ msgstr "Bereits für %s angemeldet"
+
+#~ msgid "Please enter your email."
+#~ msgstr "Bitte geben Sie Ihre E-Mail Adresse ein."
+
+#~ msgid "Select a day"
+#~ msgstr "Tag wählen"
+
+#~ msgid "Select a day to watch."
+#~ msgstr "Wählen Sie den Tag zum Schauen."
+
+#~ msgid "Select a day first"
+#~ msgstr "Wählen Sie zuerst einen Tag"
+
+#~ msgid "Select a time to watch."
+#~ msgstr "Wählen Sie die Zeit zum Schauen."
+
+#~ msgid "Please register before login."
+#~ msgstr "Bitte zuerst regisitrieren."
+
+#~ msgid "To see which webinars you are registered to, please open the link 'manage profile' from the registration confirmation email message"
+#~ msgstr "Um zu sehen, zu welchen Webinaren Sie registriert sind, öffnen Sie bitte den Link \"Profil verwalten\" aus der e-Mail-Nachricht der Registrierungs Bestätigung"
+
+#~ msgid "Please select a Day."
+#~ msgstr "Bitte wählen Sie einen Tag."
+
+#~ msgid "Your webinar ticket"
+#~ msgstr "Webinar Ticket"
+
+#~ msgid "Views"
+#~ msgstr "Ansichten"
+
+#~ msgid "WP WebinarSystem"
+#~ msgstr "WP WebinarSystem"
+
+#~ msgid "WebinarSystem"
+#~ msgstr "WebinarSystem"
+
+#~ msgid "Chatlog"
+#~ msgstr "Chatlog"
+
+#~ msgid "Your license for WebinarSystem is seems to be Invalid. Please contact support desk!"
+#~ msgstr "Ihre Lizenz für WebinarSystem scheint ungültig zu sein. Bitte wenden Sie sich an den Support!"
+
+#~ msgid "Your WebinarSystem license key has suspended! Please contact the support."
+#~ msgstr "Ihr WebinarSystem-Lizenzschlüssel wurde gesperrt! Bitte kontaktieren Sie den Support."
+
+#~ msgid "Please %senter your license key%s to activate WebinarSystem plugin!"
+#~ msgstr "Bitte %s entiere deinen Lizenzschlüssel %s um das WebinarSystem Plugin zu aktivieren!"
+
+#~ msgid "Howdy,"
+#~ msgstr "Hallöchen,"
+
+#~ msgid "[receiver-name] just signed up for your webinar"
+#~ msgstr "[Receiver-Name] hat sich gerade für Ihr Webinar registriert"
+
+#~ msgid "Regards"
+#~ msgstr "Freundliche Grüsse"
+
+#~ msgid "Hi"
+#~ msgstr "Hallo"
+
+#~ msgid "Thank you for your registration for the webinar. Below you will find the details of the webinar."
+#~ msgstr "Danke für die Anmeldung zum Webinar. Details weiter unten."
+
+#~ msgid "<b>Webinar name:</b>"
+#~ msgstr "<b>Name des Webinars:</b>"
+
+#~ msgid "<b>Date:</b>"
+#~ msgstr "<b>Datum:</b>"
+
+#~ msgid "<b>Time:</b>"
+#~ msgstr "<b>Zeit:</b>"
+
+#~ msgid "<b>Timezone:</b>"
+#~ msgstr "<b>Zeitzone:</b>"
+
+#~ msgid "See you then!"
+#~ msgstr "Bis dann!"
+
+#~ msgid "The webinar you signed up for starts in one hour. Below you will find the link to attend the webinar."
+#~ msgstr "Das Webinar, für welches Sie sich angemeldet haben, startet in einer Stunde. Um daran teilzunehmen klciken Sie den untenstehenden Link."
+
+#~ msgid "Date:"
+#~ msgstr "Datum:"
+
+#~ msgid "Time:"
+#~ msgstr "Zeit:"
+
+#~ msgid "This is a reminder for your upcoming webinar tomorrow. Below you will find the details of the webinar."
+#~ msgstr "Dies ist eine Erinnerung an Ihr morgiges Webinar. Details weiter unten."
+
+#~ msgid "We are starting the webinar [receiver-name]! Click on the link below to join us."
+#~ msgstr "[receiver-name] – das Webinar startet jetzt! Klicke auf den unten aufgeführten Link, um teilzunehmen."
+
+#~ msgid "See you later!"
+#~ msgstr "Bis später!"
+
+#~ msgid "Make sure to join the webinar via this link:"
+#~ msgstr "Nimm mit folgendem Link am Webinar  teil:"
+
+#~ msgid "WP WebinarSystem Attendees"
+#~ msgstr "WP WebinarSystem Teilnehmer"
+
+#~ msgid "Please add webinars to listup."
+#~ msgstr "Bitte füge Webinare zur Liste hinzu."
+
+#~ msgid "E-Mail"
+#~ msgstr "E-Mail"
+
+#~ msgid "Registered For"
+#~ msgstr "Registriert für"
+
+#~ msgid "Please enter valid name and email to add new attendee."
+#~ msgstr "Bitte trage eine gültige E-Mail Adresse ein, um einen neuen Teilnehmer hinzuzufügen."
+
+#~ msgid "Manage Profile"
+#~ msgstr "Profil bearbeiten"
+
+#~ msgid "Question from"
+#~ msgstr "Frage von"
+
+#~ msgid "We are live in one hour!"
+#~ msgstr "In einer Stunde geht es los!"
+
+#~ msgid "Host Names"
+#~ msgstr "Namen der Gastgeber"
+
+#~ msgid "General Options"
+#~ msgstr "Allgemeine Einstellungen"
+
+#~ msgid "Live Page"
+#~ msgstr "Live-Seite"
+
+#~ msgid "Replay Page"
+#~ msgstr "Aufzeichnungs-Seite"
+
+#~ msgid "Default mail provider"
+#~ msgstr "Standard E-Mail-Anbieter"
+
+#~ msgid "You've no mailing list(s) on MailChimp."
+#~ msgstr "Sie haben keine Listen bei MailChimp."
+
+#~ msgid "Select a list.."
+#~ msgstr "Wählen Sie eine Liste.."
+
+#~ msgid "Mailpoet3 list"
+#~ msgstr "Mailpoet3 Liste"
+
+#~ msgid "You've no mailing list(s) on Enormail."
+#~ msgstr "Sie haben keine Listen bei Enormail."
+
+#~ msgid "Select an account.."
+#~ msgstr "Wählen Sie ein Konto.."
+
+#~ msgid "You've no account(s) on Drip."
+#~ msgstr "Sie haben keine Listen bei Drip."
+
+#~ msgid "Select a campaign.."
+#~ msgstr "Wählen Sie eine Kampagne.."
+
+#~ msgid "You've no campaigns(s) under Drip Account."
+#~ msgstr "Sie haben keine Listen bei Drip."
+
+#~ msgid "AWeber List"
+#~ msgstr "Aweber List ID"
+
+#~ msgid "Prevent info emails"
+#~ msgstr "Verhindert Info-E-Mails"
+
+#~ msgid "Prevent users from registering when they use an info email addresses"
+#~ msgstr "Verhindern Sie, dass Benutzer sich registrieren, wenn sie eine Info-E-Mail-Adresse verwenden"
+
+#~ msgid "%s list"
+#~ msgstr "%s Liste"
+
+#~ msgid "You've no mailing list(s) on %s."
+#~ msgstr "Sie haben keine Listen bei %s."
+
+#~ msgid "Click Export to download backup of current webinar settings. Upload your already exported file to Import section to apply settings from other webinar."
+#~ msgstr "Klicken Sie auf “Export” um die aktuellen Webinar-Einstellungen herunter zu laden. Laden Sie eine Exportdatei hoch um Einstellungen eines anderen Webinars zu übernehmen."
+
+#~ msgid "Working on it..."
+#~ msgstr "Arbeiten daran…"
+
+#~ msgid "Webinar will be presented by:"
+#~ msgstr "Das Webinar wird präsentiert von:"
+
+#~ msgid "Separate each by commas"
+#~ msgstr "Durch Kommas getrennt"
+
+#~ msgid "Host Title Background color"
+#~ msgstr "Gastgeber-Hintergrundfarbe"
+
+#~ msgid "Host Title Text color"
+#~ msgstr "Gastgeber Titelfarbe"
+
+#~ msgid "Host Text color"
+#~ msgstr "Gastgeber Textfarbe"
+
+#~ msgid "Description Title Background color"
+#~ msgstr "Beschreibungstitel-Hintergrundfarbe"
+
+#~ msgid "Description Title Text color"
+#~ msgstr "Beschreibungstitel-Textfarbe"
+
+#~ msgid "Show Question box"
+#~ msgstr "Fragen-Box anzeigen"
+
+#~ msgid "Send an email on every question"
+#~ msgstr "E-Mail senden für jede Frage"
+
+#~ msgid "If then email to"
+#~ msgstr "Senden Sie E-Mails an"
+
+#~ msgid "Button Hover Background Color"
+#~ msgstr "Schaltfläche Hover Hintergrundfarbe"
+
+#~ msgid "Button Hover Border Color"
+#~ msgstr "Button Rahmenfarbe bei Hover"
+
+#~ msgid "Button Hover Text color"
+#~ msgstr "Button Textfarbe bei Hover"
+
+#~ msgid "Live chatbox"
+#~ msgstr "Live Chat-Fenster"
+
+#~ msgid "Show Chatbox"
+#~ msgstr "Chat-Fenster anzeigen"
+
+#~ msgid "Title Text color"
+#~ msgstr "Textfarbe für den Titel"
+
+#~ msgid "Text Color of Button"
+#~ msgstr "Button Schriftfarbe"
+
+#~ msgid "Questionbox tab"
+#~ msgstr "Reiter Frage-Fenster"
+
+#~ msgid "Tab Title Text color"
+#~ msgstr "Reiter Titel Schriftfarbe"
+
+#~ msgid "Chatbox tab"
+#~ msgstr "Reiter Chat-Fenster"
+
+#~ msgid "Incentive Title"
+#~ msgstr "Anreiz Titel"
+
+#~ msgid "Incentive box content"
+#~ msgstr "Anreizbox Inhalt"
+
+#~ msgid "Hand button color "
+#~ msgstr "Button Farbe "
+
+#~ msgid "Hand button hover color "
+#~ msgstr "Button Farbe bei Hover "
+
+#~ msgid "Background Color "
+#~ msgstr "Hintergrundfarbe "
+
+#~ msgid "Border Color  "
+#~ msgstr "Farbe des Rahmens "
+
+#~ msgid "Preview Page"
+#~ msgstr "Vorschau-Seite"
+
+#~ msgid "Only use this generated link for test purposes"
+#~ msgstr "Nutzen Sie diesen automatisch erstellten Link nur zu Testzwecken"
+
+#~ msgid "every 15 minutes"
+#~ msgstr "alle 15 Minuten"
+
+#~ msgid "every 20 minutes"
+#~ msgstr "alle 20 Minuten"
+
+#~ msgid "every 30 minutes"
+#~ msgstr "alle 30 Minuten"
+
+#~ msgid "every 40 minutes"
+#~ msgstr "Alle 40 Minuten"
+
+#~ msgid "every 45 minutes"
+#~ msgstr "Alle 45 Minuten"
+
+#~ msgid "every 50 minutes"
+#~ msgstr "Alle 50 Minuten"
+
+#~ msgid "every 60 minutes"
+#~ msgstr "alle 60 Minuten"
+
+#~ msgid "WP WebinarSystem Options"
+#~ msgstr "WP WebinarSystem Einstellungen"
+
+#~ msgid "Mailinglist providers"
+#~ msgstr "Mailinglisten-Anbieter"
+
+#~ msgid "Integrations"
+#~ msgstr "Integrationen"
+
+#~ msgid "System Status"
+#~ msgstr "System-Status"
+
+#~ msgid "Reminder day before Webinar"
+#~ msgstr "Erinnerung einen Tag vor dem Webinar"
+
+#~ msgid "Reminder one hour before Webinar"
+#~ msgstr "Erinnerung eine Stunde vor dem Webinar"
+
+#~ msgid "Reminder Webinar Starting"
+#~ msgstr "Erinnerung beim Start des Webinars"
+
+#~ msgid "Sender email"
+#~ msgstr "Absender E-Mail"
+
+#~ msgid "Upload"
+#~ msgstr "Hochladen"
+
+#~ msgid "Email Footer Text"
+#~ msgstr "E-Mail Fusszeilen-Text"
+
+#~ msgid "Email Body Background color"
+#~ msgstr "Mail-Hintergrundfarbe"
+
+#~ msgid "Email Body Text color"
+#~ msgstr "Mail-Textfarbe"
+
+#~ msgid "Choose Unsusbscribe Page"
+#~ msgstr "Wählen Sie Unsusbscribe Seite"
+
+#~ msgid "WP WebinarSystem plugin uses it's own generated page by default. If you prefer an own custom page, then please select this on the dropdown menu + add shortcode [wpws_unsubscribe] to your page."
+#~ msgstr "WP webinarsystem Plugin verwendet standardmäßig seine eigene generierte Seite. Wenn Sie eine eigene benutzerdefinierte Seite bevorzugen, dann wählen Sie diese bitte auf dem Dropdown--Menü + fügen Sie Shortcode [wpws_unsubscribe] auf Ihre Seite."
+
+#~ msgid "Email Head"
+#~ msgstr "E-Mail Header"
+
+#~ msgid "Admin Email Address"
+#~ msgstr "E-Mail-Adresse des Administrators"
+
+#~ msgid "Your email address"
+#~ msgstr "Ihre E-Mail Adresse"
+
+#~ msgid "Registration Confirmation Email "
+#~ msgstr "Anmeldebestätigung e-Mail "
+
+#~ msgid "Reminder day before Webinar "
+#~ msgstr "Erinnerung einen Tag vor dem Webinar "
+
+#~ msgid "Reminder one hour before Webinar "
+#~ msgstr "Erinnerung eine Stunde vor dem Webinar "
+
+#~ msgid "Reminder when Webinar starts"
+#~ msgstr "Erinnerung beim Start des Webinars"
+
+#~ msgid "Send Webinar Replay Link"
+#~ msgstr "Link zur Webinar Aufzeichnung senden"
+
+#~ msgid "The API key you have received from Drip"
+#~ msgstr "Den API Schlüssel, den Sie von Drip erhalten haben"
+
+#~ msgid "MailChimp API Key"
+#~ msgstr "MailChimp API Schlüssel"
+
+#~ msgid "The API key you have received from MailChimp"
+#~ msgstr "Den API Schlüssel, den Sie von MailChimp erhalten haben"
+
+#~ msgid "Enormail API Key"
+#~ msgstr "Enormail API Schlüssel"
+
+#~ msgid "The API key you have received from Enormail"
+#~ msgstr "Den API Schlüssel, den Sie von Enormail erhalten haben"
+
+#~ msgid "Getresponse API Key"
+#~ msgstr "GetResponse API Key"
+
+#~ msgid "The API key you have received from Getresponse"
+#~ msgstr "Der API-Schlüssel, den Sie von Getresponse erhalten haben"
+
+#~ msgid "The API key you have received from ActiveCampaign"
+#~ msgstr "Der API-Schlüssel, den Sie von ActiveCampaign erhalten haben"
+
+#~ msgid "ActiveCampaign API URL"
+#~ msgstr "ActiveCampaign API URL"
+
+#~ msgid "eg: "
+#~ msgstr "Bsp.: "
+
+#~ msgid "Change WebinarSystem Settings"
+#~ msgstr "WebinarSystem Einstellungen anpassen"
+
+#~ msgid "Copied!"
+#~ msgstr "Kopiert!"
+
+#~ msgid "Get System Report"
+#~ msgstr "System Report erhalten"
+
+#~ msgid "WP Version"
+#~ msgstr "WP Version"
+
+#~ msgid "WP Multisite"
+#~ msgstr "WP Multisite"
+
+#~ msgid "WP Debug mode"
+#~ msgstr "WP Debug mode"
+
+#~ msgid "WP Cron status"
+#~ msgstr "Cron Status"
+
+#~ msgid "Language"
+#~ msgstr "Sprache"
+
+#~ msgid "Server Environment"
+#~ msgstr "Server System"
+
+#~ msgid "PHP Version"
+#~ msgstr "PHP-Version"
+
+#~ msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+#~ msgstr "Die PHP-Version konnte nicht festgestellt werden."
+
+#~ msgid "PHP Post Max Size"
+#~ msgstr "PHP Post Max Size"
+
+#~ msgid "PHP Max Input Vars"
+#~ msgstr "PHP Max Input Vars"
+
+#~ msgid "MySQL Version"
+#~ msgstr "MySQL Version"
+
+#~ msgid "Max Upload Size"
+#~ msgstr "Max Upload Size"
+
+#~ msgid "PHP Memory Limit"
+#~ msgstr "PHP Memory Limit"
+
+#~ msgid "Server Time"
+#~ msgstr "Uhrzeit Server"
+
+#~ msgid "N/A"
+#~ msgstr "N/A"
+
+#~ msgid "Active Plugins ("
+#~ msgstr "Aktive Plugins ("
+
+#~ msgid "by "
+#~ msgstr "von "
+
+#~ msgid "Theme"
+#~ msgstr "Theme"
+
+#~ msgid "Author URL"
+#~ msgstr "Autor URL"
+
+#~ msgid "The WPWebinarSystem license you entered is invalid."
+#~ msgstr "Der von Ihnen eingegebene Lizenzschlüssel ist ungültig."
+
+#~ msgid "Your WPWebinarSystem license is expired. Please renew or the plugin will not work as expected. Please activate your copy as soon as possible."
+#~ msgstr "Ihre WPWebinarSystem-Lizenz ist abgelaufen. Bitte erneuern Sie die Lizenz oder das Plugin funktioniert nicht wie erwartet. Bitte aktivieren Sie Ihre Kopie so schnell wie möglich."
+
+#~ msgid "Make Webinar only accessible for : "
+#~ msgstr "Webinar nur zugänglich machen für : "
+
+#~ msgid "Only for user roles"
+#~ msgstr "Nur für Benutzerrollen"
+
+#~ msgid "Member Levels"
+#~ msgstr "Mitgliedsebene"
+
+#~ msgid "Member Level"
+#~ msgstr "Mitgliedsebene"
+
+#~ msgid "User Id's"
+#~ msgstr "Benutzer-ID"
+
+#~ msgid "Enter user ID. (You can add multiple user ID's. ID separated by comma)."
+#~ msgstr "Geben Sie die Benutzer-ID ein. (Sie können mehrere Benutzer-IDs hinzufügen. ID durch Komma getrennt)."
+
+#~ msgid "Howdy"
+#~ msgstr "Guten Tag"
+
+#~ msgid "asked the following question during"
+#~ msgstr "stellte folgende Frage während"
+
+#~ msgid "We are going live now"
+#~ msgstr "Es geht jetzt los"
+
+#~ msgid "Thank you for purchasing a webinar ticket. Please click on the button below to login for the webinar when it starts."
+#~ msgstr "Vielen Dank für den Kauf eines Webinar-Tickets. Bitte klicken Sie auf den Button unten, um sich für das Webinar anzumelden, wenn es startet."
+
+#~ msgid "If you can't see the link, please visit:"
+#~ msgstr "Wenn Sie den Link nicht sehen können, besuchen Sie bitte:"
+
+#~ msgid "Title color"
+#~ msgstr "Titelfarbe"
+
+#~ msgid "Countdown Page Background Image"
+#~ msgstr "Hintergrundbild für die Countdown-Seite"
+
+#~ msgid "Upload Image"
+#~ msgstr "Bild hochladen"
+
+#~ msgid "Recurring on every"
+#~ msgstr "Findet statt jeden"
+
+#~ msgid "Webinar starts at"
+#~ msgstr "Das Webinar beginnt um"
+
+#~ msgid "Thankyou Page Background Image"
+#~ msgstr "Hintergrundbild für die Danke-Seite"
+
+#~ msgid "Webinar type"
+#~ msgstr "Art des Webinars"
+
+#~ msgid "File"
+#~ msgstr "Datei"
+
+#~ msgid "RTMP Stream"
+#~ msgstr "RTMP Stream"
+
+#~ msgid "Start HOA broadcast from Youtube website"
+#~ msgstr "Start Hoa Broadcast von YouTube Website"
+
+#~ msgid "Start a livestream with Youtube Live"
+#~ msgstr "Starten Sie einen Livestream mit YouTube Live"
+
+#~ msgid "Hangouts on Air URL"
+#~ msgstr "Hangouts on Air URL"
+
+#~ msgid "Youtube URL"
+#~ msgstr "YouTube URL"
+
+#~ msgid "File URL"
+#~ msgstr "Dateipfad"
+
+#~ msgid "RTMP Server URL"
+#~ msgstr "RTMP Server URL"
+
+#~ msgid "HLS Server URL"
+#~ msgstr "HLS Server URL"
+
+#~ msgid "Registration Page Video Image"
+#~ msgstr "Video-Bild für die Registrierungs-Seite"
+
+#~ msgid "Paste Youtube/Hangouts URL here (Eg: %s OR %s)"
+#~ msgstr "Hier YouTube/Hangouts URL einfügen (Bsp: %s oDER %s)"
+
+#~ msgid "Paste Vimeo video ID here (Eg: 129673042)"
+#~ msgstr "Hier Vimeo Video ID einfügen (Bsp.: 129673042)"
+
+#~ msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+#~ msgstr "Bild Adresse (URL) (z. B.: https://example.com/images/the_image.jpg)"
+
+#~ msgid "It's best to host your video file outside your website to save bandwidth."
+#~ msgstr "Du kannst das Video in deine Mediathek hochladen."
+
+#~ msgid "Some browsers will restrict the autoplay functionality"
+#~ msgstr "Einige Browser beschränken die Autoplay-Funktionalität"
+
+#~ msgid "Controls will stay visible for webinar host, but will be hidden for your attendees"
+#~ msgstr "Funktionen/Kontrollen bleiben für den Webinar-Gastgeber sichtbar, werden aber für die Teilnehmer versteckt"
+
+#~ msgid "Show CTA after (minutes)"
+#~ msgstr "CTA nach (Minuten) anzeigen"
+
+#~ msgid "CTA Content"
+#~ msgstr "Inhalt für CTA"
+
+#~ msgid "Page Background image"
+#~ msgstr "Hintergrundbild für die Seite"
+
+#~ msgid "Registration Page Background Image"
+#~ msgstr "Hintergrundbild für die Registrierungs-Seite"
+
+#~ msgid "Registration Page Image"
+#~ msgstr "Bild für die Registrierungs-Seite"
+
+#~ msgid "Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+#~ msgstr "Youtube Video URL einfügen (Bsp.: https://www.youtube.com/watch?v=t80qhLsjhJ0)"
+
+#~ msgid "Enable GDPR Opt-in for Paid webinars"
+#~ msgstr "GDPR-Opt-in für bezahlte Webinare aktivieren"
+
+#~ msgid "Enable GDPR Opt-in for Non-Paid webinars"
+#~ msgstr "GDPR-Opt-in für nicht bezahlte Webinare aktivieren"
+
+#~ msgid "I agree my personal information will be stored on your website for the use of this webinar and to send me notifications about the event"
+#~ msgstr "Ich bin damit einverstanden, dass meine persönlichen Daten auf Ihrer Website für die Nutzung dieses Webinars gespeichert werden und mir Benachrichtigungen über die Veranstaltung zukommen lassen"
+
+#~ msgid "Form & Tab Layout"
+#~ msgstr "Formular & Reiter Layout"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "Login Tab Text"
+#~ msgstr "Reiter Login Text"
+
+#~ msgid "Register Title"
+#~ msgstr "Titel registrieren"
+
+#~ msgid "Button Background color"
+#~ msgstr "Hintergrundfarbe für die Schaltfläche"
+
+#~ msgid "Button Border color"
+#~ msgstr "Rahmenfarbe für die Schaltfläche"
+
+#~ msgid "CTA Button Text"
+#~ msgstr "Text für die CTA Schaltfläche"
+
+#~ msgid "Show Description Section"
+#~ msgstr "Beschreibungs-Abschnitt anzeigen"
+
+#~ msgid "Description text color"
+#~ msgstr "Textfarbe der Beschreibung"
+
+#~ msgid "Description background color"
+#~ msgstr "Hintergrundfarbe der Beschreibung"
+
+#~ msgid "Description border color"
+#~ msgstr "Rahmenfarbe der Beschreibung"
+
+#~ msgid "Replay Page Background Image"
+#~ msgstr "Hintergrundfarbe für die Aufzeichnungs-Seite"
+
+#~ msgid "Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM OR http://youtu.be/CqlB2SiG-ac)"
+#~ msgstr "Youtube-URL hier einfügen (Bsp.: https://www.youtube.com/watch?v=t80qhLsjhJ0 ODER https://youtu.be/t80qhLsjhJ0)"
+
+#~ msgid "Paste Vimeo video ID here (Eg: 129673042))"
+#~ msgstr "Hier Vimeo Video ID einfügen (Bsp.: 129673042)"
+
+#~ msgid "Thank you Page Image"
+#~ msgstr "Danke-Seite Bild"
+
+#~ msgid "Border color-2"
+#~ msgstr "Zweite Rahmenfarbe"
+
+#~ msgid "This section is to issue tickets for webinars. Enable WooCommerce Integration from <a href=\"%s\" target=\"_blank\">WebinarSystem Settings</a> to use this feature."
+#~ msgstr "Dieser Abschnitt soll Karten für Webinare ausstellen. Aktiviere die WooCommerce-Integration aus den <a href=\"%s\" target=\"_blank\">WebinarSystem-Einstellungen</a> , um diese Funktion zu nutzen."
+
+#~ msgid "Ticket details"
+#~ msgstr "Ticket Details"
+
+#~ msgid "Buying Form Title"
+#~ msgstr "Kaufen Formular Titel"
+
+#~ msgid "Buying Form Description"
+#~ msgstr "Kaufen Formular Beschreibung"
+
+#~ msgid "Price"
+#~ msgstr "Preis"
+
+#~ msgid "Ticket Title"
+#~ msgstr "Ticket Titel"
+
+#~ msgid "This domain (%s)"
+#~ msgstr "Diese Domain (%s)"
+
+#~ msgid "If you have an Agency license, it will be applied for all websites."
+#~ msgstr "Wenn Sie eine Agenturlizenz besitzen, wird diese für alle Websites angewendet."
+
+#~ msgid "Flush data (Recheck)"
+#~ msgstr "Daten leeren (erneut prüfen)"
+
+#~ msgid "Your copy of WebinarSysteem is not activated. Plugin will not work as expected. Please activate your copy."
+#~ msgstr "Ihr WebinarSystem ist nicht aktiviert. Das Plugin wird nicht wie erwartet funktionieren. Bitte aktivieren Sie es."
+
+#~ msgid "Activated sites"
+#~ msgstr "Aktivierte Websites"
+
+#~ msgid "Google Calendar"
+#~ msgstr "Google Kalender"
+
+#~ msgid "iCal / Outlook"
+#~ msgstr "iCal / Outlook"
+
+#, fuzzy
+#~ msgid "Activate License"
+#~ msgstr "Aktive Plugins("
+
+#~ msgid "Save and bookmark this URL so you can get access the live webinar replay..."
+#~ msgstr "Bitte speichern Sie diese Adresse, damit Sie die Aufzeichnung des Live-Webinars anschauen können…"
+
+#~ msgid "Provide an image url or a Youtube Video ID"
+#~ msgstr "Bitte eine Bild-Adresse (URL) or die ID eines Youtube Video angeben"
+
+#~ msgid "Thanking Page Video Image"
+#~ msgstr "Video-Bild für die Danke-Seite"
+
+#~ msgid "Presentator"
+#~ msgid_plural "Presentators"
+#~ msgstr[0] "Gastgeber"
+#~ msgstr[1] "Gastgeber"
+
+#~ msgid "And, Sign-in"
+#~ msgstr "Und, melden Sie sich an"

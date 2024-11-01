@@ -1,0 +1,196 @@
+.tmp-main { font-family: 'Ubuntu', sans-serif !important; }
+.tmp-main-reg { color: #C7C7C7 !important; font-family: 'Ubuntu', sans-serif !important; }
+.tmp-post { background-color: #F1F1F1; overflow: visible; }
+.tmp-live { font-family: 'Ubuntu', sans-serif !important; color: #FFF; }
+.tmp-replay { font-family: 'Ubuntu', sans-serif !important; color: #FFF; }
+body { background-repeat: no-repeat; background-size: cover }
+body:before { content: none !important; }
+#custom-tabs { border-bottom:none;}
+#custom-tabs li { border-left: 3px solid #333; border-radius: 5px 5px 0 0; border-right: 3px solid #333; border-top: 3px solid #333; margin-right: 3px; margin-bottom:-3px; }
+#custom-tabs > li > a, #custom-tabs > li > a:hover, #custom-tabs > li > a:focus { color: #FFFFFF; background: #999999 none repeat scroll 0 0; margin: 0px; border-radius: 0px; border-left: none; border-right: none; border-top: none; border-bottom: 0px solid #333333; }
+#custom-tabs li.active > a, #custom-tabs > li.active > a:hover, #custom-tabs > li.active > a:focus { background: #545454 none repeat scroll 0 0; color: #fff; text-decoration: none; border-bottom: 0px; }
+.round-border { background-color: rgba(0, 0, 0, 0.67); border-top: 3px solid #333; border-bottom: 3px solid #333; border-left: 3px solid #333; border-radius: 5px 5px 5px 5px; border-right: 3px solid #333; }
+.round-border-full{background-color: rgba(0, 0, 0, 0.67);border: 3px solid;border-radius: 10px;}
+.live-box { border-radius: 10px; background-color: rgba(0, 0, 0, 0.67); }
+.replay-box { border-radius: 10px; background-color: rgba(0, 0, 0, 0.67); }
+.signup, .login { padding: 10px 10px 22px 10px; }
+.footer { margin: 60px 0px 60px 0px; padding: 30px 30px; }
+.forminputs { margin-bottom: 10px; white-space: normal !important; }
+#embed {
+    border-radius: 10px; overflow: hidden;
+    -webkit-mask-image: -webkit-radial-gradient(circle, white 100%, black 100%);
+    -webkit-transform: rotate(0.000001deg);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#webinar-actionbar { position: fixed; top: 0; z-index: 999999; background-color: #EEEEEE; width: 100%; height: 32px; border-bottom: 2px solid #009900; }
+#webinar-actionbar ul { float: left; padding: 0; list-style: none; }
+#webinar-actionbar ul.right-column { float: right; }
+#webinar-actionbar ul li { float: left; position: relative; }
+#webinar-actionbar>ul>li>a { padding: 6px 7px; display: block; height: 31px; color: #535353; text-decoration: none; }
+#webinar-actionbar ul li a.icon { font-size: 20px; color: #535353; }
+#webinar-actionbar ul li:hover { background: #DDDDDD; }
+#webinar-actionbar>ul>li:hover>a { background: #DDDDDD; text-decoration: none; color: #535353; border-bottom: 1px solid #009900; }
+#webinar-actionbar ul li ul { display: none; position: absolute; background: #EEEEEE; left: -50px; width: 150px; border: 2px solid #009900; border-top: 0; }
+#webinar-actionbar ul li:hover ul { display: block; }
+#webinar-actionbar ul li ul li { padding: 4px 10px; width: 100%; }
+#webinar-actionbar ul li ul li a { font-size: 12px; text-decoration: none; color: #535353; }
+#webinar-actionbar .status-text { text-transform: uppercase; color: #FF0000; font-weight: bold; }
+#webinar-actionbar>ul>li:hover>.disable-hover { background: #EEEEEE; border-bottom: 1px solid #009900; cursor: default; pointer-events: none !important }
+#webinar-live-viewers { display: block; float: right; padding: 0px 5px; }
+#webinar-live-viewers-icon:before { font-family: "webinarsysteem" !important; content: "c"; }
+.tnxp-box { overflow: hidden; background-color: #F0F0F0; border: #C7C7C7 2px solid; padding: 10px; margin-top: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
+.ticket-top { padding: 10px; height: 90px; -webkit-border-top-left-radius: 10px; -webkit-border-top-right-radius: 10px; -moz-border-radius-topleft: 10px; -moz-border-radius-topright: 10px; border-top-left-radius: 10px; border-top-right-radius: 10px; }
+.ticket-info { border-bottom: 1px #000 dotted; margin-top: 10px; }
+.tick-left { font-weight: 700; }
+.tick-right { margin-left: 10px; }
+.ticket-bottom { -webkit-border-bottom-right-radius: 10px; -webkit-border-bottom-left-radius: 10px; -moz-border-radius-bottomright: 10px; -moz-border-radius-bottomleft: 10px; border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; }
+.tickets { border-radius: 10px; margin-top: 0px; min-width: 277px; }
+.btm-btn { font-size: 12px !important; border-color: #92301c !important; margin-left: 10px;  /*min-width:165px;*/ margin-top: 5px; background-color: #fed65e !important; font-weight: 700 !important; color: #861e14 !important; }
+.tmp-post-container { -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; -webkit-box-shadow: -2px 0px 3px 0px rgba(50, 50, 50, 1); -moz-box-shadow: -2px 0px 3px 0px rgba(50, 50, 50, 1); box-shadow: -2px 0px 3px 0px rgba(50, 50, 50, 1); }
+.live-title-sub { margin-left: 10px; }
+.live-title { background-color: #FFF; color: black; text-transform: capitalize; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; padding: 10px; }
+.replay-title { background-color: #FFF; color: black; text-transform: capitalize; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; padding: 10px; }
+.livep-content { margin: 0px 0px 0px 5px; padding: 5px 5px 5px 5px; line-height: 22px; }
+.tmp-main .error { background: #EC0000; padding: 3px 8px; margin-bottom: 8px; display: inline-block; color: #fff; }
+.tmp-countdown h2.countdown { font-size: 47px; text-align: center; line-height: 80px; }
+.tmp-closed h2.closed { font-size: 47px; text-align: center; line-height: 80px; }
+.tmp-closed h3.closed { font-size: 35px; text-align: center; line-height: 80px; }
+.tmp-countdown { font-family: 'Ubuntu', sans-serif !important; }
+.tmp-closed { color: #C7C7C7 !important; font-family: 'Ubuntu', sans-serif !important; }
+.webinarTitle { color: #F00; font-weight: 400; }
+#hidethis { display: none; }
+.tmp-live #myQuestions { }
+.tmp-live #myQuestions #ques_load { max-height: 143px; overflow: auto; display: block; }
+.tmp-live #myQuestions .myquestion { margin-left: 10px; border-bottom: 1px solid #776767; color: #B1B12F; }
+.tmp-live #myQuestions .myquestion span { margin-right: 15px; color: #34B1E2; font-size: 11px; }
+.showIfCountdownStop { display: none; }
+.refreshNotice { text-align: center; font-size: 35px; display: none; font-family: 'Ubuntu', sans-serif !important; line-height: 1.1 !important; }
+.addthisevent-drop { display: inline-block; position: relative; z-index: 999998; font-family: arial; color: #333; text-decoration: none; font-size: 14px; text-decoration: none; }
+.addthisevent-drop:hover { color: #555; font-size: 14px; text-decoration: none; }
+.addthisevent_dropdown { width: 177px; position: absolute; z-index: 99999; background: #fed65e; text-align: left; display: none; margin-top: 4px; margin-left: -1px; border: 1px solid #840000; -moz-border-radius: 2px; -webkit-border-radius: 2px; -webkit-box-shadow: 1px 3px 6px rgba(0,0,0,0.15); -moz-box-shadow: 1px 3px 6px rgba(0,0,0,0.15); box-shadow: 1px 3px 6px rgba(0,0,0,0.15); }
+.addthisevent_dropdown span { width: 100%; display: block; line-height: 110%; background: #fed65e; text-decoration: none; font-size: 12px; color: #92301c; padding: 8px 10px 9px 15px; }
+.addthisevent_dropdown span:hover { background: #FFDF79; text-decoration: none; font-size: 12px; }
+.addthisevent span { display: none!important; }
+.addthisevent-drop ._url, .addthisevent-drop ._start, .addthisevent-drop ._end, .addthisevent-drop ._summary, .addthisevent-drop ._description, .addthisevent-drop ._location, .addthisevent-drop ._organizer, .addthisevent-drop ._organizer_email, .addthisevent-drop ._facebook_event, .addthisevent-drop ._all_day_event { display: none!important; }
+.addthisevent_dropdown .copyx { width: 200px; height: 21px; display: block; position: relative; cursor: default; }
+.addthisevent_dropdown .brx { width: 180px; height: 1px; overflow: hidden; background: #e0e0e0; position: absolute; z-index: 100; left: 10px; top: 9px; }
+.addthisevent_dropdown .frs { position: absolute; top: 5px; cursor: pointer; right: 10px; padding-left: 10px; font-style: normal; font-weight: normal; text-align: right; z-index: 101; line-height: 110%; background: #fff; text-decoration: none; font-size: 9px; color: #cacaca; }
+.addthisevent_dropdown .frs:hover { color: #6d84b4; }
+.addthisevent { visibility: hidden; }
+.social-buttons { padding: 10px; }
+.hand-raised-admin{ color: #ff0000 !important; }
+.cusrsor-pointer{ cursor: pointer; }
+.raise-hand-lg{ color: #FFFFFF; font-size: 40px !important; margin: 13px;}
+.raise-hand-box{    height: 70px; margin-top: 10px; cursor: pointer; border: 3px solid;}
+.weninar-chat-showbox{background-color: #fff;width: 100%;min-height: 180px; border-radius: 5px; padding: 5px; overflow: scroll; overflow-x: hidden; max-height: 180px;}
+.webinar-chat-content{width: 100% !important; border-radius: 5px 0px 0px 5px; height: 34px;padding: 5px;border: none;}
+#webinar-chat-action{padding-top: 10px;}
+.webinar-livep-navs li{ cursor: pointer; }
+.webinar-other-chat{ color: #9C27B0; padding: 2px;}
+.webinar-my-chat{ color: #4CAF50; }
+.webinar-moderator{ color: #039BE5; }
+.webinar-admin-chatico{ margin-left: 40%; }
+.webinar-admin-chatico li{ height: 100%; cursor: pointer; width: 30px; text-align: center; }
+#wswebinar_private_que{ min-width: 300px; max-height: 400px; overflow: scroll; text-align: left; }
+#wswebinar_private_que span{ color: black;}
+.webinar_privcht_dark{ padding: 5px; background-color: rgb(247, 247, 247); }
+.webinar_privcht_light{ padding: 5px; background-color: #EEEEEE; }
+.webinar_privcht_system{ padding: 5px; background-color: #DCDCDC; font-size: 12px; }
+.bootstrap-switch-wrapper{ max-height: 30px; }
+.webinar-bswitch{ float: right; margin: -40px 0px 15px 0px; }
+.webinar-admin-message{ color: #9E9E9E; }
+.display-block{ display: block !important; }
+.display-none-high{ display: none !important; }
+.message-center-active{background: #DDDDDD;}
+.message-center-newmsg{color: #FF002C !important;}
+.webinar-chat-push{border-radius: 0px 5px 5px 0px;width: 100% }
+.bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-default,
+.bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-webinar-bswitchoff {
+    color: #FFF;
+    background: #009900 !important;
+    white-space: nowrap;
+}
+.bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-default,
+.bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-webinar-bswitchon {
+    color: #FFF;
+    background: #ff0000 !important;
+    white-space: nowrap;
+}
+
+.bootstrap-switch.bootstrap-switch-wrapper.bootstrap-switch-on.bootstrap-switch-id-wsweb_enable_sound .bootstrap-switch-handle-on.bootstrap-switch-webinar-bswitchon{ color: #FFF; background: #009900 !important; }
+.bootstrap-switch.bootstrap-switch-wrapper.bootstrap-switch-off.bootstrap-switch-id-wsweb_enable_sound.bootstrap-switch-animate.webinar-bswitch, .bootstrap-switch.bootstrap-switch-wrapper.bootstrap-switch-on.bootstrap-switch-id-wsweb_enable_sound.bootstrap-switch-animate.webinar-bswitch {margin-top: 0px !important; margin-left: 5px; float: none !important; text-align: center;}
+
+#adminbar-handraised{ color: #535353; margin-left: 3px; }
+#wswebinar_livep_footer{ width: 100%; height: 50px; }
+.wswebinar_zero_padding{ padding: 0px !important; }
+#attendee-online-list{max-height: 400;overflow: scroll; overflow-x: hidden; min-width: 170px;}
+#joinWebinarbtn{color: #fff;font-weight: 500;width: 200; background-color: #862A28;}
+#joinWebinarbtn{background-color: #B31815;}
+.actionbox-loader{width: 50px; padding: 5px; margin: 8px 0px 0px 10px; float: left;}
+.chat_delete{color: #EF9A9A;margin-left: 5px; cursor: pointer; display: none;}
+.chat-parent{ display: block; width: 100%; float: left;}
+.livep_vidheight{
+    height: 563px;
+    width: 100%;
+}
+#ticket-link-holder{
+    padding: 45px;
+    font-size: 20pt;
+}
+#ticket-link-holder p,#ticket-link-holder i{
+    color: #FFF;
+}
+#ticket-link-holder a{
+    text-decoration: none;
+}
+.countdown-flipclioc{
+    margin-left: 70px !important;
+}
+
+.loading_img_adminbar{width: 15px; height: 15px;position: inherit;}
+.livep_vidheight{ height: 563px; width: 100%; }
+#ticket-link-holder{padding: 45px; font-size: 20pt;}
+#ticket-link-holder p,#ticket-link-holder i{ color: #FFF;}
+#ticket-link-holder a{ text-decoration: none;}
+.countdown-flipclioc{margin-left: 70px !important;}
+/* XS */
+@media (max-width: 768px){
+    .webinar-admin-chatico{ margin-left: 0%; }
+    .live-title-sub{font-size: 24px;}
+    .webinar-chat-push{padding: 6px 4px;}
+}
+
+/* LG */
+@media (min-width:1200px){
+    .flipclock-div{padding-left: 50px;}
+}
+
+.box_shadow{
+    -webkit-box-shadow: 0px 0px 4px 0px rgba(0,0,0,1);
+    -moz-box-shadow: 0px 0px 4px 0px rgba(0,0,0,1);
+    box-shadow: 0px 0px 4px 0px rgba(0,0,0,1);
+}
+
+
+.mejs-controls{z-index: 9999;}
+.mejs-overlay-play{z-index: 9999;}
+#livep-play-button{
+    padding-top: 8px !important;
+    height: 30px !important;
+}
+
+.regGdprOpted > input { vertical-align: middle; position: relative; bottom: 1px;}
+.regGdprOpted > p { vertical-align: middle; display: inline; }
+@media (max-width: 410px){ 
+    
+    /* Decrease the padding of admin bar elements in mobile devices */
+    #webinar-actionbar>ul>li>a{ padding: 3px 3px; } 
+    
+    /* Decrease the height of the img placeholder on Registration and Thankyou page elements in mobile devices */
+    .tmp-main #embed img, .tmp-post #embed img{ height: 194px !important; }
+}
+
+.enable-sound { color: black; }

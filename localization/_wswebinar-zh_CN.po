@@ -1,0 +1,2773 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: WP WebinarSystem Pro\n"
+"POT-Creation-Date: 2018-07-13 15:07+0200\n"
+"PO-Revision-Date: 2018-07-14 08:20-0400\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpwebinarsystem.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-webinarsysteem-ajax.php:486
+#: includes/class-webinarsysteem-ajax.php:523
+#: includes/class-webinarsysteem-shortcodes.php:229
+#: includes/class-webinarsysteem-shortcodes.php:313
+#: includes/templates/template-jit-days-times-selects-boxes.php:79
+#: includes/templates/template-recurring-days-times-selects-boxes.php:98
+msgid "Select a time"
+msgstr "选择一个时间"
+
+#: includes/class-webinarsysteem-ajax.php:513
+#: includes/class-webinarsysteem-ajax.php:554
+msgid "No slots available"
+msgstr "没有可用时间段"
+
+#: includes/class-webinarsysteem-chatlogs.php:26
+msgid "WP WebinarSystem Chatlogs"
+msgstr "WP WebinarSystem 聊天记录"
+
+#: includes/class-webinarsysteem-chatlogs.php:27
+msgid "Select webinar to view chatlogs for active webinars"
+msgstr "选择网络牙套会，以查看活跃的研讨会聊天记录"
+
+#: includes/class-webinarsysteem-chatlogs.php:84
+msgid "Chatlog is empty for this webinar"
+msgstr "此网络研讨会的聊天记录为空"
+
+#: includes/class-webinarsysteem-chatlogs.php:90
+msgid "Clear all the chat messages for this webinar?"
+msgstr "清除此网络研讨会的所有聊天信息？"
+
+#: includes/class-webinarsysteem-chatlogs.php:91
+msgid "Are you sure to delete selected chat messages?"
+msgstr "你确认要删除选定的聊天信息吗？"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:102
+#, php-format
+msgid ""
+"Invalid Drip API key. To fix, please visit <a href=\"%s\">WebinarSystem "
+"Settings</a>."
+msgstr ""
+"无效滴注 API 密钥。要修复, 请访问<a href=\"%s\">WebinarSystem 设置</a>。"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:117
+#, php-format
+msgid ""
+"Invalid Enormail API key. To fix, please visit <a href=\"%s\">WebinarSystem "
+"Settings</a>."
+msgstr ""
+"无效的 Enormail API 密钥。要修复, 请访问<a href=\"%s\">WebinarSystem 设置</"
+"a>。"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:186
+#, php-format
+msgid "Invalid %s API KEY and URL."
+msgstr "%s API 密钥和 URL 无效。"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:186
+#, php-format
+msgid "Please visit <a href=\"%s\">WebinarSystem Settings</a> to fix."
+msgstr "请访问<a href=\"%s\">WebinarSystem 设置</a>以修复。"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:196
+msgid "Please add both API KEY and URL"
+msgstr "请同时添加 API 密钥和 URL"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:202
+msgid "Invalid API credentials."
+msgstr "API 凭证无效。"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:251
+msgid "Invalid api key!"
+msgstr "API密钥无效！"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:414
+#, php-format
+msgid ""
+"Invalid MailChimp API key. To fix, please visit <a href=\"%s\">WebinarSystem "
+"Settings</a>."
+msgstr ""
+"无效的 MailChimp API 密钥。要修复, 请访问<a href=\"%s\">WebinarSystem 设置</"
+"a>。"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:467
+#, php-format
+msgid ""
+"Now you completed the aWeber authentication. For changes Go to <a href=\"%s"
+"\">WebinarSysteem Settings</a>."
+msgstr ""
+"现在你完成了 aWeber 身份验证。欲更改请转到<a href=\"%s\">WebinarSysteem 设置"
+"</a>。"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:481
+#, php-format
+msgid ""
+"Unexpectedly aWeber has been disconnected from the server. You are no longer "
+"subscribed to aWeber mailinglist. For Changes go to <a href=\"%s"
+"\">WebinarSysteem Settings</a>."
+msgstr ""
+"意外， aWeber 已与服务器断开连接。你不再订阅 aWeber 邮件列表。欲更改请转到<a "
+"href=\"%s\">WebinarSysteem 设置</a>。"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:538
+#, php-format
+msgid ""
+"Invalid Getresponse API key. To fix, please visit <a href=\"%s"
+"\">WebinarSystem Settings</a>."
+msgstr ""
+"无效的 Getresponse API 密钥。要修复, 请访问<a href=\"%s\">WebinarSystem 设置"
+"</a>。"
+
+#: includes/class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr "是的, 下载 Pro!"
+
+#: includes/class-webinarsysteem-promotional-notices.php:47
+#, php-format
+msgid ""
+"If you like <strong>WP WebinarSystem</strong> please leave us a %s rating. A "
+"huge thank you in advance!"
+msgstr ""
+"如果你喜欢<strong>WP WebinarSystem</strong>，请给我们%s评级。 提前给你我们最"
+"真诚的谢意！"
+
+#: includes/class-webinarsysteem-questions.php:26
+msgid "WP WebinarSystem Questions"
+msgstr "WP WebinarSystem 问题"
+
+#: includes/class-webinarsysteem-questions.php:27
+msgid "Select webinar to view questions for active webinars"
+msgstr "选择一个网络研讨会，以查看活跃的研讨会提问"
+
+#: includes/class-webinarsysteem-questions.php:56
+#: includes/class-webinarsysteemattendees.php:87
+#: includes/class-webinarsysteemattendees.php:146
+#: includes/class-webinarsysteemoptions.php:1209
+msgid "Name"
+msgstr "姓名"
+
+#: includes/class-webinarsysteem-questions.php:56
+msgid "Question"
+msgstr "问题"
+
+#: includes/class-webinarsysteem-questions.php:56 includes/tmp-post.php:201
+#: includes/tmp-registration.php:172
+msgid "Time"
+msgstr "时间"
+
+#: includes/class-webinarsysteem-questions.php:110
+msgid "Are you sure you want to clear selected questions?"
+msgstr "确实要清除所选问题吗？"
+
+#: includes/class-webinarsysteem-shortcodes.php:18
+#: includes/class-webinarsysteem-woocommerce-integration.php:80
+#: includes/class-webinarsysteem.php:553
+msgid "Loading available timeslots..."
+msgstr "正在加载可用的时间段..。"
+
+#: includes/class-webinarsysteem-shortcodes.php:30
+#: includes/class-webinarsysteem-shortcodes.php:357
+msgid "Error: "
+msgstr "错误： "
+
+#: includes/class-webinarsysteem-shortcodes.php:30
+#: includes/class-webinarsysteem-shortcodes.php:357
+msgid "Invalid webinar id."
+msgstr "无效的网络研讨会 id。"
+
+#: includes/class-webinarsysteem-shortcodes.php:58
+#, php-format
+msgid ""
+"You need to buy a ticket to register for this webinar. <a href=\"%s\">Click "
+"here</a> to buy a ticket."
+msgstr "你需要买票才能注册此网络研讨会。<a href=\"%s\">点击这里</a>买票。"
+
+#: includes/class-webinarsysteem-shortcodes.php:66
+msgid ""
+"You need to buy a ticket to register for this webinar. Ticket sales is "
+"closed at this moment."
+msgstr "你需要买票才能注册此网络研讨会。门票销售目前已关闭。"
+
+#: includes/class-webinarsysteem-shortcodes.php:73
+#, php-format
+msgid "You've successfully registered for %s"
+msgstr "你注册%s成功"
+
+#: includes/class-webinarsysteem-shortcodes.php:81
+#, php-format
+msgid "You're already registered for %s"
+msgstr "你已经注册了%s"
+
+#: includes/class-webinarsysteem-shortcodes.php:92
+#: includes/tmp-registration.php:366
+msgid "Registration is closed for this webinar."
+msgstr "此网络研讨会的注册已关闭。"
+
+#: includes/class-webinarsysteem-shortcodes.php:107
+#: includes/tmp-registration.php:286
+msgid "Your Name"
+msgstr "你的名字"
+
+#: includes/class-webinarsysteem-shortcodes.php:109
+#: includes/tmp-registration.php:288
+msgid "Please enter your name."
+msgstr "请输入你的名字。"
+
+#: includes/class-webinarsysteem-shortcodes.php:111
+#: includes/class-webinarsysteem-shortcodes.php:371
+#: includes/tmp-registration.php:290 includes/tmp-registration.php:354
+msgid "Your Email Address"
+msgstr "你的Email地址"
+
+#: includes/class-webinarsysteem-shortcodes.php:113
+#: includes/class-webinarsysteem-shortcodes.php:373
+#: includes/tmp-registration.php:292 includes/tmp-registration.php:356
+msgid "Please enter your email."
+msgstr "请输入你的Email。"
+
+#: includes/class-webinarsysteem-shortcodes.php:145
+#: includes/templates/template-metabox-generalpage.php:277
+#: includes/templates/template-recurring-days-times-selects-boxes.php:7
+msgid "Right Now"
+msgstr "刚刚"
+
+#: includes/class-webinarsysteem-shortcodes.php:164
+#: includes/class-webinarsysteem-shortcodes.php:252
+#: includes/templates/template-jit-days-times-selects-boxes.php:17
+#: includes/templates/template-recurring-days-times-selects-boxes.php:25
+msgid "Select a day"
+msgstr "选择日子"
+
+#: includes/class-webinarsysteem-shortcodes.php:224
+#: includes/class-webinarsysteem-shortcodes.php:308
+#: includes/templates/template-jit-days-times-selects-boxes.php:74
+#: includes/templates/template-recurring-days-times-selects-boxes.php:91
+msgid "Select a day to watch."
+msgstr "选择观看的日期 。"
+
+#: includes/class-webinarsysteem-shortcodes.php:230
+#: includes/class-webinarsysteem-shortcodes.php:314
+#: includes/templates/template-jit-days-times-selects-boxes.php:80
+#: includes/templates/template-recurring-days-times-selects-boxes.php:99
+msgid "Select a day first"
+msgstr "先选定日子"
+
+#: includes/class-webinarsysteem-shortcodes.php:233
+#: includes/class-webinarsysteem-shortcodes.php:317
+#: includes/templates/template-jit-days-times-selects-boxes.php:83
+#: includes/templates/template-recurring-days-times-selects-boxes.php:102
+msgid "Select a time to watch."
+msgstr "选择观看的时间。"
+
+#: includes/class-webinarsysteem-shortcodes.php:341
+#: includes/tmp-registration.php:348
+msgid "This email is not registered."
+msgstr "此电子邮件账户没有在我们这里注册过。"
+
+#: includes/class-webinarsysteem-shortcodes.php:376
+msgid "Please register before login."
+msgstr "请先注册才能登录。"
+
+#: includes/class-webinarsysteem-userpages.php:11
+#: includes/class-webinarsysteem-userpages.php:12
+msgid "WPWS Page"
+msgstr "WPWS 页"
+
+#: includes/class-webinarsysteem-userpages.php:39
+#: includes/class-webinarsysteem-userpages.php:99
+msgid "You are now unsubscribed"
+msgstr "你现在没订阅"
+
+#: includes/class-webinarsysteem-userpages.php:40
+msgid "Webinar Subscription"
+msgstr "网络研讨会订阅"
+
+#: includes/class-webinarsysteem-userpages.php:63
+msgid "Webinar Overview"
+msgstr "网络研讨会概述"
+
+#: includes/class-webinarsysteem-userpages.php:119
+msgid ""
+"To see which webinars you are registered to, please open the link 'manage "
+"profile' from the registration confirmation email message"
+msgstr ""
+"要查看你注册的网络研讨会, 请从注册确认电子邮件中打开链接 \"管理个人档案”"
+
+#: includes/class-webinarsysteem-userpages.php:136
+#: includes/class-webinarsysteem.php:222
+msgid "Webinar Title"
+msgstr "网络研讨会标题"
+
+#: includes/class-webinarsysteem-userpages.php:137
+msgid "Webinar Time"
+msgstr "网络研讨会时间"
+
+#: includes/class-webinarsysteem-userpages.php:138
+msgid "Webinar Action"
+msgstr "网络研讨会操作"
+
+#: includes/class-webinarsysteem-userpages.php:170
+#: includes/class-webinarsysteemmessages.php:204
+#: includes/class-webinarsysteemmessages.php:327
+#: includes/class-webinarsysteemmessages.php:409
+#: includes/class-webinarsysteemmessages.php:490
+#: includes/class-webinarsysteemmessages.php:571
+#: includes/templates/template-email-reader.php:52
+#: includes/templates/template-email-reader.php:105
+msgid "Unsubscribe"
+msgstr "退订"
+
+#: includes/class-webinarsysteem-userpages.php:174
+msgid "You haven't subscribed to any webinars yet:("
+msgstr "你还没有订阅任何网络研讨会: ("
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:49
+#: includes/templates/template-metabox-ticket.php:6
+#, php-format
+msgid ""
+"Please install/activate WooCommerce first to integrate with WebinarSystem. "
+"You can find WooCommerce <a href=\"%s\" class=\"thickbox\" aria-label="
+"\"Download WooCommerce for WebinarSystem\" data-title=\"WooCommerce\">here</"
+"a>."
+msgstr ""
+"请首先安装/激活 WooCommerce 与 WebinarSystem 集成。你可以<a href=\"%s\" "
+"class=\"thickbox\" aria-label=\"Download WooCommerce for WebinarSystem\" "
+"data-title=\"WooCommerce\">在这里</a>找到 WooCommerce。"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:117
+msgid "View Cart"
+msgstr "查看购物车"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:117
+#, php-format
+msgid "You cannot add another &quot;%s&quot; to your cart."
+msgstr "你无法添加另一个&quot;%s&quot;到你购物车。"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:125
+msgid "Please select a Day."
+msgstr "请选择一个日子。"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:134
+msgid "Please select a time."
+msgstr "请选择时间。"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:202
+msgid "Please check the box to proceed further."
+msgstr "请复选该框进一步操作。"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:321
+msgid "Webinar Product"
+msgstr "网络研讨会产品"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:451
+msgid "Your webinar ticket"
+msgstr "你的网络研讨会门票"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:452
+msgid ""
+"You will receive your webinar ticket as soon as the payment for your order "
+"completes."
+msgstr "当你的订单付款完成后, 你将收到你的网络研讨会门票。"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:465
+msgid "My Webinar Tickets"
+msgstr "我的网络研讨会门票"
+
+#: includes/class-webinarsysteem.php:223 includes/class-webinarsysteem.php:744
+msgid "Views"
+msgstr "查看"
+
+#: includes/class-webinarsysteem.php:224 includes/class-webinarsysteem.php:745
+msgid "Registrations"
+msgstr "注册"
+
+#: includes/class-webinarsysteem.php:225 includes/class-webinarsysteem.php:716
+#: includes/class-webinarsysteem.php:746
+msgid "Questions"
+msgstr "问题"
+
+#: includes/class-webinarsysteem.php:265
+msgid "Create Now"
+msgstr "立即创建"
+
+#: includes/class-webinarsysteem.php:518 includes/class-webinarsysteem.php:782
+#: includes/class-webinarsysteem.php:1465
+#: includes/templates/template-metabox-generalpage.php:4
+msgid "Automated"
+msgstr "自动"
+
+#: includes/class-webinarsysteem.php:519
+#: includes/templates/template-metabox-generalpage.php:4
+msgid "Countdown"
+msgstr "倒计时"
+
+#. Author of the plugin/theme
+#: includes/class-webinarsysteem.php:650 includes/class-webinarsysteem.php:673
+msgid "WP WebinarSystem"
+msgstr "WP WebinarSystem"
+
+#: includes/class-webinarsysteem.php:650 includes/class-webinarsysteem.php:673
+msgid "WebinarSystem"
+msgstr "WebinarSystem"
+
+#: includes/class-webinarsysteem.php:652 includes/class-webinarsysteem.php:810
+msgid "Webinars"
+msgstr "网络研讨会"
+
+#: includes/class-webinarsysteem.php:653
+msgid "New webinar"
+msgstr "新添网络研讨会"
+
+#: includes/class-webinarsysteem.php:654
+msgid "Attendee Lists"
+msgstr "参加者列表"
+
+#: includes/class-webinarsysteem.php:655
+msgid "Private Questions"
+msgstr "私密问题"
+
+#: includes/class-webinarsysteem.php:657
+msgid "Chatlogs"
+msgstr "聊天记录"
+
+#: includes/class-webinarsysteem.php:660 includes/class-webinarsysteem.php:674
+msgid "Settings"
+msgstr "设置"
+
+#: includes/class-webinarsysteem.php:718
+msgid "Attendees"
+msgstr "参加者"
+
+#: includes/class-webinarsysteem.php:720
+msgid "Chatlog"
+msgstr "聊天记录"
+
+#: includes/class-webinarsysteem.php:725
+msgid "Duplicate this Webinar"
+msgstr "复制此网络研讨会"
+
+#: includes/class-webinarsysteem.php:725
+msgid "Duplicate"
+msgstr "复制"
+
+#: includes/class-webinarsysteem.php:747
+msgid "Status"
+msgstr "状态"
+
+#: includes/class-webinarsysteem.php:780
+#: includes/templates/template-metabox-generalpage.php:7
+msgid "Closed"
+msgstr "关闭"
+
+#: includes/class-webinarsysteem.php:811 includes/class-webinarsysteem.php:812
+#: includes/tmp-post.php:197
+msgid "Webinar"
+msgstr "网络研讨会"
+
+#: includes/class-webinarsysteem.php:813 includes/class-webinarsysteem.php:814
+msgid "Add New Webinar"
+msgstr "添加新的网络研讨会"
+
+#: includes/class-webinarsysteem.php:815
+msgid "New Webinar"
+msgstr "新的网络研讨会"
+
+#: includes/class-webinarsysteem.php:816
+msgid "Edit Webinar"
+msgstr "编辑网络研讨会"
+
+#: includes/class-webinarsysteem.php:817
+msgid "View Webinar"
+msgstr "查看网络研讨会"
+
+#: includes/class-webinarsysteem.php:1154
+msgid "Please save your webinar first before previewing."
+msgstr "请在预览前先保存你的网络研讨会。"
+
+#: includes/class-webinarsysteem.php:1309
+msgid ""
+"Your license for WebinarSystem is seems to be Invalid. Please contact "
+"support desk!"
+msgstr "你的WebinarSystem许可证似乎无效。请联系获得支持！"
+
+#: includes/class-webinarsysteem.php:1312
+msgid ""
+"Your WebinarSystem license key has suspended! Please contact the support."
+msgstr "你的WebinarSystem许可证密钥已暂停！请联系获得支持。"
+
+#: includes/class-webinarsysteem.php:1315
+msgid ""
+"Your WebinarSystem license key has expired! Please renew it again before "
+"using the plugin."
+msgstr "你的WebinarSystem许可证密钥已过期！请在使用插件之前再次续订。"
+
+#: includes/class-webinarsysteem.php:1318
+#, php-format
+msgid "Please %senter your license key%s to activate WebinarSystem plugin!"
+msgstr "请%s输入你的许可证密钥%s 激活 WebinarSystem 插件!"
+
+#: includes/class-webinarsysteem.php:1605
+msgid "Howdy,"
+msgstr "你好,"
+
+#: includes/class-webinarsysteem.php:1605
+msgid "[receiver-name] just signed up for your webinar"
+msgstr "[receiver-name]刚刚注册参加你的网络研讨会"
+
+#: includes/class-webinarsysteem.php:1605
+#: includes/class-webinarsysteem.php:1607
+#: includes/class-webinarsysteem.php:1609
+#: includes/class-webinarsysteem.php:1611
+#: includes/class-webinarsysteem.php:1614
+#: includes/class-webinarsysteem.php:1616
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:25
+#: includes/templates/template-email-attendee-wbstarted.php:26
+#: includes/templates/template-email-attendee1hr.php:58
+#: includes/templates/template-email-attendee24hr.php:56
+#: includes/templates/template-email-reader.php:64
+#: includes/templates/template-email-reader.php:120
+msgid "Regards"
+msgstr "此致"
+
+#: includes/class-webinarsysteem.php:1607
+#: includes/class-webinarsysteem.php:1609
+#: includes/class-webinarsysteem.php:1611
+#: includes/class-webinarsysteem.php:1616
+#: includes/templates/template-email-attendee-replay.php:21
+#: includes/templates/template-email-attendee1hr.php:49
+#: includes/templates/template-email-attendee24hr.php:48
+#: includes/templates/template-email-reader.php:56
+#: includes/templates/template-email-reader.php:111
+msgid "Hi"
+msgstr "你好"
+
+#: includes/class-webinarsysteem.php:1607
+#: includes/templates/template-email-reader.php:57
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the "
+"details of the webinar."
+msgstr "感谢你注册网络研讨会。网络研讨会的详细信息列在下面。"
+
+#: includes/class-webinarsysteem.php:1607
+msgid "<b>Webinar name:</b>"
+msgstr "<b>网络研讨会名称:</b>"
+
+#: includes/class-webinarsysteem.php:1607
+msgid "<b>Date:</b>"
+msgstr "<b>日期：</b>"
+
+#: includes/class-webinarsysteem.php:1607
+msgid "<b>Time:</b>"
+msgstr "<b>时间：</b>"
+
+#: includes/class-webinarsysteem.php:1607
+msgid "<b>Timezone:</b>"
+msgstr "<b>时区：</b>"
+
+#: includes/class-webinarsysteem.php:1607
+#: includes/templates/template-email-attendee-replay.php:23
+#: includes/templates/template-email-attendee-wbstarted.php:24
+#: includes/templates/template-email-attendee1hr.php:56
+#: includes/templates/template-email-attendee24hr.php:54
+#: includes/templates/template-email-reader.php:62
+msgid "Go to Webinar"
+msgstr "前往网络研讨会"
+
+#: includes/class-webinarsysteem.php:1607
+#: includes/class-webinarsysteem.php:1609
+#: includes/class-webinarsysteem.php:1611
+#: includes/templates/template-email-attendee1hr.php:57
+#: includes/templates/template-email-attendee24hr.php:55
+#: includes/templates/template-email-reader.php:63
+#: includes/templates/template-email-reader.php:119
+msgid "See you then!"
+msgstr "到时候见！"
+
+#: includes/class-webinarsysteem.php:1609
+#: includes/templates/template-email-attendee1hr.php:51
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the "
+"link to attend the webinar."
+msgstr "你注册的网络研讨会一小时后开始。 下面是参加网络研讨会的链接。"
+
+#: includes/class-webinarsysteem.php:1609
+#: includes/class-webinarsysteem.php:1611
+#: includes/templates/template-email-attendee1hr.php:52
+#: includes/templates/template-email-attendee24hr.php:50
+#: includes/templates/template-email-reader.php:58
+#: includes/templates/template-email-reader.php:113
+msgid "Webinar name:"
+msgstr "网络研讨会名称:"
+
+#: includes/class-webinarsysteem.php:1609
+#: includes/class-webinarsysteem.php:1611
+#: includes/templates/template-email-attendee1hr.php:53
+#: includes/templates/template-email-attendee24hr.php:51
+#: includes/templates/template-email-reader.php:59
+#: includes/templates/template-email-reader.php:114
+msgid "Date:"
+msgstr "日期："
+
+#: includes/class-webinarsysteem.php:1609
+#: includes/class-webinarsysteem.php:1611
+#: includes/templates/template-email-attendee1hr.php:54
+#: includes/templates/template-email-attendee24hr.php:52
+#: includes/templates/template-email-reader.php:60
+#: includes/templates/template-email-reader.php:115
+msgid "Time:"
+msgstr "时间："
+
+#: includes/class-webinarsysteem.php:1609
+#: includes/class-webinarsysteem.php:1611
+#: includes/templates/template-email-attendee1hr.php:55
+#: includes/templates/template-email-attendee24hr.php:53
+#: includes/templates/template-email-reader.php:61
+#: includes/templates/template-email-reader.php:116
+msgid "Timezone:"
+msgstr "时区："
+
+#: includes/class-webinarsysteem.php:1611
+#: includes/templates/template-email-attendee24hr.php:49
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find "
+"the details of the webinar."
+msgstr ""
+"这是你明天即将举行的网络研讨会的提醒。下面是你将参加的网络研讨会的详细信息。"
+
+#: includes/class-webinarsysteem.php:1614
+msgid ""
+"We are starting the webinar [receiver-name]! Click on the link below to join "
+"us."
+msgstr "[receiver-name] 我们正在开始网络研讨会 !点击下面的链接加入我们。"
+
+#: includes/class-webinarsysteem.php:1614
+#: includes/class-webinarsysteem.php:1616
+#: includes/templates/template-email-attendee-replay.php:24
+#: includes/templates/template-email-attendee-wbstarted.php:25
+msgid "See you later!"
+msgstr "回头见！"
+
+#: includes/class-webinarsysteem.php:1616
+#: includes/templates/template-email-attendee-replay.php:22
+#: includes/templates/template-email-attendee-wbstarted.php:23
+msgid "Make sure to join the webinar via this link:"
+msgstr "请确保通过此链接加入网络研讨会:"
+
+#: includes/class-webinarsysteem.php:2009
+msgid "Host and Description Box"
+msgstr "主持者和说明框"
+
+#: includes/class-webinarsysteem.php:2012
+#: includes/class-webinarsysteemmetabox.php:1113
+#: includes/templates/template-metabox-livepage.php:184
+#: includes/tmp-live.php:196
+msgid "Question Box"
+msgstr "问题框"
+
+#: includes/class-webinarsysteem.php:2015
+msgid "Message Center"
+msgstr "消息中心"
+
+#: includes/class-webinarsysteem.php:2019
+msgid "Live Chatbox"
+msgstr "直播聊天框"
+
+#: includes/class-webinarsysteem.php:2022
+#: includes/class-webinarsysteemmetabox.php:1290
+#: includes/templates/template-metabox-livepage.php:368
+msgid "Incentive Box"
+msgstr "激励框"
+
+#: includes/class-webinarsysteem.php:2025
+#: includes/class-webinarsysteemmetabox.php:1347
+#: includes/templates/template-metabox-livepage.php:425
+msgid "Action Box"
+msgstr "操作框"
+
+#: includes/class-webinarsysteem.php:2028
+msgid "Clear all Raised Hands"
+msgstr "清除所有举手"
+
+#: includes/class-webinarsysteem.php:2034
+#: includes/templates/template-metabox-livepage.php:462
+#: includes/templates/template-metabox-replaypage.php:113
+msgid "Call to action"
+msgstr "呼吁采取行动"
+
+#: includes/class-webinarsysteem.php:2484
+msgid ""
+"Your MySQL version is out of date, and some functionalities of WP "
+"WebinarSystem won't work as expected. Please upgrade the MySQL version on "
+"your server to a minimum of MySQL 5.6.36 or higher."
+msgstr ""
+"你的 MySQL 版本过时了, 一些 WP WebinarSystem 的功能将无法正常工作。请将服务器"
+"上的 mysql 版本升级到最低的 mysql 5.6.36 或更高。"
+
+#: includes/class-webinarsysteem.php:2490
+msgid ""
+"Your PHP version is out of date, and some functionalities of WP "
+"WebinarSystem won't work as expected. Please upgrade the PHP version on your "
+"server to a minimum of PHP 5.6 or higher."
+msgstr ""
+"你的 PHP 版本过时了, 一些 WP WebinarSystem 的功能将无法正常工作。请将你的服务"
+"器上的 php 版本升级到最低 php 5.6 或更高。"
+
+#: includes/class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "WP WebinarSystem 参加者"
+
+#: includes/class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr "选择网络研讨会，查看活跃网络研讨会的参加者"
+
+#: includes/class-webinarsysteemattendees.php:55
+#: includes/class-webinarsysteemattendees.php:197
+msgid "Please add webinars to listup."
+msgstr "请将网络研讨会添加到列表。"
+
+#: includes/class-webinarsysteemattendees.php:88
+#: includes/class-webinarsysteemattendees.php:147
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: includes/class-webinarsysteemattendees.php:89
+#: includes/class-webinarsysteemattendees.php:148
+msgid "Registered On"
+msgstr "注册日期"
+
+#: includes/class-webinarsysteemattendees.php:90
+#: includes/class-webinarsysteemattendees.php:149
+msgid "Registered For"
+msgstr "注册给"
+
+#: includes/class-webinarsysteemattendees.php:91
+#: includes/class-webinarsysteemattendees.php:150
+msgid "Attended"
+msgstr "已参加"
+
+#: includes/class-webinarsysteemattendees.php:139
+msgid "No Attendees :("
+msgstr "没有参与者 :("
+
+#: includes/class-webinarsysteemattendees.php:174
+msgid "Please enter valid name and email to add new attendee."
+msgstr "请输入有效的姓名和电子邮件以添加新参加者。"
+
+#: includes/class-webinarsysteemattendees.php:207
+msgid "Send webinar confirmation e-mail to attendee?"
+msgstr "是否向参加者发送网络研讨会确认电子邮件？"
+
+#: includes/class-webinarsysteemmessages.php:120
+#: includes/class-webinarsysteemoptions.php:100
+msgid "New Registration"
+msgstr "新注册"
+
+#: includes/class-webinarsysteemmessages.php:197
+msgid "You are registered for the webinar!"
+msgstr "你已注册到该网络研讨会!"
+
+#: includes/class-webinarsysteemmessages.php:204
+#: includes/class-webinarsysteemmessages.php:327
+#: includes/class-webinarsysteemmessages.php:409
+#: includes/class-webinarsysteemmessages.php:490
+#: includes/class-webinarsysteemmessages.php:571
+#: includes/templates/template-email-reader.php:52
+#: includes/templates/template-email-reader.php:105
+msgid "Manage Profile"
+msgstr "管理个人档案"
+
+#: includes/class-webinarsysteemmessages.php:229
+msgid "Your webinar link"
+msgstr "你的网络研讨会链接"
+
+#: includes/class-webinarsysteemmessages.php:249
+msgid "New message"
+msgstr "新信息"
+
+#: includes/class-webinarsysteemmessages.php:256
+msgid "Question from"
+msgstr "问题来自"
+
+#: includes/class-webinarsysteemmessages.php:320
+msgid "Reminder"
+msgstr "提醒"
+
+#: includes/class-webinarsysteemmessages.php:402
+msgid "We are live in one hour!"
+msgstr "我们将在一小时后直播!"
+
+#: includes/class-webinarsysteemmessages.php:483
+msgid "We are starting the webinar!"
+msgstr "我们已开始网络研讨会!"
+
+#: includes/class-webinarsysteemmessages.php:564
+msgid "Webinar Replay Link"
+msgstr "网络研讨会重播链接"
+
+#: includes/class-webinarsysteemmessages.php:686
+msgid "Once 5 minutes"
+msgstr "每5 分钟一次"
+
+#: includes/class-webinarsysteemmetabox.php:22
+msgid "Webinar Settings"
+msgstr "网络研讨会设置"
+
+#: includes/class-webinarsysteemmetabox.php:26
+msgid "Host Names"
+msgstr "主持者姓名"
+
+#: includes/class-webinarsysteemmetabox.php:27
+msgid "Your Webinar URL"
+msgstr "你的网络研讨会网址（URL)"
+
+#: includes/class-webinarsysteemmetabox.php:105
+#: includes/class-webinarsysteemoptions.php:87
+msgid "General Options"
+msgstr "常规选项"
+
+#: includes/class-webinarsysteemmetabox.php:106
+msgid "Registration Page"
+msgstr "注册页面"
+
+#: includes/class-webinarsysteemmetabox.php:107
+msgid "Thank You Page"
+msgstr "致谢页面"
+
+#: includes/class-webinarsysteemmetabox.php:108
+msgid "Countdown Page"
+msgstr "倒计时页面"
+
+#: includes/class-webinarsysteemmetabox.php:109
+msgid "Live Page"
+msgstr "直播页面"
+
+#: includes/class-webinarsysteemmetabox.php:110
+msgid "Replay Page"
+msgstr "重播页面"
+
+#: includes/class-webinarsysteemmetabox.php:111
+#: includes/templates/template-metabox-thankyoupage.php:96
+msgid "Ticket"
+msgstr "门票"
+
+#: includes/class-webinarsysteemmetabox.php:112
+msgid "Mailinglist"
+msgstr "邮件清单"
+
+#: includes/class-webinarsysteemmetabox.php:113
+msgid "Access"
+msgstr "访问"
+
+#: includes/class-webinarsysteemmetabox.php:114
+msgid "Import / Export"
+msgstr "导入/导出"
+
+#: includes/class-webinarsysteemmetabox.php:239
+msgid "Default mail provider"
+msgstr "默认邮件提供程序"
+
+#: includes/class-webinarsysteemmetabox.php:255
+msgid "Mailchimp list"
+msgstr "MailChimp列表"
+
+#: includes/class-webinarsysteemmetabox.php:273
+msgid "You've no mailing list(s) on MailChimp."
+msgstr "MailChimp 上没有邮件列表。"
+
+#: includes/class-webinarsysteemmetabox.php:293
+msgid "Mailpoet list"
+msgstr "MailPoet列表"
+
+#: includes/class-webinarsysteemmetabox.php:295
+#: includes/class-webinarsysteemmetabox.php:323
+#: includes/class-webinarsysteemmetabox.php:350
+#: includes/class-webinarsysteemmetabox.php:459
+#: includes/class-webinarsysteemmetabox.php:518
+msgid "Select a list.."
+msgstr "选择一个列表.."
+
+#: includes/class-webinarsysteemmetabox.php:321
+msgid "Mailpoet3 list"
+msgstr "Mailpoet3 列表"
+
+#: includes/class-webinarsysteemmetabox.php:339
+msgid "Enormail list"
+msgstr "Enormail 列表"
+
+#: includes/class-webinarsysteemmetabox.php:358
+msgid "You've no mailing list(s) on Enormail."
+msgstr "Enormail 上没有邮件列表。"
+
+#: includes/class-webinarsysteemmetabox.php:372
+msgid "Drip Accounts"
+msgstr "Drip账户"
+
+#: includes/class-webinarsysteemmetabox.php:382
+msgid "Select an account.."
+msgstr "选择一个账户.."
+
+#: includes/class-webinarsysteemmetabox.php:397
+msgid "You've no account(s) on Drip."
+msgstr "你没有Drip的帐户。"
+
+#: includes/class-webinarsysteemmetabox.php:409
+msgid "Drip Campaigns"
+msgstr "Drip宣传活动"
+
+#: includes/class-webinarsysteemmetabox.php:417
+msgid "Select a campaign.."
+msgstr "选择一个宣传活动.."
+
+#: includes/class-webinarsysteemmetabox.php:433
+msgid "You've no campaigns(s) under Drip Account."
+msgstr "你没有在Drip帐户下进行的活动。"
+
+#: includes/class-webinarsysteemmetabox.php:457
+msgid "AWeber List"
+msgstr "Aweber列表"
+
+#: includes/class-webinarsysteemmetabox.php:471
+msgid "Prevent info emails"
+msgstr "防止信息电子邮件"
+
+#: includes/class-webinarsysteemmetabox.php:473
+msgid "Prevent users from registering when they use an info email addresses"
+msgstr "防止用户在使用信息电子邮件地址时注册"
+
+#: includes/class-webinarsysteemmetabox.php:488
+msgid "GetResponse list"
+msgstr "GetResponse 列表"
+
+#: includes/class-webinarsysteemmetabox.php:511
+#, php-format
+msgid "%s list"
+msgstr "%s列表"
+
+#: includes/class-webinarsysteemmetabox.php:532
+#, php-format
+msgid "You've no mailing list(s) on %s."
+msgstr "%s 上没有邮件列表。"
+
+#: includes/class-webinarsysteemmetabox.php:610
+msgid ""
+"Click Export to download backup of current webinar settings. Upload your "
+"already exported file to Import section to apply settings from other webinar."
+msgstr ""
+"单击 \"导出\" 以下载当前网络研讨会设置的备份。将已导出的文件上载到 \"导入\" "
+"部分, 以应用其他网络研讨会的设置。"
+
+#: includes/class-webinarsysteemmetabox.php:615
+msgid "Export"
+msgstr "导出"
+
+#: includes/class-webinarsysteemmetabox.php:622
+msgid "Working on it..."
+msgstr "正在运行..."
+
+#: includes/class-webinarsysteemmetabox.php:624
+msgid "Import"
+msgstr "导入"
+
+#: includes/class-webinarsysteemmetabox.php:1030
+msgid "Webinar will be presented by:"
+msgstr "网络研讨会主持人："
+
+#: includes/class-webinarsysteemmetabox.php:1032
+msgid "Separate each by commas"
+msgstr "使用（英文）逗号分隔"
+
+#: includes/class-webinarsysteemmetabox.php:1047
+#: includes/templates/template-metabox-livepage.php:113
+msgid "Host & Description Box"
+msgstr "主持者和描述框"
+
+#: includes/class-webinarsysteemmetabox.php:1051
+#: includes/class-webinarsysteemmetabox.php:1137
+#: includes/class-webinarsysteemmetabox.php:1201
+#: includes/class-webinarsysteemmetabox.php:1301
+#: includes/class-webinarsysteemoptions.php:150
+#: includes/templates/template-metabox-countdownpage.php:14
+#: includes/templates/template-metabox-livepage.php:20
+#: includes/templates/template-metabox-livepage.php:117
+#: includes/templates/template-metabox-livepage.php:204
+#: includes/templates/template-metabox-livepage.php:275
+#: includes/templates/template-metabox-livepage.php:379
+#: includes/templates/template-metabox-livepage.php:555
+#: includes/templates/template-metabox-registerpage.php:153
+#: includes/templates/template-metabox-replaypage.php:20
+#: includes/templates/template-metabox-replaypage.php:205
+#: includes/templates/template-metabox-thankyoupage.php:20
+#: includes/templates/template-metabox-thankyoupage.php:155
+#: includes/templates/template-metabox-thankyoupage.php:170
+#: includes/templates/template-metabox-ticket.php:66
+msgid "Background color"
+msgstr "背景颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1059
+#: includes/templates/template-metabox-livepage.php:130
+msgid "Show Host Box"
+msgstr "显示主持者框"
+
+#: includes/class-webinarsysteemmetabox.php:1066
+#: includes/templates/template-metabox-livepage.php:137
+msgid "Host Title Background color"
+msgstr "主持者标题背景颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1072
+#: includes/templates/template-metabox-livepage.php:143
+msgid "Host Title Text color"
+msgstr "主持者标题文字颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1078
+#: includes/templates/template-metabox-livepage.php:149
+msgid "Host Text color"
+msgstr "主持者文本颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1086
+#: includes/templates/template-metabox-livepage.php:157
+msgid "Show Description Box"
+msgstr "显示描述框"
+
+#: includes/class-webinarsysteemmetabox.php:1093
+#: includes/templates/template-metabox-livepage.php:164
+msgid "Description Title Background color"
+msgstr "描述标题背景颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1099
+#: includes/templates/template-metabox-livepage.php:170
+msgid "Description Title Text color"
+msgstr "描述标题文本颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1105
+#: includes/templates/template-metabox-livepage.php:176
+msgid "Description Text color"
+msgstr "描述文本颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1117
+#: includes/templates/template-metabox-livepage.php:187
+msgid "Show Question box"
+msgstr "显示问题框"
+
+#: includes/class-webinarsysteemmetabox.php:1124
+#: includes/templates/template-metabox-livepage.php:193
+msgid "Send an email on every question"
+msgstr "针对每个问题发送电子邮件"
+
+#: includes/class-webinarsysteemmetabox.php:1131
+#: includes/templates/template-metabox-livepage.php:199
+msgid "If then email to"
+msgstr "若如此，发邮件到"
+
+#: includes/class-webinarsysteemmetabox.php:1143
+#: includes/class-webinarsysteemmetabox.php:1206
+#: includes/class-webinarsysteemmetabox.php:1308
+#: includes/templates/template-metabox-livepage.php:122
+#: includes/templates/template-metabox-livepage.php:210
+#: includes/templates/template-metabox-livepage.php:280
+#: includes/templates/template-metabox-livepage.php:385
+#: includes/templates/template-metabox-livepage.php:561
+#: includes/templates/template-metabox-registerpage.php:158
+#: includes/templates/template-metabox-replaypage.php:211
+#: includes/templates/template-metabox-thankyoupage.php:150
+#: includes/templates/template-metabox-thankyoupage.php:164
+#: includes/templates/template-metabox-ticket.php:71
+msgid "Border color"
+msgstr "边框颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1149
+#: includes/templates/template-metabox-livepage.php:216
+msgid "Title Text Color"
+msgstr "标题文字颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1154
+#: includes/templates/template-metabox-livepage.php:222
+#: includes/templates/template-metabox-livepage.php:533
+#: includes/templates/template-metabox-replaypage.php:184
+msgid "Border Radius"
+msgstr "边界半径"
+
+#: includes/class-webinarsysteemmetabox.php:1159
+#: includes/templates/template-metabox-livepage.php:228
+msgid "Button Background Color"
+msgstr "按钮背景颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1164
+#: includes/templates/template-metabox-livepage.php:234
+msgid "Button Hover Background Color"
+msgstr "按钮悬停背景颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1169
+#: includes/templates/template-metabox-livepage.php:240
+msgid "Button Border Color"
+msgstr "按钮边框颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1174
+#: includes/templates/template-metabox-livepage.php:246
+msgid "Button Hover Border Color"
+msgstr "按钮悬停边框颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1179
+#: includes/templates/template-metabox-livepage.php:252
+#: includes/templates/template-metabox-registerpage.php:228
+#: includes/templates/template-metabox-registerpage.php:276
+#: includes/templates/template-metabox-thankyoupage.php:141
+#: includes/templates/template-metabox-thankyoupage.php:181
+msgid "Button Text color"
+msgstr "按钮文字颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1185
+#: includes/templates/template-metabox-livepage.php:258
+msgid "Button Hover Text color"
+msgstr "按钮悬停颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1191
+#: includes/templates/template-metabox-livepage.php:265
+msgid "Live chatbox"
+msgstr "直播聊天框"
+
+#: includes/class-webinarsysteemmetabox.php:1195
+#: includes/templates/template-metabox-livepage.php:269
+msgid "Show Chatbox"
+msgstr "显示聊天框"
+
+#: includes/class-webinarsysteemmetabox.php:1211
+#: includes/class-webinarsysteemmetabox.php:1320
+#: includes/templates/template-metabox-livepage.php:285
+#: includes/templates/template-metabox-livepage.php:397
+msgid "Title Text color"
+msgstr "标题文字颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1216
+#: includes/templates/template-metabox-livepage.php:290
+msgid "Show Timestamps"
+msgstr "显示时间戳"
+
+#: includes/class-webinarsysteemmetabox.php:1222
+#: includes/templates/template-metabox-livepage.php:297
+msgid "Background Color of Button"
+msgstr "按钮背景色"
+
+#: includes/class-webinarsysteemmetabox.php:1228
+#: includes/templates/template-metabox-livepage.php:304
+msgid "Text Color of Button"
+msgstr "按钮文字颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1236
+#: includes/templates/template-metabox-livepage.php:313
+msgid "Tab Layout"
+msgstr "选项页布局"
+
+#: includes/class-webinarsysteemmetabox.php:1238
+#: includes/templates/template-metabox-livepage.php:315
+msgid "Questionbox tab"
+msgstr "问题框选项"
+
+#: includes/class-webinarsysteemmetabox.php:1241
+#: includes/class-webinarsysteemmetabox.php:1266
+#: includes/templates/template-metabox-livepage.php:318
+#: includes/templates/template-metabox-livepage.php:343
+msgid "Title"
+msgstr "标题"
+
+#: includes/class-webinarsysteemmetabox.php:1249
+#: includes/class-webinarsysteemmetabox.php:1274
+#: includes/templates/template-metabox-livepage.php:326
+#: includes/templates/template-metabox-livepage.php:352
+msgid "Tab Title Text color"
+msgstr "选项标题文本颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1254
+#: includes/class-webinarsysteemmetabox.php:1279
+#: includes/templates/template-metabox-livepage.php:331
+#: includes/templates/template-metabox-livepage.php:357
+#: includes/templates/template-metabox-registerpage.php:170
+msgid "Tab Background color"
+msgstr "选项背景颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1259
+#: includes/class-webinarsysteemmetabox.php:1284
+#: includes/templates/template-metabox-livepage.php:336
+#: includes/templates/template-metabox-livepage.php:362
+msgid "Tab Border color"
+msgstr "选项边框颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1263
+#: includes/templates/template-metabox-livepage.php:340
+msgid "Chatbox tab"
+msgstr "聊天框选项"
+
+#: includes/class-webinarsysteemmetabox.php:1294
+#: includes/templates/template-metabox-livepage.php:372
+msgid "Show Incentive Box"
+msgstr "显示激励框"
+
+#: includes/class-webinarsysteemmetabox.php:1314
+#: includes/templates/template-metabox-livepage.php:391
+msgid "Incentive Title"
+msgstr "激励标题"
+
+#: includes/class-webinarsysteemmetabox.php:1326
+#: includes/templates/template-metabox-livepage.php:403
+msgid "Title Background color"
+msgstr "标题背景颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1331
+#: includes/templates/template-metabox-livepage.php:409
+#: includes/templates/template-metabox-livepage.php:567
+#: includes/templates/template-metabox-replaypage.php:217
+msgid "Content text color"
+msgstr "内容文字颜色"
+
+#: includes/class-webinarsysteemmetabox.php:1337
+#: includes/templates/template-metabox-livepage.php:415
+msgid "Incentive box content"
+msgstr "激励框内容"
+
+#: includes/class-webinarsysteemmetabox.php:1352
+#: includes/templates/template-metabox-livepage.php:428
+msgid "Show Action Box"
+msgstr "显示操作框"
+
+#: includes/class-webinarsysteemmetabox.php:1359
+#: includes/templates/template-metabox-livepage.php:434
+msgid "Hand button color "
+msgstr "举手按钮颜色 "
+
+#: includes/class-webinarsysteemmetabox.php:1364
+#: includes/templates/template-metabox-livepage.php:439
+msgid "Hand button hover color "
+msgstr "举手按钮悬停颜色 "
+
+#: includes/class-webinarsysteemmetabox.php:1369
+#: includes/templates/template-metabox-livepage.php:444
+msgid "Hand button Active color "
+msgstr "举手按钮活跃颜色 "
+
+#: includes/class-webinarsysteemmetabox.php:1375
+#: includes/templates/template-metabox-livepage.php:449
+msgid "Background Color "
+msgstr "背景颜色 "
+
+#: includes/class-webinarsysteemmetabox.php:1380
+#: includes/templates/template-metabox-livepage.php:454
+msgid "Border Color  "
+msgstr "边框颜色 "
+
+#: includes/class-webinarsysteemmetabox.php:1391
+msgid "Preview Page"
+msgstr "预览页面"
+
+#: includes/class-webinarsysteemmetabox.php:1392
+msgid "Only use this generated link for test purposes"
+msgstr "此处生成的链接仅用于试验目的"
+
+#: includes/class-webinarsysteemmetabox.php:1404
+msgid "every 5 minutes"
+msgstr "每5分钟"
+
+#: includes/class-webinarsysteemmetabox.php:1405
+msgid "every 10 minutes"
+msgstr "每10分钟"
+
+#: includes/class-webinarsysteemmetabox.php:1406
+msgid "every 15 minutes"
+msgstr "每15分钟"
+
+#: includes/class-webinarsysteemmetabox.php:1407
+msgid "every 20 minutes"
+msgstr "每20分钟"
+
+#: includes/class-webinarsysteemmetabox.php:1408
+msgid "every 30 minutes"
+msgstr "每30分钟"
+
+#: includes/class-webinarsysteemmetabox.php:1409
+msgid "every 40 minutes"
+msgstr "每40分钟"
+
+#: includes/class-webinarsysteemmetabox.php:1410
+msgid "every 45 minutes"
+msgstr "每45分钟"
+
+#: includes/class-webinarsysteemmetabox.php:1411
+msgid "every 50 minutes"
+msgstr "每50分钟"
+
+#: includes/class-webinarsysteemmetabox.php:1412
+msgid "every 60 minutes"
+msgstr "每60分钟"
+
+#: includes/class-webinarsysteemmetabox.php:1421
+msgid "Monday"
+msgstr "星期一"
+
+#: includes/class-webinarsysteemmetabox.php:1422
+msgid "Tuesday"
+msgstr "星期二"
+
+#: includes/class-webinarsysteemmetabox.php:1423
+msgid "Wednesday"
+msgstr "星期三"
+
+#: includes/class-webinarsysteemmetabox.php:1424
+msgid "Thursday"
+msgstr "星期四"
+
+#: includes/class-webinarsysteemmetabox.php:1425
+msgid "Friday"
+msgstr "星期五"
+
+#: includes/class-webinarsysteemmetabox.php:1426
+msgid "Saturday"
+msgstr "星期六"
+
+#: includes/class-webinarsysteemmetabox.php:1427
+msgid "Sunday"
+msgstr "星期日"
+
+#: includes/class-webinarsysteemoptions.php:39
+#: includes/class-webinarsysteemoptions.php:70
+msgid "WP WebinarSystem Options"
+msgstr "WP WebinarSystem 选项"
+
+#: includes/class-webinarsysteemoptions.php:74
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:4
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "常规"
+
+#: includes/class-webinarsysteemoptions.php:76
+msgid "Emails"
+msgstr "电子邮件"
+
+#: includes/class-webinarsysteemoptions.php:77
+#: includes/class-webinarsysteemoptions.php:611
+msgid "Mailinglist providers"
+msgstr "邮件列表提供商"
+
+#: includes/class-webinarsysteemoptions.php:78
+#: includes/class-webinarsysteemoptions.php:737
+msgid "Advanced"
+msgstr "高级"
+
+#: includes/class-webinarsysteemoptions.php:79
+#: includes/class-webinarsysteemoptions.php:1228
+msgid "Integrations"
+msgstr "集成"
+
+#: includes/class-webinarsysteemoptions.php:80
+msgid "Styles"
+msgstr "样式"
+
+#: includes/class-webinarsysteemoptions.php:81
+msgid "System Status"
+msgstr "系统状态"
+
+#: includes/class-webinarsysteemoptions.php:99
+msgid "Email options"
+msgstr "Email 选项"
+
+#: includes/class-webinarsysteemoptions.php:101
+msgid "Registration Confirmation"
+msgstr "注册确认"
+
+#: includes/class-webinarsysteemoptions.php:102
+msgid "Reminder day before Webinar"
+msgstr "网络研讨会开始前一天提醒"
+
+#: includes/class-webinarsysteemoptions.php:103
+msgid "Reminder one hour before Webinar"
+msgstr "网络研讨会前一小时提醒"
+
+#: includes/class-webinarsysteemoptions.php:104
+msgid "Reminder Webinar Starting"
+msgstr "网络研讨会开启提醒"
+
+#: includes/class-webinarsysteemoptions.php:105
+msgid "Webinar replay"
+msgstr "网络研讨会重播"
+
+#: includes/class-webinarsysteemoptions.php:110
+msgid "Email Sender Options"
+msgstr "电子邮件发件人选项"
+
+#: includes/class-webinarsysteemoptions.php:113
+msgid "\"From\" Name"
+msgstr "“来自” 姓名"
+
+#: includes/class-webinarsysteemoptions.php:113
+msgid "Sender name"
+msgstr "发件人名称"
+
+#: includes/class-webinarsysteemoptions.php:116
+msgid "\"From\" Email Address"
+msgstr "“来自” 邮件地址"
+
+#: includes/class-webinarsysteemoptions.php:116
+msgid "Sender email"
+msgstr "发件人邮箱"
+
+#: includes/class-webinarsysteemoptions.php:120
+msgid "Email Template"
+msgstr "邮件模板"
+
+#: includes/class-webinarsysteemoptions.php:124
+msgid "Header Image"
+msgstr "页眉图片"
+
+#: includes/class-webinarsysteemoptions.php:128
+msgid "Upload"
+msgstr "上传"
+
+#: includes/class-webinarsysteemoptions.php:134
+msgid "Email Footer Text"
+msgstr "邮件页脚文本"
+
+#: includes/class-webinarsysteemoptions.php:137
+msgid "Footer Text"
+msgstr "页脚文本"
+
+#: includes/class-webinarsysteemoptions.php:142
+msgid "Base color"
+msgstr "基本颜色"
+
+#: includes/class-webinarsysteemoptions.php:158
+msgid "Email Body Background color"
+msgstr "电子邮件正文背景颜色"
+
+#: includes/class-webinarsysteemoptions.php:166
+msgid "Email Body Text color"
+msgstr "电子邮件正文文本颜色"
+
+#: includes/class-webinarsysteemoptions.php:174
+msgid "Activate profile and unsubscribe link"
+msgstr "激活个人档案和退订链接"
+
+#: includes/class-webinarsysteemoptions.php:186
+msgid "Choose Unsusbscribe Page"
+msgstr "选择退订页"
+
+#: includes/class-webinarsysteemoptions.php:197
+msgid ""
+"WP WebinarSystem plugin uses it's own generated page by default. If you "
+"prefer an own custom page, then please select this on the dropdown menu + "
+"add shortcode [wpws_unsubscribe] to your page."
+msgstr ""
+"WP WebinarSystem 插件默认情况下使用它自己生成的页面。如果你喜欢自己的自定义页"
+"面, 请在下拉菜单上选择此选项, 然后在页面上添加简码 [wpws_unsubscribe]。"
+
+#: includes/class-webinarsysteemoptions.php:203
+#: includes/class-webinarsysteemoptions.php:277
+#: includes/class-webinarsysteemoptions.php:347
+#: includes/class-webinarsysteemoptions.php:412
+#: includes/class-webinarsysteemoptions.php:474
+#: includes/class-webinarsysteemoptions.php:535
+#: includes/class-webinarsysteemoptions.php:596
+msgid "Reset Default Template"
+msgstr "重设默认模版"
+
+#: includes/class-webinarsysteemoptions.php:212
+msgid "New Registration Options"
+msgstr "新注册选项"
+
+#: includes/class-webinarsysteemoptions.php:216
+#: includes/class-webinarsysteemoptions.php:290
+#: includes/class-webinarsysteemoptions.php:360
+#: includes/class-webinarsysteemoptions.php:425
+#: includes/class-webinarsysteemoptions.php:486
+#: includes/class-webinarsysteemoptions.php:547
+msgid "Enable this reminder?"
+msgstr "是否启用此提醒？"
+
+#: includes/class-webinarsysteemoptions.php:224
+#: includes/class-webinarsysteemoptions.php:298
+#: includes/class-webinarsysteemoptions.php:368
+#: includes/class-webinarsysteemoptions.php:433
+#: includes/class-webinarsysteemoptions.php:494
+#: includes/class-webinarsysteemoptions.php:555
+msgid "Subject"
+msgstr "主题"
+
+#: includes/class-webinarsysteemoptions.php:227
+#: includes/class-webinarsysteemoptions.php:301
+#: includes/class-webinarsysteemoptions.php:371
+#: includes/class-webinarsysteemoptions.php:436
+#: includes/class-webinarsysteemoptions.php:497
+#: includes/class-webinarsysteemoptions.php:558
+msgid "Email Head"
+msgstr "电子邮件头"
+
+#: includes/class-webinarsysteemoptions.php:232
+#: includes/class-webinarsysteemoptions.php:306
+#: includes/class-webinarsysteemoptions.php:376
+#: includes/class-webinarsysteemoptions.php:441
+#: includes/class-webinarsysteemoptions.php:502
+#: includes/class-webinarsysteemoptions.php:563
+msgid "Available Shortcodes:"
+msgstr "可用短码:"
+
+#: includes/class-webinarsysteemoptions.php:240
+#: includes/class-webinarsysteemoptions.php:314
+#: includes/class-webinarsysteemoptions.php:384
+#: includes/class-webinarsysteemoptions.php:449
+#: includes/class-webinarsysteemoptions.php:510
+#: includes/class-webinarsysteemoptions.php:571
+#: includes/templates/template-metabox-thankyoupage.php:82
+msgid "Content"
+msgstr "内容"
+
+#: includes/class-webinarsysteemoptions.php:257
+msgid "Admin Email Address"
+msgstr "管理员邮箱地址"
+
+#: includes/class-webinarsysteemoptions.php:257
+msgid "Admin email"
+msgstr "管理员邮箱"
+
+#: includes/class-webinarsysteemoptions.php:266
+#: includes/class-webinarsysteemoptions.php:336
+#: includes/class-webinarsysteemoptions.php:401
+#: includes/class-webinarsysteemoptions.php:463
+#: includes/class-webinarsysteemoptions.php:524
+#: includes/class-webinarsysteemoptions.php:585
+msgid "Your email address"
+msgstr "你的电子邮件地址"
+
+#: includes/class-webinarsysteemoptions.php:267
+#: includes/class-webinarsysteemoptions.php:337
+#: includes/class-webinarsysteemoptions.php:402
+#: includes/class-webinarsysteemoptions.php:464
+#: includes/class-webinarsysteemoptions.php:525
+#: includes/class-webinarsysteemoptions.php:586
+msgid "Send Preview"
+msgstr "发送预览"
+
+#: includes/class-webinarsysteemoptions.php:271
+#: includes/class-webinarsysteemoptions.php:341
+#: includes/class-webinarsysteemoptions.php:406
+#: includes/class-webinarsysteemoptions.php:468
+#: includes/class-webinarsysteemoptions.php:529
+#: includes/class-webinarsysteemoptions.php:590
+msgid "Add a Webinar to send a preview email."
+msgstr "添加一个网络研讨会以发送预览电子邮件。"
+
+#: includes/class-webinarsysteemoptions.php:286
+msgid "Registration Confirmation Email "
+msgstr "注册确认邮件 "
+
+#: includes/class-webinarsysteemoptions.php:356
+msgid "Reminder day before Webinar "
+msgstr "网络研讨会开始前一天提醒 "
+
+#: includes/class-webinarsysteemoptions.php:420
+msgid "Reminder one hour before Webinar "
+msgstr "网络研讨会前一小时提醒 "
+
+#: includes/class-webinarsysteemoptions.php:482
+msgid "Reminder when Webinar starts"
+msgstr "网络研讨会启动时的提醒"
+
+#: includes/class-webinarsysteemoptions.php:543
+msgid "Send Webinar Replay Link"
+msgstr "发送网络研讨会重播链接"
+
+#: includes/class-webinarsysteemoptions.php:617
+msgid "Drip API Key"
+msgstr "Drip API密钥"
+
+#: includes/class-webinarsysteemoptions.php:624
+msgid "The API key you have received from Drip"
+msgstr "从Drip收到的 API 密钥"
+
+#: includes/class-webinarsysteemoptions.php:636
+msgid "MailChimp API Key"
+msgstr "MailChimp API Key"
+
+#: includes/class-webinarsysteemoptions.php:642
+msgid "The API key you have received from MailChimp"
+msgstr "你从 MailChimp 收到的 API 密钥"
+
+#: includes/class-webinarsysteemoptions.php:648
+msgid "Enormail API Key"
+msgstr "Enormail API 密钥"
+
+#: includes/class-webinarsysteemoptions.php:654
+msgid "The API key you have received from Enormail"
+msgstr "你从 Enormail 收到的 API 密钥"
+
+#: includes/class-webinarsysteemoptions.php:672
+msgid "Reconfigure"
+msgstr "重新配置"
+
+#: includes/class-webinarsysteemoptions.php:672
+msgid "Configure"
+msgstr "配置"
+
+#: includes/class-webinarsysteemoptions.php:681
+msgid "Getresponse API Key"
+msgstr "GetResponse API 密钥"
+
+#: includes/class-webinarsysteemoptions.php:687
+msgid "The API key you have received from Getresponse"
+msgstr "你从 Getresponse 收到的 API 密钥"
+
+#: includes/class-webinarsysteemoptions.php:698
+msgid "ActiveCampaign API Key"
+msgstr "ActiveCampaign API密钥"
+
+#: includes/class-webinarsysteemoptions.php:708
+msgid "The API key you have received from ActiveCampaign"
+msgstr "你从 ActiveCampaign 收到的 API 密钥"
+
+#: includes/class-webinarsysteemoptions.php:713
+msgid "ActiveCampaign API URL"
+msgstr "ActiveCampaign API网址"
+
+#: includes/class-webinarsysteemoptions.php:719
+msgid "eg: "
+msgstr "如: "
+
+#: includes/class-webinarsysteemoptions.php:745
+#: includes/class-webinarsysteemoptions.php:839
+msgid "Roles & Permissions"
+msgstr "角色和权限"
+
+#: includes/class-webinarsysteemoptions.php:753
+msgid "Create Webinars"
+msgstr "创建网络研讨会"
+
+#: includes/class-webinarsysteemoptions.php:767
+msgid "Manage Subscribers"
+msgstr "管理订阅用户"
+
+#: includes/class-webinarsysteemoptions.php:781
+msgid "Access Control Bar"
+msgstr "访问控制条"
+
+#: includes/class-webinarsysteemoptions.php:795
+msgid "Manage Questions"
+msgstr "管理问题"
+
+#: includes/class-webinarsysteemoptions.php:809
+msgid "Manage Chatlogs"
+msgstr "管理聊天记录"
+
+#: includes/class-webinarsysteemoptions.php:823
+msgid "Change WebinarSystem Settings"
+msgstr "更改 WebinarSystem 设置"
+
+#: includes/class-webinarsysteemoptions.php:849
+msgid "Styling Settings"
+msgstr "样式设置"
+
+#: includes/class-webinarsysteemoptions.php:854
+msgid "Use Theme Styles"
+msgstr "使用主题风格"
+
+#: includes/class-webinarsysteemoptions.php:870
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr "联系支持人员时，请将这些信息复制并粘贴到你的请求中："
+
+#: includes/class-webinarsysteemoptions.php:873
+msgid "Copy for Support"
+msgstr "复制发给支持人员"
+
+#: includes/class-webinarsysteemoptions.php:874
+msgid "Copied!"
+msgstr "已复制！"
+
+#: includes/class-webinarsysteemoptions.php:876
+msgid "Get System Report"
+msgstr "获取系统报告"
+
+#: includes/class-webinarsysteemoptions.php:882
+msgid "WordPress Environment"
+msgstr "WordPress环境"
+
+#: includes/class-webinarsysteemoptions.php:886
+msgid "Home URL"
+msgstr "主页URL"
+
+#: includes/class-webinarsysteemoptions.php:894
+msgid "Site URL"
+msgstr "网站网址"
+
+#: includes/class-webinarsysteemoptions.php:902
+msgid "WP Version"
+msgstr "WP版本"
+
+#: includes/class-webinarsysteemoptions.php:909
+msgid "WP Multisite"
+msgstr "WP多站点"
+
+#: includes/class-webinarsysteemoptions.php:913
+msgid "WP Debug mode"
+msgstr "WP调试模式"
+
+#: includes/class-webinarsysteemoptions.php:922
+msgid "WP Cron status"
+msgstr "WP Cron 状态"
+
+#: includes/class-webinarsysteemoptions.php:934
+msgid "Language"
+msgstr "语言"
+
+#: includes/class-webinarsysteemoptions.php:942
+msgid "Plugin Environment"
+msgstr "插件环境"
+
+#: includes/class-webinarsysteemoptions.php:946
+msgid "Webinar System Version"
+msgstr "Webinar System Version"
+
+#: includes/class-webinarsysteemoptions.php:956
+msgid "Server Environment"
+msgstr "服务器环境"
+
+#: includes/class-webinarsysteemoptions.php:960
+msgid "Server Info"
+msgstr "服务器信息"
+
+#: includes/class-webinarsysteemoptions.php:968
+msgid "PHP Version"
+msgstr "PHP版本"
+
+#: includes/class-webinarsysteemoptions.php:977
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr "无法确定PHP版本，因为phpversion（）不存在。"
+
+#: includes/class-webinarsysteemoptions.php:985
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: includes/class-webinarsysteemoptions.php:993
+msgid "PHP Time Limit"
+msgstr "PHP时间限制"
+
+#: includes/class-webinarsysteemoptions.php:1001
+msgid "PHP Max Input Vars"
+msgstr "PHP最大输入变量"
+
+#: includes/class-webinarsysteemoptions.php:1009
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN已安装"
+
+#: includes/class-webinarsysteemoptions.php:1017
+msgid "MySQL Version"
+msgstr "MySQL版本"
+
+#: includes/class-webinarsysteemoptions.php:1028
+msgid "Max Upload Size"
+msgstr "最大上传大小"
+
+#: includes/class-webinarsysteemoptions.php:1036
+msgid "Default Timezone"
+msgstr "默认时区"
+
+#: includes/class-webinarsysteemoptions.php:1051
+msgid "PHP Memory Limit"
+msgstr "PHP内存限制"
+
+#: includes/class-webinarsysteemoptions.php:1111
+msgid "Server Time"
+msgstr "服务时间"
+
+#: includes/class-webinarsysteemoptions.php:1142
+msgid "Server Timezone"
+msgstr "服务器时区"
+
+#: includes/class-webinarsysteemoptions.php:1156
+msgid "Server Locale"
+msgstr "服务器的区域设置"
+
+#: includes/class-webinarsysteemoptions.php:1163
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/class-webinarsysteemoptions.php:1177
+msgid "Active Plugins ("
+msgstr "启用的插件（"
+
+#: includes/class-webinarsysteemoptions.php:1195
+msgid "by "
+msgstr "由 "
+
+#: includes/class-webinarsysteemoptions.php:1205
+msgid "Theme"
+msgstr "主题"
+
+#: includes/class-webinarsysteemoptions.php:1213
+msgid "Version"
+msgstr "版本"
+
+#: includes/class-webinarsysteemoptions.php:1217
+msgid "Author URL"
+msgstr "作者网址"
+
+#: includes/class-webinarsysteemupdates.php:172
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+"有新版本 %1$s 可用。 <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">查"
+"看版本 %3$s 细节</a>."
+
+#: includes/class-webinarsysteemupdates.php:176
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+"有新版本 %1$s 可用。<a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">查"
+"看版本 %3$s 细节</a> 或<a href=\"%4$s\">现在更新</a>。"
+
+#: includes/class-webinarsysteemupdates.php:309
+msgid "You do not have permission to install plugin updates"
+msgstr "你没有安装插件更新的权限"
+
+#: includes/class-webinarsysteemupdates.php:309
+msgid "Error"
+msgstr "错误"
+
+#: includes/class-webinarsysteemupdates.php:352
+msgid "Your WPWebinarSystem license has been deactivated!"
+msgstr "你的WPWebinarSystem许可证已停用！"
+
+#: includes/class-webinarsysteemupdates.php:360
+msgid "Your WPWebinarSystem license has been activated!"
+msgstr "你的WPWebinarSystem许可证已被激活！"
+
+#: includes/class-webinarsysteemupdates.php:370
+msgid "The WPWebinarSystem license you entered is invalid."
+msgstr "你输入的WPWebinarSystem许可证无效。"
+
+#: includes/class-webinarsysteemupdates.php:380
+msgid ""
+"Your WPWebinarSystem license is expired. Please renew or the plugin will not "
+"work as expected. Please activate your copy as soon as possible."
+msgstr ""
+"你的WPWebinarSystem许可证已过期。请更新，否则插件可能无法按预期工作。请尽快激"
+"活。"
+
+#: includes/templates/template-access-tab.php:3
+msgid "Make Webinar only accessible for : "
+msgstr "使网络研讨会访问仅限于： "
+
+#: includes/templates/template-access-tab.php:25
+msgid "Only for user roles"
+msgstr "仅适用于用户角色"
+
+#: includes/templates/template-access-tab.php:47
+msgid "Member Levels"
+msgstr "会员级别"
+
+#: includes/templates/template-access-tab.php:51
+msgid "Member Level"
+msgstr "会员级别"
+
+#: includes/templates/template-access-tab.php:53
+msgid "Select"
+msgstr "选择"
+
+#: includes/templates/template-access-tab.php:63
+msgid ""
+"Please install and configure the 'WooCommerce Memberships' plugin to use "
+"this functionality."
+msgstr "请安装并配置“WooCommerce Memberships”插件以使用此功能。"
+
+#: includes/templates/template-access-tab.php:72
+#: includes/templates/template-access-tab.php:100
+msgid "User Id's"
+msgstr "用户ID"
+
+#: includes/templates/template-access-tab.php:102
+msgid "Enter user ID. (You can add multiple user ID's. ID separated by comma)."
+msgstr "输入用户ID。 （你可以添加多个用户ID。以逗号分隔）。"
+
+#: includes/templates/template-access-tab.php:112
+msgid "Redirect"
+msgstr "重定向至"
+
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "你好"
+
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "刚刚注册参加你的网络研讨会"
+
+#: includes/templates/template-email-admin-email.php:16
+msgid "asked the following question during"
+msgstr "提出以下问题在"
+
+#: includes/templates/template-email-attendee-wbstarted.php:21
+msgid "We are going live now"
+msgstr "我们现在正在直播"
+
+#: includes/templates/template-email-reader.php:112
+msgid ""
+"Thank you for purchasing a webinar ticket. Please click on the button below "
+"to login for the webinar when it starts."
+msgstr ""
+"感谢你购买了网络研讨会门票。请单击下面的按钮, 以便在启动网络研讨会时登录。"
+
+#: includes/templates/template-email-reader.php:117
+msgid "Attend Webinar"
+msgstr "参加网络研讨会"
+
+#: includes/templates/template-email-reader.php:118
+msgid "If you can't see the link, please visit:"
+msgstr "如果你看不到链接, 请访问:"
+
+#: includes/templates/template-metabox-countdownpage.php:8
+#: includes/templates/template-metabox-livepage.php:14
+#: includes/templates/template-metabox-replaypage.php:14
+#: includes/templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "标题颜色"
+
+#: includes/templates/template-metabox-countdownpage.php:20
+#: includes/templates/template-metabox-livepage.php:26
+#: includes/templates/template-metabox-replaypage.php:26
+#: includes/templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "背景图片"
+
+#: includes/templates/template-metabox-countdownpage.php:22
+msgid "Countdown Page Background Image"
+msgstr "倒计时页面背景图片"
+
+#: includes/templates/template-metabox-countdownpage.php:22
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-livepage.php:62
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:41
+#: includes/templates/template-metabox-replaypage.php:28
+#: includes/templates/template-metabox-replaypage.php:60
+#: includes/templates/template-metabox-thankyoupage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:47
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: includes/templates/template-metabox-countdownpage.php:27
+msgid "Show countdown timer"
+msgstr "倒计时器"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+msgid "Tagline color"
+msgstr "标签线颜色"
+
+#: includes/templates/template-metabox-countdownpage.php:39
+msgid "Description color"
+msgstr "描述颜色"
+
+#: includes/templates/template-metabox-generalpage.php:5
+#: includes/templates/template-metabox-livepage.php:41
+#: includes/templates/template-metabox-replaypage.php:40
+msgid "Live"
+msgstr "直播"
+
+#: includes/templates/template-metabox-generalpage.php:6
+msgid "Replay"
+msgstr "重播"
+
+#: includes/templates/template-metabox-generalpage.php:14
+msgid "Webinar Type"
+msgstr "网络研讨会类型"
+
+#: includes/templates/template-metabox-generalpage.php:22
+msgid "Webinar Occurance"
+msgstr "网络研讨会发生"
+
+#: includes/templates/template-metabox-generalpage.php:33
+msgid "One time registration"
+msgstr "一次注册"
+
+#: includes/templates/template-metabox-generalpage.php:41
+msgid "Recurring on every"
+msgstr "定期在每"
+
+#: includes/templates/template-metabox-generalpage.php:84
+msgid "Recurring Time(s)"
+msgstr "重复时间 (s)"
+
+#: includes/templates/template-metabox-generalpage.php:92
+#: includes/templates/template-metabox-generalpage.php:302
+msgid "Remove"
+msgstr "移除"
+
+#: includes/templates/template-metabox-generalpage.php:105
+msgid "Only runs on"
+msgstr "只运行在"
+
+#: includes/templates/template-metabox-generalpage.php:140
+msgid "Start Webinar"
+msgstr "开始网络研讨会"
+
+#: includes/templates/template-metabox-generalpage.php:192
+msgid "Webinar starts at"
+msgstr "网络研讨会开始于"
+
+#: includes/templates/template-metabox-generalpage.php:193
+#: includes/tmp-post.php:200 includes/tmp-registration.php:171
+msgid "Date"
+msgstr "日期"
+
+#: includes/templates/template-metabox-generalpage.php:255
+msgid "Disable registration"
+msgstr "禁用注册"
+
+#: includes/templates/template-metabox-livepage.php:7
+#: includes/templates/template-metabox-replaypage.php:7
+msgid "Hide Title"
+msgstr "隐藏标题"
+
+#: includes/templates/template-metabox-livepage.php:28
+#: includes/templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "致谢页面背景图片"
+
+#: includes/templates/template-metabox-livepage.php:36
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Webinar type"
+msgstr "网络研讨会类型"
+
+#: includes/templates/template-metabox-livepage.php:43
+#: includes/templates/template-metabox-registerpage.php:32
+#: includes/templates/template-metabox-replaypage.php:42
+#: includes/templates/template-metabox-thankyoupage.php:38
+msgid "Image"
+msgstr "图片"
+
+#: includes/templates/template-metabox-livepage.php:44
+#: includes/templates/template-metabox-registerpage.php:33
+#: includes/templates/template-metabox-replaypage.php:43
+#: includes/templates/template-metabox-thankyoupage.php:39
+msgid "File"
+msgstr "文件"
+
+#: includes/templates/template-metabox-livepage.php:45
+#: includes/templates/template-metabox-replaypage.php:44
+msgid "RTMP Stream"
+msgstr "RTMP Stream"
+
+#: includes/templates/template-metabox-livepage.php:46
+#: includes/templates/template-metabox-replaypage.php:45
+msgid "Inline Frame (iframe)"
+msgstr "Inline Frame (iframe)"
+
+#: includes/templates/template-metabox-livepage.php:48
+#: includes/templates/template-metabox-replaypage.php:47
+msgid "Start HOA broadcast from Youtube website"
+msgstr "从 Youtube 网站开始HOA广播"
+
+#: includes/templates/template-metabox-livepage.php:49
+#: includes/templates/template-metabox-replaypage.php:48
+msgid "Start a livestream with Youtube Live"
+msgstr "通过 Youtube Live 启动直播流"
+
+#: includes/templates/template-metabox-livepage.php:53
+#: includes/templates/template-metabox-replaypage.php:52
+msgid "Hangouts on Air URL"
+msgstr "Hangouts on Air URL"
+
+#: includes/templates/template-metabox-livepage.php:54
+#: includes/templates/template-metabox-replaypage.php:53
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: includes/templates/template-metabox-livepage.php:55
+#: includes/templates/template-metabox-replaypage.php:54
+msgid "Vimeo ID"
+msgstr "Vimeo ID"
+
+#: includes/templates/template-metabox-livepage.php:56
+#: includes/templates/template-metabox-replaypage.php:55
+msgid "Image URL"
+msgstr "图片 URL"
+
+#: includes/templates/template-metabox-livepage.php:57
+#: includes/templates/template-metabox-replaypage.php:56
+msgid "Iframe Source URL"
+msgstr "Iframe Source URL"
+
+#: includes/templates/template-metabox-livepage.php:58
+#: includes/templates/template-metabox-replaypage.php:57
+msgid "File URL"
+msgstr "文件URL"
+
+#: includes/templates/template-metabox-livepage.php:59
+#: includes/templates/template-metabox-replaypage.php:58
+msgid "RTMP Server URL"
+msgstr "RTMP Server URL"
+
+#: includes/templates/template-metabox-livepage.php:62
+#: includes/templates/template-metabox-replaypage.php:60
+msgid "Registration Page Video Image"
+msgstr "注册页视频图像"
+
+#: includes/templates/template-metabox-livepage.php:64
+#, php-format
+msgid "Paste Youtube/Hangouts URL here (Eg: %s OR %s)"
+msgstr "在这里粘贴 Youtube/Hangouts URL (如:%s 或%s)"
+
+#: includes/templates/template-metabox-livepage.php:65
+#: includes/templates/template-metabox-registerpage.php:45
+#: includes/templates/template-metabox-thankyoupage.php:50
+msgid "Paste Vimeo video ID here (Eg: 129673042)"
+msgstr "在这里粘贴 Vimeo 视频 ID (例如: 129673042)"
+
+#: includes/templates/template-metabox-livepage.php:66
+#: includes/templates/template-metabox-registerpage.php:46
+#: includes/templates/template-metabox-replaypage.php:66
+#: includes/templates/template-metabox-thankyoupage.php:51
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr "图像 URL (如: https://example.com/images/the_image.jpg)"
+
+#: includes/templates/template-metabox-livepage.php:67
+#: includes/templates/template-metabox-registerpage.php:47
+#: includes/templates/template-metabox-replaypage.php:67
+#: includes/templates/template-metabox-thankyoupage.php:52
+msgid ""
+"It's best to host your video file outside your website to save bandwidth."
+msgstr "最好将你的视频文件存放在网站外部以节省带宽。"
+
+#: includes/templates/template-metabox-livepage.php:72
+#: includes/templates/template-metabox-registerpage.php:52
+#: includes/templates/template-metabox-replaypage.php:72
+#: includes/templates/template-metabox-thankyoupage.php:57
+msgid "Video autoplay"
+msgstr "视频自动播放"
+
+#: includes/templates/template-metabox-livepage.php:75
+#: includes/templates/template-metabox-registerpage.php:55
+#: includes/templates/template-metabox-replaypage.php:75
+#: includes/templates/template-metabox-thankyoupage.php:60
+msgid "Some browsers will restrict the autoplay functionality"
+msgstr "某些浏览器将限制自动播放功能"
+
+#: includes/templates/template-metabox-livepage.php:80
+#: includes/templates/template-metabox-registerpage.php:60
+#: includes/templates/template-metabox-replaypage.php:80
+#: includes/templates/template-metabox-thankyoupage.php:65
+msgid "Show controls"
+msgstr "显示控件"
+
+#: includes/templates/template-metabox-livepage.php:84
+#: includes/templates/template-metabox-registerpage.php:64
+#: includes/templates/template-metabox-replaypage.php:84
+#: includes/templates/template-metabox-thankyoupage.php:69
+msgid ""
+"Controls will stay visible for webinar host, but will be hidden for your "
+"attendees"
+msgstr "控件将在网络研讨会主持机子上保持可见, 但将针对参加者隐藏"
+
+#: includes/templates/template-metabox-livepage.php:90
+#: includes/templates/template-metabox-replaypage.php:90
+msgid "Enable Fullscreen"
+msgstr "启用全屏"
+
+#: includes/templates/template-metabox-livepage.php:98
+#: includes/templates/template-metabox-registerpage.php:69
+#: includes/templates/template-metabox-replaypage.php:98
+#: includes/templates/template-metabox-thankyoupage.php:74
+msgid "Show big play button"
+msgstr "显示大播放按钮"
+
+#: includes/templates/template-metabox-livepage.php:105
+#: includes/templates/template-metabox-replaypage.php:105
+msgid "Simulate webinar content"
+msgstr "模拟网络研讨会内容"
+
+#: includes/templates/template-metabox-livepage.php:467
+#: includes/templates/template-metabox-replaypage.php:118
+msgid "Activate CTA"
+msgstr "激活 CTA"
+
+#: includes/templates/template-metabox-livepage.php:476
+#: includes/templates/template-metabox-replaypage.php:127
+msgid "Show CTA after (minutes)"
+msgstr "显示 CTA于 (分钟)之后"
+
+#: includes/templates/template-metabox-livepage.php:484
+#: includes/templates/template-metabox-replaypage.php:135
+msgid "Show CTA"
+msgstr "显示 CTA"
+
+#: includes/templates/template-metabox-livepage.php:493
+#: includes/templates/template-metabox-replaypage.php:144
+msgid "CTA Type"
+msgstr "CTA 类型"
+
+#: includes/templates/template-metabox-livepage.php:503
+#: includes/templates/template-metabox-replaypage.php:154
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: includes/templates/template-metabox-livepage.php:509
+#: includes/templates/template-metabox-replaypage.php:160
+msgid "Hover Color"
+msgstr "悬停颜色"
+
+#: includes/templates/template-metabox-livepage.php:515
+#: includes/templates/template-metabox-replaypage.php:166
+msgid "Border Color"
+msgstr "边框颜色"
+
+#: includes/templates/template-metabox-livepage.php:521
+#: includes/templates/template-metabox-replaypage.php:172
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: includes/templates/template-metabox-livepage.php:527
+#: includes/templates/template-metabox-replaypage.php:178
+msgid "Hover Text Color"
+msgstr "悬停文字颜色"
+
+#: includes/templates/template-metabox-livepage.php:539
+#: includes/templates/template-metabox-replaypage.php:190
+msgid "Button URL"
+msgstr "按钮网址"
+
+#: includes/templates/template-metabox-livepage.php:545
+#: includes/templates/template-metabox-replaypage.php:196
+msgid "Button Text"
+msgstr "按钮文本"
+
+#: includes/templates/template-metabox-livepage.php:573
+#: includes/templates/template-metabox-replaypage.php:223
+msgid "CTA Content"
+msgstr "CTA内容"
+
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "页面背景颜色"
+
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "页面背景图片"
+
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "注册页背景图像"
+
+#: includes/templates/template-metabox-registerpage.php:20
+msgid "Show Content Section"
+msgstr "显示内容区域"
+
+#: includes/templates/template-metabox-registerpage.php:27
+#: includes/templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "内容类型"
+
+#: includes/templates/template-metabox-registerpage.php:38
+#: includes/templates/template-metabox-thankyoupage.php:44
+msgid "Video or Image URL"
+msgstr "视频或图片 URL"
+
+#: includes/templates/template-metabox-registerpage.php:41
+msgid "Registration Page Image"
+msgstr "注册页图片"
+
+#: includes/templates/template-metabox-registerpage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:49
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+msgstr ""
+"在这里粘贴 Youtube 网址 (如: https://www.youtube.com/watch？v=3TkgTEfx9XM)"
+
+#: includes/templates/template-metabox-registerpage.php:79
+msgid "Title Color"
+msgstr "标题颜色"
+
+#: includes/templates/template-metabox-registerpage.php:84
+msgid "Date/Time Color"
+msgstr "日期/时间颜色"
+
+#: includes/templates/template-metabox-registerpage.php:91
+msgid "Custom Registration Fields"
+msgstr "自定义注册字段"
+
+#: includes/templates/template-metabox-registerpage.php:110
+msgid "GDPR Opt-in"
+msgstr "GDPR Opt-in"
+
+#: includes/templates/template-metabox-registerpage.php:113
+msgid "Enable GDPR Opt-in for Paid webinars"
+msgstr "为付费网络研讨会启用 GDPR Opt-in"
+
+#: includes/templates/template-metabox-registerpage.php:119
+msgid "Enable GDPR Opt-in for Non-Paid webinars"
+msgstr "为非付费网络研讨会启用 GDPR Opt-in"
+
+#: includes/templates/template-metabox-registerpage.php:130
+msgid "GDPR Opt-in Text"
+msgstr "GDPR Opt-in 文本"
+
+#: includes/templates/template-metabox-registerpage.php:136
+msgid "Form & Tab Layout"
+msgstr "表单和选项卡布局"
+
+#: includes/templates/template-metabox-registerpage.php:144
+msgid "Position"
+msgstr "位置"
+
+#: includes/templates/template-metabox-registerpage.php:164
+msgid "Font color"
+msgstr "字体颜色"
+
+#: includes/templates/template-metabox-registerpage.php:176
+msgid "Tab Text color"
+msgstr "选项卡文本颜色"
+
+#: includes/templates/template-metabox-registerpage.php:182
+msgid "Register Tab Text"
+msgstr "注册选项卡文字"
+
+#: includes/templates/template-metabox-registerpage.php:188
+msgid "Login Tab Text"
+msgstr "登录选项卡文字"
+
+#: includes/templates/template-metabox-registerpage.php:194
+msgid "Register Tab"
+msgstr "注册选项卡"
+
+#: includes/templates/template-metabox-registerpage.php:197
+msgid "Hide Registration Form"
+msgstr "隐藏注册表单"
+
+#: includes/templates/template-metabox-registerpage.php:204
+msgid "Register Title"
+msgstr "注册标题"
+
+#: includes/templates/template-metabox-registerpage.php:210
+msgid "Register Text"
+msgstr "注册文本"
+
+#: includes/templates/template-metabox-registerpage.php:216
+#: includes/templates/template-metabox-registerpage.php:264
+#: includes/templates/template-metabox-thankyoupage.php:187
+msgid "Button Background color"
+msgstr "按钮背景颜色"
+
+#: includes/templates/template-metabox-registerpage.php:222
+#: includes/templates/template-metabox-registerpage.php:270
+#: includes/templates/template-metabox-thankyoupage.php:193
+msgid "Button Border color"
+msgstr "按钮边框颜色"
+
+#: includes/templates/template-metabox-registerpage.php:234
+msgid "CTA Button Text"
+msgstr "CTA按钮文字"
+
+#: includes/templates/template-metabox-registerpage.php:240
+msgid "Login Tab"
+msgstr "登录选项卡"
+
+#: includes/templates/template-metabox-registerpage.php:244
+msgid "Hide Login Form"
+msgstr "隐藏登录表单"
+
+#: includes/templates/template-metabox-registerpage.php:252
+msgid "Login Title"
+msgstr "登录标题"
+
+#: includes/templates/template-metabox-registerpage.php:258
+msgid "Login Text"
+msgstr "登录文本"
+
+#: includes/templates/template-metabox-registerpage.php:282
+msgid "Login Button Text"
+msgstr "登录按钮文本"
+
+#: includes/templates/template-metabox-registerpage.php:289
+msgid "Description"
+msgstr "描述"
+
+#: includes/templates/template-metabox-registerpage.php:292
+msgid "Show Description Section"
+msgstr "显示描述部分"
+
+#: includes/templates/template-metabox-registerpage.php:298
+msgid "Description text color"
+msgstr "描述文字顏色"
+
+#: includes/templates/template-metabox-registerpage.php:303
+msgid "Description background color"
+msgstr "描述背景顏色"
+
+#: includes/templates/template-metabox-registerpage.php:308
+msgid "Description border color"
+msgstr "描述边框颜色"
+
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay Page Background Image"
+msgstr "重播页面背景图像"
+
+#: includes/templates/template-metabox-replaypage.php:64
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM OR "
+"http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+"在这里粘贴Youtube网址（例如：https：//www.youtube.com/watch？v = 3TkgTEfx9XM"
+"或http://youtu.be/CqlB2SiG-ac）"
+
+#: includes/templates/template-metabox-replaypage.php:65
+msgid "Paste Vimeo video ID here (Eg: 129673042))"
+msgstr "在这里粘贴 Vimeo 视频 ID (例如: 129673042)"
+
+#: includes/templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "标题文本"
+
+#: includes/templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "是的！你已注册该网络研讨会！"
+
+#: includes/templates/template-metabox-thankyoupage.php:47
+msgid "Thank you Page Image"
+msgstr "致谢页面图片"
+
+#: includes/templates/template-metabox-thankyoupage.php:85
+msgid "Link above Text Color"
+msgstr "文本颜色上方的链接"
+
+#: includes/templates/template-metabox-thankyoupage.php:90
+msgid "Link below Text Color"
+msgstr "文本颜色下方的链接"
+
+#: includes/templates/template-metabox-thankyoupage.php:99
+msgid "Border color-1"
+msgstr "边框颜色 01"
+
+#: includes/templates/template-metabox-thankyoupage.php:105
+msgid "Border color-2"
+msgstr "边框颜色 02"
+
+#: includes/templates/template-metabox-thankyoupage.php:111
+msgid "Body Text color"
+msgstr "正文文本颜色"
+
+#: includes/templates/template-metabox-thankyoupage.php:117
+msgid "Body Background color"
+msgstr "主体背景颜色"
+
+#: includes/templates/template-metabox-thankyoupage.php:123
+msgid "Header Background color"
+msgstr "页眉背景颜色"
+
+#: includes/templates/template-metabox-thankyoupage.php:129
+msgid "Header Text color"
+msgstr "页眉文本颜色"
+
+#: includes/templates/template-metabox-thankyoupage.php:135
+msgid "Button color"
+msgstr "按钮颜色"
+
+#: includes/templates/template-metabox-thankyoupage.php:147
+msgid "Social Sharing"
+msgstr "社交分享"
+
+#: includes/templates/template-metabox-thankyoupage.php:161
+msgid "Calendar"
+msgstr "日历"
+
+#: includes/templates/template-metabox-thankyoupage.php:176
+#: includes/templates/template-metabox-ticket.php:76
+msgid "Text color"
+msgstr "文本颜色"
+
+#: includes/templates/template-metabox-ticket.php:3
+#, php-format
+msgid ""
+"This section is to issue tickets for webinars. Enable WooCommerce "
+"Integration from <a href=\"%s\" target=\"_blank\">WebinarSystem Settings</a> "
+"to use this feature."
+msgstr ""
+"本节将设置网络研讨会的门票。从<a href=\"%s\" target=\"_blank\">WebinarSystem"
+"设置</a>启用WooCommerce集成以使用此功能。"
+
+#: includes/templates/template-metabox-ticket.php:13
+msgid "Ticket details"
+msgstr "门票细节"
+
+#: includes/templates/template-metabox-ticket.php:16
+msgid "Paid webinar?"
+msgstr "付费网络研讨会？"
+
+#: includes/templates/template-metabox-ticket.php:22
+msgid "Buying Form Title"
+msgstr "购买表单标题"
+
+#: includes/templates/template-metabox-ticket.php:28
+msgid "Buying Form Description"
+msgstr "购买表单说明"
+
+#: includes/templates/template-metabox-ticket.php:34
+msgid "Price"
+msgstr "价格"
+
+#: includes/templates/template-metabox-ticket.php:44
+msgid "Required"
+msgstr "必需"
+
+#: includes/templates/template-metabox-ticket.php:49
+msgid "Ticket Title"
+msgstr "门票标题"
+
+#: includes/templates/template-metabox-ticket.php:54
+msgid "Ticket Description"
+msgstr "门票说明"
+
+#: includes/templates/template-metabox-ticket.php:63
+msgid "Style"
+msgstr "样式"
+
+#: includes/templates/template-options-license.php:11
+msgid "Activate for"
+msgstr "激活于"
+
+#: includes/templates/template-options-license.php:15
+#, php-format
+msgid "This domain (%s)"
+msgstr "此域名 (%s)"
+
+#: includes/templates/template-options-license.php:20
+msgid "If you have an Agency license, it will be applied for all websites."
+msgstr "如果你有一个代理许可证, 它将适用于所有网站。"
+
+#: includes/templates/template-options-license.php:25
+msgid "License Key"
+msgstr "许可证密钥"
+
+#: includes/templates/template-options-license.php:29
+msgid "Flush data (Recheck)"
+msgstr "刷新数据 (重新检查)"
+
+#: includes/templates/template-options-license.php:32
+msgid "Your copy of WebinarSysteem is Active."
+msgstr "你的 WebinarSysteem 是有效的。"
+
+#: includes/templates/template-options-license.php:34
+msgid ""
+"Your copy of WebinarSysteem is not activated. Plugin will not work as "
+"expected. Please activate your copy."
+msgstr "你的 WebinarSysteem 未激活。插件将无法按预期工作。请激活。"
+
+#: includes/templates/template-options-license.php:40
+msgid "Activated sites"
+msgstr "已激活站点"
+
+#: includes/templates/template-options-license.php:64
+msgid "Deactivate license"
+msgstr "禁用许可证"
+
+#: includes/templates/template-video-source.php:13
+msgid "Enable Sound"
+msgstr "启用音效"
+
+#: includes/tmp-closed.php:49
+msgid "Unfortunately, this webinar is closed."
+msgstr "好遗憾, 此网络研讨会已关闭。"
+
+#: includes/tmp-closed.php:52
+msgid "Click here"
+msgstr "点击这里"
+
+#: includes/tmp-closed.php:52
+msgid "to go to our homepage."
+msgstr "去我们的主页。"
+
+#: includes/tmp-countdown.php:78
+msgid "will begin in"
+msgstr "将开始于"
+
+#: includes/tmp-countdown.php:79
+msgid "will begin shortly"
+msgstr "不久将开始"
+
+#: includes/tmp-countdown.php:84
+msgid "will start"
+msgstr "将开始"
+
+#: includes/tmp-countdown.php:85
+msgid "on"
+msgstr "开"
+
+#: includes/tmp-countdown.php:86
+msgid "at"
+msgstr "在"
+
+#: includes/tmp-countdown.php:92
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "请在这个时候再来。谢谢你的耐心"
+
+#: includes/tmp-countdown.php:103
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr "等稍等, 我们正准备开始直播。此页面将自动刷新…"
+
+#: includes/tmp-countdown.php:113 includes/tmp-live.php:283
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields "
+"are filled correctly"
+msgstr "你的添加问题表单有问题。请重新检查所有字段是否正确填写"
+
+#: includes/tmp-countdown.php:114 includes/tmp-live.php:284
+msgid "Please wait.."
+msgstr "请稍等.."
+
+#: includes/tmp-live.php:169 includes/tmp-post.php:198
+#: includes/tmp-registration.php:176
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "主持者"
+
+#: includes/tmp-live.php:178
+msgid "Information"
+msgstr "信息"
+
+#: includes/tmp-live.php:197
+msgid "Chat box"
+msgstr "聊天框"
+
+#: includes/tmp-live.php:204
+msgid "Ask your question!"
+msgstr "提出你的问题！"
+
+#: includes/tmp-live.php:208
+msgid "Your name"
+msgstr "你的名字"
+
+#: includes/tmp-live.php:211
+msgid "Your email"
+msgstr "你的邮箱"
+
+#: includes/tmp-live.php:214
+msgid "Type your question here.."
+msgstr "在这里输入你的问题.."
+
+#: includes/tmp-live.php:216
+msgid "Ask Question!"
+msgstr "提出问题！"
+
+#: includes/tmp-live.php:220
+msgid "My Questions"
+msgstr "我的问题"
+
+#: includes/tmp-live.php:227
+msgid "Live Chat"
+msgstr "直播实时聊天"
+
+#: includes/tmp-live.php:229
+msgid "Private"
+msgstr "私密"
+
+#: includes/tmp-live.php:229
+msgid "Public"
+msgstr "公开"
+
+#: includes/tmp-post.php:167
+msgid "Here is the webinar URL..."
+msgstr "这是网络研讨会网址..。"
+
+#: includes/tmp-post.php:175
+msgid "Save and bookmark this URL so you can get access to the webinar..."
+msgstr "保存并收藏此 URL, 便于你访问网络研讨会…"
+
+#: includes/tmp-post.php:185
+msgid "Your Webinar Ticket"
+msgstr "你的网络研讨会门票"
+
+#: includes/tmp-post.php:186
+msgid "The Webinar Event Information..."
+msgstr "网络研讨会活动信息…"
+
+#: includes/tmp-post.php:216
+msgid "Join Webinar in Progress..."
+msgstr "加入网络研讨会处理中…"
+
+#: includes/tmp-post.php:224
+msgid "View Webinar Replay"
+msgstr "查看网络研讨会重播"
+
+#: includes/tmp-post.php:252
+msgid "Add To Your Calendar"
+msgstr "添加到你的日历"
+
+#: includes/tmp-post.php:253
+msgid "Remind Yourself Of The Event"
+msgstr "提醒自己关于此项活动"
+
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "没有脚本哦!"
+
+#: includes/tmp-registration.php:43
+msgid "Register"
+msgstr "注册"
+
+#: includes/tmp-registration.php:44 includes/tmp-registration.php:60
+msgid "Login"
+msgstr "登录"
+
+#: includes/tmp-registration.php:46
+msgid "Free Sign Up:"
+msgstr "免费注册:"
+
+#: includes/tmp-registration.php:48
+msgid "Sign Up"
+msgstr "注册"
+
+#: includes/tmp-registration.php:266
+msgid "Buy a webinar ticket"
+msgstr "购买网络研讨会门票"
+
+#: includes/tmp-registration.php:294
+msgid ""
+"Unfortunately, you can't use a general info@.. address. Please use a "
+"personal e-mail address"
+msgstr "遗憾呢, 你不能使用一般的 info@。地址。请使用个人电子邮件地址"
+
+#: includes/tmp-registration.php:327
+msgid "Of course we will handle your data safely."
+msgstr "当然, 我们会安全地处理你的数据。"
+
+#. Plugin Name of the plugin/theme
+msgid "WP WebinarSystem Pro"
+msgstr "WP WebinarSystem Pro"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.wpwebinarsystem.com"
+msgstr "https://www.wpwebinarsystem.com"
+
+#. Description of the plugin/theme
+msgid ""
+"WP WebinarSystem allows you to run Live and Automated webinars within your "
+"Wordpress website, and customize everything around it."
+msgstr ""
+"WP WebinarSystem 允许你在 Wordpress 网站中运行实时和自动网络研讨会, 并自定义"
+"周边的所有内容。"

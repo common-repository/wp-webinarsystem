@@ -1,0 +1,3928 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP WebinarSystem Pro\n"
+"POT-Creation-Date: 2019-03-14 09:35+0100\n"
+"PO-Revision-Date: 2019-03-14 09:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpwebinarsystem.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/class-webinarsysteem-ajax.php:604
+#: includes/class-webinarsysteem-ajax.php:654
+#: includes/class-webinarsysteem-shortcodes.php:231
+#: includes/class-webinarsysteem-shortcodes.php:316
+#: includes/templates/template-jit-days-times-selects-boxes.php:81
+#: includes/templates/template-recurring-days-times-selects-boxes.php:99
+msgid "Select a time"
+msgstr "시간을 선택하세요"
+
+#: includes/class-webinarsysteem-ajax.php:644
+#: includes/class-webinarsysteem-ajax.php:692
+msgid "No slots available"
+msgstr "No slots available"
+
+#: includes/class-webinarsysteem-chatlogs.php:22
+#: includes/class-webinarsysteem.php:780
+msgid "Chatlogs"
+msgstr "채팅이력"
+
+#: includes/class-webinarsysteem-chatlogs.php:78
+msgid "Chatlog is empty for this webinar"
+msgstr "본 웨비나의 채팅이력은 없습니다"
+
+#: includes/class-webinarsysteem-chatlogs.php:84
+msgid "Clear all the chat messages for this webinar?"
+msgstr "웨비나의 모든 채팅 메시지를 삭제 하시겠습니까?"
+
+#: includes/class-webinarsysteem-chatlogs.php:85
+msgid "Are you sure to delete selected chat messages?"
+msgstr "정말 선택하신 웨비나의 모든 채팅 메시지를 삭제 하시겠습니까?"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:91
+#, php-format
+msgid ""
+"Invalid Drip API key. To fix, please visit <a href=\"%s\">WebinarSystem "
+"Settings</a>."
+msgstr ""
+"유효하지 않은 Drip API 키 입니다. 수정을 하시려면 <a href=“%s”>WebinarSystem "
+"Settings</a> 페이지를 방문 하세요."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:106
+#, php-format
+msgid ""
+"Invalid Enormail API key. To fix, please visit <a href=\"%s\">WebinarSystem "
+"Settings</a>."
+msgstr ""
+"유효하지 않은 Enormail API 키 입니다. 수정을 하시려면 <a "
+"href=“%s”>WebinarSystem Settings</a> 페이지를 방문 하세요."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:175
+#, php-format
+msgid "Invalid %s API KEY and URL."
+msgstr "유효하지 않은 %s API KEY 와 URL."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:175
+#, php-format
+msgid "Please visit <a href=\"%s\">WebinarSystem Settings</a> to fix."
+msgstr ""
+"수정하시려면 <a href=“%s”>WebinarSystem Settings</a> 페이지를 방문 하세요."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:185
+msgid "Please add both API KEY and URL"
+msgstr "API KEY 와 URL을 모두 추가 하시기 바랍니다"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:191
+msgid "Invalid API credentials."
+msgstr "유효하지 않은 API 인증."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:240
+msgid "Invalid api key!"
+msgstr "유효하지 않은 API 키!"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:403
+#, php-format
+msgid ""
+"Invalid MailChimp API key. To fix, please visit <a href=\"%s\">WebinarSystem "
+"Settings</a>."
+msgstr ""
+"유효하지 않은 MailChimp API 키 입니다. 수정하시려면 <a "
+"href=“%s”>WebinarSystem Settings</a>페이지를 방문하세요."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:456
+#, php-format
+msgid ""
+"Now you completed the aWeber authentication. For changes Go to <a href=\"%s"
+"\">WebinarSysteem Settings</a>."
+msgstr ""
+"aWeber 인증이 완료 되었습니다. 수정하시려면 <a href=“%s”>WebinarSysteem "
+"Settings</a>을 방문하세요"
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:470
+#, php-format
+msgid ""
+"Unexpectedly aWeber has been disconnected from the server. You are no longer "
+"subscribed to aWeber mailinglist. For Changes go to <a href=\"%s"
+"\">WebinarSysteem Settings</a>."
+msgstr ""
+"예기치 않게 aWeber 가 서버와의 접속이 끊겼습니다. 더 이상 aWeber 메일링 리스"
+"트를 구독할 수 없습니다. 수정 하시려면 <a href=“%s”>WebinarSysteem Settings</"
+"a>을 방문하세요."
+
+#: includes/class-webinarsysteem-mailinglist-integrations.php:527
+#, php-format
+msgid ""
+"Invalid Getresponse API key. To fix, please visit <a href=\"%s"
+"\">WebinarSystem Settings</a>."
+msgstr ""
+"유효하지 않은 Getresponse API 키입니다.  수정 하시려면 <a "
+"href=“%s”>WebinarSysteem Settings</a>을 방문하세요."
+
+#: includes/class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr "네, Pro 버전을 다운로드하세요!"
+
+#: includes/class-webinarsysteem-promotional-notices.php:47
+#, fuzzy, php-format
+#| msgid ""
+#| "If you like <strong>WP WebinarSystem</strong> please leave us a %s "
+#| "rating. A huge thank you in advance!"
+msgid ""
+"If you like <strong>WebinarPress</strong> please leave us a %s rating. A "
+"huge thank you in advance!"
+msgstr ""
+"<strong>WP WebinarSystem</strong>을 좋게 평가하신다면 저희에게 %s 평가를 남겨"
+"주세요. 대단히 감사합니다"
+
+#: includes/class-webinarsysteem-questions.php:22
+#, fuzzy
+#| msgid "WP WebinarSystem Questions"
+msgid "WebinarPress Questions"
+msgstr "WP WebinarSystem 관련 질문"
+
+#: includes/class-webinarsysteem-questions.php:23
+msgid "Select webinar to view questions for active webinars"
+msgstr "현재 진행 중인 웨비나 중 질문 내용을 보고 싶은 웨비나를 선택하세요"
+
+#: includes/class-webinarsysteem-questions.php:52
+#: includes/class-webinarsysteemoptions.php:1409
+#: includes/templates/admin/attendees-list.php:59
+#: includes/templates/admin/attendees-list.php:133 wpws-js/translations.php:40
+msgid "Name"
+msgstr "이름"
+
+#: includes/class-webinarsysteem-questions.php:52
+msgid "Question"
+msgstr "질문"
+
+#: includes/class-webinarsysteem-questions.php:52
+#: includes/tmp-registration.php:209 includes/tmp-thank-you.php:216
+msgid "Time"
+msgstr "시간"
+
+#: includes/class-webinarsysteem-questions.php:106
+msgid "Are you sure you want to clear selected questions?"
+msgstr "정말 선택하신 질문들을 삭제하시겠습니까?"
+
+#: includes/class-webinarsysteem-registration-widget.php:61
+#: includes/class-webinarsysteem.php:770 includes/class-webinarsysteem.php:771
+#: wpws-js/translations.php:168
+msgid "Registration Widgets"
+msgstr "등록페이지 위젯"
+
+#: includes/class-webinarsysteem-registration-widget.php:62
+#: includes/class-webinarsysteem-registration-widget.php:63
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Registration Widget"
+msgstr "등록 페이지"
+
+#: includes/class-webinarsysteem-registration-widget.php:64
+#: includes/class-webinarsysteem-registration-widget.php:65
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Add Registration Widget"
+msgstr "등록 페이지"
+
+#: includes/class-webinarsysteem-registration-widget.php:66
+#, fuzzy
+#| msgid "New Registration"
+msgid "New Registration Widget"
+msgstr "신규 등록"
+
+#: includes/class-webinarsysteem-registration-widget.php:67
+#, fuzzy
+#| msgid "Registration Page"
+msgid "Edit Registration Widget"
+msgstr "등록 페이지"
+
+#: includes/class-webinarsysteem-registration-widget.php:68
+#, fuzzy
+#| msgid "New Registration"
+msgid "View Registration Widget"
+msgstr "신규 등록"
+
+#: includes/class-webinarsysteem-shortcodes.php:30
+#: includes/class-webinarsysteem-woocommerce-integration.php:87
+#: includes/class-webinarsysteem.php:646
+msgid "Loading available timeslots..."
+msgstr "가능한 시간대를 로딩중…"
+
+#: includes/class-webinarsysteem-shortcodes.php:44
+#: includes/class-webinarsysteem-shortcodes.php:386
+msgid "Error: "
+msgstr "오류: "
+
+#: includes/class-webinarsysteem-shortcodes.php:44
+#: includes/class-webinarsysteem-shortcodes.php:386
+msgid "Invalid webinar id."
+msgstr "유효하지 않은 웨비나 id."
+
+#: includes/class-webinarsysteem-shortcodes.php:50
+#: includes/tmp-registration.php:57
+msgid "Sign Up"
+msgstr "가입하기"
+
+#: includes/class-webinarsysteem-shortcodes.php:61
+msgid ""
+"You need to buy a ticket to register for this webinar. Ticket sales is "
+"closed at this moment."
+msgstr "본 웨비나는 티켓 구매가 필요합니다만 현재 티켓 판매가 종료되었습니다."
+
+#: includes/class-webinarsysteem-shortcodes.php:66
+#, php-format
+msgid ""
+"You need to buy a ticket to register for this webinar. <a href=\"%s\">Click "
+"here</a> to buy a ticket."
+msgstr ""
+"본 웨비나는 티켓 구매가 필요합니다. 티켓을 구매하시려면 <a href=“%s”>여기</a>"
+"를 클릭하세요."
+
+#: includes/class-webinarsysteem-shortcodes.php:76
+#, php-format
+msgid "You've successfully registered for %s"
+msgstr "%s 에 성공적으로 등록되었습니다"
+
+#: includes/class-webinarsysteem-shortcodes.php:84
+#, php-format
+msgid "You're already registered for %s"
+msgstr "이미 %s 에 등록 되어 있습니다"
+
+#: includes/class-webinarsysteem-shortcodes.php:95
+#: includes/tmp-registration.php:438
+msgid "Registration is closed for this webinar."
+msgstr "본 웨비나 등록은 종료 되었습니다."
+
+#: includes/class-webinarsysteem-shortcodes.php:111
+#: includes/tmp-registration.php:329
+msgid "Your Name"
+msgstr "이름"
+
+#: includes/class-webinarsysteem-shortcodes.php:115
+#: includes/tmp-registration.php:334
+msgid "Please enter your name."
+msgstr "이름을 입력하세요."
+
+#: includes/class-webinarsysteem-shortcodes.php:119
+#: includes/class-webinarsysteem-shortcodes.php:405
+#: includes/tmp-registration.php:340 includes/tmp-registration.php:422
+msgid "Your Email Address"
+msgstr "이메일"
+
+#: includes/class-webinarsysteem-shortcodes.php:123
+#: includes/class-webinarsysteem-shortcodes.php:408
+#: includes/tmp-registration.php:347 includes/tmp-registration.php:428
+msgid "Please enter your email."
+msgstr "이메일 주소를 입력하세요."
+
+#: includes/class-webinarsysteem-shortcodes.php:138
+#: includes/templates/template-metabox-generalpage.php:289
+#: includes/templates/template-recurring-days-times-selects-boxes.php:9
+msgid "Right Now"
+msgstr "지금 바로"
+
+#: includes/class-webinarsysteem-shortcodes.php:158
+#: includes/class-webinarsysteem-shortcodes.php:255
+#: includes/templates/template-jit-days-times-selects-boxes.php:17
+#: includes/templates/template-recurring-days-times-selects-boxes.php:27
+msgid "Select a day"
+msgstr "날짜를 선택하세요"
+
+#: includes/class-webinarsysteem-shortcodes.php:223
+#: includes/class-webinarsysteem-shortcodes.php:309
+#: includes/templates/template-jit-days-times-selects-boxes.php:76
+#: includes/templates/template-recurring-days-times-selects-boxes.php:92
+msgid "Select a day to watch."
+msgstr "시청할 날짜를 선택하세요."
+
+#: includes/class-webinarsysteem-shortcodes.php:232
+#: includes/class-webinarsysteem-shortcodes.php:317
+#: includes/templates/template-jit-days-times-selects-boxes.php:82
+#: includes/templates/template-recurring-days-times-selects-boxes.php:100
+msgid "Select a day first"
+msgstr "날짜를 먼저 선택하세요"
+
+#: includes/class-webinarsysteem-shortcodes.php:235
+#: includes/class-webinarsysteem-shortcodes.php:320
+#: includes/templates/template-jit-days-times-selects-boxes.php:86
+#: includes/templates/template-recurring-days-times-selects-boxes.php:103
+msgid "Select a time to watch."
+msgstr "시청할 시간을 선택 하세요."
+
+#: includes/class-webinarsysteem-shortcodes.php:369
+#: includes/tmp-registration.php:412
+msgid "This email is not registered."
+msgstr "해당 이메일은 등록되어 있지 않습니다."
+
+#: includes/class-webinarsysteem-shortcodes.php:411
+msgid "Please register before login."
+msgstr "로그인 전에 등록을 해주시기 바랍니다."
+
+#: includes/class-webinarsysteem-userpages.php:11
+#: includes/class-webinarsysteem-userpages.php:12
+msgid "WPWS Page"
+msgstr "WPWS 페이지"
+
+#: includes/class-webinarsysteem-userpages.php:39
+#: includes/class-webinarsysteem-userpages.php:99
+msgid "You are now unsubscribed"
+msgstr "현재 미구독 상태입니다"
+
+#: includes/class-webinarsysteem-userpages.php:40
+msgid "Webinar Subscription"
+msgstr "웨비나 구독하기"
+
+#: includes/class-webinarsysteem-userpages.php:63
+msgid "Webinar Overview"
+msgstr "웨비나 개요"
+
+#: includes/class-webinarsysteem-userpages.php:119
+msgid ""
+"To see which webinars you are registered to, please open the link 'manage "
+"profile' from the registration confirmation email message"
+msgstr ""
+"등록한 웨비나를 확인 하고 싶은 경우, 등록 확인 이메일 내의 ‘manage profile’ "
+"링크를 확인 하시기 바랍니다"
+
+#: includes/class-webinarsysteem-userpages.php:136
+#: includes/class-webinarsysteem.php:358
+msgid "Webinar Title"
+msgstr "웨비나 타이틀"
+
+#: includes/class-webinarsysteem-userpages.php:137
+#: includes/class-webinarsysteem-woocommerce-integration.php:540
+#: includes/class-webinarsysteem-woocommerce-integration.php:568
+#: wpws-js/translations.php:87
+msgid "Webinar Time"
+msgstr "웨비나 일정"
+
+#: includes/class-webinarsysteem-userpages.php:138
+msgid "Webinar Action"
+msgstr "Webinar Action"
+
+#: includes/class-webinarsysteem-userpages.php:169
+#: includes/class-webinarsysteemmessages.php:343
+#: includes/templates/template-email-reader.php:52
+#: includes/templates/template-email-reader.php:105
+msgid "Unsubscribe"
+msgstr "구독취소"
+
+#: includes/class-webinarsysteem-userpages.php:173
+msgid "You haven't subscribed to any webinars yet:("
+msgstr "아직 어떤 웨비나에도 구독하지 않았습니다"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:55
+#: includes/templates/template-metabox-ticket.php:7
+#, php-format
+msgid ""
+"Please install/activate WooCommerce first to integrate with WebinarSystem. "
+"You can find WooCommerce <a href=\"%s\" class=\"thickbox\" aria-label="
+"\"Download WooCommerce for WebinarSystem\" data-title=\"WooCommerce\">here</"
+"a>."
+msgstr ""
+"먼저 WooCommerce 를 WebinarSystem 에 설치 및 활성화 하시기 바랍니다. "
+"WooCommerce는 <a href=“%s” class=“thickbox” aria-label=“Download WooCommerce "
+"for WebinarSystem” data-title=“WooCommerce”>여기에서</a>다운로드 하실 수 있습"
+"니다."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:123
+msgid "View Cart"
+msgstr "카트보기"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:123
+#, php-format
+msgid "You cannot add another &quot;%s&quot; to your cart."
+msgstr "다른 &quot;%s&quot; 를 카트에 추가할 수 없습니다."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:128
+msgid "Please select a Day."
+msgstr "날짜를 선택하세요."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:136
+msgid "Please select a time."
+msgstr "시간을 선택하세요."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:207
+msgid "Please check the box to proceed further."
+msgstr "진행을 위해서 박스를 체크 하시기 바랍니다."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:332
+msgid "Webinar Product"
+msgstr "Webinar Product"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:498
+#: includes/templates/template-metabox-ticket.php:14
+msgid ""
+"You will receive your webinar ticket as soon as the payment for your order "
+"completes."
+msgstr "결제 정산을 완료하는 대로 웨비나 티켓을 받아 볼 수 있습니다."
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:528
+msgid "My Webinar Tickets"
+msgstr "나의 웨비나 티켓"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:534
+#: includes/class-webinarsysteem-woocommerce-integration.php:560
+msgid "Order"
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:537
+#: includes/class-webinarsysteem-woocommerce-integration.php:565
+#, fuzzy
+#| msgid "Webinar type"
+msgid "Webinar Date"
+msgstr "웨비나 타입"
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:543
+#: includes/class-webinarsysteem-woocommerce-integration.php:571
+msgid "Join"
+msgstr ""
+
+#: includes/class-webinarsysteem-woocommerce-integration.php:573
+#, fuzzy
+#| msgid "Paid webinar?"
+msgid "Join webinar"
+msgstr "유료 웨비나?"
+
+#: includes/class-webinarsysteem.php:359 includes/class-webinarsysteem.php:861
+msgid "Views"
+msgstr "시청수"
+
+#: includes/class-webinarsysteem.php:360 includes/class-webinarsysteem.php:862
+#: wpws-js/translations.php:153
+msgid "Registrations"
+msgstr "등록현황"
+
+#: includes/class-webinarsysteem.php:361 includes/class-webinarsysteem.php:833
+#: includes/class-webinarsysteem.php:863
+msgid "Questions"
+msgstr "질문"
+
+#: includes/class-webinarsysteem.php:401
+msgid "Create Now"
+msgstr "바로 생성"
+
+#: includes/class-webinarsysteem.php:604 includes/class-webinarsysteem.php:900
+#: includes/class-webinarsysteem.php:1664
+#: includes/templates/template-metabox-generalpage.php:4
+#: includes/templates/template-metabox-generalpage.php:20
+msgid "Automated"
+msgstr ""
+
+#: includes/class-webinarsysteem.php:605
+#: includes/templates/template-metabox-generalpage.php:4
+msgid "Countdown"
+msgstr "카운트다운"
+
+#. Author of the plugin/theme
+#: includes/class-webinarsysteem.php:759 includes/class-webinarsysteem.php:794
+#: includes/class-webinarsysteemoptions.php:65
+#, fuzzy
+#| msgid "Webinars"
+msgid "WebinarPress"
+msgstr "웨비나"
+
+#: includes/class-webinarsysteem.php:762 includes/class-webinarsysteem.php:927
+msgid "Webinars"
+msgstr "웨비나"
+
+#: includes/class-webinarsysteem.php:765
+msgid "New webinar"
+msgstr "신규 웨비나"
+
+#: includes/class-webinarsysteem.php:778
+msgid "Attendee Lists"
+msgstr "참석자 리스트"
+
+#: includes/class-webinarsysteem.php:779
+msgid "Private Questions"
+msgstr "비공개 질문"
+
+#: includes/class-webinarsysteem.php:783 includes/class-webinarsysteem.php:795
+msgid "Settings"
+msgstr "설정"
+
+#: includes/class-webinarsysteem.php:835
+#: includes/templates/admin/attendees-list.php:6
+msgid "Attendees"
+msgstr "참가자"
+
+#: includes/class-webinarsysteem.php:837
+msgid "Chatlog"
+msgstr "채팅이력"
+
+#: includes/class-webinarsysteem.php:842
+msgid "Duplicate this Webinar"
+msgstr "현재 웨비나 복제하기"
+
+#: includes/class-webinarsysteem.php:842
+msgid "Duplicate"
+msgstr "복제"
+
+#: includes/class-webinarsysteem.php:864
+msgid "Status"
+msgstr "상태"
+
+#: includes/class-webinarsysteem.php:898
+#: includes/templates/template-metabox-generalpage.php:7
+msgid "Closed"
+msgstr "종료"
+
+#: includes/class-webinarsysteem.php:928 includes/class-webinarsysteem.php:929
+#: includes/tmp-thank-you.php:212 wpws-js/translations.php:42
+msgid "Webinar"
+msgstr "웨비나"
+
+#: includes/class-webinarsysteem.php:930 includes/class-webinarsysteem.php:931
+msgid "Add New Webinar"
+msgstr "신규 웨비나 추가"
+
+#: includes/class-webinarsysteem.php:932
+msgid "New Webinar"
+msgstr "신규 웨비나"
+
+#: includes/class-webinarsysteem.php:933
+msgid "Edit Webinar"
+msgstr "웨비나 수정"
+
+#: includes/class-webinarsysteem.php:934
+msgid "View Webinar"
+msgstr "웨비나 보기"
+
+#: includes/class-webinarsysteem.php:1285
+msgid "Please save your webinar first before previewing."
+msgstr "미리보기 전에 먼저 웨비나를 저장하세요."
+
+#: includes/class-webinarsysteem.php:1474
+msgid ""
+"Your license for WebinarSystem is seems to be Invalid. Please contact "
+"support desk!"
+msgstr ""
+"WebinarSystem 라이센스가 유효하지 않습니다. 지원센터에 문의 하시기 바랍니다!"
+
+#: includes/class-webinarsysteem.php:1477
+msgid ""
+"Your WebinarSystem license key has suspended! Please contact the support."
+msgstr ""
+"WebinarSystem 라이센스 키가 일시 중단 되었습니다! 지원팀에 문의 하십시오."
+
+#: includes/class-webinarsysteem.php:1480
+msgid ""
+"Your WebinarSystem license key has expired! Please renew it again before "
+"using the plugin."
+msgstr ""
+"WebinarSystem 라이센스 키가 만료 되었습니다! 플러그인을 사용 하기 전에 다시 "
+"갱신 하십시오."
+
+#: includes/class-webinarsysteem.php:1483
+#, php-format
+msgid "Please %senter your license key%s to activate WebinarSystem plugin!"
+msgstr ""
+"WebinarSystem 플러그인을 활성화 하기 위해 %s 라이센스 키 %s 를 입력 하시기 바"
+"랍니다!"
+
+#: includes/class-webinarsysteem.php:1846
+msgid "Howdy,"
+msgstr "안녕,"
+
+#: includes/class-webinarsysteem.php:1846
+msgid "[receiver-name] just signed up for your webinar"
+msgstr "[receiver-name] 가 웨비나에 등록하였습니다"
+
+#: includes/class-webinarsysteem.php:1846
+#: includes/class-webinarsysteem.php:1848
+#: includes/class-webinarsysteem.php:1850
+#: includes/class-webinarsysteem.php:1852
+#: includes/class-webinarsysteem.php:1854
+#: includes/class-webinarsysteem.php:1856
+#: includes/templates/template-email-admin-email.php:9
+#: includes/templates/template-email-attendee-replay.php:25
+#: includes/templates/template-email-attendee-wbstarted.php:26
+#: includes/templates/template-email-attendee1hr.php:58
+#: includes/templates/template-email-attendee24hr.php:56
+#: includes/templates/template-email-reader.php:64
+#: includes/templates/template-email-reader.php:120
+msgid "Regards"
+msgstr "Regards"
+
+#: includes/class-webinarsysteem.php:1848
+#: includes/class-webinarsysteem.php:1850
+#: includes/class-webinarsysteem.php:1852
+#: includes/class-webinarsysteem.php:1856
+#: includes/templates/template-email-attendee-replay.php:21
+#: includes/templates/template-email-attendee1hr.php:49
+#: includes/templates/template-email-attendee24hr.php:48
+#: includes/templates/template-email-reader.php:56
+#: includes/templates/template-email-reader.php:111
+msgid "Hi"
+msgstr "안녕하세요"
+
+#: includes/class-webinarsysteem.php:1848
+#: includes/templates/template-email-reader.php:57
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the "
+"details of the webinar."
+msgstr ""
+"웨비나에 등록해 주셔서 감사합니다. 웨비나 정보는 아래 내용을 참고하세요."
+
+#: includes/class-webinarsysteem.php:1848
+msgid "<b>Webinar name:</b>"
+msgstr "<b>Webinar 제목:</b>"
+
+#: includes/class-webinarsysteem.php:1848
+msgid "<b>Date:</b>"
+msgstr "<b>날짜 :</b>"
+
+#: includes/class-webinarsysteem.php:1848
+msgid "<b>Time:</b>"
+msgstr "<b>시간 :</b>"
+
+#: includes/class-webinarsysteem.php:1848
+msgid "<b>Timezone:</b>"
+msgstr "<b>시간대 :</b>"
+
+#: includes/class-webinarsysteem.php:1848
+#: includes/templates/template-email-attendee-replay.php:23
+#: includes/templates/template-email-attendee-wbstarted.php:24
+#: includes/templates/template-email-attendee1hr.php:56
+#: includes/templates/template-email-attendee24hr.php:54
+#: includes/templates/template-email-reader.php:62
+msgid "Go to Webinar"
+msgstr "웨비나 페이지로 이동하기"
+
+#: includes/class-webinarsysteem.php:1848
+#: includes/class-webinarsysteem.php:1850
+#: includes/class-webinarsysteem.php:1852
+#: includes/templates/template-email-attendee1hr.php:57
+#: includes/templates/template-email-attendee24hr.php:55
+#: includes/templates/template-email-reader.php:63
+#: includes/templates/template-email-reader.php:119
+msgid "See you then!"
+msgstr "곧 다시 뵙겠습니다"
+
+#: includes/class-webinarsysteem.php:1850
+#: includes/templates/template-email-attendee1hr.php:51
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the "
+"link to attend the webinar."
+msgstr ""
+"귀하가 등록하신 웨비나가 1시간 내로 시작될 예정입니다. 웨비나에 참여할 수 있"
+"는 아래 링크를 참고하시기 바랍니다."
+
+#: includes/class-webinarsysteem.php:1850
+#: includes/class-webinarsysteem.php:1852
+#: includes/templates/template-email-attendee1hr.php:52
+#: includes/templates/template-email-attendee24hr.php:50
+#: includes/templates/template-email-reader.php:58
+#: includes/templates/template-email-reader.php:113
+msgid "Webinar name:"
+msgstr "웨비나 제목 :"
+
+#: includes/class-webinarsysteem.php:1850
+#: includes/class-webinarsysteem.php:1852
+#: includes/templates/template-email-attendee1hr.php:53
+#: includes/templates/template-email-attendee24hr.php:51
+#: includes/templates/template-email-reader.php:59
+#: includes/templates/template-email-reader.php:114
+msgid "Date:"
+msgstr "날짜 :"
+
+#: includes/class-webinarsysteem.php:1850
+#: includes/class-webinarsysteem.php:1852
+#: includes/templates/template-email-attendee1hr.php:54
+#: includes/templates/template-email-attendee24hr.php:52
+#: includes/templates/template-email-reader.php:60
+#: includes/templates/template-email-reader.php:115
+msgid "Time:"
+msgstr "/ 시간 :"
+
+#: includes/class-webinarsysteem.php:1850
+#: includes/class-webinarsysteem.php:1852
+#: includes/templates/template-email-attendee1hr.php:55
+#: includes/templates/template-email-attendee24hr.php:53
+#: includes/templates/template-email-reader.php:61
+#: includes/templates/template-email-reader.php:116
+msgid "Timezone:"
+msgstr "시간대 :"
+
+#: includes/class-webinarsysteem.php:1852
+#: includes/templates/template-email-attendee24hr.php:49
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find "
+"the details of the webinar."
+msgstr ""
+"등록하신 웨비나가 내일 진행됨을 알려 드립니다. 자세한 사항은 아래 내용을 참"
+"고 하시기 바랍니다."
+
+#: includes/class-webinarsysteem.php:1854
+msgid ""
+"We are starting the webinar [receiver-name]! Click on the link below to join "
+"us."
+msgstr ""
+"[receiver-name]님 이제 곧 웨비나가 시작됩니다! 아래 링크를 클릭하셔서 참여해 "
+"주세요."
+
+#: includes/class-webinarsysteem.php:1854
+#: includes/class-webinarsysteem.php:1856
+#: includes/templates/template-email-attendee-replay.php:24
+#: includes/templates/template-email-attendee-wbstarted.php:25
+msgid "See you later!"
+msgstr "곧 다시 뵙겠습니다"
+
+#: includes/class-webinarsysteem.php:1856
+#: includes/templates/template-email-attendee-replay.php:22
+#: includes/templates/template-email-attendee-wbstarted.php:23
+msgid "Make sure to join the webinar via this link:"
+msgstr "다음 링크를 통해 접속하실 수 있습니다. 링크 :"
+
+#: includes/class-webinarsysteem.php:2303
+msgid "Host and Description Box"
+msgstr "호스트 및 상세설명 박스"
+
+#: includes/class-webinarsysteem.php:2308
+#: includes/class-webinarsysteemmetabox.php:114
+#: includes/templates/template-metabox-livepage.php:273
+#: includes/tmp-live.php:359
+msgid "Question Box"
+msgstr "질문 박스"
+
+#: includes/class-webinarsysteem.php:2314
+msgid "Message Center"
+msgstr "메신저 센터"
+
+#: includes/class-webinarsysteem.php:2319
+msgid "Live Chatbox"
+msgstr "채팅박스"
+
+#: includes/class-webinarsysteem.php:2326
+#: includes/class-webinarsysteemmetabox.php:351
+#: includes/templates/template-metabox-livepage.php:515
+msgid "Incentive Box"
+msgstr "인센티브 박스"
+
+#: includes/class-webinarsysteem.php:2330
+#: includes/class-webinarsysteemmetabox.php:424
+#: includes/templates/template-metabox-livepage.php:587
+msgid "Action Box"
+msgstr "액션 박스"
+
+#: includes/class-webinarsysteem.php:2336
+msgid "Clear all Raised Hands"
+msgstr "모든 Raised Hands 삭제"
+
+#: includes/class-webinarsysteem.php:2342
+#: includes/templates/template-metabox-livepage.php:638
+#: includes/templates/template-metabox-replaypage.php:118
+msgid "Call to action"
+msgstr "Call to action"
+
+#: includes/class-webinarsysteem.php:2791
+#, fuzzy
+#| msgid ""
+#| "Your MySQL version is out of date, and some functionalities of WP "
+#| "WebinarSystem won't work as expected. Please upgrade the MySQL version on "
+#| "your server to a minimum of MySQL 5.6.36 or higher."
+msgid ""
+"Your MySQL version is out of date, and some functionalities of WebinarPress "
+"won't work as expected. Please upgrade the MySQL version on your server to a "
+"minimum of MySQL 5.6.36 or higher."
+msgstr ""
+"현재 MySQL 버전은 구 버전이어서 WP WebinarSystem 이 제대로 동작하지 않을 수 "
+"있습니다. MySQL 버전을 최소 5.6.36 또는 그 이상의 버전으로 업그레이드 하시기 "
+"바랍니다."
+
+#: includes/class-webinarsysteem.php:2798
+#, fuzzy
+#| msgid ""
+#| "Your PHP version is out of date, and some functionalities of WP "
+#| "WebinarSystem won't work as expected. Please upgrade the PHP version on "
+#| "your server to a minimum of PHP 5.6 or higher."
+msgid ""
+"Your PHP version is out of date, and some functionalities of WebinarPress "
+"won't work as expected. Please upgrade the PHP version on your server to a "
+"minimum of PHP 5.6 or higher."
+msgstr ""
+"현재 PHP 버전은 구 버전이어서 WP WebinarSystem 이 제대로 동작하지 않을 수 있"
+"습니다. PHP 버전을 최소 5.6 또는 그 이상의 버전으로 업그레이드 하시기 바랍니"
+"다."
+
+#: includes/class-webinarsysteemmessages.php:78
+msgid "Your webinar link"
+msgstr "웨비나 링크"
+
+#: includes/class-webinarsysteemmessages.php:103
+msgid "Question from"
+msgstr "질문자 :"
+
+#: includes/class-webinarsysteemmessages.php:109
+msgid "New message"
+msgstr "새로운 메시지"
+
+#: includes/class-webinarsysteemmessages.php:134
+#: includes/class-webinarsysteemoptions.php:124
+#: includes/class-webinarsysteemoptions.php:1455
+msgid "New Registration"
+msgstr "신규 등록"
+
+#: includes/class-webinarsysteemmessages.php:164
+msgid "You are registered for the webinar!"
+msgstr "웨비나에 등록되었습니다!"
+
+#: includes/class-webinarsysteemmessages.php:193
+msgid "Reminder"
+msgstr "알람"
+
+#: includes/class-webinarsysteemmessages.php:222
+msgid "We are live in one hour!"
+msgstr "생방송이 1시간 내로 시작합니다"
+
+#: includes/class-webinarsysteemmessages.php:251
+msgid "We are starting the webinar!"
+msgstr "이제 웨비나를 시작합니다!"
+
+#: includes/class-webinarsysteemmessages.php:273
+msgid "Webinar Replay Link"
+msgstr "웨비나 다시보기 링크"
+
+#: includes/class-webinarsysteemmessages.php:343
+#: includes/templates/template-email-reader.php:52
+#: includes/templates/template-email-reader.php:105
+msgid "Manage Profile"
+msgstr "프로파일 관리"
+
+#: includes/class-webinarsysteemmessages.php:512
+msgid "Once 5 minutes"
+msgstr "매 5분 마다"
+
+#: includes/class-webinarsysteemmetabox.php:28
+#: includes/templates/template-metabox-livepage.php:180
+msgid "Host & Description Box"
+msgstr "호스트 & 개요 박스"
+
+#: includes/class-webinarsysteemmetabox.php:33
+#: includes/class-webinarsysteemmetabox.php:145
+#: includes/class-webinarsysteemmetabox.php:233
+#: includes/class-webinarsysteemmetabox.php:365
+#: includes/class-webinarsysteemoptions.php:209
+#: includes/templates/template-metabox-countdownpage.php:14
+#: includes/templates/template-metabox-livepage.php:27
+#: includes/templates/template-metabox-livepage.php:185
+#: includes/templates/template-metabox-livepage.php:300
+#: includes/templates/template-metabox-livepage.php:395
+#: includes/templates/template-metabox-livepage.php:529
+#: includes/templates/template-metabox-livepage.php:774
+#: includes/templates/template-metabox-registerpage.php:186
+#: includes/templates/template-metabox-replaypage.php:20
+#: includes/templates/template-metabox-replaypage.php:210
+#: includes/templates/template-metabox-thankyoupage.php:31
+#: includes/templates/template-metabox-thankyoupage.php:209
+#: includes/templates/template-metabox-thankyoupage.php:224
+#: includes/templates/template-metabox-ticket.php:101
+msgid "Background color"
+msgstr "배경 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:43
+#: includes/templates/template-metabox-livepage.php:202
+msgid "Show Host Box"
+msgstr "호스트 박스 보이기"
+
+#: includes/class-webinarsysteemmetabox.php:52
+#: includes/templates/template-metabox-livepage.php:211
+msgid "Host Title Background color"
+msgstr "호스트 타이틀 영역 배경 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:60
+#: includes/templates/template-metabox-livepage.php:219
+msgid "Host Title Text color"
+msgstr "호스트 타이틀 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:68
+#: includes/templates/template-metabox-livepage.php:227
+msgid "Host Text color"
+msgstr "호스트 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:78
+#: includes/templates/template-metabox-livepage.php:237
+msgid "Show Description Box"
+msgstr "개요 박스 보이기"
+
+#: includes/class-webinarsysteemmetabox.php:87
+#: includes/templates/template-metabox-livepage.php:246
+msgid "Description Title Background color"
+msgstr "개요 타이틀 배경 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:95
+#: includes/templates/template-metabox-livepage.php:254
+msgid "Description Title Text color"
+msgstr "개요 타이틀 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:103
+#: includes/templates/template-metabox-livepage.php:262
+msgid "Description Text color"
+msgstr "개요영역 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:119
+#: includes/templates/template-metabox-livepage.php:277
+msgid "Show Question box"
+msgstr "질문 박스 보이기"
+
+#: includes/class-webinarsysteemmetabox.php:128
+#: includes/templates/template-metabox-livepage.php:285
+msgid "Send an email on every question"
+msgstr "모든 질문에 대해 메일 보내기"
+
+#: includes/class-webinarsysteemmetabox.php:137
+#: includes/templates/template-metabox-livepage.php:293
+msgid "If then email to"
+msgstr "If then email to"
+
+#: includes/class-webinarsysteemmetabox.php:153
+#: includes/class-webinarsysteemmetabox.php:240
+#: includes/class-webinarsysteemmetabox.php:374
+#: includes/templates/template-metabox-livepage.php:192
+#: includes/templates/template-metabox-livepage.php:308
+#: includes/templates/template-metabox-livepage.php:402
+#: includes/templates/template-metabox-livepage.php:537
+#: includes/templates/template-metabox-livepage.php:782
+#: includes/templates/template-metabox-registerpage.php:191
+#: includes/templates/template-metabox-replaypage.php:216
+#: includes/templates/template-metabox-thankyoupage.php:204
+#: includes/templates/template-metabox-thankyoupage.php:218
+#: includes/templates/template-metabox-ticket.php:108
+msgid "Border color"
+msgstr "테두리 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:161
+#: includes/templates/template-metabox-livepage.php:316
+msgid "Title Text Color"
+msgstr "타이틀 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:168
+#: includes/templates/template-metabox-livepage.php:324
+#: includes/templates/template-metabox-livepage.php:747
+#: includes/templates/template-metabox-replaypage.php:189
+msgid "Border Radius"
+msgstr "테두리 반경"
+
+#: includes/class-webinarsysteemmetabox.php:175
+#: includes/templates/template-metabox-livepage.php:332
+msgid "Button Background Color"
+msgstr "버튼 배경 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:182
+#: includes/templates/template-metabox-livepage.php:340
+msgid "Button Hover Background Color"
+msgstr "버튼 Hover 배경 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:189
+#: includes/templates/template-metabox-livepage.php:348
+msgid "Button Border Color"
+msgstr "버튼 테두리 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:196
+#: includes/templates/template-metabox-livepage.php:356
+msgid "Button Hover Border Color"
+msgstr "버튼 Hover 테두리 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:203
+#: includes/templates/template-metabox-livepage.php:364
+#: includes/templates/template-metabox-registerpage.php:267
+#: includes/templates/template-metabox-registerpage.php:315
+#: includes/templates/template-metabox-thankyoupage.php:188
+#: includes/templates/template-metabox-thankyoupage.php:235
+msgid "Button Text color"
+msgstr "버튼 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:211
+#: includes/templates/template-metabox-livepage.php:372
+msgid "Button Hover Text color"
+msgstr "버튼 Hover 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:220
+#: includes/templates/template-metabox-livepage.php:382
+msgid "Live chatbox"
+msgstr "실시간 채팅박스"
+
+#: includes/class-webinarsysteemmetabox.php:225
+#: includes/templates/template-metabox-livepage.php:387
+msgid "Show Chatbox"
+msgstr "채팅박스 보이기"
+
+#: includes/class-webinarsysteemmetabox.php:247
+#: includes/class-webinarsysteemmetabox.php:390
+#: includes/templates/template-metabox-livepage.php:409
+#: includes/templates/template-metabox-livepage.php:552
+msgid "Title Text color"
+msgstr "타이틀 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:254
+#: includes/templates/template-metabox-livepage.php:416
+msgid "Show Timestamps"
+msgstr "타임스탬프 보이기"
+
+#: includes/class-webinarsysteemmetabox.php:262
+#: includes/templates/template-metabox-livepage.php:425
+msgid "Background Color of Button"
+msgstr "버튼의 배경색"
+
+#: includes/class-webinarsysteemmetabox.php:270
+#: includes/templates/template-metabox-livepage.php:433
+msgid "Text Color of Button"
+msgstr "버튼의 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:281
+#: includes/templates/template-metabox-livepage.php:444
+msgid "Tab Layout"
+msgstr "탭 레이아웃"
+
+#: includes/class-webinarsysteemmetabox.php:284
+#: includes/templates/template-metabox-livepage.php:447
+msgid "Questionbox tab"
+msgstr "질문 탭"
+
+#: includes/class-webinarsysteemmetabox.php:287
+#: includes/class-webinarsysteemmetabox.php:319
+#: includes/templates/template-metabox-livepage.php:450
+#: includes/templates/template-metabox-livepage.php:482
+msgid "Title"
+msgstr "타이틀"
+
+#: includes/class-webinarsysteemmetabox.php:296
+#: includes/class-webinarsysteemmetabox.php:328
+#: includes/templates/template-metabox-livepage.php:459
+#: includes/templates/template-metabox-livepage.php:492
+msgid "Tab Title Text color"
+msgstr "탭 타이틀 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:303
+#: includes/class-webinarsysteemmetabox.php:335
+#: includes/templates/template-metabox-livepage.php:466
+#: includes/templates/template-metabox-livepage.php:499
+#: includes/templates/template-metabox-registerpage.php:203
+msgid "Tab Background color"
+msgstr "탭 배경 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:310
+#: includes/class-webinarsysteemmetabox.php:342
+#: includes/templates/template-metabox-livepage.php:473
+#: includes/templates/template-metabox-livepage.php:506
+msgid "Tab Border color"
+msgstr "탭 테두리 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:316
+#: includes/templates/template-metabox-livepage.php:479
+msgid "Chatbox tab"
+msgstr "채팅박스 탭"
+
+#: includes/class-webinarsysteemmetabox.php:356
+#: includes/templates/template-metabox-livepage.php:520
+msgid "Show Incentive Box"
+msgstr "인센티브 박스 보이기"
+
+#: includes/class-webinarsysteemmetabox.php:382
+#: includes/templates/template-metabox-livepage.php:545
+msgid "Incentive Title"
+msgstr "인센티브 타이틀"
+
+#: includes/class-webinarsysteemmetabox.php:398
+#: includes/templates/template-metabox-livepage.php:560
+msgid "Title Background color"
+msgstr "타이틀 배경 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:405
+#: includes/templates/template-metabox-livepage.php:568
+#: includes/templates/template-metabox-livepage.php:790
+#: includes/templates/template-metabox-replaypage.php:222
+msgid "Content text color"
+msgstr "내용 텍스트 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:413
+#: includes/templates/template-metabox-livepage.php:576
+msgid "Incentive box content"
+msgstr "인센티브 박스 내용"
+
+#: includes/class-webinarsysteemmetabox.php:430
+#: includes/templates/template-metabox-livepage.php:591
+msgid "Show Action Box"
+msgstr "Action 박스 보이기"
+
+#: includes/class-webinarsysteemmetabox.php:439
+#: includes/templates/template-metabox-livepage.php:599
+msgid "Hand button color "
+msgstr "핸드 버튼 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:446
+#: includes/templates/template-metabox-livepage.php:606
+msgid "Hand button hover color "
+msgstr "핸드 버튼 hover 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:453
+#: includes/templates/template-metabox-livepage.php:613
+msgid "Hand button Active color "
+msgstr "핸드 버튼 Active 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:461
+#: includes/templates/template-metabox-livepage.php:620
+msgid "Background Color "
+msgstr "배경 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:468
+#: includes/templates/template-metabox-livepage.php:627
+msgid "Border Color  "
+msgstr "테두리 컬러"
+
+#: includes/class-webinarsysteemmetabox.php:489
+msgid "every 5 minutes"
+msgstr "매 5분 마다"
+
+#: includes/class-webinarsysteemmetabox.php:490
+msgid "every 10 minutes"
+msgstr "매 10분 마다"
+
+#: includes/class-webinarsysteemmetabox.php:491
+msgid "every 15 minutes"
+msgstr "매 15분 마다"
+
+#: includes/class-webinarsysteemmetabox.php:492
+msgid "every 20 minutes"
+msgstr "매 20분 마다"
+
+#: includes/class-webinarsysteemmetabox.php:493
+msgid "every 30 minutes"
+msgstr "매 30분 마다"
+
+#: includes/class-webinarsysteemmetabox.php:494
+msgid "every 40 minutes"
+msgstr "매 40분 마다"
+
+#: includes/class-webinarsysteemmetabox.php:495
+msgid "every 45 minutes"
+msgstr "매 45분 마다"
+
+#: includes/class-webinarsysteemmetabox.php:496
+msgid "every 50 minutes"
+msgstr "매 50분 마다"
+
+#: includes/class-webinarsysteemmetabox.php:497
+msgid "every 60 minutes"
+msgstr "매 60분 마다"
+
+#: includes/class-webinarsysteemmetabox.php:515
+msgid "Monday"
+msgstr "월요일"
+
+#: includes/class-webinarsysteemmetabox.php:516
+msgid "Tuesday"
+msgstr "화요일"
+
+#: includes/class-webinarsysteemmetabox.php:517
+msgid "Wednesday"
+msgstr "수요일"
+
+#: includes/class-webinarsysteemmetabox.php:518
+msgid "Thursday"
+msgstr "목요일"
+
+#: includes/class-webinarsysteemmetabox.php:519
+msgid "Friday"
+msgstr "금요일"
+
+#: includes/class-webinarsysteemmetabox.php:520
+msgid "Saturday"
+msgstr "토요일"
+
+#: includes/class-webinarsysteemmetabox.php:521
+msgid "Sunday"
+msgstr "일요일"
+
+#: includes/class-webinarsysteemmetabox.php:552
+msgid "Webinar Settings"
+msgstr "웨비나 설정"
+
+#: includes/class-webinarsysteemmetabox.php:557
+msgid "Host Names"
+msgstr "호스트 이름"
+
+#: includes/class-webinarsysteemmetabox.php:558
+msgid "Your Webinar URL"
+msgstr "웨비나 URL"
+
+#: includes/class-webinarsysteemmetabox.php:673
+#: includes/class-webinarsysteemoptions.php:85
+msgid "General Options"
+msgstr "일반 옵션"
+
+#: includes/class-webinarsysteemmetabox.php:675
+msgid "Registration Page"
+msgstr "등록 페이지"
+
+#: includes/class-webinarsysteemmetabox.php:677
+#, fuzzy
+#| msgid "Countdown Page"
+msgid "Confirmation Page"
+msgstr "카운트다운 페이지"
+
+#: includes/class-webinarsysteemmetabox.php:679
+msgid "Countdown Page"
+msgstr "카운트다운 페이지"
+
+#: includes/class-webinarsysteemmetabox.php:681
+msgid "Live Page"
+msgstr "라이브 페이지"
+
+#: includes/class-webinarsysteemmetabox.php:683
+msgid "Replay Page"
+msgstr "다시보기 페이지"
+
+#: includes/class-webinarsysteemmetabox.php:685
+#: includes/templates/template-metabox-thankyoupage.php:143
+msgid "Ticket"
+msgstr "티켓"
+
+#: includes/class-webinarsysteemmetabox.php:687
+msgid "Mailinglist"
+msgstr "메일링 리스트"
+
+#: includes/class-webinarsysteemmetabox.php:689
+msgid "Access"
+msgstr "접근권한"
+
+#: includes/class-webinarsysteemmetabox.php:691
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: includes/class-webinarsysteemmetabox.php:866
+msgid "Default mail provider"
+msgstr "기본 메일 제공자"
+
+#: includes/class-webinarsysteemmetabox.php:902
+msgid "Mailchimp list"
+msgstr "Mailchimp 리스트"
+
+#: includes/class-webinarsysteemmetabox.php:920
+msgid "You've no mailing list(s) on MailChimp."
+msgstr "MailChimp 에 메일링 리스트가 없습니다."
+
+#: includes/class-webinarsysteemmetabox.php:941
+msgid "Mailpoet list"
+msgstr "Mailpoet 리스트"
+
+#: includes/class-webinarsysteemmetabox.php:944
+#: includes/class-webinarsysteemmetabox.php:974
+#: includes/class-webinarsysteemmetabox.php:1003
+#: includes/class-webinarsysteemmetabox.php:1110
+#: includes/class-webinarsysteemmetabox.php:1204
+msgid "Select a list.."
+msgstr "리스트 선택.."
+
+#: includes/class-webinarsysteemmetabox.php:971
+msgid "Mailpoet3 list"
+msgstr "Mailpoet3 리스트"
+
+#: includes/class-webinarsysteemmetabox.php:991
+msgid "Enormail list"
+msgstr "Enormail 리스트"
+
+#: includes/class-webinarsysteemmetabox.php:1011
+msgid "You've no mailing list(s) on Enormail."
+msgstr "Enormail 에 메일링 리스트가 없습니다."
+
+#: includes/class-webinarsysteemmetabox.php:1025
+msgid "Drip Accounts"
+msgstr "Drip 계정"
+
+#: includes/class-webinarsysteemmetabox.php:1036
+msgid "Select an account.."
+msgstr "계정을 선택하세요.."
+
+#: includes/class-webinarsysteemmetabox.php:1049
+msgid "You've no account(s) on Drip."
+msgstr "Drip 에 계정이 없습니다."
+
+#: includes/class-webinarsysteemmetabox.php:1062
+msgid "Drip Campaigns"
+msgstr "Drip 캠페인"
+
+#: includes/class-webinarsysteemmetabox.php:1071
+msgid "Select a campaign.."
+msgstr "캠페인을 선택하세요.."
+
+#: includes/class-webinarsysteemmetabox.php:1084
+msgid "You've no campaigns(s) under Drip Account."
+msgstr "Drip 계정에 캠페인이 존재하지 않습니다."
+
+#: includes/class-webinarsysteemmetabox.php:1107
+msgid "AWeber List"
+msgstr "AWeber 리스트"
+
+#: includes/class-webinarsysteemmetabox.php:1123
+msgid "Prevent info emails"
+msgstr "info 메일 금지"
+
+#: includes/class-webinarsysteemmetabox.php:1127
+msgid "Prevent users from registering when they use an info email addresses"
+msgstr "info 메일 주소를 사용할 경우 등록 금지하기"
+
+#: includes/class-webinarsysteemmetabox.php:1145
+msgid "ConvertKit Form"
+msgstr ""
+
+#: includes/class-webinarsysteemmetabox.php:1150
+#, fuzzy
+#| msgid "Select a list.."
+msgid "Select a form.."
+msgstr "리스트 선택.."
+
+#: includes/class-webinarsysteemmetabox.php:1172
+msgid "GetResponse list"
+msgstr "GetResponse 리스트"
+
+#: includes/class-webinarsysteemmetabox.php:1196
+#, php-format
+msgid "%s list"
+msgstr "%s 리스트"
+
+#: includes/class-webinarsysteemmetabox.php:1218
+#, php-format
+msgid "You've no mailing list(s) on %s."
+msgstr "%s 에 메일링 리스트가 없습니다."
+
+#: includes/class-webinarsysteemmetabox.php:1236
+msgid ""
+"Click Export to download backup of current webinar settings. Upload your "
+"already exported file to Import section to apply settings from other webinar."
+msgstr ""
+"Export를 클릭하면 현재 웨비나 설정을 다운로드 받을 수 있습니다. 기존에 다운로"
+"드 받은 화일을 업로드 하여 다른 웨비나에 적용시킬 수 있습니다."
+
+#: includes/class-webinarsysteemmetabox.php:1242
+msgid "Export"
+msgstr "Export"
+
+#: includes/class-webinarsysteemmetabox.php:1250
+msgid "Working on it..."
+msgstr "작업 중 입니다"
+
+#: includes/class-webinarsysteemmetabox.php:1253
+msgid "Import"
+msgstr "Import"
+
+#: includes/class-webinarsysteemmetabox.php:1694
+msgid "Webinar will be presented by:"
+msgstr "Webinar 제공 :"
+
+#: includes/class-webinarsysteemmetabox.php:1697
+msgid "Separate each by commas"
+msgstr "각각 콤마 사용해서 분리 하세요"
+
+#: includes/class-webinarsysteemmetabox.php:1707
+msgid "Preview Page"
+msgstr "미리보기 페이지"
+
+#: includes/class-webinarsysteemmetabox.php:1708
+msgid "Only use this generated link for test purposes"
+msgstr "생성된 링크는 테스트 용도로만 사용합니다"
+
+#: includes/class-webinarsysteemoptions.php:70
+#: includes/templates/template-metabox-countdownpage.php:4
+#: includes/templates/template-metabox-livepage.php:5
+#: includes/templates/template-metabox-registerpage.php:4
+#: includes/templates/template-metabox-replaypage.php:4
+#: includes/templates/template-metabox-thankyoupage.php:6
+msgid "General"
+msgstr "일반"
+
+#: includes/class-webinarsysteemoptions.php:73
+msgid "Emails"
+msgstr "이메일"
+
+#: includes/class-webinarsysteemoptions.php:75
+#: includes/class-webinarsysteemoptions.php:755
+msgid "Mailinglist providers"
+msgstr "메일링 리스트 제공자"
+
+#: includes/class-webinarsysteemoptions.php:76
+#: includes/class-webinarsysteemoptions.php:920
+msgid "Advanced"
+msgstr "고급"
+
+#: includes/class-webinarsysteemoptions.php:77
+#: includes/class-webinarsysteemoptions.php:1429
+msgid "Integrations"
+msgstr "통합"
+
+#: includes/class-webinarsysteemoptions.php:78
+msgid "Styles"
+msgstr "스타일"
+
+#: includes/class-webinarsysteemoptions.php:79
+msgid "System Status"
+msgstr "시스템 상태"
+
+#: includes/class-webinarsysteemoptions.php:120
+msgid "Email options"
+msgstr "이메일 옵션"
+
+#: includes/class-webinarsysteemoptions.php:128
+msgid "Registration Confirmation"
+msgstr "등록 확인"
+
+#: includes/class-webinarsysteemoptions.php:132
+msgid "Reminder day before Webinar"
+msgstr "웨비나 하루 전 알림"
+
+#: includes/class-webinarsysteemoptions.php:136
+msgid "Reminder one hour before Webinar"
+msgstr "웨비나 1 시간 전 알림"
+
+#: includes/class-webinarsysteemoptions.php:140
+msgid "Reminder Webinar Starting"
+msgstr "웨비나 시작 알림"
+
+#: includes/class-webinarsysteemoptions.php:143
+msgid "Webinar replay"
+msgstr "웨비나 다시보기"
+
+#: includes/class-webinarsysteemoptions.php:149
+msgid "Email Sender Options"
+msgstr "이메일 발송 옵션"
+
+#: includes/class-webinarsysteemoptions.php:153
+msgid "\"From\" Name"
+msgstr "“From” 이름"
+
+#: includes/class-webinarsysteemoptions.php:157
+msgid "Sender name"
+msgstr "발신자 이름"
+
+#: includes/class-webinarsysteemoptions.php:162
+msgid "\"From\" Email Address"
+msgstr "“From” 이메일 주소"
+
+#: includes/class-webinarsysteemoptions.php:166
+msgid "Sender email"
+msgstr "발신자 이메일"
+
+#: includes/class-webinarsysteemoptions.php:172
+msgid "Email Template"
+msgstr "이메일 양식"
+
+#: includes/class-webinarsysteemoptions.php:176
+msgid "Header Image"
+msgstr "헤더 이미지"
+
+#: includes/class-webinarsysteemoptions.php:183
+msgid "Upload"
+msgstr "업로드"
+
+#: includes/class-webinarsysteemoptions.php:189
+msgid "Email Footer Text"
+msgstr "이메일 Footer 텍스트"
+
+#: includes/class-webinarsysteemoptions.php:194
+msgid "Footer Text"
+msgstr "Footer 텍스트"
+
+#: includes/class-webinarsysteemoptions.php:199
+msgid "Base color"
+msgstr "기본 컬러"
+
+#: includes/class-webinarsysteemoptions.php:219
+msgid "Email Body Background color"
+msgstr "이메일 본문 배경 컬러"
+
+#: includes/class-webinarsysteemoptions.php:229
+msgid "Email Body Text color"
+msgstr "이메일 본문 텍스트 컬러"
+
+#: includes/class-webinarsysteemoptions.php:239
+msgid "Activate profile and unsubscribe link"
+msgstr "Activate profile and unsubscribe link"
+
+#: includes/class-webinarsysteemoptions.php:253
+msgid "Choose Unsusbscribe Page"
+msgstr "구독취소 페이지 선택"
+
+#: includes/class-webinarsysteemoptions.php:264
+#, fuzzy
+#| msgid ""
+#| "WP WebinarSystem plugin uses it's own generated page by default. If you "
+#| "prefer an own custom page, then please select this on the dropdown menu + "
+#| "add shortcode [wpws_unsubscribe] to your page."
+msgid ""
+"WebinarPress plugin uses it's own generated page by default. If you prefer "
+"an own custom page, then please select this on the dropdown menu + add "
+"shortcode [wpws_unsubscribe] to your page."
+msgstr ""
+"WP WebinarSystem 플러그인은 기본적으로 생성되는 페이지를 사용합니다. 만약 개"
+"별 커스텀 페이지를 사용하고 싶으신 경우 드롭다운 메뉴에서 선택 후 + "
+"[wpws_unsubscribe]  코드를 귀하의 페이지에 추가하세요."
+
+#: includes/class-webinarsysteemoptions.php:271
+#: includes/class-webinarsysteemoptions.php:362
+#: includes/class-webinarsysteemoptions.php:444
+#: includes/class-webinarsysteemoptions.php:520
+#: includes/class-webinarsysteemoptions.php:593
+#: includes/class-webinarsysteemoptions.php:667
+#: includes/class-webinarsysteemoptions.php:740
+msgid "Reset Default Template"
+msgstr "기본 템플릿 초기화"
+
+#: includes/class-webinarsysteemoptions.php:280
+msgid "New Registration Options"
+msgstr "신규 등록 옵션"
+
+#: includes/class-webinarsysteemoptions.php:284
+#: includes/class-webinarsysteemoptions.php:375
+#: includes/class-webinarsysteemoptions.php:457
+#: includes/class-webinarsysteemoptions.php:533
+#: includes/class-webinarsysteemoptions.php:605
+#: includes/class-webinarsysteemoptions.php:679
+msgid "Enable this reminder?"
+msgstr "알림 기능을 활성화 하시겠습니까?"
+
+#: includes/class-webinarsysteemoptions.php:293
+#: includes/class-webinarsysteemoptions.php:384
+#: includes/class-webinarsysteemoptions.php:466
+#: includes/class-webinarsysteemoptions.php:542
+#: includes/class-webinarsysteemoptions.php:615
+#: includes/class-webinarsysteemoptions.php:688
+msgid "Subject"
+msgstr "제목"
+
+#: includes/class-webinarsysteemoptions.php:297
+#: includes/class-webinarsysteemoptions.php:389
+#: includes/class-webinarsysteemoptions.php:470
+#: includes/class-webinarsysteemoptions.php:546
+#: includes/class-webinarsysteemoptions.php:620
+#: includes/class-webinarsysteemoptions.php:693
+msgid "Email Head"
+msgstr "이메일 상단"
+
+#: includes/class-webinarsysteemoptions.php:303
+#: includes/class-webinarsysteemoptions.php:395
+#: includes/class-webinarsysteemoptions.php:476
+#: includes/class-webinarsysteemoptions.php:552
+#: includes/class-webinarsysteemoptions.php:626
+#: includes/class-webinarsysteemoptions.php:699
+#: includes/templates/template-metabox-ticket.php:89
+msgid "Available Shortcodes:"
+msgstr "유효한 Shortcodes:"
+
+#: includes/class-webinarsysteemoptions.php:312
+#: includes/class-webinarsysteemoptions.php:404
+#: includes/class-webinarsysteemoptions.php:485
+#: includes/class-webinarsysteemoptions.php:561
+#: includes/class-webinarsysteemoptions.php:635
+#: includes/class-webinarsysteemoptions.php:708
+#: includes/templates/template-metabox-thankyoupage.php:129
+msgid "Content"
+msgstr "본문 내용"
+
+#: includes/class-webinarsysteemoptions.php:330
+msgid "Admin Email Address"
+msgstr "Admin 이메일 주소"
+
+#: includes/class-webinarsysteemoptions.php:334
+msgid "Admin email"
+msgstr "Admin 이메일"
+
+#: includes/class-webinarsysteemoptions.php:345
+#: includes/class-webinarsysteemoptions.php:427
+#: includes/class-webinarsysteemoptions.php:503
+#: includes/class-webinarsysteemoptions.php:576
+#: includes/class-webinarsysteemoptions.php:650
+#: includes/class-webinarsysteemoptions.php:723
+msgid "Your email address"
+msgstr "귀하의 이메일 주소"
+
+#: includes/class-webinarsysteemoptions.php:348
+#: includes/class-webinarsysteemoptions.php:430
+#: includes/class-webinarsysteemoptions.php:506
+#: includes/class-webinarsysteemoptions.php:579
+#: includes/class-webinarsysteemoptions.php:653
+#: includes/class-webinarsysteemoptions.php:726
+msgid "Send Preview"
+msgstr "미리보기 보내기"
+
+#: includes/class-webinarsysteemoptions.php:355
+#: includes/class-webinarsysteemoptions.php:437
+#: includes/class-webinarsysteemoptions.php:513
+#: includes/class-webinarsysteemoptions.php:586
+#: includes/class-webinarsysteemoptions.php:660
+#: includes/class-webinarsysteemoptions.php:733
+msgid "Add a Webinar to send a preview email."
+msgstr "미리보기 이메일을 보낼 웨비나를 추가"
+
+#: includes/class-webinarsysteemoptions.php:371
+msgid "Registration Confirmation Email "
+msgstr "등록 확인 메일"
+
+#: includes/class-webinarsysteemoptions.php:453
+msgid "Reminder day before Webinar "
+msgstr "웨비나 하루 전 알림"
+
+#: includes/class-webinarsysteemoptions.php:528
+msgid "Reminder one hour before Webinar "
+msgstr "웨비나 1 시간 전 알림"
+
+#: includes/class-webinarsysteemoptions.php:601
+msgid "Reminder when Webinar starts"
+msgstr "웨비나 시작 알림"
+
+#: includes/class-webinarsysteemoptions.php:675
+msgid "Send Webinar Replay Link"
+msgstr "웨비나 다시보기 링크 보내기"
+
+#: includes/class-webinarsysteemoptions.php:761
+msgid "Drip API Key"
+msgstr "Drip API 키"
+
+#: includes/class-webinarsysteemoptions.php:766
+msgid "The API key you have received from Drip"
+msgstr "Drip 으로 부터 제공받은 API 키"
+
+#: includes/class-webinarsysteemoptions.php:782
+msgid "MailChimp API Key"
+msgstr "MailChimp API 키"
+
+#: includes/class-webinarsysteemoptions.php:787
+msgid "The API key you have received from MailChimp"
+msgstr "MailChimp 으로 부터 제공받은 API 키"
+
+#: includes/class-webinarsysteemoptions.php:794
+msgid "Enormail API Key"
+msgstr "Enormail API 키"
+
+#: includes/class-webinarsysteemoptions.php:799
+msgid "The API key you have received from Enormail"
+msgstr "Enormail 으로 부터 제공받은 API 키"
+
+#: includes/class-webinarsysteemoptions.php:820
+msgid "Reconfigure"
+msgstr "재설정"
+
+#: includes/class-webinarsysteemoptions.php:820
+msgid "Configure"
+msgstr "설정"
+
+#: includes/class-webinarsysteemoptions.php:829
+msgid "Getresponse API Key"
+msgstr "Getresponse API 키"
+
+#: includes/class-webinarsysteemoptions.php:834
+msgid "The API key you have received from Getresponse"
+msgstr "Getresponse 으로 부터 제공받은 API 키"
+
+#: includes/class-webinarsysteemoptions.php:851
+msgid "ActiveCampaign API Key"
+msgstr "ActiveCampaign API 키"
+
+#: includes/class-webinarsysteemoptions.php:860
+msgid "The API key you have received from ActiveCampaign"
+msgstr "MailChimp 으로 부터 제공받은 API ActiveCampaign"
+
+#: includes/class-webinarsysteemoptions.php:866
+msgid "ActiveCampaign API URL"
+msgstr "ActiveCampaign API URL"
+
+#: includes/class-webinarsysteemoptions.php:871
+msgid "eg: "
+msgstr "예:"
+
+#: includes/class-webinarsysteemoptions.php:892
+#, fuzzy
+#| msgid "Drip API Key"
+msgid "ConvertKit API Key"
+msgstr "Drip API 키"
+
+#: includes/class-webinarsysteemoptions.php:897
+#, fuzzy
+#| msgid "The API key you have received from Drip"
+msgid "The API key you have received from ConvertKit"
+msgstr "Drip 으로 부터 제공받은 API 키"
+
+#: includes/class-webinarsysteemoptions.php:929
+#: includes/class-webinarsysteemoptions.php:1031
+msgid "Roles & Permissions"
+msgstr "역할 및 권한"
+
+#: includes/class-webinarsysteemoptions.php:938
+msgid "Create Webinars"
+msgstr "웨비나 생성"
+
+#: includes/class-webinarsysteemoptions.php:953
+msgid "Manage Subscribers"
+msgstr "구독자 관리"
+
+#: includes/class-webinarsysteemoptions.php:968
+msgid "Access Control Bar"
+msgstr "콘트롤바 접근"
+
+#: includes/class-webinarsysteemoptions.php:983
+msgid "Manage Questions"
+msgstr "질문 관리"
+
+#: includes/class-webinarsysteemoptions.php:998
+msgid "Manage Chatlogs"
+msgstr "채팅이력 관리"
+
+#: includes/class-webinarsysteemoptions.php:1013
+msgid "Change WebinarSystem Settings"
+msgstr "WebinarSystem 설정 변경"
+
+#: includes/class-webinarsysteemoptions.php:1042
+msgid "Styling Settings"
+msgstr "스타일링 설정"
+
+#: includes/class-webinarsysteemoptions.php:1047
+msgid "Use Theme Styles"
+msgstr "테마 스타일 사용"
+
+#: includes/class-webinarsysteemoptions.php:1065
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+"본 정보를 기술지원팀에 보낼때 복사 후 붙여 넣기 하시기 바랍니다.  관련정보:"
+
+#: includes/class-webinarsysteemoptions.php:1071
+msgid "Copy for Support"
+msgstr "Copy for Support"
+
+#: includes/class-webinarsysteemoptions.php:1073
+msgid "Copied!"
+msgstr "복사됨!"
+
+#: includes/class-webinarsysteemoptions.php:1076
+msgid "Get System Report"
+msgstr "System 리포트 보기"
+
+#: includes/class-webinarsysteemoptions.php:1082
+msgid "WordPress Environment"
+msgstr "WordPress 환경"
+
+#: includes/class-webinarsysteemoptions.php:1086
+msgid "Home URL"
+msgstr "Home URL"
+
+#: includes/class-webinarsysteemoptions.php:1094
+msgid "Site URL"
+msgstr "사이트 URL"
+
+#: includes/class-webinarsysteemoptions.php:1102
+msgid "WP Version"
+msgstr "WP 버전"
+
+#: includes/class-webinarsysteemoptions.php:1109
+msgid "WP Multisite"
+msgstr "WP Multisite"
+
+#: includes/class-webinarsysteemoptions.php:1113
+msgid "WP Debug mode"
+msgstr "WP Debug mode"
+
+#: includes/class-webinarsysteemoptions.php:1122
+msgid "WP Cron status"
+msgstr "WP Cron status"
+
+#: includes/class-webinarsysteemoptions.php:1134
+msgid "Language"
+msgstr "언어"
+
+#: includes/class-webinarsysteemoptions.php:1142
+msgid "Plugin Environment"
+msgstr "Plugin 환경"
+
+#: includes/class-webinarsysteemoptions.php:1146
+#, fuzzy
+#| msgid "Webinar System Version"
+msgid "WebinarPress Version"
+msgstr "Webinar System 버전"
+
+#: includes/class-webinarsysteemoptions.php:1156
+msgid "Server Environment"
+msgstr "Server 환경"
+
+#: includes/class-webinarsysteemoptions.php:1160
+msgid "Server Info"
+msgstr "Server 정보"
+
+#: includes/class-webinarsysteemoptions.php:1168
+msgid "PHP Version"
+msgstr "PHP 버전"
+
+#: includes/class-webinarsysteemoptions.php:1177
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr "Couldn’t determine PHP version because phpversion() doesn’t exist."
+
+#: includes/class-webinarsysteemoptions.php:1185
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: includes/class-webinarsysteemoptions.php:1193
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: includes/class-webinarsysteemoptions.php:1201
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: includes/class-webinarsysteemoptions.php:1209
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN 설치됨"
+
+#: includes/class-webinarsysteemoptions.php:1217
+msgid "MySQL Version"
+msgstr "MySQL 버전"
+
+#: includes/class-webinarsysteemoptions.php:1228
+msgid "Max Upload Size"
+msgstr "최대 업로드 사이즈"
+
+#: includes/class-webinarsysteemoptions.php:1236
+msgid "Default Timezone"
+msgstr "기본 시간대"
+
+#: includes/class-webinarsysteemoptions.php:1251
+msgid "PHP Memory Limit"
+msgstr "PHP 메모리 한계"
+
+#: includes/class-webinarsysteemoptions.php:1311
+msgid "Server Time"
+msgstr "서버 시간"
+
+#: includes/class-webinarsysteemoptions.php:1342
+msgid "Server Timezone"
+msgstr "서버 시간대"
+
+#: includes/class-webinarsysteemoptions.php:1356
+msgid "Server Locale"
+msgstr "서버 위치"
+
+#: includes/class-webinarsysteemoptions.php:1363
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/class-webinarsysteemoptions.php:1377
+msgid "Active Plugins ("
+msgstr "활성화된 플러그인 ("
+
+#: includes/class-webinarsysteemoptions.php:1395
+msgid "by "
+msgstr "by"
+
+#: includes/class-webinarsysteemoptions.php:1405
+msgid "Theme"
+msgstr "테마"
+
+#: includes/class-webinarsysteemoptions.php:1413
+msgid "Version"
+msgstr "버전"
+
+#: includes/class-webinarsysteemoptions.php:1417
+msgid "Author URL"
+msgstr "Author URL"
+
+#: includes/class-webinarsysteemoptions.php:1449
+msgid "Webhooks / Zapier"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:1464
+#: includes/class-webinarsysteemoptions.php:1487
+msgid "Webhook URL"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:1470
+#: includes/class-webinarsysteemoptions.php:1493
+#: includes/class-webinarsysteemoptions.php:1517
+msgid "Send Test Data"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:1478
+#, fuzzy
+#| msgid "Attend Webinar"
+msgid "Attended Webinar"
+msgstr "웨비나 참석하기"
+
+#: includes/class-webinarsysteemoptions.php:1516
+msgid "Sending Test..."
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:1525
+msgid "This url does not appear to be valid, please check and try again"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:1530
+msgid ""
+"There was an error while sending the request, please check your URL and try "
+"again"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:1551
+msgid "The test data has been successfully sent to the webhook"
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:1592
+msgid "Please enter valid webhook URL for new registrations including."
+msgstr ""
+
+#: includes/class-webinarsysteemoptions.php:1599
+msgid "Please enter valid webhook URL for when an attendee joins a webinar."
+msgstr ""
+
+#: includes/class-webinarsysteemupdates.php:165
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+"%1$s 의 새로운 버전이 출시 되었습니다. <a target=“_blank” class=“thickbox” "
+"href=“%2$s”>  %3$s 버전의 새로운 버전 상세 내역 보기</a>"
+
+#: includes/class-webinarsysteemupdates.php:169
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+"%1$s 의 새로운 버전이 출시 되었습니다. <a target=“_blank” class=“thickbox” "
+"href=“%2$s”> %3$s 버전의 새로운 버전 상세 내역 보기</a> 또는 <a href=“%4$s”>"
+"지금 바로 업데이트</a>."
+
+#: includes/class-webinarsysteemupdates.php:298
+msgid "You do not have permission to install plugin updates"
+msgstr "현재 플러그인을 업데이트할 권한이 없습니다."
+
+#: includes/class-webinarsysteemupdates.php:298
+msgid "Error"
+msgstr "오류"
+
+#: includes/class-webinarsysteemupdates.php:342
+msgid "Your WPWebinarSystem license has been deactivated!"
+msgstr "WPWebinarSystem 가 비활성화 되었습니다!"
+
+#: includes/class-webinarsysteemupdates.php:351
+msgid "Your WPWebinarSystem license has been activated!"
+msgstr "WPWebinarSystem 가 활성화 되었습니다!"
+
+#: includes/class-webinarsysteemupdates.php:363
+msgid "The WPWebinarSystem license you entered is invalid."
+msgstr "입력하신 WPWebinarSystem 라이센스가 유효하지 않습니다."
+
+#: includes/class-webinarsysteemupdates.php:373
+msgid ""
+"Your WPWebinarSystem license is expired. Please renew or the plugin will not "
+"work as expected. Please activate your copy as soon as possible."
+msgstr ""
+"WPWebinarSystem 라이센트가 유효기간이 초과 되었습니다. 갱신을 하지 않으시면 "
+"제대로 동작하지 않을 수 있으니, 서둘러 활성화 하시기 바랍니다."
+
+#: includes/shortcodes/class-webinarsysteem-confirmation-shortcodes.php:91
+#: includes/shortcodes/class-webinarsysteem-confirmation-shortcodes.php:113
+#, fuzzy
+#| msgid "Go to Webinar"
+msgid "Go to webinar"
+msgstr "웨비나 페이지로 이동하기"
+
+#: includes/shortcodes/class-webinarsysteem-confirmation-shortcodes.php:185
+#, fuzzy
+#| msgid "Add To Your Calendar"
+msgid "Add to Calendar"
+msgstr "캘린더에 추가하기"
+
+#: includes/templates/admin/attendees-list.php:7
+msgid "Select webinar to view attendees for active webinars"
+msgstr "활성화된 웨비나의 참석자를 보시려면 웨비나를 선택하세요"
+
+#: includes/templates/admin/attendees-list.php:26
+#: includes/templates/admin/attendees-list.php:202
+msgid "Please add webinars to listup."
+msgstr "목록에 웨비나를 추가하세요."
+
+#: includes/templates/admin/attendees-list.php:62
+#: includes/templates/admin/attendees-list.php:136
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: includes/templates/admin/attendees-list.php:65
+#: includes/templates/admin/attendees-list.php:139
+msgid "Registered On"
+msgstr "등록 일시"
+
+#: includes/templates/admin/attendees-list.php:68
+#: includes/templates/admin/attendees-list.php:142
+msgid "Registered For"
+msgstr "등록 웨비나 일정"
+
+#: includes/templates/admin/attendees-list.php:71
+#: includes/templates/admin/attendees-list.php:145
+msgid "Attended"
+msgstr "참석함"
+
+#: includes/templates/admin/attendees-list.php:119
+msgid "No Attendees :("
+msgstr "참석자 없음 :("
+
+#: includes/templates/admin/attendees-list.php:178
+msgid "Please enter valid name and email to add new attendee."
+msgstr "새로운 참석자 추가를 위해서는 유효한 이름과 이메일을 입력해 주세요."
+
+#: includes/templates/admin/attendees-list.php:212
+msgid "Send webinar confirmation e-mail to attendee?"
+msgstr "참석자들에게 확인 메일을 보내시겠습니까?"
+
+#: includes/templates/template-access-tab.php:3
+msgid "Make Webinar only accessible for : "
+msgstr "웨비나 접속 허용 대상 : "
+
+#: includes/templates/template-access-tab.php:25
+msgid "Only for user roles"
+msgstr "Only for user roles"
+
+#: includes/templates/template-access-tab.php:47
+msgid "Member Levels"
+msgstr "Member 레벨"
+
+#: includes/templates/template-access-tab.php:51
+msgid "Member Level"
+msgstr "Member 레벨"
+
+#: includes/templates/template-access-tab.php:53
+msgid "Select"
+msgstr "선택하기"
+
+#: includes/templates/template-access-tab.php:63
+msgid ""
+"Please install and configure the 'WooCommerce Memberships' plugin to use "
+"this functionality."
+msgstr ""
+"본 기능을 사용하기 위해서는  ‘WooCommerce Memberships’를 설치 후 설정 하시기 "
+"바랍니다."
+
+#: includes/templates/template-access-tab.php:72
+#: includes/templates/template-access-tab.php:100
+msgid "User Id's"
+msgstr "사용자 ID"
+
+#: includes/templates/template-access-tab.php:102
+msgid "Enter user ID. (You can add multiple user ID's. ID separated by comma)."
+msgstr ""
+"사용자 ID 를 입력 하세요. (콤마를 사용하여 여러개의 ID를 추가할 수 있습니다.)"
+
+#: includes/templates/template-access-tab.php:112
+msgid "Redirect"
+msgstr "리다이렉트"
+
+#: includes/templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "안녕"
+
+#: includes/templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "웨비나에 방금 등록하였습니다"
+
+#: includes/templates/template-email-admin-email.php:16
+msgid "asked the following question during"
+msgstr "asked the following question during"
+
+#: includes/templates/template-email-attendee-wbstarted.php:21
+msgid "We are going live now"
+msgstr "생방송을 지금 바로 시작합니다"
+
+#: includes/templates/template-email-reader.php:112
+msgid ""
+"Thank you for purchasing a webinar ticket. Please click on the button below "
+"to login for the webinar when it starts."
+msgstr ""
+"웨비나 티켓을 구매해 주셔서 감사합니다. 웨비나가 시작 될 때 아래 버튼을 클릭"
+"해 주시기 바랍니다."
+
+#: includes/templates/template-email-reader.php:117
+msgid "Attend Webinar"
+msgstr "웨비나 참석하기"
+
+#: includes/templates/template-email-reader.php:118
+msgid "If you can't see the link, please visit:"
+msgstr "링크가 보이지 않는 경우, 다음 페이지를 방문 : "
+
+#: includes/templates/template-metabox-countdownpage.php:8
+#: includes/templates/template-metabox-livepage.php:19
+#: includes/templates/template-metabox-replaypage.php:14
+#: includes/templates/template-metabox-thankyoupage.php:25
+msgid "Title color"
+msgstr "타이틀 컬러"
+
+#: includes/templates/template-metabox-countdownpage.php:20
+#: includes/templates/template-metabox-livepage.php:35
+#: includes/templates/template-metabox-replaypage.php:26
+#: includes/templates/template-metabox-thankyoupage.php:37
+msgid "Background image"
+msgstr "배경 이미지"
+
+#: includes/templates/template-metabox-countdownpage.php:22
+msgid "Countdown Page Background Image"
+msgstr "카운트다운 페이지 배경 이미지"
+
+#: includes/templates/template-metabox-countdownpage.php:22
+#: includes/templates/template-metabox-livepage.php:39
+#: includes/templates/template-metabox-livepage.php:110
+#: includes/templates/template-metabox-registerpage.php:15
+#: includes/templates/template-metabox-registerpage.php:41
+#: includes/templates/template-metabox-replaypage.php:28
+#: includes/templates/template-metabox-replaypage.php:66
+#: includes/templates/template-metabox-thankyoupage.php:39
+#: includes/templates/template-metabox-thankyoupage.php:58
+msgid "Upload Image"
+msgstr "이미지 업로드"
+
+#: includes/templates/template-metabox-countdownpage.php:27
+msgid "Show countdown timer"
+msgstr "카운트다운 타이머 보이기"
+
+#: includes/templates/template-metabox-countdownpage.php:33
+msgid "Tagline color"
+msgstr "태그라인 컬러"
+
+#: includes/templates/template-metabox-countdownpage.php:39
+msgid "Description color"
+msgstr "개요영역 컬러"
+
+#: includes/templates/template-metabox-countdownpage.php:46
+#: includes/templates/template-metabox-livepage.php:812
+#: includes/templates/template-metabox-registerpage.php:353
+#: includes/templates/template-metabox-replaypage.php:240
+#: includes/templates/template-metabox-thankyoupage.php:253
+msgid "Script Tags"
+msgstr ""
+
+#: includes/templates/template-metabox-countdownpage.php:49
+#: includes/templates/template-metabox-livepage.php:816
+#: includes/templates/template-metabox-registerpage.php:356
+#: includes/templates/template-metabox-replaypage.php:243
+#: includes/templates/template-metabox-thankyoupage.php:256
+msgid "Add code in &lt;head&gt;"
+msgstr "&lt;head&gt; 영역에 코드 추가"
+
+#: includes/templates/template-metabox-countdownpage.php:54
+#: includes/templates/template-metabox-livepage.php:822
+#: includes/templates/template-metabox-registerpage.php:361
+#: includes/templates/template-metabox-replaypage.php:248
+#: includes/templates/template-metabox-thankyoupage.php:261
+msgid "Add code in &lt;body&gt;"
+msgstr "&lt;body&gt; 영역에 코드 추가"
+
+#: includes/templates/template-metabox-generalpage.php:5
+#: includes/templates/template-metabox-generalpage.php:17
+#: includes/templates/template-metabox-livepage.php:56
+#: includes/templates/template-metabox-replaypage.php:40
+msgid "Live"
+msgstr "Live"
+
+#: includes/templates/template-metabox-generalpage.php:6
+msgid "Replay"
+msgstr "웨비나 다시보기"
+
+#: includes/templates/template-metabox-generalpage.php:14
+msgid "Webinar Type"
+msgstr "웨비나 타입"
+
+#: includes/templates/template-metabox-generalpage.php:26
+msgid "Webinar Occurance"
+msgstr "웨비나 진행"
+
+#: includes/templates/template-metabox-generalpage.php:29
+msgid "One time"
+msgstr "일회성"
+
+#: includes/templates/template-metabox-generalpage.php:32
+msgid "Recurring"
+msgstr "반복"
+
+#: includes/templates/template-metabox-generalpage.php:35
+msgid "Just in time"
+msgstr "특정시간"
+
+#: includes/templates/template-metabox-generalpage.php:43
+msgid "One time registration"
+msgstr "일회성 등록하기"
+
+#: includes/templates/template-metabox-generalpage.php:51
+msgid "Recurring on every"
+msgstr "매일 반복하기"
+
+#: includes/templates/template-metabox-generalpage.php:94
+msgid "Recurring Time(s)"
+msgstr "반복할 시간대"
+
+#: includes/templates/template-metabox-generalpage.php:102
+#: includes/templates/template-metabox-generalpage.php:314
+msgid "Remove"
+msgstr "삭제하기"
+
+#: includes/templates/template-metabox-generalpage.php:113
+msgid "Add another time"
+msgstr "다른 시간 추가"
+
+#: includes/templates/template-metabox-generalpage.php:123
+msgid "Only runs on"
+msgstr "다음 환경에서만 동작 : "
+
+#: includes/templates/template-metabox-generalpage.php:158
+msgid "Start Webinar"
+msgstr "웨비나 시작하기"
+
+#: includes/templates/template-metabox-generalpage.php:182
+msgid "Show Amount of Time Slots"
+msgstr "전체 시간대 보여주기"
+
+#: includes/templates/template-metabox-generalpage.php:186
+msgid "Leave blank to show all recurring times"
+msgstr "공란으로 둘 경우 모든 시간대가 표시됩니다"
+
+#: includes/templates/template-metabox-generalpage.php:191
+msgid "Day Offset"
+msgstr ""
+
+#: includes/templates/template-metabox-generalpage.php:195
+msgid "How many days will pass"
+msgstr ""
+
+#: includes/templates/template-metabox-generalpage.php:204
+msgid "Webinar starts at"
+msgstr "웨비나 시작 시간 : "
+
+#: includes/templates/template-metabox-generalpage.php:205
+#: includes/tmp-registration.php:208 includes/tmp-thank-you.php:215
+msgid "Date"
+msgstr "날짜"
+
+#: includes/templates/template-metabox-generalpage.php:234
+msgid "Timezone annotation"
+msgstr "시간대 설정"
+
+#: includes/templates/template-metabox-generalpage.php:255
+msgid "Webinar Duration"
+msgstr "웨비나 진행시간"
+
+#: includes/templates/template-metabox-generalpage.php:267
+msgid "Disable registration"
+msgstr "등록 비활성화 하기"
+
+#: includes/templates/template-metabox-livepage.php:9
+#: includes/templates/template-metabox-replaypage.php:7
+msgid "Hide Title"
+msgstr "타이틀 숨기기"
+
+#: includes/templates/template-metabox-livepage.php:39
+#: includes/templates/template-metabox-thankyoupage.php:39
+msgid "Thankyou Page Background Image"
+msgstr "감사인사 페이지 배경 이미지"
+
+#: includes/templates/template-metabox-livepage.php:47
+#: includes/templates/template-metabox-replaypage.php:35
+msgid "Webinar type"
+msgstr "웨비나 타입"
+
+#: includes/templates/template-metabox-livepage.php:58
+#: includes/templates/template-metabox-replaypage.php:42
+msgid "Wistia"
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:59
+#: includes/templates/template-metabox-registerpage.php:32
+#: includes/templates/template-metabox-replaypage.php:43
+#: includes/templates/template-metabox-thankyoupage.php:49
+msgid "Image"
+msgstr "이미지"
+
+#: includes/templates/template-metabox-livepage.php:60
+#: includes/templates/template-metabox-registerpage.php:33
+#: includes/templates/template-metabox-replaypage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:50
+msgid "File"
+msgstr "파일"
+
+#: includes/templates/template-metabox-livepage.php:63
+#: includes/templates/template-metabox-replaypage.php:45
+msgid "RTMP Stream"
+msgstr "RTMP Stream"
+
+#: includes/templates/template-metabox-livepage.php:64
+#: includes/templates/template-metabox-replaypage.php:46
+msgid "HLS Stream"
+msgstr "HLS Stream"
+
+#: includes/templates/template-metabox-livepage.php:65
+#: includes/templates/template-metabox-replaypage.php:47
+msgid "Inline Frame (iframe)"
+msgstr "Inline Frame (iframe)"
+
+#: includes/templates/template-metabox-livepage.php:71
+#: includes/templates/template-metabox-replaypage.php:49
+msgid "Start HOA broadcast from Youtube website"
+msgstr "Youtube 웹사이트를 통해 HOA 방송을 시작하세요"
+
+#: includes/templates/template-metabox-livepage.php:77
+#: includes/templates/template-metabox-replaypage.php:50
+msgid "Start a livestream with Youtube Live"
+msgstr "Youtube Live로 방송을 시작하세요."
+
+#: includes/templates/template-metabox-livepage.php:83
+#: includes/templates/template-metabox-replaypage.php:54
+msgid "Hangouts on Air URL"
+msgstr "Hangouts on Air URL"
+
+#: includes/templates/template-metabox-livepage.php:85
+#: includes/templates/template-metabox-replaypage.php:55
+msgid "Youtube URL"
+msgstr "Youtube URL"
+
+#: includes/templates/template-metabox-livepage.php:87
+#: includes/templates/template-metabox-replaypage.php:56
+msgid "Vimeo ID"
+msgstr "Vimeo 동영상 ID"
+
+#: includes/templates/template-metabox-livepage.php:89
+#: includes/templates/template-metabox-replaypage.php:57
+msgid "Image URL"
+msgstr "이미지 URL"
+
+#: includes/templates/template-metabox-livepage.php:91
+#: includes/templates/template-metabox-replaypage.php:58
+msgid "Iframe Source URL"
+msgstr "Iframe 소스 URL"
+
+#: includes/templates/template-metabox-livepage.php:93
+#: includes/templates/template-metabox-replaypage.php:59
+msgid "File URL"
+msgstr "파일 URL"
+
+#: includes/templates/template-metabox-livepage.php:95
+#: includes/templates/template-metabox-replaypage.php:60
+msgid "RTMP Server URL"
+msgstr "RTMP 서버 URL"
+
+#: includes/templates/template-metabox-livepage.php:97
+#: includes/templates/template-metabox-replaypage.php:61
+msgid "HLS Server URL"
+msgstr "HLS 서버 URL"
+
+#: includes/templates/template-metabox-livepage.php:99
+#: includes/templates/template-metabox-replaypage.php:63
+msgid "Embed Code"
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:110
+#: includes/templates/template-metabox-replaypage.php:66
+msgid "Registration Page Video Image"
+msgstr "등록페이지 동영상 이미지"
+
+#: includes/templates/template-metabox-livepage.php:114
+#, php-format
+msgid "Paste Youtube/Hangouts URL here (Eg: %s OR %s)"
+msgstr "Youtube/Hangouts URL 을 여기에 입력하세요 (예: %s 또는 %s)"
+
+#: includes/templates/template-metabox-livepage.php:116
+#: includes/templates/template-metabox-registerpage.php:45
+#: includes/templates/template-metabox-thankyoupage.php:61
+msgid "Paste Vimeo video ID here (Eg: 129673042)"
+msgstr "Vimeo 동영상 ID를 여기에 입력하세요 (예: 129673042))"
+
+#: includes/templates/template-metabox-livepage.php:118
+#: includes/templates/template-metabox-registerpage.php:46
+#: includes/templates/template-metabox-replaypage.php:71
+#: includes/templates/template-metabox-thankyoupage.php:62
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr "이미지 URL (예: https://example.com/images/the_image.jpg)"
+
+#: includes/templates/template-metabox-livepage.php:120
+#: includes/templates/template-metabox-registerpage.php:47
+#: includes/templates/template-metabox-replaypage.php:72
+#: includes/templates/template-metabox-thankyoupage.php:63
+msgid ""
+"It's best to host your video file outside your website to save bandwidth."
+msgstr ""
+"네트워크 트래픽 절감을 위해 동영상 파일은 웹사이트 외부에서 제공 받는 것이 좋"
+"습니다."
+
+#: includes/templates/template-metabox-livepage.php:122
+msgid "Paste the Wistia embed code here"
+msgstr ""
+
+#: includes/templates/template-metabox-livepage.php:127
+#: includes/templates/template-metabox-registerpage.php:52
+#: includes/templates/template-metabox-replaypage.php:77
+#: includes/templates/template-metabox-thankyoupage.php:68
+msgid "Video autoplay"
+msgstr "동영상 자동재생"
+
+#: includes/templates/template-metabox-livepage.php:132
+#: includes/templates/template-metabox-registerpage.php:55
+#: includes/templates/template-metabox-replaypage.php:80
+#: includes/templates/template-metabox-thankyoupage.php:71
+msgid "Some browsers will restrict the autoplay functionality"
+msgstr "일부 브라우저는 자동 재생이 막혀 있을 수 있습니다."
+
+#: includes/templates/template-metabox-livepage.php:137
+#: includes/templates/template-metabox-registerpage.php:60
+#: includes/templates/template-metabox-replaypage.php:85
+#: includes/templates/template-metabox-thankyoupage.php:76
+msgid "Show controls"
+msgstr "컨트롤 보이기"
+
+#: includes/templates/template-metabox-livepage.php:143
+#: includes/templates/template-metabox-registerpage.php:64
+#: includes/templates/template-metabox-replaypage.php:89
+#: includes/templates/template-metabox-thankyoupage.php:80
+msgid ""
+"Controls will stay visible for webinar host, but will be hidden for your "
+"attendees"
+msgstr "웨비나 호스트에게는 계속해서 보여지나, 참석자들에게는 숨김처리 됩니다."
+
+#: includes/templates/template-metabox-livepage.php:150
+#: includes/templates/template-metabox-replaypage.php:95
+msgid "Enable Fullscreen"
+msgstr "전체화면 활성화"
+
+#: includes/templates/template-metabox-livepage.php:160
+#: includes/templates/template-metabox-registerpage.php:69
+#: includes/templates/template-metabox-replaypage.php:103
+#: includes/templates/template-metabox-thankyoupage.php:85
+msgid "Show big play button"
+msgstr "큰 플레이 버튼 보이기"
+
+#: includes/templates/template-metabox-livepage.php:169
+#: includes/templates/template-metabox-replaypage.php:110
+msgid "Simulate webinar content"
+msgstr "웨비나 콘텐츠 미리보기"
+
+#: includes/templates/template-metabox-livepage.php:644
+#: includes/templates/template-metabox-replaypage.php:123
+msgid "Activate CTA"
+msgstr "CTA 활성화"
+
+#: includes/templates/template-metabox-livepage.php:654
+msgid "Manual"
+msgstr "수동설정"
+
+#: includes/templates/template-metabox-livepage.php:663
+msgid "After amount of time"
+msgstr "특정 시간 이후 표시"
+
+#: includes/templates/template-metabox-livepage.php:671
+#: includes/templates/template-metabox-replaypage.php:132
+msgid "Show CTA after (minutes)"
+msgstr "CTA 보이기 (N분 이후)"
+
+#: includes/templates/template-metabox-livepage.php:682
+#: includes/templates/template-metabox-replaypage.php:140
+msgid "Show CTA"
+msgstr "CTA 보이기"
+
+#: includes/templates/template-metabox-livepage.php:693
+#: includes/templates/template-metabox-replaypage.php:149
+msgid "CTA Type"
+msgstr "CTA 타입"
+
+#: includes/templates/template-metabox-livepage.php:707
+#: includes/templates/template-metabox-replaypage.php:159
+#: wpws-js/translations.php:103
+msgid "Background Color"
+msgstr "배경 컬러"
+
+#: includes/templates/template-metabox-livepage.php:715
+#: includes/templates/template-metabox-replaypage.php:165
+msgid "Hover Color"
+msgstr "Hover 컬러"
+
+#: includes/templates/template-metabox-livepage.php:723
+#: includes/templates/template-metabox-replaypage.php:171
+msgid "Border Color"
+msgstr "테두리 컬러"
+
+#: includes/templates/template-metabox-livepage.php:731
+#: includes/templates/template-metabox-replaypage.php:177
+#: wpws-js/translations.php:102
+msgid "Text Color"
+msgstr "텍스트 컬러"
+
+#: includes/templates/template-metabox-livepage.php:739
+#: includes/templates/template-metabox-replaypage.php:183
+msgid "Hover Text Color"
+msgstr "Hover 텍스트 컬러"
+
+#: includes/templates/template-metabox-livepage.php:755
+#: includes/templates/template-metabox-replaypage.php:195
+msgid "Button URL"
+msgstr "버튼 URL"
+
+#: includes/templates/template-metabox-livepage.php:762
+#: includes/templates/template-metabox-replaypage.php:201
+msgid "Button Text"
+msgstr "버튼 텍스트"
+
+#: includes/templates/template-metabox-livepage.php:798
+#: includes/templates/template-metabox-replaypage.php:228
+msgid "CTA Content"
+msgstr "CTA 콘텐츠"
+
+#: includes/templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "페이지 배경 컬러"
+
+#: includes/templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "페이지 배경 이미지"
+
+#: includes/templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "등록 페이지 배경 이미지"
+
+#: includes/templates/template-metabox-registerpage.php:20
+msgid "Show Content Section"
+msgstr "콘텐츠 영역 보이게 하기"
+
+#: includes/templates/template-metabox-registerpage.php:27
+#: includes/templates/template-metabox-thankyoupage.php:44
+msgid "Content type"
+msgstr "콘텐츠 타입"
+
+#: includes/templates/template-metabox-registerpage.php:38
+#: includes/templates/template-metabox-thankyoupage.php:55
+msgid "Video or Image URL"
+msgstr "동영상 또는 이미지 URL"
+
+#: includes/templates/template-metabox-registerpage.php:41
+msgid "Registration Page Image"
+msgstr "등록페이지 이미지"
+
+#: includes/templates/template-metabox-registerpage.php:44
+#: includes/templates/template-metabox-thankyoupage.php:60
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+msgstr ""
+"Youtube 동영상 URL을 여기에 입력하세요 (예: https://www.youtube.com/watch?"
+"v=3TkgTEfx9XM)"
+
+#: includes/templates/template-metabox-registerpage.php:79
+msgid "Title Color"
+msgstr "타이틀 컬러"
+
+#: includes/templates/template-metabox-registerpage.php:84
+msgid "Date/Time Color"
+msgstr "날짜/시간 컬러"
+
+#: includes/templates/template-metabox-registerpage.php:90
+#: includes/templates/template-metabox-thankyoupage.php:92
+#, fuzzy
+#| msgid "Countdown Page"
+msgid "Custom  Page"
+msgstr "카운트다운 페이지"
+
+#: includes/templates/template-metabox-registerpage.php:93
+#: includes/templates/template-metabox-thankyoupage.php:95
+msgid "Enable"
+msgstr "활성화"
+
+#: includes/templates/template-metabox-registerpage.php:98
+msgid "After registering attendees will be taken to a custom confirmation page"
+msgstr "사전등록 이후 커스텀 등록확인 페이지로 이동합니다"
+
+#: includes/templates/template-metabox-registerpage.php:104
+#: includes/templates/template-metabox-thankyoupage.php:115
+msgid "Page"
+msgstr "페이지"
+
+#: includes/templates/template-metabox-registerpage.php:118
+msgid "Custom  Fields"
+msgstr "커스텀 필드"
+
+#: includes/templates/template-metabox-registerpage.php:127
+msgid "Input Field"
+msgstr "입력필드"
+
+#: includes/templates/template-metabox-registerpage.php:130
+msgid "Phone Field"
+msgstr "연락처필드"
+
+#: includes/templates/template-metabox-registerpage.php:134
+msgid "Check Box"
+msgstr "체크박스"
+
+#: includes/templates/template-metabox-registerpage.php:143
+msgid "GDPR Opt-in"
+msgstr "GDPR"
+
+#: includes/templates/template-metabox-registerpage.php:146
+msgid "Enable GDPR Opt-in for Paid webinars"
+msgstr "유료 웨비나에 GDPR 활성화 하기"
+
+#: includes/templates/template-metabox-registerpage.php:152
+msgid "Enable GDPR Opt-in for Non-Paid webinars"
+msgstr "무료 웨비나에 GDPR 활성화 하기"
+
+#: includes/templates/template-metabox-registerpage.php:160
+msgid ""
+"I agree my personal information will be stored on your website for the use "
+"of this webinar and to send me notifications about the event"
+msgstr ""
+"본 웹사이트에 개인정보를 제공하는데 동의하며, 웨비나 이벤트에 알림을 받는 것"
+"에 동의 합니다."
+
+#: includes/templates/template-metabox-registerpage.php:163
+msgid "GDPR Opt-in Text"
+msgstr "GDPR 텍스트"
+
+#: includes/templates/template-metabox-registerpage.php:169
+msgid "Form & Tab Layout"
+msgstr "폼 & 탭 레이아웃"
+
+#: includes/templates/template-metabox-registerpage.php:177
+msgid "Position"
+msgstr "위치"
+
+#: includes/templates/template-metabox-registerpage.php:197
+msgid "Font color"
+msgstr "폰트 컬러"
+
+#: includes/templates/template-metabox-registerpage.php:209
+msgid "Tab Text color"
+msgstr "탭 텍스트 컬러"
+
+#: includes/templates/template-metabox-registerpage.php:215
+msgid "Register Tab Text"
+msgstr "등록하기 탭 텍스트"
+
+#: includes/templates/template-metabox-registerpage.php:221
+msgid "Login Tab Text"
+msgstr "로그인 탭 텍스트"
+
+#: includes/templates/template-metabox-registerpage.php:227
+msgid "Register Tab"
+msgstr "등록하기 탭"
+
+#: includes/templates/template-metabox-registerpage.php:230
+msgid "Hide Registration Form"
+msgstr "등록하기 폼 숨기기"
+
+#: includes/templates/template-metabox-registerpage.php:237
+msgid "Register Title"
+msgstr "등록하기 타이틀"
+
+#: includes/templates/template-metabox-registerpage.php:243
+#: wpws-js/translations.php:68
+msgid "Register Text"
+msgstr "등록하기 텍스트"
+
+#: includes/templates/template-metabox-registerpage.php:249
+msgid "Register Footer"
+msgstr "동록하기 Footer"
+
+#: includes/templates/template-metabox-registerpage.php:255
+#: includes/templates/template-metabox-registerpage.php:303
+#: includes/templates/template-metabox-thankyoupage.php:241
+msgid "Button Background color"
+msgstr "버튼 배경 컬러"
+
+#: includes/templates/template-metabox-registerpage.php:261
+#: includes/templates/template-metabox-registerpage.php:309
+#: includes/templates/template-metabox-thankyoupage.php:247
+msgid "Button Border color"
+msgstr "버튼 테두리 컬러"
+
+#: includes/templates/template-metabox-registerpage.php:273
+msgid "CTA Button Text"
+msgstr "CTA 버튼 텍스트"
+
+#: includes/templates/template-metabox-registerpage.php:279
+msgid "Login Tab"
+msgstr "로그인 탭"
+
+#: includes/templates/template-metabox-registerpage.php:283
+msgid "Hide Login Form"
+msgstr "로그인 폼 숨기기"
+
+#: includes/templates/template-metabox-registerpage.php:291
+msgid "Login Title"
+msgstr "로그인 타이틀"
+
+#: includes/templates/template-metabox-registerpage.php:297
+#: wpws-js/translations.php:69
+msgid "Login Text"
+msgstr "로그인 텍스트"
+
+#: includes/templates/template-metabox-registerpage.php:321
+msgid "Login Button Text"
+msgstr "로그인 버튼 텍스트"
+
+#: includes/templates/template-metabox-registerpage.php:328
+msgid "Description"
+msgstr "개요"
+
+#: includes/templates/template-metabox-registerpage.php:331
+msgid "Show Description Section"
+msgstr "개요 영역 보이기"
+
+#: includes/templates/template-metabox-registerpage.php:337
+msgid "Description text color"
+msgstr "개요영역 텍스트 컬러"
+
+#: includes/templates/template-metabox-registerpage.php:342
+msgid "Description background color"
+msgstr "개요영역 배경 컬러"
+
+#: includes/templates/template-metabox-registerpage.php:347
+msgid "Description border color"
+msgstr "개요영역 테두리 컬러"
+
+#: includes/templates/template-metabox-replaypage.php:28
+msgid "Replay Page Background Image"
+msgstr "다시보기 페이지 배경 이미지"
+
+#: includes/templates/template-metabox-replaypage.php:69
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM OR "
+"http://youtu.be/CqlB2SiG-ac)"
+msgstr ""
+"Youtube 동영상 URL 을 여기에 붙여 넣으세요 (예: https://www.youtube.com/"
+"watch?v=3TkgTEfx9XM 또는 http://youtu.be/CqlB2SiG-ac)"
+
+#: includes/templates/template-metabox-replaypage.php:70
+msgid "Paste Vimeo video ID here (Eg: 129673042))"
+msgstr "Vimeo 동영상 ID를 여기에 붙여 넣으세요 (예: 129673042))"
+
+#: includes/templates/template-metabox-thankyoupage.php:10
+msgid "Disable Confirmation"
+msgstr "등록확인 비활성화"
+
+#: includes/templates/template-metabox-thankyoupage.php:13
+msgid ""
+"Disable the confirmation page and send newly registered attendees directly "
+"to the webinar"
+msgstr ""
+"등록 확인 페이지를 비활성화 후 신규 등록자를 웨비나 페이지로 바로 이동 시킵니"
+"다."
+
+#: includes/templates/template-metabox-thankyoupage.php:18
+msgid "Title text"
+msgstr "타이틀 텍스트"
+
+#: includes/templates/template-metabox-thankyoupage.php:20
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "와우~! 웨비나에 등록 되었습니다~!"
+
+#: includes/templates/template-metabox-thankyoupage.php:58
+msgid "Thank you Page Image"
+msgstr "감사 페이지 이미지"
+
+#: includes/templates/template-metabox-thankyoupage.php:109
+msgid ""
+"When enabled, unregistered visitors will be sent a different page instead of "
+"the built in thank you page"
+msgstr ""
+
+#: includes/templates/template-metabox-thankyoupage.php:132
+msgid "Link above Text Color"
+msgstr "상단 링크 텍스트 컬러"
+
+#: includes/templates/template-metabox-thankyoupage.php:137
+msgid "Link below Text Color"
+msgstr "하단 링크 텍스트 컬러"
+
+#: includes/templates/template-metabox-thankyoupage.php:146
+msgid "Border color-1"
+msgstr "테두리 컬러 - 1"
+
+#: includes/templates/template-metabox-thankyoupage.php:152
+msgid "Border color-2"
+msgstr "테두리 컬러 - 2"
+
+#: includes/templates/template-metabox-thankyoupage.php:158
+msgid "Body Text color"
+msgstr "본문 텍스트 컬러"
+
+#: includes/templates/template-metabox-thankyoupage.php:164
+msgid "Body Background color"
+msgstr "본문 배경 컬러"
+
+#: includes/templates/template-metabox-thankyoupage.php:170
+msgid "Header Background color"
+msgstr "상단 배경 컬러"
+
+#: includes/templates/template-metabox-thankyoupage.php:176
+msgid "Header Text color"
+msgstr "상단 텍스트 컬러"
+
+#: includes/templates/template-metabox-thankyoupage.php:182
+msgid "Button color"
+msgstr "버튼 컬러"
+
+#: includes/templates/template-metabox-thankyoupage.php:194
+msgid "Social Sharing"
+msgstr "SNS 공유"
+
+#: includes/templates/template-metabox-thankyoupage.php:197
+#, fuzzy
+#| msgid "Social Sharing"
+msgid "Enable Social Sharing"
+msgstr "SNS 공유"
+
+#: includes/templates/template-metabox-thankyoupage.php:215
+#: wpws-js/translations.php:88
+msgid "Calendar"
+msgstr "캘린더"
+
+#: includes/templates/template-metabox-thankyoupage.php:230
+#: includes/templates/template-metabox-ticket.php:115
+msgid "Text color"
+msgstr "텍스트 컬러"
+
+#: includes/templates/template-metabox-ticket.php:4
+#, php-format
+msgid ""
+"This section is to issue tickets for webinars. Enable WooCommerce "
+"Integration from <a href=\"%s\" target=\"_blank\">WebinarSystem Settings</a> "
+"to use this feature."
+msgstr ""
+"웨비나 티켓을 발행하는 항목 입니다.  WooCommerce 기능을 <a href=“%s” "
+"target=“_blank”>WebinarSystem 설정하기</a>에서 활성화 하시기 바랍니다."
+
+#: includes/templates/template-metabox-ticket.php:19
+msgid "Ticket details"
+msgstr "티켓 개요"
+
+#: includes/templates/template-metabox-ticket.php:23
+msgid "Paid webinar?"
+msgstr "유료 웨비나?"
+
+#: includes/templates/template-metabox-ticket.php:31
+#, fuzzy
+#| msgid "Buying Form Title"
+msgid "Buying Title"
+msgstr "구매 양식 타이틀"
+
+#: includes/templates/template-metabox-ticket.php:38
+msgid "Buying Link"
+msgstr ""
+
+#: includes/templates/template-metabox-ticket.php:45
+#, fuzzy
+#| msgid "Buying Form Description"
+msgid "Buying Description"
+msgstr "구매 양식 개요"
+
+#: includes/templates/template-metabox-ticket.php:52
+msgid "Price"
+msgstr "가격"
+
+#: includes/templates/template-metabox-ticket.php:62
+msgid "Required"
+msgstr "필수"
+
+#: includes/templates/template-metabox-ticket.php:67
+msgid "Ticket Title"
+msgstr "티켓 타이틀"
+
+#: includes/templates/template-metabox-ticket.php:73
+msgid "Ticket Description"
+msgstr "티켓 개요"
+
+#: includes/templates/template-metabox-ticket.php:85
+#, fuzzy
+#| msgid "Thank You Page"
+msgid "Thank you message"
+msgstr "감사인사 페이지"
+
+#: includes/templates/template-metabox-ticket.php:97
+msgid "Style"
+msgstr "스타일"
+
+#: includes/templates/template-options-license.php:22
+msgid "Activate for"
+msgstr "활성화 대상 : "
+
+#: includes/templates/template-options-license.php:26
+#, php-format
+msgid "This domain (%s)"
+msgstr "본 도메인 (%s)"
+
+#: includes/templates/template-options-license.php:31
+msgid "If you have an Agency license, it will be applied for all websites."
+msgstr "만약 Agency 라이센스를 사용하시면, 모든 웹사이트에 반영 됩니다."
+
+#: includes/templates/template-options-license.php:36
+msgid "License Key"
+msgstr "라이센스 키"
+
+#: includes/templates/template-options-license.php:47
+msgid "Flush data (Recheck)"
+msgstr "Flush data (Recheck)"
+
+#: includes/templates/template-options-license.php:51
+msgid "Your copy of WebinarSysteem is Active."
+msgstr "WebinarSysteem 이 활성화 상태입니다."
+
+#: includes/templates/template-options-license.php:53
+msgid ""
+"Your copy of WebinarSysteem is not activated. Plugin will not work as "
+"expected. Please activate your copy."
+msgstr ""
+"WebinarSysteem 이 비활성화 상태입니다. 플러그인이 정상적으로 동작하지 않을수 "
+"있으니 활성화 하시기 바랍니다."
+
+#: includes/templates/template-options-license.php:60
+msgid "Activated sites"
+msgstr "활성화된 사이트"
+
+#: includes/templates/template-options-license.php:84
+msgid "Deactivate license"
+msgstr "라이센스 비활성화하기"
+
+#: includes/templates/template-video-source.php:14
+msgid "Enable Sound"
+msgstr "오디오 활성화"
+
+#: includes/tmp-closed.php:49
+msgid "Unfortunately, this webinar is closed."
+msgstr "본 웨비나는 이미 종료 되었습니다."
+
+#: includes/tmp-closed.php:52
+msgid "Click here"
+msgstr "여기를 클릭"
+
+#: includes/tmp-closed.php:52
+msgid "to go to our homepage."
+msgstr "하시면 웹사이트로 이동합니다."
+
+#: includes/tmp-countdown.php:90
+msgid "will begin in"
+msgstr "시작 일정"
+
+#: includes/tmp-countdown.php:91
+msgid "will begin shortly"
+msgstr "잠시 후 시작"
+
+#: includes/tmp-countdown.php:96
+msgid "will start"
+msgstr "시작합니다"
+
+#: includes/tmp-countdown.php:97
+msgid "on"
+msgstr " "
+
+#: includes/tmp-countdown.php:98
+msgid "at"
+msgstr " "
+
+#: includes/tmp-countdown.php:104
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "잠시 후에 재접속 해주시기 바랍니다. 양해 부탁드립니다."
+
+#: includes/tmp-countdown.php:115
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr ""
+"잠시만 기다려 주세요, 방금 방송이 시작 되었습니다. 본 페이지는 자동으로 새로"
+"고침 됩니다."
+
+#: includes/tmp-countdown.php:125 includes/tmp-live.php:469
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields "
+"are filled correctly"
+msgstr ""
+"질문 추가 양식에 문제가 발생 했습니다. 모든 필드가 제대로 입력 되었는지 확인"
+"해 주세요."
+
+#: includes/tmp-countdown.php:126 includes/tmp-live.php:470
+msgid "Please wait.."
+msgstr "잠시만 기다려 주세요."
+
+#: includes/tmp-live.php:327 includes/tmp-registration.php:213
+#: includes/tmp-thank-you.php:213
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "개설자"
+msgstr[1] ""
+
+#: includes/tmp-live.php:339
+msgid "Information"
+msgstr "정보"
+
+#: includes/tmp-live.php:363
+msgid "Chat box"
+msgstr "Chat Box"
+
+#: includes/tmp-live.php:372
+msgid "Ask your question!"
+msgstr "질문을 남기세요!"
+
+#: includes/tmp-live.php:377
+msgid "Your name"
+msgstr "이름"
+
+#: includes/tmp-live.php:383
+msgid "Your email"
+msgstr "이메일"
+
+#: includes/tmp-live.php:389
+msgid "Type your question here.."
+msgstr "여기에 질문을 입력하세요."
+
+#: includes/tmp-live.php:393
+msgid "Ask Question!"
+msgstr "질문을 남기세요!"
+
+#: includes/tmp-live.php:397
+msgid "My Questions"
+msgstr "내 질문들"
+
+#: includes/tmp-live.php:408
+msgid "Live Chat"
+msgstr "실시간 채팅"
+
+#: includes/tmp-live.php:411
+msgid "Private"
+msgstr "비공개"
+
+#: includes/tmp-live.php:412
+msgid "Public"
+msgstr "공개"
+
+#: includes/tmp-live.php:436
+msgid "Send"
+msgstr ""
+
+#: includes/tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "No script kiddies please!"
+
+#: includes/tmp-registration.php:52 wpws-js/translations.php:38
+msgid "Register"
+msgstr "등록하기"
+
+#: includes/tmp-registration.php:53 includes/tmp-registration.php:69
+#: wpws-js/translations.php:39
+msgid "Login"
+msgstr "로그인"
+
+#: includes/tmp-registration.php:55
+msgid "Free Sign Up:"
+msgstr "무료 가입"
+
+#: includes/tmp-registration.php:90
+msgid "Buy a webinar ticket"
+msgstr "웨비나 티켓을 구매하세요."
+
+#: includes/tmp-registration.php:350
+msgid ""
+"Unfortunately, you can't use a general info@.. address. Please use a "
+"personal e-mail address"
+msgstr ""
+"죄송하지만, 일반적인 info@.. 와 같은 이메일 주소는 사용할 수 없습니다. 다른 "
+"이메일 주소를 사용해 주세요."
+
+#: includes/tmp-registration.php:388
+msgid "Of course we will handle your data safely."
+msgstr "입력하신 데이타는 모두 안전하게 보관 됩니다."
+
+#: includes/tmp-thank-you.php:182
+msgid "Here is the webinar URL..."
+msgstr "웨비나 URL은 다음과 같습니다…"
+
+#: includes/tmp-thank-you.php:190
+msgid "Save and bookmark this URL so you can get access to the webinar..."
+msgstr "웨비나에 접속하기 위해서는 본 URL 을 저장하고 북마크 하시기 바랍니다."
+
+#: includes/tmp-thank-you.php:200
+msgid "Your Webinar Ticket"
+msgstr "웨비나 티켓 정보"
+
+#: includes/tmp-thank-you.php:201
+msgid "The Webinar Event Information..."
+msgstr "웨비나 이벤트 정보…"
+
+#: includes/tmp-thank-you.php:231
+msgid "Join Webinar in Progress..."
+msgstr "웨비나 참여하기"
+
+#: includes/tmp-thank-you.php:239
+msgid "View Webinar Replay"
+msgstr "웨비나 다시보기"
+
+#: includes/tmp-thank-you.php:269
+msgid "Add To Your Calendar"
+msgstr "캘린더에 추가하기"
+
+#: includes/tmp-thank-you.php:270
+msgid "Remind Yourself Of The Event"
+msgstr "이벤트 알람 설정하기"
+
+#: wpws-js/translations.php:3
+msgid "Clear"
+msgstr ""
+
+#: wpws-js/translations.php:4
+msgid "Show this message every time"
+msgstr ""
+
+#: wpws-js/translations.php:5
+msgid "Yes!"
+msgstr ""
+
+#: wpws-js/translations.php:6
+msgid "No, thanks"
+msgstr ""
+
+#: wpws-js/translations.php:7
+#, fuzzy
+#| msgid "Reset Default Template"
+msgid "Choose a template"
+msgstr "기본 템플릿 초기화"
+
+#: wpws-js/translations.php:8
+#, fuzzy
+#| msgid "Create Webinars"
+msgid "Create Widget"
+msgstr "웨비나 생성"
+
+#: wpws-js/translations.php:9
+msgid "Cancel"
+msgstr ""
+
+#: wpws-js/translations.php:10
+msgid "Width"
+msgstr ""
+
+#: wpws-js/translations.php:11
+#, fuzzy
+#| msgid "Border Radius"
+msgid "Radius"
+msgstr "테두리 반경"
+
+#: wpws-js/translations.php:12
+#, fuzzy
+#| msgid "Text Color"
+msgid "Color"
+msgstr "텍스트 컬러"
+
+#: wpws-js/translations.php:13
+msgid "Box Shadow"
+msgstr ""
+
+#: wpws-js/translations.php:14
+msgid "Top"
+msgstr ""
+
+#: wpws-js/translations.php:15
+msgid "Bottom"
+msgstr ""
+
+#: wpws-js/translations.php:16
+msgid "Left"
+msgstr ""
+
+#: wpws-js/translations.php:17
+#, fuzzy
+#| msgid "Right Now"
+msgid "Right"
+msgstr "지금 바로"
+
+#: wpws-js/translations.php:18
+msgid "Size"
+msgstr ""
+
+#: wpws-js/translations.php:19
+msgid "Line Height"
+msgstr ""
+
+#: wpws-js/translations.php:20
+msgid "Weight"
+msgstr ""
+
+#: wpws-js/translations.php:21
+msgid "Normal"
+msgstr ""
+
+#: wpws-js/translations.php:22
+msgid "Bold"
+msgstr ""
+
+#: wpws-js/translations.php:23
+msgid "Bolder"
+msgstr ""
+
+#: wpws-js/translations.php:24
+msgid "Lighter"
+msgstr ""
+
+#: wpws-js/translations.php:25
+msgid "Transform"
+msgstr ""
+
+#: wpws-js/translations.php:26
+msgid "None"
+msgstr ""
+
+#: wpws-js/translations.php:27
+msgid "Capitalize"
+msgstr ""
+
+#: wpws-js/translations.php:28
+msgid "Uppercase"
+msgstr ""
+
+#: wpws-js/translations.php:29
+msgid "Lowercase"
+msgstr ""
+
+#: wpws-js/translations.php:30
+#, fuzzy
+#| msgid "Description"
+msgid "Decoration"
+msgstr "개요"
+
+#: wpws-js/translations.php:31
+msgid "Line Through"
+msgstr ""
+
+#: wpws-js/translations.php:32
+#, fuzzy
+#| msgid "Sender name"
+msgid "Underline"
+msgstr "발신자 이름"
+
+#: wpws-js/translations.php:33
+msgid "Underline Overline"
+msgstr ""
+
+#: wpws-js/translations.php:34
+msgid "Alignment"
+msgstr ""
+
+#: wpws-js/translations.php:35
+#, fuzzy
+#| msgid "Message Center"
+msgid "Center"
+msgstr "메신저 센터"
+
+#: wpws-js/translations.php:36
+msgid "Display On"
+msgstr ""
+
+#: wpws-js/translations.php:37
+msgid "All"
+msgstr ""
+
+#: wpws-js/translations.php:41
+#, fuzzy
+#| msgid "Please enter your name."
+msgid "Please give this widget a name"
+msgstr "이름을 입력하세요."
+
+#: wpws-js/translations.php:43
+msgid "Please select a webinar to use with this widget"
+msgstr ""
+
+#: wpws-js/translations.php:44
+#, fuzzy
+#| msgid "Registration Confirmation"
+msgid "Custom Confirmation Page"
+msgstr "등록 확인"
+
+#: wpws-js/translations.php:45
+msgid "Send users to a custom page after successfully registering"
+msgstr ""
+
+#: wpws-js/translations.php:46
+#, fuzzy
+#| msgid "Server Locale"
+msgid "Date Locale"
+msgstr "서버 위치"
+
+#: wpws-js/translations.php:47
+msgid "Select the country/locale to use when showing dates"
+msgstr ""
+
+#: wpws-js/translations.php:48
+#, fuzzy
+#| msgid "Settings"
+msgid "Layout Settings"
+msgstr "설정"
+
+#: wpws-js/translations.php:49
+#, fuzzy
+#| msgid "Background color"
+msgid "Background"
+msgstr "배경 컬러"
+
+#: wpws-js/translations.php:50
+#, fuzzy
+#| msgid "Background Color of Button"
+msgid "Background color of the widget"
+msgstr "버튼의 배경색"
+
+#: wpws-js/translations.php:51
+msgid "Max Width"
+msgstr ""
+
+#: wpws-js/translations.php:52
+msgid "The maximum width of the widget. Set to 0 for 100%"
+msgstr ""
+
+#: wpws-js/translations.php:53
+msgid "Padding"
+msgstr ""
+
+#: wpws-js/translations.php:54
+msgid "Top, bottom, left, right in pixels"
+msgstr ""
+
+#: wpws-js/translations.php:55
+#, fuzzy
+#| msgid "Border color"
+msgid "Border"
+msgstr "테두리 컬러"
+
+#: wpws-js/translations.php:56
+msgid "Border for the entire widget"
+msgstr ""
+
+#: wpws-js/translations.php:57
+#, fuzzy
+#| msgid "Registrations"
+msgid "Registration Error"
+msgstr "등록현황"
+
+#: wpws-js/translations.php:58
+msgid "Shown if registration fails due to an error"
+msgstr ""
+
+#: wpws-js/translations.php:59
+#, fuzzy
+#| msgid "Hide Registration Form"
+msgid "Provide a registration error message"
+msgstr "등록하기 폼 숨기기"
+
+#: wpws-js/translations.php:60
+#, fuzzy
+#| msgid "Login Title"
+msgid "Login Failed"
+msgstr "로그인 타이틀"
+
+#: wpws-js/translations.php:61
+msgid "Shown if a login attempt fails"
+msgstr ""
+
+#: wpws-js/translations.php:62
+msgid "Provide a login failed message"
+msgstr ""
+
+#: wpws-js/translations.php:63
+msgid "Display as Popup"
+msgstr ""
+
+#: wpws-js/translations.php:64
+msgid "Trigger On Click"
+msgstr ""
+
+#: wpws-js/translations.php:65
+msgid ""
+"Display this widget as a modal popup when the visitor clicks a link or a "
+"button"
+msgstr ""
+
+#: wpws-js/translations.php:66
+#, fuzzy
+#| msgid "Select"
+msgid "CSS Selector"
+msgstr "선택하기"
+
+#: wpws-js/translations.php:67
+msgid ""
+"A CSS selector string for a trigger element of your choosing. This widget "
+"will be triggered by clicking the element. For example: a.open_webinar_widget"
+msgstr ""
+
+#: wpws-js/translations.php:70
+#, fuzzy
+#| msgid "Button Text"
+msgid "Button Font"
+msgstr "버튼 텍스트"
+
+#: wpws-js/translations.php:71
+msgid "Height"
+msgstr ""
+
+#: wpws-js/translations.php:72
+#, fuzzy
+#| msgid "Action Box"
+msgid "Action Button"
+msgstr "액션 박스"
+
+#: wpws-js/translations.php:73
+#, fuzzy
+#| msgid "Activate for"
+msgid "Active Font"
+msgstr "활성화 대상 : "
+
+#: wpws-js/translations.php:74
+msgid "Session Font"
+msgstr ""
+
+#: wpws-js/translations.php:75
+msgid "Sessions to Show"
+msgstr ""
+
+#: wpws-js/translations.php:76
+#, fuzzy
+#| msgid "Server Timezone"
+msgid "Visitor Timezone"
+msgstr "서버 시간대"
+
+#: wpws-js/translations.php:77
+msgid "Spacing"
+msgstr ""
+
+#: wpws-js/translations.php:78
+#, fuzzy
+#| msgid "Private Questions"
+msgid "Alternate Sessions"
+msgstr "비공개 질문"
+
+#: wpws-js/translations.php:79
+#, fuzzy
+#| msgid "Calendar"
+msgid "Calendar Block"
+msgstr "캘린더"
+
+#: wpws-js/translations.php:80
+#, fuzzy
+#| msgid "Login Text"
+msgid "Month Text"
+msgstr "로그인 텍스트"
+
+#: wpws-js/translations.php:81
+#, fuzzy
+#| msgid "Footer Text"
+msgid "Date Text"
+msgstr "Footer 텍스트"
+
+#: wpws-js/translations.php:82
+#, fuzzy
+#| msgid "Button Background Color"
+msgid "Month Background"
+msgstr "버튼 배경 컬러"
+
+#: wpws-js/translations.php:83
+#, fuzzy
+#| msgid "Page Background color"
+msgid "Date Background"
+msgstr "페이지 배경 컬러"
+
+#: wpws-js/translations.php:84
+msgid "Date and Time"
+msgstr ""
+
+#: wpws-js/translations.php:85
+msgid "Day of week"
+msgstr ""
+
+#: wpws-js/translations.php:86
+msgid "Month and day"
+msgstr ""
+
+#: wpws-js/translations.php:89
+msgid "Block Spacing"
+msgstr ""
+
+#: wpws-js/translations.php:90
+#, fuzzy
+#| msgid "Register Text"
+msgid "Unit Text"
+msgstr "등록하기 텍스트"
+
+#: wpws-js/translations.php:91
+#, fuzzy
+#| msgid "Description Text color"
+msgid "Description Text"
+msgstr "개요영역 텍스트 컬러"
+
+#: wpws-js/translations.php:92
+msgid "Text"
+msgstr ""
+
+#: wpws-js/translations.php:93
+msgid "Days"
+msgstr ""
+
+#: wpws-js/translations.php:94
+msgid "Hours"
+msgstr ""
+
+#: wpws-js/translations.php:95
+msgid "Minutes"
+msgstr ""
+
+#: wpws-js/translations.php:96
+msgid "Seconds"
+msgstr ""
+
+#: wpws-js/translations.php:97
+#, fuzzy
+#| msgid "Countdown Page"
+msgid "Countdown Timer"
+msgstr "카운트다운 페이지"
+
+#: wpws-js/translations.php:98
+#, fuzzy
+#| msgid "Text Color"
+msgid "Text Boxes"
+msgstr "텍스트 컬러"
+
+#: wpws-js/translations.php:99
+msgid "Name Placeholder"
+msgstr ""
+
+#: wpws-js/translations.php:100
+msgid "Email Placeholder"
+msgstr ""
+
+#: wpws-js/translations.php:101
+msgid "Font Size"
+msgstr ""
+
+#: wpws-js/translations.php:104
+msgid "Check Boxes"
+msgstr ""
+
+#: wpws-js/translations.php:105
+msgid "Font"
+msgstr ""
+
+#: wpws-js/translations.php:106
+msgid "GDPR"
+msgstr ""
+
+#: wpws-js/translations.php:107
+#, fuzzy
+#| msgid "GDPR Opt-in Text"
+msgid "Opt-in Text"
+msgstr "GDPR 텍스트"
+
+#: wpws-js/translations.php:108
+msgid "Input Form"
+msgstr ""
+
+#: wpws-js/translations.php:109
+msgid "Login / Register Link"
+msgstr ""
+
+#: wpws-js/translations.php:110
+msgid "Your widget shortcode"
+msgstr ""
+
+#: wpws-js/translations.php:111
+#, fuzzy
+#| msgid ""
+#| "Please copy and paste this information in your ticket when contacting "
+#| "support:"
+msgid "Copy and paste this shortcode into your pages and posts"
+msgstr ""
+"본 정보를 기술지원팀에 보낼때 복사 후 붙여 넣기 하시기 바랍니다.  관련정보:"
+
+#: wpws-js/translations.php:112
+msgid "Copied to clipboard"
+msgstr ""
+
+#: wpws-js/translations.php:113
+#, fuzzy
+#| msgid "Copy for Support"
+msgid "Copy to Clipboard"
+msgstr "Copy for Support"
+
+#: wpws-js/translations.php:114
+#, fuzzy
+#| msgid "Closed"
+msgid "Close"
+msgstr "종료"
+
+#: wpws-js/translations.php:115
+msgid "English (United States)"
+msgstr ""
+
+#: wpws-js/translations.php:116
+msgid "English (United Kingdom)"
+msgstr ""
+
+#: wpws-js/translations.php:117
+msgid "English (Australia)"
+msgstr ""
+
+#: wpws-js/translations.php:118
+msgid "Russian"
+msgstr ""
+
+#: wpws-js/translations.php:119
+msgid "Danish"
+msgstr ""
+
+#: wpws-js/translations.php:120
+msgid "German"
+msgstr ""
+
+#: wpws-js/translations.php:121
+msgid "Greek"
+msgstr ""
+
+#: wpws-js/translations.php:122
+msgid "Spanish"
+msgstr ""
+
+#: wpws-js/translations.php:123
+msgid "Estonian"
+msgstr ""
+
+#: wpws-js/translations.php:124
+msgid "Farsi"
+msgstr ""
+
+#: wpws-js/translations.php:125
+msgid "Finnish"
+msgstr ""
+
+#: wpws-js/translations.php:126
+msgid "French"
+msgstr ""
+
+#: wpws-js/translations.php:127
+msgid "Hebrew"
+msgstr ""
+
+#: wpws-js/translations.php:128
+msgid "Italian"
+msgstr ""
+
+#: wpws-js/translations.php:129
+msgid "Japanese"
+msgstr ""
+
+#: wpws-js/translations.php:130
+msgid "Norwegian"
+msgstr ""
+
+#: wpws-js/translations.php:131
+msgid "Dutch"
+msgstr ""
+
+#: wpws-js/translations.php:132
+msgid "Polish"
+msgstr ""
+
+#: wpws-js/translations.php:133
+msgid "Portuguese"
+msgstr ""
+
+#: wpws-js/translations.php:134
+msgid "Romanian"
+msgstr ""
+
+#: wpws-js/translations.php:135
+msgid "Serbian"
+msgstr ""
+
+#: wpws-js/translations.php:136
+msgid "Swedish"
+msgstr ""
+
+#: wpws-js/translations.php:137
+msgid "Ukrainian"
+msgstr ""
+
+#: wpws-js/translations.php:138
+msgid "Chinese"
+msgstr ""
+
+#: wpws-js/translations.php:139
+#, fuzzy
+#| msgid "Button Background Color"
+msgid "Use Custom Background"
+msgstr "버튼 배경 컬러"
+
+#: wpws-js/translations.php:140
+msgid "Block"
+msgstr ""
+
+#: wpws-js/translations.php:141
+msgid "Move Block Up"
+msgstr ""
+
+#: wpws-js/translations.php:142
+msgid "Move Block Down"
+msgstr ""
+
+#: wpws-js/translations.php:143
+msgid "Insert Block Above"
+msgstr ""
+
+#: wpws-js/translations.php:144
+#, fuzzy
+#| msgid "Duplicate"
+msgid "Duplicate Block"
+msgstr "복제"
+
+#: wpws-js/translations.php:145
+msgid "Delete Block"
+msgstr ""
+
+#: wpws-js/translations.php:146
+msgid "Save changes"
+msgstr ""
+
+#: wpws-js/translations.php:147
+msgid "Add Block"
+msgstr ""
+
+#: wpws-js/translations.php:148
+msgid "Dump to log as JSON"
+msgstr ""
+
+#: wpws-js/translations.php:149
+#, fuzzy
+#| msgid "Webinar Settings"
+msgid "Editor Settings"
+msgstr "웨비나 설정"
+
+#: wpws-js/translations.php:150
+msgid "Exit"
+msgstr ""
+
+#: wpws-js/translations.php:151
+msgid "Help and tutorials"
+msgstr ""
+
+#: wpws-js/translations.php:152
+#, fuzzy
+#| msgid "Are you sure you want to clear selected questions?"
+msgid "Are you sure you want to delete this block?"
+msgstr "정말 선택하신 질문들을 삭제하시겠습니까?"
+
+#: wpws-js/translations.php:154
+msgid "Successfully Saved!"
+msgstr ""
+
+#: wpws-js/translations.php:155
+msgid "An error ocurred while trying to save"
+msgstr ""
+
+#: wpws-js/translations.php:156
+msgid "An error ocurred while loading"
+msgstr ""
+
+#: wpws-js/translations.php:157
+#, fuzzy
+#| msgid "Manage Chatlogs"
+msgid "Unsaved Changes"
+msgstr "채팅이력 관리"
+
+#: wpws-js/translations.php:158
+msgid "Would you like to save your changes before exiting?"
+msgstr ""
+
+#: wpws-js/translations.php:159
+msgid "Yes"
+msgstr ""
+
+#: wpws-js/translations.php:160
+msgid "No"
+msgstr ""
+
+#: wpws-js/translations.php:161
+#, fuzzy
+#| msgid "Add a Webinar to send a preview email."
+msgid "Select a webinar to see the preview"
+msgstr "미리보기 이메일을 보낼 웨비나를 추가"
+
+#: wpws-js/translations.php:162
+#, fuzzy
+#| msgid "Edit Webinar"
+msgid "Edit Widget"
+msgstr "웨비나 수정"
+
+#: wpws-js/translations.php:163
+#, fuzzy
+#| msgid "Available Shortcodes:"
+msgid "View Shortcode"
+msgstr "유효한 Shortcodes:"
+
+#: wpws-js/translations.php:164
+#, fuzzy
+#| msgid "Create Now"
+msgid "Create variation"
+msgstr "바로 생성"
+
+#: wpws-js/translations.php:165
+msgid "Delete Widget"
+msgstr ""
+
+#: wpws-js/translations.php:166
+#, fuzzy
+#| msgid "Custom Registration Fields"
+msgid "Welcome to registration widgets!"
+msgstr "커스텀 등록 필드"
+
+#: wpws-js/translations.php:167
+msgid "Would you like to see our quick start guide?"
+msgstr ""
+
+#: wpws-js/translations.php:169
+msgid "New Widget"
+msgstr ""
+
+#: wpws-js/translations.php:170
+msgid "You don't have any widgets yet"
+msgstr ""
+
+#: wpws-js/translations.php:171
+#, fuzzy
+#| msgid "Hide Registration Form"
+msgid "Delete registration form"
+msgstr "등록하기 폼 숨기기"
+
+#: wpws-js/translations.php:172
+#, fuzzy
+#| msgid "Are you sure you want to clear selected questions?"
+msgid "Are you sure you want to delete this widget?"
+msgstr "정말 선택하신 질문들을 삭제하시겠습니까?"
+
+#: wpws-js/translations.php:173
+msgid "OK"
+msgstr ""
+
+#: wpws-js/translations.php:174
+msgid "Unable to delete this form"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#, fuzzy
+#| msgid "Webinar Product"
+msgid "WebinarPress Pro"
+msgstr "Webinar Product"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+#, fuzzy
+#| msgid "https://webinarpress.com"
+msgid "https://webinarpress.com"
+msgstr "https://webinarpress.com"
+
+#. Description of the plugin/theme
+#, fuzzy
+#| msgid ""
+#| "WP WebinarSystem allows you to run Live and Automated webinars within "
+#| "your Wordpress website, and customize everything around it."
+msgid ""
+"(Formerly WP WebinarSystem) - Host live and automated webinars within your "
+"WordPress website, and customize everything."
+msgstr ""
+"WP WebinarSystem은 워드프레스 기반의 웹사이트에서 라이브 웨비나 및 자동화된 "
+"웨비나 서비스를 제공하며 다양한 커스터마이징 기능을 제공합니다."
+
+#~ msgid "WP WebinarSystem Chatlogs"
+#~ msgstr "WP WebinarSystem 채팅이력"
+
+#~ msgid "Select webinar to view chatlogs for active webinars"
+#~ msgstr "현재 진행 중인 웨비나 중 채팅이력을 보고 싶은 웨비나를 선택하세요"
+
+#~ msgid "Your webinar ticket"
+#~ msgstr "웨비나 티켓"
+
+#~ msgid "WP WebinarSystem"
+#~ msgstr "WP WebinarSystem"
+
+#~ msgid "WebinarSystem"
+#~ msgstr "WebinarSystem"
+
+#~ msgid "WP WebinarSystem Attendees"
+#~ msgstr "WP WebinarSystem 참석자들"
+
+#~ msgid "WP WebinarSystem Options"
+#~ msgstr "WP WebinarSystem 옵션"
+
+#~ msgid "WP WebinarSystem Pro"
+#~ msgstr "WP WebinarSystem Pro"

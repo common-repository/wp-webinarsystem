@@ -1,0 +1,2392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebinarSysteem v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-08 09:18+0530\n"
+"PO-Revision-Date: 2017-02-08 09:18+0530\n"
+"Last-Translator: Thambaru Wijesekara <thambaru@gmail.com>\n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ../includes\n"
+"X-Loco-Target-Locale: el_GR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-webinarsysteem-chatlogs.php:26
+msgid "WP WebinarSystem Chatlogs"
+msgstr ""
+
+#: class-webinarsysteem-chatlogs.php:27
+msgid "Select webinar to view chatlogs for active webinars"
+msgstr ""
+
+#: class-webinarsysteem-chatlogs.php:84
+msgid "Chatlog is empty for this webinar"
+msgstr ""
+
+#: class-webinarsysteem-chatlogs.php:90
+msgid "Clear all the chat messages for this webinar?"
+msgstr ""
+
+#: class-webinarsysteem-chatlogs.php:91
+msgid "Are you sure to delete selected chat messages?"
+msgstr ""
+
+#: class-webinarsysteem-mailinglist-integrations.php:75
+#, php-format
+msgid ""
+"Invalid Enormail API key. To fix, please visit <a href=\"%s\">WebinarSystem "
+"Settings</a>."
+msgstr ""
+
+#: class-webinarsysteem-mailinglist-integrations.php:144
+#, php-format
+msgid "Invalid %s API KEY and URL."
+msgstr ""
+
+#: class-webinarsysteem-mailinglist-integrations.php:144
+#, php-format
+msgid "Please visit <a href=\"%s\">WebinarSystem Settings</a> to fix."
+msgstr ""
+
+#: class-webinarsysteem-mailinglist-integrations.php:154
+msgid "Please add both API KEY and URL"
+msgstr ""
+
+#: class-webinarsysteem-mailinglist-integrations.php:160
+msgid "Invalid API credentials."
+msgstr ""
+
+#: class-webinarsysteem-mailinglist-integrations.php:209
+msgid "Invalid api key!"
+msgstr ""
+
+#: class-webinarsysteem-mailinglist-integrations.php:226
+#, php-format
+msgid ""
+"Invalid MailChimp API key. To fix, please visit <a href=\"%s\">WebinarSystem "
+"Settings</a>."
+msgstr ""
+
+#: class-webinarsysteem-mailinglist-integrations.php:279
+#, php-format
+msgid ""
+"Now you completed the aWeber authentication. For changes Go to <a href=\"%s"
+"\">WebinarSysteem Settings</a>."
+msgstr ""
+
+#: class-webinarsysteem-mailinglist-integrations.php:293
+#, php-format
+msgid ""
+"Unexpectedly aWeber has been disconnected from the server. You are no longer "
+"subscribed to aWeber mailinglist. For Changes go to <a href=\"%s"
+"\">WebinarSysteem Settings</a>."
+msgstr ""
+
+#: class-webinarsysteem-mailinglist-integrations.php:350
+#, php-format
+msgid ""
+"Invalid Getresponse API key. To fix, please visit <a href=\"%s"
+"\">WebinarSystem Settings</a>."
+msgstr ""
+
+#: class-webinarsysteem-promotional-notices.php:36
+msgid "Yes, download Pro!"
+msgstr ""
+
+#: class-webinarsysteem-promotional-notices.php:47
+#, php-format
+msgid ""
+"If you like <strong>WP WebinarSystem</strong> please leave us a %s rating. A "
+"huge thank you in advance!"
+msgstr ""
+
+#: class-webinarsysteem-questions.php:26
+msgid "WP WebinarSystem Questions"
+msgstr "WP WebinarSystem ερωτήσεις"
+
+#: class-webinarsysteem-questions.php:27
+msgid "Select webinar to view questions for active webinars"
+msgstr ""
+"Eπιλέξτε το ηλεκτρονικό σεμινάριο για να δείτε τις ερωτήσεις για το ενεργό "
+"online σεμινάριο"
+
+#: class-webinarsysteem-questions.php:56 class-webinarsysteemattendees.php:77
+#: class-webinarsysteemattendees.php:119 class-webinarsysteemoptions.php:1040
+msgid "Name"
+msgstr "Όνομα"
+
+#: class-webinarsysteem-questions.php:56
+msgid "Question"
+msgstr "Ερώτηση"
+
+#: class-webinarsysteem-questions.php:56 tmp-post.php:191
+#: tmp-registration.php:160
+msgid "Time"
+msgstr "Ώρα"
+
+#: class-webinarsysteem-questions.php:110
+msgid "Are you sure you want to clear selected questions?"
+msgstr ""
+
+#: class-webinarsysteem-shortcodes.php:25
+#: class-webinarsysteem-shortcodes.php:183
+msgid "Error: "
+msgstr ""
+
+#: class-webinarsysteem-shortcodes.php:25
+#: class-webinarsysteem-shortcodes.php:183
+msgid "Invalid webinar id."
+msgstr ""
+
+#: class-webinarsysteem-shortcodes.php:40
+#, php-format
+msgid ""
+"You need to buy a ticket to register for this webinar. <a href=\"%s\">Click "
+"here</a> to buy a ticket."
+msgstr ""
+
+#: class-webinarsysteem-shortcodes.php:47
+#, php-format
+msgid "You've successfully registered for %s"
+msgstr ""
+
+#: class-webinarsysteem-shortcodes.php:55
+#, fuzzy, php-format
+msgid "You're already registered for %s"
+msgstr "Είστε καταχωρημένος/η στο δικτυακό σεμινάριο!"
+
+#: class-webinarsysteem-shortcodes.php:66 tmp-registration.php:291
+#, fuzzy
+msgid "Registration is closed for this webinar."
+msgstr "Είστε καταχωρημένος/η στο δικτυακό σεμινάριο!"
+
+#: class-webinarsysteem-shortcodes.php:81 tmp-registration.php:249
+msgid "Your Name"
+msgstr "Το όνομα σου"
+
+#: class-webinarsysteem-shortcodes.php:83 tmp-registration.php:251
+#, fuzzy
+msgid "Please enter your name."
+msgstr "Παρακαλώ εισάγετε το email σας."
+
+#: class-webinarsysteem-shortcodes.php:85
+#: class-webinarsysteem-shortcodes.php:197 tmp-registration.php:253
+#: tmp-registration.php:279
+msgid "Your Email Address"
+msgstr "Η ηλεκτρονική σου διεύθυνση"
+
+#: class-webinarsysteem-shortcodes.php:87
+#: class-webinarsysteem-shortcodes.php:199 tmp-registration.php:255
+#: tmp-registration.php:281
+msgid "Please enter your email."
+msgstr "Παρακαλώ εισάγετε το email σας."
+
+#: class-webinarsysteem-shortcodes.php:96
+#: templates/template-metabox-generalpage.php:224
+#: templates/template-recurring-days-times-selects-boxes.php:8
+msgid "Right Now"
+msgstr ""
+
+#: class-webinarsysteem-shortcodes.php:116
+#: templates/template-recurring-days-times-selects-boxes.php:61
+msgid "Select a day to watch."
+msgstr ""
+
+#: class-webinarsysteem-shortcodes.php:121
+#: templates/template-recurring-days-times-selects-boxes.php:71
+msgid "Select a time"
+msgstr ""
+
+#: class-webinarsysteem-shortcodes.php:144
+#: templates/template-recurring-days-times-selects-boxes.php:98
+msgid "Select a time to watch."
+msgstr ""
+
+#: class-webinarsysteem-shortcodes.php:167 tmp-registration.php:273
+msgid "This email is not registered."
+msgstr ""
+
+#: class-webinarsysteem-shortcodes.php:202
+#, fuzzy
+msgid "Please register before login."
+msgstr "Παρακαλώ εισάγετε το email σας."
+
+#: class-webinarsysteem-woocommerce-integration.php:48
+#: templates/template-metabox-ticket.php:6
+#, php-format
+msgid ""
+"Please install/activate WooCommerce first to integrate with WebinarSystem. "
+"You can find WooCommerce <a href=\"%s\" class=\"thickbox\" aria-label="
+"\"Download WooCommerce for WebinarSystem\" data-title=\"WooCommerce\">here</"
+"a>."
+msgstr ""
+
+#: class-webinarsysteem-woocommerce-integration.php:200
+msgid "Your webinar ticket"
+msgstr ""
+
+#: class-webinarsysteem-woocommerce-integration.php:201
+msgid ""
+"You will receive your webinar ticket as soon as the payment for your order "
+"completes."
+msgstr ""
+
+#: class-webinarsysteem-woocommerce-integration.php:219
+msgid "My Webinar Tickets"
+msgstr ""
+
+#: class-webinarsysteem.php:371 class-webinarsysteem.php:625
+#: class-webinarsysteem.php:1125 templates/template-metabox-generalpage.php:4
+msgid "Automated"
+msgstr ""
+
+#: class-webinarsysteem.php:372 templates/template-metabox-generalpage.php:4
+msgid "Countdown"
+msgstr ""
+
+#: class-webinarsysteem.php:503 class-webinarsysteem.php:524
+msgid "WP WebinarSystem"
+msgstr "WP WebinarSystem"
+
+#: class-webinarsysteem.php:503 class-webinarsysteem.php:524
+msgid "WebinarSystem"
+msgstr "WebinarSystem"
+
+#: class-webinarsysteem.php:504 class-webinarsysteem.php:652
+msgid "Webinars"
+msgstr "Ηλεκτρονικά σεμινάρια"
+
+#: class-webinarsysteem.php:506
+msgid "New webinar"
+msgstr "  "
+
+#: class-webinarsysteem.php:507
+msgid "Attendee Lists"
+msgstr "Λίστα συμμετεχόντων"
+
+#: class-webinarsysteem.php:508
+msgid "Private Questions"
+msgstr ""
+
+#: class-webinarsysteem.php:510
+msgid "Chatlogs"
+msgstr ""
+
+#: class-webinarsysteem.php:513 class-webinarsysteem.php:525
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: class-webinarsysteem.php:567 class-webinarsysteem.php:593
+msgid "Questions"
+msgstr "Eρωτήσεις"
+
+#: class-webinarsysteem.php:572
+msgid "Duplicate this Webinar"
+msgstr "Κάντε αντίγραφο αυτού του webinar"
+
+#: class-webinarsysteem.php:572
+msgid "Duplicate"
+msgstr "Αντίγραφο"
+
+#: class-webinarsysteem.php:591
+msgid "Views"
+msgstr "Επισκέψεις"
+
+#: class-webinarsysteem.php:592
+msgid "Registrations"
+msgstr "Εγγραφές"
+
+#: class-webinarsysteem.php:594
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: class-webinarsysteem.php:653 class-webinarsysteem.php:654 tmp-post.php:187
+msgid "Webinar"
+msgstr "Ηλεκτρονικό σεμινάριο"
+
+#: class-webinarsysteem.php:655 class-webinarsysteem.php:656
+msgid "Add New Webinar"
+msgstr "Προσθήκη νέου ηλεκτρονικού σεμιναρίου"
+
+#: class-webinarsysteem.php:657
+msgid "New Webinar"
+msgstr "Νέο ηλεκτρονικό σεμινάριο"
+
+#: class-webinarsysteem.php:658
+msgid "Edit Webinar"
+msgstr "Επεξεργασία ηλεκτρονικού σεμιναρίου"
+
+#: class-webinarsysteem.php:659
+msgid "View Webinar"
+msgstr "Προβολή ηλεκτρονικού σεμιναρίου"
+
+#: class-webinarsysteem.php:869
+msgid "Please save your webinar first before previewing."
+msgstr ""
+
+#: class-webinarsysteem.php:1008
+msgid ""
+"Your license for WebinarSystem is seems to be Invalid. Please contact "
+"support desk!"
+msgstr ""
+
+#: class-webinarsysteem.php:1011
+msgid ""
+"Your WebinarSystem license key has suspended! Please contact the support."
+msgstr ""
+
+#: class-webinarsysteem.php:1014
+msgid ""
+"Your WebinarSystem license key has expired! Please renew it again before "
+"using the plugin."
+msgstr ""
+
+#: class-webinarsysteem.php:1017
+#, php-format
+msgid "Please %senter your license key%s to activate WebinarSystem plugin!"
+msgstr ""
+
+#: class-webinarsysteem.php:1256 class-webinarsysteem.php:1259
+#: class-webinarsysteem.php:1262 class-webinarsysteem.php:1266
+#: templates/template-email-attendee-replay.php:21
+#: templates/template-email-attendee1hr.php:29
+#: templates/template-email-attendee24hr.php:27
+#: templates/template-email-reader.php:28
+#: templates/template-email-reader.php:53
+msgid "Hi"
+msgstr "Γειά"
+
+#: class-webinarsysteem.php:1256 templates/template-email-attendee1hr.php:31
+msgid ""
+"The webinar you signed up for starts in one hour. Below you will find the "
+"link to attend the webinar."
+msgstr ""
+"Το ηλεκτρονικό σεμινάριο που υπογράψατε αρχίζει σε μία ώρα. Παρακάτω θα "
+"βρείτε το δικτυακό σύνδεσμο για να λάβετε μέρος στο webinar."
+
+#: class-webinarsysteem.php:1256 class-webinarsysteem.php:1259
+#: class-webinarsysteem.php:1262 templates/template-email-attendee1hr.php:32
+#: templates/template-email-attendee24hr.php:29
+#: templates/template-email-reader.php:30
+#: templates/template-email-reader.php:55
+msgid "Webinar name:"
+msgstr "Oνομασία τοu ηλεκτρονικόu σεμινάριοu:"
+
+#: class-webinarsysteem.php:1256 class-webinarsysteem.php:1259
+#: class-webinarsysteem.php:1262 templates/template-email-attendee1hr.php:33
+#: templates/template-email-attendee24hr.php:30
+#: templates/template-email-reader.php:31
+#: templates/template-email-reader.php:56
+msgid "Date:"
+msgstr "Ημερομηνία:"
+
+#: class-webinarsysteem.php:1256 class-webinarsysteem.php:1259
+#: class-webinarsysteem.php:1262 templates/template-email-attendee1hr.php:34
+#: templates/template-email-attendee24hr.php:31
+#: templates/template-email-reader.php:32
+#: templates/template-email-reader.php:57
+msgid "Time:"
+msgstr "Ώρα:"
+
+#: class-webinarsysteem.php:1256 class-webinarsysteem.php:1259
+#: class-webinarsysteem.php:1262 templates/template-email-attendee1hr.php:36
+#: templates/template-email-attendee24hr.php:33
+#: templates/template-email-reader.php:34
+#: templates/template-email-reader.php:60
+msgid "See you then!"
+msgstr "Σας περιμένουμε!"
+
+#: class-webinarsysteem.php:1256 class-webinarsysteem.php:1259
+#: class-webinarsysteem.php:1262 class-webinarsysteem.php:1264
+#: class-webinarsysteem.php:1266 templates/template-email-admin-email.php:9
+#: templates/template-email-attendee-replay.php:25
+#: templates/template-email-attendee-wbstarted.php:26
+#: templates/template-email-attendee1hr.php:37
+#: templates/template-email-attendee24hr.php:34
+#: templates/template-email-reader.php:35
+#: templates/template-email-reader.php:61
+msgid "Regards"
+msgstr "Με εκτίμηση"
+
+#: class-webinarsysteem.php:1259 class-webinarsysteem.php:1262
+#: templates/template-email-attendee24hr.php:28
+msgid ""
+"This is a reminder for your upcoming webinar tomorrow. Below you will find "
+"the details of the webinar."
+msgstr ""
+"Αυτό είναι μία υπενθύμιση για το αυριανό webinar. Παρακάτω θα βρείτε τις "
+"λεπτομέρειες αυτού του webinar."
+
+#: class-webinarsysteem.php:1264
+msgid ""
+"We are starting the webinar [receiver-name]! Click on the link below to join "
+"us."
+msgstr ""
+
+#: class-webinarsysteem.php:1264 class-webinarsysteem.php:1266
+#: templates/template-email-attendee-replay.php:24
+#: templates/template-email-attendee-wbstarted.php:25
+msgid "See you later!"
+msgstr "Τα λάμε αργότερα!"
+
+#: class-webinarsysteem.php:1266
+#: templates/template-email-attendee-replay.php:22
+#: templates/template-email-attendee-wbstarted.php:23
+msgid "Make sure to join the webinar via this link:"
+msgstr "Επιβεβαίωστε ότι θα συμμετάσχετε στο webinar μέσω αυτού του συνδέσμου:"
+
+#: class-webinarsysteem.php:1504
+msgid "Host and Description Box"
+msgstr ""
+
+#: class-webinarsysteem.php:1507 class-webinarsysteemmetabox.php:982
+#: templates/template-metabox-livepage.php:179 tmp-live.php:194
+msgid "Question Box"
+msgstr "Πλαίσιο ερωτήσεων"
+
+#: class-webinarsysteem.php:1510
+msgid "Message Center"
+msgstr ""
+
+#: class-webinarsysteem.php:1514
+msgid "Live Chatbox"
+msgstr ""
+
+#: class-webinarsysteem.php:1517 class-webinarsysteemmetabox.php:1159
+#: templates/template-metabox-livepage.php:363
+msgid "Incentive Box"
+msgstr "Πλαισίο κίνητρο  "
+
+#: class-webinarsysteem.php:1520 class-webinarsysteemmetabox.php:1216
+#: templates/template-metabox-livepage.php:420
+#, fuzzy
+msgid "Action Box"
+msgstr "Πλαίσιο ερωτήσεων"
+
+#: class-webinarsysteem.php:1523
+msgid "Clear all Raised Hands"
+msgstr ""
+
+#: class-webinarsysteem.php:1529 templates/template-metabox-livepage.php:457
+#: templates/template-metabox-replaypage.php:96
+msgid "Call to action"
+msgstr ""
+
+#: class-webinarsysteemattendees.php:12
+msgid "WP WebinarSystem Attendees"
+msgstr "WP WebinarSystem συμμετέχοντες"
+
+#: class-webinarsysteemattendees.php:13
+msgid "Select webinar to view attendees for active webinars"
+msgstr ""
+"Επιλέξτε webinar για να δείτε τους συμμετέχοντες στο ζωντανά δικτυακά "
+"σεμινάρια"
+
+#: class-webinarsysteemattendees.php:46 class-webinarsysteemattendees.php:164
+msgid "Please add webinars to listup."
+msgstr "Παρακαλούμε προσθέστε δικτυακά σεμινάρια στην λίστα."
+
+#: class-webinarsysteemattendees.php:78 class-webinarsysteemattendees.php:120
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: class-webinarsysteemattendees.php:79 class-webinarsysteemattendees.php:121
+msgid "Registered On"
+msgstr ""
+
+#: class-webinarsysteemattendees.php:80 class-webinarsysteemattendees.php:122
+msgid "Registered For"
+msgstr ""
+
+#: class-webinarsysteemattendees.php:81 class-webinarsysteemattendees.php:123
+msgid "Attended"
+msgstr ""
+
+#: class-webinarsysteemattendees.php:112
+msgid "No Attendees :("
+msgstr "Κανένας συμμετέχοντας :("
+
+#: class-webinarsysteemattendees.php:140
+msgid "Please enter valid name and email to add new attendee."
+msgstr ""
+
+#: class-webinarsysteemattendees.php:174
+msgid "Send webinar confirmation e-mail to attendee?"
+msgstr ""
+
+#: class-webinarsysteemmessages.php:63 class-webinarsysteemmessages.php:69
+#: class-webinarsysteemoptions.php:99
+msgid "New Registration"
+msgstr "Νέα εγγραφή"
+
+#: class-webinarsysteemmessages.php:77 class-webinarsysteemmessages.php:168
+msgid "Reminder"
+msgstr "Υπενθύμιση"
+
+#: class-webinarsysteemmessages.php:84
+msgid "You are registered for the webinar!"
+msgstr "Είστε καταχωρημένος/η στο δικτυακό σεμινάριο!"
+
+#: class-webinarsysteemmessages.php:99
+#, fuzzy
+msgid "Your webinar link"
+msgstr "Το εισητήριό σας του ηλεκτρονικού σεμιναρίου"
+
+#: class-webinarsysteemmessages.php:119
+msgid "New message"
+msgstr ""
+
+#: class-webinarsysteemmessages.php:126
+#, fuzzy
+msgid "Question from"
+msgstr "Πλαίσιο ερωτήσεων"
+
+#: class-webinarsysteemmessages.php:233
+msgid "We are live in one hour!"
+msgstr "Είμαστε ζωντανά σε μία ώρα!"
+
+#: class-webinarsysteemmessages.php:284
+msgid "We are starting the webinar!"
+msgstr "Ξεκινάμε το ηλεκτρονικό σεμινάριο!"
+
+#: class-webinarsysteemmessages.php:337
+msgid "Webinar Replay Link"
+msgstr "Σύνδεσμος επανάληψης του webinar"
+
+#: class-webinarsysteemmessages.php:438
+msgid "Once a minute"
+msgstr "Περιμένετε λίγο"
+
+#: class-webinarsysteemmetabox.php:22
+msgid "Webinar Settings"
+msgstr "Ρυθμίσεις δικτυακού σεμιναρίου"
+
+#: class-webinarsysteemmetabox.php:26
+msgid "Host Names"
+msgstr "Ονόματα παρουσιαστών"
+
+#: class-webinarsysteemmetabox.php:27
+#, fuzzy
+msgid "Your Webinar URL"
+msgstr "URL ηλεκτρονικού σεμιναρίου"
+
+#: class-webinarsysteemmetabox.php:105 class-webinarsysteemoptions.php:86
+msgid "General Options"
+msgstr "Γενικές επιλογές"
+
+#: class-webinarsysteemmetabox.php:106
+msgid "Registration Page"
+msgstr "Σελίδα εγγραφής"
+
+#: class-webinarsysteemmetabox.php:107
+msgid "Thank You Page"
+msgstr "Ευχαριστούμε πολύ σελίδα"
+
+#: class-webinarsysteemmetabox.php:108
+msgid "Countdown Page"
+msgstr "Σελίδα αντίστροφης μέτρησης"
+
+#: class-webinarsysteemmetabox.php:109
+msgid "Live Page"
+msgstr "Σελίδα απευθείας μετάδοσης"
+
+#: class-webinarsysteemmetabox.php:110
+msgid "Replay Page"
+msgstr "Επανάληψη σελίδας"
+
+#: class-webinarsysteemmetabox.php:111
+#: templates/template-metabox-thankyoupage.php:96
+msgid "Ticket"
+msgstr "Εισητήριο"
+
+#: class-webinarsysteemmetabox.php:112
+msgid "Mailinglist"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:113
+msgid "Access"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:114
+msgid "Import / Export"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:236
+msgid "Default mail provider"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:250
+msgid "Mailchimp list"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:268
+msgid "You've no mailing list(s) on MailChimp."
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:288
+msgid "Mailpoet list"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:290 class-webinarsysteemmetabox.php:317
+#: class-webinarsysteemmetabox.php:344 class-webinarsysteemmetabox.php:403
+msgid "Select a list.."
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:306
+#, fuzzy
+msgid "Enormail list"
+msgstr "Emails"
+
+#: class-webinarsysteemmetabox.php:325
+msgid "You've no mailing list(s) on Enormail."
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:342
+#, fuzzy
+msgid "AWeber List"
+msgstr "Λίστα συμμετεχόντων"
+
+#: class-webinarsysteemmetabox.php:356
+#, fuzzy
+msgid "Prevent info emails"
+msgstr "Παρακαλώ εισάγετε το email σας."
+
+#: class-webinarsysteemmetabox.php:358
+msgid "Prevent users from registering when they use an info email addresses"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:373
+msgid "GetResponse list"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:396
+#, php-format
+msgid "%s list"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:417
+#, php-format
+msgid "You've no mailing list(s) on %s."
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:495
+msgid ""
+"Click Export to download backup of current webinar settings. Upload your "
+"already exported file to Import section to apply settings from other webinar."
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:500
+msgid "Export"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:507
+msgid "Working on it..."
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:509
+msgid "Import"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:899
+msgid "Webinar will be presented by:"
+msgstr "Το δικτυακό σεμινάριο θα παρουσιαστεί από:"
+
+#: class-webinarsysteemmetabox.php:901
+msgid "Separate each by commas"
+msgstr "Διαχωρίστε τα με κόμμα"
+
+#: class-webinarsysteemmetabox.php:916
+#: templates/template-metabox-livepage.php:108
+msgid "Host & Description Box"
+msgstr "Πλαίσιο παρουσίασης και περιγραφής"
+
+#: class-webinarsysteemmetabox.php:920 class-webinarsysteemmetabox.php:1006
+#: class-webinarsysteemmetabox.php:1070 class-webinarsysteemmetabox.php:1170
+#: class-webinarsysteemoptions.php:148
+#: templates/template-metabox-countdownpage.php:14
+#: templates/template-metabox-livepage.php:20
+#: templates/template-metabox-livepage.php:112
+#: templates/template-metabox-livepage.php:199
+#: templates/template-metabox-livepage.php:270
+#: templates/template-metabox-livepage.php:374
+#: templates/template-metabox-livepage.php:550
+#: templates/template-metabox-registerpage.php:107
+#: templates/template-metabox-replaypage.php:20
+#: templates/template-metabox-replaypage.php:188
+#: templates/template-metabox-thankyoupage.php:20
+#: templates/template-metabox-thankyoupage.php:155
+#: templates/template-metabox-thankyoupage.php:170
+#: templates/template-metabox-ticket.php:66
+msgid "Background color"
+msgstr "Χρώμα φόντου"
+
+#: class-webinarsysteemmetabox.php:928
+#: templates/template-metabox-livepage.php:125
+msgid "Show Host Box"
+msgstr "Εμφάνιση πλαισίου παρουσίασης"
+
+#: class-webinarsysteemmetabox.php:935
+#: templates/template-metabox-livepage.php:132
+msgid "Host Title Background color"
+msgstr "Χρώμα φόντου τίτλου παρουσίασης"
+
+#: class-webinarsysteemmetabox.php:941
+#: templates/template-metabox-livepage.php:138
+msgid "Host Title Text color"
+msgstr "Χρώμα κειμένου παρουσίασης"
+
+#: class-webinarsysteemmetabox.php:947
+#: templates/template-metabox-livepage.php:144
+msgid "Host Text color"
+msgstr "Χρώμα κειμένου παρουσίασης"
+
+#: class-webinarsysteemmetabox.php:955
+#: templates/template-metabox-livepage.php:152
+msgid "Show Description Box"
+msgstr "Εμφάνισε το πλαίσιο περιγραφής "
+
+#: class-webinarsysteemmetabox.php:962
+#: templates/template-metabox-livepage.php:159
+msgid "Description Title Background color"
+msgstr "Χρώμα φόντου τίτλου περιγραφής"
+
+#: class-webinarsysteemmetabox.php:968
+#: templates/template-metabox-livepage.php:165
+msgid "Description Title Text color"
+msgstr "Χρώμα κειμένου τίτλου περιγραφής"
+
+#: class-webinarsysteemmetabox.php:974
+#: templates/template-metabox-livepage.php:171
+msgid "Description Text color"
+msgstr "Χρώμα κειμένου περιγραφής"
+
+#: class-webinarsysteemmetabox.php:986
+#: templates/template-metabox-livepage.php:182
+msgid "Show Question box"
+msgstr "Εμφάνισε το πλαίσιο ερωτήσεων"
+
+#: class-webinarsysteemmetabox.php:993
+#: templates/template-metabox-livepage.php:188
+msgid "Send an email on every question"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1000
+#: templates/template-metabox-livepage.php:194
+msgid "If then email to"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1012 class-webinarsysteemmetabox.php:1075
+#: class-webinarsysteemmetabox.php:1177
+#: templates/template-metabox-livepage.php:117
+#: templates/template-metabox-livepage.php:205
+#: templates/template-metabox-livepage.php:275
+#: templates/template-metabox-livepage.php:380
+#: templates/template-metabox-livepage.php:556
+#: templates/template-metabox-registerpage.php:112
+#: templates/template-metabox-replaypage.php:194
+#: templates/template-metabox-thankyoupage.php:150
+#: templates/template-metabox-thankyoupage.php:164
+#: templates/template-metabox-ticket.php:71
+msgid "Border color"
+msgstr "Χρώμα περιθωρίου"
+
+#: class-webinarsysteemmetabox.php:1018
+#: templates/template-metabox-livepage.php:211
+#, fuzzy
+msgid "Title Text Color"
+msgstr "Γέμισμα κειμένου επικεφαλίδας"
+
+#: class-webinarsysteemmetabox.php:1023
+#: templates/template-metabox-livepage.php:217
+#: templates/template-metabox-livepage.php:528
+#: templates/template-metabox-replaypage.php:167
+msgid "Border Radius"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1028
+#: templates/template-metabox-livepage.php:223
+#, fuzzy
+msgid "Button Background Color"
+msgstr "Χρώμα φόντου κουμπιών"
+
+#: class-webinarsysteemmetabox.php:1033
+#: templates/template-metabox-livepage.php:229
+#, fuzzy
+msgid "Button Hover Background Color"
+msgstr "Χρώμα φόντου κουμπιών"
+
+#: class-webinarsysteemmetabox.php:1038
+#: templates/template-metabox-livepage.php:235
+#, fuzzy
+msgid "Button Border Color"
+msgstr "Χρώμα περιθωρίου κουμπιών"
+
+#: class-webinarsysteemmetabox.php:1043
+#: templates/template-metabox-livepage.php:241
+#, fuzzy
+msgid "Button Hover Border Color"
+msgstr "Χρώμα περιθωρίου κουμπιών"
+
+#: class-webinarsysteemmetabox.php:1048
+#: templates/template-metabox-livepage.php:247
+#: templates/template-metabox-registerpage.php:175
+#: templates/template-metabox-registerpage.php:214
+#: templates/template-metabox-thankyoupage.php:141
+#: templates/template-metabox-thankyoupage.php:181
+msgid "Button Text color"
+msgstr "Χρώμα κειμένου κουμπιών"
+
+#: class-webinarsysteemmetabox.php:1054
+#: templates/template-metabox-livepage.php:253
+#, fuzzy
+msgid "Button Hover Text color"
+msgstr "Χρώμα κειμένου κουμπιών"
+
+#: class-webinarsysteemmetabox.php:1060
+#: templates/template-metabox-livepage.php:260
+msgid "Live chatbox"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1064
+#: templates/template-metabox-livepage.php:264
+#, fuzzy
+msgid "Show Chatbox"
+msgstr "Εμφάνιση πλαισίου παρουσίασης"
+
+#: class-webinarsysteemmetabox.php:1080 class-webinarsysteemmetabox.php:1189
+#: templates/template-metabox-livepage.php:280
+#: templates/template-metabox-livepage.php:392
+msgid "Title Text color"
+msgstr "Γέμισμα κειμένου επικεφαλίδας"
+
+#: class-webinarsysteemmetabox.php:1085
+#: templates/template-metabox-livepage.php:285
+msgid "Show Timestamps"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1091
+#: templates/template-metabox-livepage.php:292
+msgid "Background Color of Button"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1097
+#: templates/template-metabox-livepage.php:299
+msgid "Text Color of Button"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1105
+#: templates/template-metabox-livepage.php:308
+msgid "Tab Layout"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1107
+#: templates/template-metabox-livepage.php:310
+#, fuzzy
+msgid "Questionbox tab"
+msgstr "Πλαίσιο ερωτήσεων"
+
+#: class-webinarsysteemmetabox.php:1110 class-webinarsysteemmetabox.php:1135
+#: templates/template-metabox-livepage.php:313
+#: templates/template-metabox-livepage.php:338
+msgid "Title"
+msgstr "Τίτλος"
+
+#: class-webinarsysteemmetabox.php:1118 class-webinarsysteemmetabox.php:1143
+#: templates/template-metabox-livepage.php:321
+#: templates/template-metabox-livepage.php:347
+#, fuzzy
+msgid "Tab Title Text color"
+msgstr "Γέμισμα κειμένου επικεφαλίδας"
+
+#: class-webinarsysteemmetabox.php:1123 class-webinarsysteemmetabox.php:1148
+#: templates/template-metabox-livepage.php:326
+#: templates/template-metabox-livepage.php:352
+#: templates/template-metabox-registerpage.php:124
+#, fuzzy
+msgid "Tab Background color"
+msgstr "Χρώμα φόντου"
+
+#: class-webinarsysteemmetabox.php:1128 class-webinarsysteemmetabox.php:1153
+#: templates/template-metabox-livepage.php:331
+#: templates/template-metabox-livepage.php:357
+#, fuzzy
+msgid "Tab Border color"
+msgstr "Χρώμα περιθωρίου"
+
+#: class-webinarsysteemmetabox.php:1132
+#: templates/template-metabox-livepage.php:335
+msgid "Chatbox tab"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1163
+#: templates/template-metabox-livepage.php:367
+msgid "Show Incentive Box"
+msgstr "Εμφάνιση πλαισίου κίνητροu"
+
+#: class-webinarsysteemmetabox.php:1183
+#: templates/template-metabox-livepage.php:386
+msgid "Incentive Title"
+msgstr "Kίνητρο τίτλος"
+
+#: class-webinarsysteemmetabox.php:1195
+#: templates/template-metabox-livepage.php:398
+#, fuzzy
+msgid "Title Background color"
+msgstr "Χρώμα φόντου τίτλου παρουσίασης"
+
+#: class-webinarsysteemmetabox.php:1200
+#: templates/template-metabox-livepage.php:404
+#: templates/template-metabox-livepage.php:562
+#: templates/template-metabox-replaypage.php:200
+#, fuzzy
+msgid "Content text color"
+msgstr "Χρώμα κειμένου παρουσίασης"
+
+#: class-webinarsysteemmetabox.php:1206
+#: templates/template-metabox-livepage.php:410
+msgid "Incentive box content"
+msgstr "Περιεχόμενο πλαισίου κίνητροu"
+
+#: class-webinarsysteemmetabox.php:1221
+#: templates/template-metabox-livepage.php:423
+#, fuzzy
+msgid "Show Action Box"
+msgstr "Εμφάνισε το πλαίσιο περιγραφής "
+
+#: class-webinarsysteemmetabox.php:1228
+#: templates/template-metabox-livepage.php:429
+#, fuzzy
+msgid "Hand button color "
+msgstr "Χρώμα κουμπιών"
+
+#: class-webinarsysteemmetabox.php:1233
+#: templates/template-metabox-livepage.php:434
+#, fuzzy
+msgid "Hand button hover color "
+msgstr "Χρώμα περιθωρίου κουμπιών"
+
+#: class-webinarsysteemmetabox.php:1238
+#: templates/template-metabox-livepage.php:439
+#, fuzzy
+msgid "Hand button Active color "
+msgstr "Χρώμα κειμένου κουμπιών"
+
+#: class-webinarsysteemmetabox.php:1244
+#: templates/template-metabox-livepage.php:444
+#, fuzzy
+msgid "Background Color "
+msgstr "Χρώμα φόντου"
+
+#: class-webinarsysteemmetabox.php:1249
+#: templates/template-metabox-livepage.php:449
+#, fuzzy
+msgid "Border Color  "
+msgstr "Χρώμα περιθωρίου"
+
+#: class-webinarsysteemmetabox.php:1260
+msgid "Preview Page"
+msgstr "Προεπισκόπηση σελίδα"
+
+#: class-webinarsysteemmetabox.php:1261
+msgid "Only use this generated link for test purposes"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1273
+msgid "Monday"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1274
+msgid "Tuesday"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1275
+msgid "Wednesday"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1276
+msgid "Thursday"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1277
+msgid "Friday"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1278
+msgid "Saturday"
+msgstr ""
+
+#: class-webinarsysteemmetabox.php:1279
+msgid "Sunday"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:39 class-webinarsysteemoptions.php:70
+msgid "WP WebinarSystem Options"
+msgstr "WP WebinarSystem eπιλογές"
+
+#: class-webinarsysteemoptions.php:74
+#: templates/template-metabox-countdownpage.php:4
+#: templates/template-metabox-livepage.php:4
+#: templates/template-metabox-registerpage.php:4
+#: templates/template-metabox-replaypage.php:4
+#: templates/template-metabox-thankyoupage.php:4
+msgid "General"
+msgstr "Γενικά"
+
+#: class-webinarsysteemoptions.php:76
+msgid "Emails"
+msgstr "Emails"
+
+#: class-webinarsysteemoptions.php:77 class-webinarsysteemoptions.php:447
+msgid "Mailinglist providers"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:78 class-webinarsysteemoptions.php:554
+msgid "Advanced"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:79 class-webinarsysteemoptions.php:1059
+#, fuzzy
+msgid "Integrations"
+msgstr "Εγγραφές"
+
+#: class-webinarsysteemoptions.php:80
+msgid "System Status"
+msgstr "Κατάσταση συστήματος"
+
+#: class-webinarsysteemoptions.php:98
+msgid "Email options"
+msgstr "Email eπιλογές"
+
+#: class-webinarsysteemoptions.php:100
+msgid "Reminder day before Webinar"
+msgstr "Ημέρα υπενθύμισης πριν από το δικτυακό σεμινάριο"
+
+#: class-webinarsysteemoptions.php:101
+msgid "Reminder one hour before Webinar"
+msgstr "Υπενθύμιση μία ώρα πριν από το δικτυακό σεμινάριο"
+
+#: class-webinarsysteemoptions.php:102
+msgid "Reminder Webinar Starting"
+msgstr "Υπενθύμιση κατά την έναρξη του δικτυακού σεμιναρίου"
+
+#: class-webinarsysteemoptions.php:103
+msgid "Webinar replay"
+msgstr "Επανάληψη δικτυακού σεμιναρίου"
+
+#: class-webinarsysteemoptions.php:108
+msgid "Email Sender Options"
+msgstr "Επιλογές αποστολέα ηλεκτρονικού μηνύματος"
+
+#: class-webinarsysteemoptions.php:111
+msgid "\"From\" Name"
+msgstr "\"Από\" Όνομα"
+
+#: class-webinarsysteemoptions.php:111
+msgid "Sender name"
+msgstr "Όνομα αποστολέα"
+
+#: class-webinarsysteemoptions.php:114
+msgid "\"From\" Email Address"
+msgstr "\"Από\" Ηλεκτρονική Διεύθυνση"
+
+#: class-webinarsysteemoptions.php:114
+msgid "Sender email"
+msgstr "Ηλεκτρονική διεύθυνση αποστολέα"
+
+#: class-webinarsysteemoptions.php:118
+msgid "Email Template"
+msgstr "Πρότυπο ηλεκτρονικού μηνύματος"
+
+#: class-webinarsysteemoptions.php:122
+msgid "Header Image"
+msgstr "Απεικόνιση επικεφαλίδας"
+
+#: class-webinarsysteemoptions.php:126
+msgid "Upload"
+msgstr "Aνέβασμα"
+
+#: class-webinarsysteemoptions.php:132
+msgid "Email Footer Text"
+msgstr "Κείμενο υποσέλιδου ηλεκτρονικού μηνύματος"
+
+#: class-webinarsysteemoptions.php:135
+msgid "Footer Text"
+msgstr "Κείμενο υποσέλιδου"
+
+#: class-webinarsysteemoptions.php:140
+msgid "Base color"
+msgstr "Βασικό χρώμα"
+
+#: class-webinarsysteemoptions.php:156
+msgid "Email Body Background color"
+msgstr "Χρώμα φόντου ηλεκτρονικού μηνύματος "
+
+#: class-webinarsysteemoptions.php:164
+msgid "Email Body Text color"
+msgstr "Χρώμα κειμένου ηλεκτρονικού μηνύματος"
+
+#: class-webinarsysteemoptions.php:174 class-webinarsysteemoptions.php:248
+#: class-webinarsysteemoptions.php:310 class-webinarsysteemoptions.php:371
+#: class-webinarsysteemoptions.php:432
+msgid "Reset Default Template"
+msgstr "Επαναφορά προεπιλεγμένου προτύπου"
+
+#: class-webinarsysteemoptions.php:183
+msgid "New Registration Options"
+msgstr "Επιλογές νέας εγγραφής"
+
+#: class-webinarsysteemoptions.php:186
+msgid "Admin Email Address"
+msgstr "Ηλεκτρονική διεύθυνση διαχειριστή"
+
+#: class-webinarsysteemoptions.php:186
+msgid "Admin email"
+msgstr "Ηλεκτρονική διεύθυνση διαχειριστή"
+
+#: class-webinarsysteemoptions.php:192
+msgid "Reminder day before Webinar "
+msgstr "Ημέρα υπενθύμισης πριν από το δικτυακό σεμινάριο"
+
+#: class-webinarsysteemoptions.php:196 class-webinarsysteemoptions.php:261
+#: class-webinarsysteemoptions.php:322 class-webinarsysteemoptions.php:383
+msgid "Enable this reminder?"
+msgstr "Ενεργοποίηση της υπενθύμισης;"
+
+#: class-webinarsysteemoptions.php:204 class-webinarsysteemoptions.php:269
+#: class-webinarsysteemoptions.php:330 class-webinarsysteemoptions.php:391
+msgid "Subject"
+msgstr "Θέμα"
+
+#: class-webinarsysteemoptions.php:207 class-webinarsysteemoptions.php:272
+#: class-webinarsysteemoptions.php:333 class-webinarsysteemoptions.php:394
+msgid "Email Head"
+msgstr "Επικεφαλίδα ηλεκτρονικού μηνύματος"
+
+#: class-webinarsysteemoptions.php:212 class-webinarsysteemoptions.php:277
+#: class-webinarsysteemoptions.php:338 class-webinarsysteemoptions.php:399
+msgid "Available Shortcodes:"
+msgstr "Διαθέσιμοι σύντομοι κωδικοί:"
+
+#: class-webinarsysteemoptions.php:220 class-webinarsysteemoptions.php:285
+#: class-webinarsysteemoptions.php:346 class-webinarsysteemoptions.php:407
+#: templates/template-metabox-thankyoupage.php:82
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: class-webinarsysteemoptions.php:237 class-webinarsysteemoptions.php:299
+#: class-webinarsysteemoptions.php:360 class-webinarsysteemoptions.php:421
+msgid "Your email address"
+msgstr "Η ηλεκτρονική σας διεύθυνση"
+
+#: class-webinarsysteemoptions.php:238 class-webinarsysteemoptions.php:300
+#: class-webinarsysteemoptions.php:361 class-webinarsysteemoptions.php:422
+msgid "Send Preview"
+msgstr "Αποστολή προεσκόπισης"
+
+#: class-webinarsysteemoptions.php:242 class-webinarsysteemoptions.php:304
+#: class-webinarsysteemoptions.php:365 class-webinarsysteemoptions.php:426
+msgid "Add a Webinar to send a preview email."
+msgstr ""
+"Προσθέστε ένα ηλεκτρονικό σεμινάριο για να στείλετε μία προεσκόπισή του με "
+"ηλεκτρονικό μήνυμα."
+
+#: class-webinarsysteemoptions.php:256
+msgid "Reminder one hour before Webinar "
+msgstr "Υπενθύμιση μία ώρα πριν από το δικτυακό σεμινάριο"
+
+#: class-webinarsysteemoptions.php:318
+msgid "Reminder when Webinar starts"
+msgstr "Υπενθύμιση κατά την έναρξη του δικτυακού σεμιναρίου"
+
+#: class-webinarsysteemoptions.php:379
+msgid "Send Webinar Replay Link"
+msgstr "Αποστολή του συνδέσμου επανάληψης του ηλεκτρονικού σεμιναρίο"
+
+#: class-webinarsysteemoptions.php:453
+msgid "MailChimp API Key"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:459
+msgid "The API key you have received from MailChimp"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:465
+msgid "Enormail API Key"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:471
+msgid "The API key you have received from Enormail"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:489
+msgid "Reconfigure"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:489
+msgid "Configure"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:498
+msgid "Getresponse API Key"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:504
+msgid "The API key you have received from Getresponse"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:515
+msgid "ActiveCampaign API Key"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:525
+msgid "The API key you have received from ActiveCampaign"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:530
+msgid "ActiveCampaign API URL"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:536
+msgid "eg: "
+msgstr ""
+
+#: class-webinarsysteemoptions.php:562 class-webinarsysteemoptions.php:624
+msgid "Roles & Permissions"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:570
+#, fuzzy
+msgid "Create Webinars"
+msgstr "Ηλεκτρονικά σεμινάρια"
+
+#: class-webinarsysteemoptions.php:583
+msgid "Manage Subscribers"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:596
+msgid "Access Control Bar"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:609
+msgid "Manage Questions"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:639
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+"Παρακαλούμε αντιγράψτε και επικολλήστε αυτή την πληροφορία στο ticket σας "
+"όταν επικοινωνείτε με την υποστήριξη:"
+
+#: class-webinarsysteemoptions.php:642
+msgid "Copy for Support"
+msgstr "Αντιγραφή για υποστήριξη"
+
+#: class-webinarsysteemoptions.php:643
+msgid "Copied!"
+msgstr "Αντιγράφηκε!"
+
+#: class-webinarsysteemoptions.php:645
+msgid "Get System Report"
+msgstr "Λήψη αναφοράς συστήματος"
+
+#: class-webinarsysteemoptions.php:651
+msgid "WordPress Environment"
+msgstr "WordPress Περιβάλλον"
+
+#: class-webinarsysteemoptions.php:655
+msgid "Home URL"
+msgstr "Αρχική URL"
+
+#: class-webinarsysteemoptions.php:663
+msgid "Site URL"
+msgstr "URL ιστοσελίδας"
+
+#: class-webinarsysteemoptions.php:671
+msgid "WP Version"
+msgstr "WP Έκδοση"
+
+#: class-webinarsysteemoptions.php:678
+msgid "WP Multisite"
+msgstr "WP Πολλαπλές σελίδες"
+
+#: class-webinarsysteemoptions.php:682
+msgid "WP Debug mode"
+msgstr "WP Debug Λειτουργία"
+
+#: class-webinarsysteemoptions.php:691
+msgid "WP Cron status"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:703
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: class-webinarsysteemoptions.php:711
+#, fuzzy
+msgid "Plugin Environment"
+msgstr "WordPress Περιβάλλον"
+
+#: class-webinarsysteemoptions.php:715
+#, fuzzy
+msgid "Webinar System Version"
+msgstr "WP WebinarSystem ερωτήσεις"
+
+#: class-webinarsysteemoptions.php:725
+msgid "Server Environment"
+msgstr "Περιβάλλον διακομιστή"
+
+#: class-webinarsysteemoptions.php:729
+msgid "Server Info"
+msgstr "Πληροφορίες διακομιστή"
+
+#: class-webinarsysteemoptions.php:737
+msgid "PHP Version"
+msgstr "PHP Έκδοση"
+
+#: class-webinarsysteemoptions.php:746
+msgid "Couldn't determine PHP version because phpversion() doesn't exist."
+msgstr "Η έκδοση ΡΗΡ δεν είναι αναγνωρίσιμη γιατί η έκδοση ΡΗΡ() δεν υπάρχει."
+
+#: class-webinarsysteemoptions.php:754 class-webinarsysteemoptions.php:820
+msgid "PHP Post Max Size"
+msgstr "PHP μέγιστο μέγεθος αποστολής"
+
+#: class-webinarsysteemoptions.php:762 class-webinarsysteemoptions.php:828
+msgid "PHP Time Limit"
+msgstr "PHP xρονικό όριο"
+
+#: class-webinarsysteemoptions.php:770 class-webinarsysteemoptions.php:836
+msgid "PHP Max Input Vars"
+msgstr "PHP Max εισόδου Vars"
+
+#: class-webinarsysteemoptions.php:778 class-webinarsysteemoptions.php:844
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN eγκαταστάθηκε"
+
+#: class-webinarsysteemoptions.php:786 class-webinarsysteemoptions.php:852
+msgid "MySQL Version"
+msgstr "MySQL έκδοση"
+
+#: class-webinarsysteemoptions.php:797 class-webinarsysteemoptions.php:863
+msgid "Max Upload Size"
+msgstr "Μέγιστο μέγεθος μεταφοράς ηλεκτρονικών δεδομένων"
+
+#: class-webinarsysteemoptions.php:805 class-webinarsysteemoptions.php:871
+msgid "Default Timezone"
+msgstr "Προεπιλεγμένη ζώνη ώρας"
+
+#: class-webinarsysteemoptions.php:882
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: class-webinarsysteemoptions.php:942
+#, fuzzy
+msgid "Server Time"
+msgstr "Περιβάλλον διακομιστή"
+
+#: class-webinarsysteemoptions.php:973
+#, fuzzy
+msgid "Server Timezone"
+msgstr "Περιβάλλον διακομιστή"
+
+#: class-webinarsysteemoptions.php:987
+msgid "Server Locale"
+msgstr "Διακομιστής Locale"
+
+#: class-webinarsysteemoptions.php:994
+msgid "N/A"
+msgstr "N/A"
+
+#: class-webinarsysteemoptions.php:1008
+#, fuzzy
+msgid "Active Plugins ("
+msgstr "Ενεργά εργαλεία"
+
+#: class-webinarsysteemoptions.php:1026
+msgid "by "
+msgstr "με"
+
+#: class-webinarsysteemoptions.php:1036
+msgid "Theme"
+msgstr "θέμα"
+
+#: class-webinarsysteemoptions.php:1044
+msgid "Version"
+msgstr "Έκδοση"
+
+#: class-webinarsysteemoptions.php:1048
+msgid "Author URL"
+msgstr "Δημιουργός URL"
+
+#: class-webinarsysteemupdates.php:172
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: class-webinarsysteemupdates.php:176
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a target=\"_blank\" class="
+"\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s"
+"\">update now</a>."
+msgstr ""
+
+#: class-webinarsysteemupdates.php:309
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: class-webinarsysteemupdates.php:309
+msgid "Error"
+msgstr ""
+
+#: class-webinarsysteemupdates.php:352
+msgid "Your WPWebinarSystem license has been deactivated!"
+msgstr ""
+
+#: class-webinarsysteemupdates.php:360
+msgid "Your WPWebinarSystem license has been activated!"
+msgstr ""
+
+#: class-webinarsysteemupdates.php:370
+msgid "The WPWebinarSystem license you entered is invalid."
+msgstr ""
+
+#: class-webinarsysteemupdates.php:380
+msgid ""
+"Your WPWebinarSystem license is expired. Please renew or the plugin will not "
+"work as expected. Please activate your copy as soon as possible."
+msgstr ""
+
+#: templates/template-access-tab.php:3
+msgid "Make Webinar only accessible for : "
+msgstr ""
+
+#: templates/template-access-tab.php:25
+msgid "Only for user roles"
+msgstr ""
+
+#: templates/template-access-tab.php:47
+msgid "Member Levels"
+msgstr ""
+
+#: templates/template-access-tab.php:51
+msgid "Member Level"
+msgstr ""
+
+#: templates/template-access-tab.php:53
+msgid "Select"
+msgstr ""
+
+#: templates/template-access-tab.php:63
+msgid ""
+"Please install and configure the 'WooCommerce Memberships' plugin to use "
+"this functionality."
+msgstr ""
+
+#: templates/template-access-tab.php:72 templates/template-access-tab.php:100
+msgid "User Id's"
+msgstr ""
+
+#: templates/template-access-tab.php:102
+msgid "Enter user ID. (You can add multiple user ID's. ID separated by comma)."
+msgstr ""
+
+#: templates/template-access-tab.php:112
+msgid "Redirect"
+msgstr ""
+
+#: templates/template-email-admin-email.php:7
+msgid "Howdy"
+msgstr "Τι κάνεις?"
+
+#: templates/template-email-admin-email.php:8
+msgid "just signed up for your webinar"
+msgstr "Μόλις εγγραφήκατε για το ηλεκτρονικό σεμινάριο σας"
+
+#: templates/template-email-admin-email.php:16
+msgid "asked the following question during"
+msgstr ""
+
+#: templates/template-email-attendee-replay.php:23
+#: templates/template-email-attendee-wbstarted.php:24
+#: templates/template-email-attendee1hr.php:35
+#: templates/template-email-attendee24hr.php:32
+#: templates/template-email-reader.php:33
+msgid "Go to Webinar"
+msgstr "Προς ηλεκτρονικό σεμινάριο"
+
+#: templates/template-email-attendee-wbstarted.php:21
+msgid "We are going live now"
+msgstr "Είμαστε σε ζωντανή μετάδοση"
+
+#: templates/template-email-reader.php:29
+msgid ""
+"Thank you for your registration for the webinar. Below you will find the "
+"details of the webinar."
+msgstr ""
+"Ευχαριστούμε για την εγγραφή σας στο ηλεκτρονικό σεμινάριο. Παρακάτω θα "
+"βρείτε πληροφορίες για το ηλεκτρονικό σεμινάριο."
+
+#: templates/template-email-reader.php:54
+msgid ""
+"Thank you for purchasing a webinar ticket. Please click on the button below "
+"to register for the webinar. You can use the same link to login again when "
+"the webinar starts."
+msgstr ""
+
+#: templates/template-email-reader.php:58
+#, fuzzy
+msgid "Register for Webinar"
+msgstr ""
+"Ημέρα υπενθύμισης πριν από το δικτυακό σεμινάριο\n"
+"\n"
+"\n"
+
+#: templates/template-email-reader.php:59
+msgid "If you can't see the link, please visit:"
+msgstr ""
+
+#: templates/template-metabox-countdownpage.php:8
+#: templates/template-metabox-livepage.php:14
+#: templates/template-metabox-replaypage.php:14
+#: templates/template-metabox-thankyoupage.php:14
+msgid "Title color"
+msgstr "Τίτλος χρώμα"
+
+#: templates/template-metabox-countdownpage.php:20
+#: templates/template-metabox-livepage.php:26
+#: templates/template-metabox-replaypage.php:26
+#: templates/template-metabox-thankyoupage.php:26
+msgid "Background image"
+msgstr "Φόντο εικόνας"
+
+#: templates/template-metabox-countdownpage.php:22
+msgid "Countdown Page Background Image"
+msgstr "Αντίστροφη μέτρηση σελίδων φόντου εικόνας"
+
+#: templates/template-metabox-countdownpage.php:22
+#: templates/template-metabox-livepage.php:28
+#: templates/template-metabox-livepage.php:53
+#: templates/template-metabox-registerpage.php:15
+#: templates/template-metabox-registerpage.php:41
+#: templates/template-metabox-replaypage.php:28
+#: templates/template-metabox-replaypage.php:52
+#: templates/template-metabox-thankyoupage.php:28
+#: templates/template-metabox-thankyoupage.php:47
+msgid "Upload Image"
+msgstr "Μεταφορά εικόνας"
+
+#: templates/template-metabox-countdownpage.php:27
+msgid "Show countdown timer"
+msgstr "Προβολή αντίστροφης μέτρησης"
+
+#: templates/template-metabox-countdownpage.php:33
+msgid "Tagline color"
+msgstr "Χρώμα ατάκας"
+
+#: templates/template-metabox-countdownpage.php:39
+msgid "Description color"
+msgstr "Χρώμα περιγραφής"
+
+#: templates/template-metabox-generalpage.php:5
+#: templates/template-metabox-livepage.php:40
+#: templates/template-metabox-replaypage.php:39
+msgid "Live"
+msgstr ""
+
+#: templates/template-metabox-generalpage.php:6
+msgid "Replay"
+msgstr ""
+
+#: templates/template-metabox-generalpage.php:7
+msgid "Closed"
+msgstr ""
+
+#: templates/template-metabox-generalpage.php:14
+#, fuzzy
+msgid "Webinar Type"
+msgstr "Τύπος ηλεκτρονικού σεμιναρίου"
+
+#: templates/template-metabox-generalpage.php:22
+#, fuzzy
+msgid "Webinar Occurance"
+msgstr "Oνομασία τοu ηλεκτρονικόu σεμινάριοu:"
+
+#: templates/template-metabox-generalpage.php:32
+#, fuzzy
+msgid "One time registration"
+msgstr "Αδρανοποίηση εγγραφής"
+
+#: templates/template-metabox-generalpage.php:40
+msgid "Recurring on every"
+msgstr ""
+
+#: templates/template-metabox-generalpage.php:83
+msgid "Recurring Time(s)"
+msgstr ""
+
+#: templates/template-metabox-generalpage.php:91
+#: templates/template-metabox-generalpage.php:249
+msgid "Remove"
+msgstr "Μετακίνηση"
+
+#: templates/template-metabox-generalpage.php:139
+msgid "Webinar starts at"
+msgstr "Το ηλεκτρονικό σεμινάριο ξεκινά σε"
+
+#: templates/template-metabox-generalpage.php:140 tmp-post.php:190
+#: tmp-registration.php:159
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: templates/template-metabox-generalpage.php:202
+msgid "Disable registration"
+msgstr "Αδρανοποίηση εγγραφής"
+
+#: templates/template-metabox-livepage.php:7
+#: templates/template-metabox-replaypage.php:7
+#, fuzzy
+msgid "Hide Title"
+msgstr "Τίτλος"
+
+#: templates/template-metabox-livepage.php:28
+#: templates/template-metabox-thankyoupage.php:28
+msgid "Thankyou Page Background Image"
+msgstr "Ευχαριστούμε φόντο εικόνας σελίδας"
+
+#: templates/template-metabox-livepage.php:36
+#: templates/template-metabox-replaypage.php:35
+msgid "Webinar type"
+msgstr "Τύπος ηλεκτρονικού σεμιναρίου"
+
+#: templates/template-metabox-livepage.php:42
+#: templates/template-metabox-registerpage.php:32
+#: templates/template-metabox-replaypage.php:41
+#: templates/template-metabox-thankyoupage.php:38
+msgid "Image"
+msgstr "Εικόνα"
+
+#: templates/template-metabox-livepage.php:43
+#: templates/template-metabox-registerpage.php:33
+#: templates/template-metabox-replaypage.php:42
+#: templates/template-metabox-thankyoupage.php:39
+msgid "File"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:44
+#: templates/template-metabox-replaypage.php:43
+msgid "RTMP Stream"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:45
+#: templates/template-metabox-replaypage.php:44
+msgid "Inline Frame (iframe)"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:50
+#: templates/template-metabox-registerpage.php:38
+#: templates/template-metabox-replaypage.php:49
+#: templates/template-metabox-thankyoupage.php:44
+msgid "Video or Image URL"
+msgstr "Βίντεο ή εικόνα URL"
+
+#: templates/template-metabox-livepage.php:53
+#: templates/template-metabox-replaypage.php:52
+msgid "Registration Page Video Image"
+msgstr "Σελίδα εγγραφής βίντεο εικόνας"
+
+#: templates/template-metabox-livepage.php:55
+#, php-format
+msgid "Paste Youtube/Hangouts URL here (Eg: %s OR %s)"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:56
+#: templates/template-metabox-registerpage.php:45
+#: templates/template-metabox-thankyoupage.php:50
+msgid "Paste Vimeo video ID here (Eg: 129673042)"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:57
+#: templates/template-metabox-registerpage.php:46
+#: templates/template-metabox-replaypage.php:58
+#: templates/template-metabox-thankyoupage.php:51
+msgid "Image URL (Eg: https://example.com/images/the_image.jpg)"
+msgstr "URL εικόνας (πχ: https://example.com/images/the_image.jpg)"
+
+#: templates/template-metabox-livepage.php:58
+#: templates/template-metabox-registerpage.php:47
+#: templates/template-metabox-replaypage.php:59
+#: templates/template-metabox-thankyoupage.php:52
+msgid ""
+"It's best to host your video file outside your website to save bandwidth."
+msgstr ""
+
+#: templates/template-metabox-livepage.php:62
+msgid "Start a Hangout"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:76
+#: templates/template-metabox-registerpage.php:52
+#: templates/template-metabox-replaypage.php:64
+#: templates/template-metabox-thankyoupage.php:57
+msgid "Video autoplay"
+msgstr "αυτόματη έναρξη βίντεο"
+
+#: templates/template-metabox-livepage.php:79
+#: templates/template-metabox-registerpage.php:55
+#: templates/template-metabox-replaypage.php:67
+#: templates/template-metabox-thankyoupage.php:60
+msgid "Some browsers will restrict the autoplay functionality"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:84
+#: templates/template-metabox-registerpage.php:60
+#: templates/template-metabox-replaypage.php:72
+#: templates/template-metabox-thankyoupage.php:65
+#, fuzzy
+msgid "Show controls"
+msgstr "Εμφάνιση πλαισίου παρουσίασης"
+
+#: templates/template-metabox-livepage.php:88
+#: templates/template-metabox-registerpage.php:64
+#: templates/template-metabox-replaypage.php:76
+#: templates/template-metabox-thankyoupage.php:69
+msgid ""
+"Controls will stay visible for webinar host, but will be hidden for your "
+"attendees"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:93
+#: templates/template-metabox-registerpage.php:69
+#: templates/template-metabox-replaypage.php:81
+#: templates/template-metabox-thankyoupage.php:74
+msgid "Show big play button"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:100
+#: templates/template-metabox-replaypage.php:88
+msgid "Simulate webinar content"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:462
+#: templates/template-metabox-replaypage.php:101
+msgid "Activate CTA"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:471
+#: templates/template-metabox-replaypage.php:110
+msgid "Show CTA after (minutes)"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:479
+#: templates/template-metabox-replaypage.php:118
+msgid "Show CTA"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:488
+#: templates/template-metabox-replaypage.php:127
+msgid "CTA Type"
+msgstr ""
+
+#: templates/template-metabox-livepage.php:498
+#: templates/template-metabox-replaypage.php:137
+#, fuzzy
+msgid "Background Color"
+msgstr "Χρώμα φόντου"
+
+#: templates/template-metabox-livepage.php:504
+#: templates/template-metabox-replaypage.php:143
+#, fuzzy
+msgid "Hover Color"
+msgstr "Χρώμα περιθωρίου"
+
+#: templates/template-metabox-livepage.php:510
+#: templates/template-metabox-replaypage.php:149
+#, fuzzy
+msgid "Border Color"
+msgstr "Χρώμα περιθωρίου"
+
+#: templates/template-metabox-livepage.php:516
+#: templates/template-metabox-replaypage.php:155
+#, fuzzy
+msgid "Text Color"
+msgstr "Xρώμα κειμένου"
+
+#: templates/template-metabox-livepage.php:522
+#: templates/template-metabox-replaypage.php:161
+#, fuzzy
+msgid "Hover Text Color"
+msgstr "Χρώμα κειμένου επικεφαλίδας"
+
+#: templates/template-metabox-livepage.php:534
+#: templates/template-metabox-replaypage.php:173
+#, fuzzy
+msgid "Button URL"
+msgstr "Δημιουργός URL"
+
+#: templates/template-metabox-livepage.php:540
+#: templates/template-metabox-replaypage.php:179
+#, fuzzy
+msgid "Button Text"
+msgstr "Κείμενο κουμπιών CTA"
+
+#: templates/template-metabox-livepage.php:568
+#: templates/template-metabox-replaypage.php:206
+#, fuzzy
+msgid "CTA Content"
+msgstr "Περιεχόμενο"
+
+#: templates/template-metabox-registerpage.php:7
+msgid "Page Background color"
+msgstr "Χρώμα φόντου σελίδας"
+
+#: templates/template-metabox-registerpage.php:13
+msgid "Page Background image"
+msgstr "Εικόνα φόντου σελίδας"
+
+#: templates/template-metabox-registerpage.php:15
+msgid "Registration Page Background Image"
+msgstr "Εικόνα φόντου σελίδας εγγραφής"
+
+#: templates/template-metabox-registerpage.php:20
+#, fuzzy
+msgid "Show Content Section"
+msgstr "Προβολή αντίστροφης μέτρησης\n"
+
+#: templates/template-metabox-registerpage.php:27
+#: templates/template-metabox-thankyoupage.php:33
+msgid "Content type"
+msgstr "Τύπος περιεχομένου"
+
+#: templates/template-metabox-registerpage.php:41
+#, fuzzy
+msgid "Registration Page Image"
+msgstr "Σελίδα εγγραφής βίντεο εικόνας\n"
+
+#: templates/template-metabox-registerpage.php:44
+#: templates/template-metabox-thankyoupage.php:49
+#, fuzzy
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+msgstr "Youtube βίντεο URL (πχ: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+
+#: templates/template-metabox-registerpage.php:79
+msgid "Title Color"
+msgstr "Χρώμα τίτλου"
+
+#: templates/template-metabox-registerpage.php:84
+msgid "Date/Time Color"
+msgstr "Χρώμα ημερομηνίας/χρόνου"
+
+#: templates/template-metabox-registerpage.php:90
+msgid "Form & Tab Layout"
+msgstr ""
+
+#: templates/template-metabox-registerpage.php:98
+#, fuzzy
+msgid "Position"
+msgstr "Περιγραφή"
+
+#: templates/template-metabox-registerpage.php:118
+msgid "Font color"
+msgstr "Xρώμα γραμματοσειράς"
+
+#: templates/template-metabox-registerpage.php:130
+#, fuzzy
+msgid "Tab Text color"
+msgstr "Xρώμα κειμένου"
+
+#: templates/template-metabox-registerpage.php:136
+#, fuzzy
+msgid "Register Tab Text"
+msgstr "Καταχωρημένη ημερομηνία"
+
+#: templates/template-metabox-registerpage.php:142
+#, fuzzy
+msgid "Login Tab Text"
+msgstr "Συνδέστε το παραπάνω χρώμα γραμματοσειράς"
+
+#: templates/template-metabox-registerpage.php:148
+#, fuzzy
+msgid "Register Tab"
+msgstr "Καταχωρημένη ημερομηνία"
+
+#: templates/template-metabox-registerpage.php:151
+#, fuzzy
+msgid "Register Title"
+msgstr "Καταχωρημένη ημερομηνία"
+
+#: templates/template-metabox-registerpage.php:157
+#, fuzzy
+msgid "Register Text"
+msgstr "Καταχωρημένη ημερομηνία"
+
+#: templates/template-metabox-registerpage.php:163
+#: templates/template-metabox-registerpage.php:202
+#: templates/template-metabox-thankyoupage.php:187
+msgid "Button Background color"
+msgstr "Χρώμα φόντου κουμπιών"
+
+#: templates/template-metabox-registerpage.php:169
+#: templates/template-metabox-registerpage.php:208
+#: templates/template-metabox-thankyoupage.php:193
+msgid "Button Border color"
+msgstr "Χρώμα περιθωρίου κουμπιών"
+
+#: templates/template-metabox-registerpage.php:181
+msgid "CTA Button Text"
+msgstr "Κείμενο κουμπιών CTA"
+
+#: templates/template-metabox-registerpage.php:187
+msgid "Login Tab"
+msgstr ""
+
+#: templates/template-metabox-registerpage.php:190
+#, fuzzy
+msgid "Login Title"
+msgstr "Τίτλος"
+
+#: templates/template-metabox-registerpage.php:196
+msgid "Login Text"
+msgstr ""
+
+#: templates/template-metabox-registerpage.php:220
+#, fuzzy
+msgid "Login Button Text"
+msgstr "Κείμενο κουμπιών CTA"
+
+#: templates/template-metabox-registerpage.php:227
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: templates/template-metabox-registerpage.php:230
+#, fuzzy
+msgid "Show Description Section"
+msgstr "Εμφάνισε το πλαίσιο περιγραφής "
+
+#: templates/template-metabox-registerpage.php:236
+msgid "Description text color"
+msgstr "Χρώμα γραμματοσειράς περιγραφής"
+
+#: templates/template-metabox-registerpage.php:241
+msgid "Description background color"
+msgstr "Περιγραφή χρώματος φόντου"
+
+#: templates/template-metabox-registerpage.php:246
+msgid "Description border color"
+msgstr "Χρώμα περιθωρίου περιγραφής"
+
+#: templates/template-metabox-replaypage.php:28
+msgid "Replay Page Background Image"
+msgstr "Επανάληψη εικόνας φόντου σελίδας"
+
+#: templates/template-metabox-replaypage.php:56
+#, fuzzy
+msgid ""
+"Paste Youtube URL here (Eg: https://www.youtube.com/watch?v=3TkgTEfx9XM OR "
+"http://youtu.be/CqlB2SiG-ac)"
+msgstr "Youtube βίντεο URL (πχ: https://www.youtube.com/watch?v=3TkgTEfx9XM)"
+
+#: templates/template-metabox-replaypage.php:57
+msgid "Paste Vimeo video ID here (Eg: 129673042))"
+msgstr ""
+
+#: templates/template-metabox-thankyoupage.php:7
+msgid "Title text"
+msgstr "Γραμματοσειρά κειμένου"
+
+#: templates/template-metabox-thankyoupage.php:9
+msgid "Yeah! You Are Registered For The Webinar!"
+msgstr "Ναι!Έχετε εγγραφεί στο ηλεκτρονικό σεμινάριο!"
+
+#: templates/template-metabox-thankyoupage.php:47
+#, fuzzy
+msgid "Thank you Page Image"
+msgstr "Ευχαριστούμε πολύ σελίδα"
+
+#: templates/template-metabox-thankyoupage.php:85
+msgid "Link above Text Color"
+msgstr "Συνδέστε το παραπάνω χρώμα γραμματοσειράς"
+
+#: templates/template-metabox-thankyoupage.php:90
+msgid "Link below Text Color"
+msgstr "Συνδέστε το παρακάτω χρώμα γραμματοσειράς"
+
+#: templates/template-metabox-thankyoupage.php:99
+msgid "Border color-1"
+msgstr "Χρώμα περιθωρίου-1"
+
+#: templates/template-metabox-thankyoupage.php:105
+msgid "Border color-2"
+msgstr "Χρώμα περιθωρίου-2"
+
+#: templates/template-metabox-thankyoupage.php:111
+msgid "Body Text color"
+msgstr "Χρώμα γραμματοσειράς κειμένου"
+
+#: templates/template-metabox-thankyoupage.php:117
+msgid "Body Background color"
+msgstr "Χρώμα φόντου κειμένου"
+
+#: templates/template-metabox-thankyoupage.php:123
+msgid "Header Background color"
+msgstr "Χρώμα φόντου επικεφαλίδας"
+
+#: templates/template-metabox-thankyoupage.php:129
+msgid "Header Text color"
+msgstr "Χρώμα κειμένου επικεφαλίδας"
+
+#: templates/template-metabox-thankyoupage.php:135
+msgid "Button color"
+msgstr "Χρώμα κουμπιών"
+
+#: templates/template-metabox-thankyoupage.php:147
+msgid "Social Sharing"
+msgstr "Μέσα κοινωνικής δικτύωσης"
+
+#: templates/template-metabox-thankyoupage.php:161
+msgid "Calendar"
+msgstr "Ημερολόγιο"
+
+#: templates/template-metabox-thankyoupage.php:176
+#: templates/template-metabox-ticket.php:76
+msgid "Text color"
+msgstr "Xρώμα κειμένου"
+
+#: templates/template-metabox-ticket.php:3
+#, php-format
+msgid ""
+"This section is to issue tickets for webinars. Enable WooCommerce "
+"Integration from <a href=\"%s\" target=\"_blank\">WebinarSystem Settings</a> "
+"to use this feature."
+msgstr ""
+
+#: templates/template-metabox-ticket.php:13
+#, fuzzy
+msgid "Ticket details"
+msgstr "Εισητήριο"
+
+#: templates/template-metabox-ticket.php:16
+#, fuzzy
+msgid "Paid webinar?"
+msgstr "  "
+
+#: templates/template-metabox-ticket.php:22
+msgid "Buying Form Title"
+msgstr ""
+
+#: templates/template-metabox-ticket.php:28
+msgid "Buying Form Description"
+msgstr ""
+
+#: templates/template-metabox-ticket.php:34
+msgid "Price"
+msgstr ""
+
+#: templates/template-metabox-ticket.php:44
+msgid "Required"
+msgstr ""
+
+#: templates/template-metabox-ticket.php:49
+msgid "Ticket Title"
+msgstr ""
+
+#: templates/template-metabox-ticket.php:54
+msgid "Ticket Description"
+msgstr ""
+
+#: templates/template-metabox-ticket.php:63
+msgid "Style"
+msgstr ""
+
+#: templates/template-options-license.php:11
+msgid "Activate for"
+msgstr ""
+
+#: templates/template-options-license.php:15
+#, php-format
+msgid "This domain (%s)"
+msgstr ""
+
+#: templates/template-options-license.php:20
+msgid "If you have an Agency license, it will be applied for all websites."
+msgstr ""
+
+#: templates/template-options-license.php:25
+msgid "License Key"
+msgstr ""
+
+#: templates/template-options-license.php:29
+msgid "Flush data (Recheck)"
+msgstr ""
+
+#: templates/template-options-license.php:32
+#, fuzzy
+msgid "Your copy of WebinarSysteem is Active."
+msgstr "Χορηγείται από WebinarSystem"
+
+#: templates/template-options-license.php:34
+msgid ""
+"Your copy of WebinarSysteem is not activated. Plugin will not work as "
+"expected. Please activate your copy."
+msgstr ""
+
+#: templates/template-options-license.php:40
+msgid "Activated sites"
+msgstr ""
+
+#: templates/template-options-license.php:64
+msgid "Deactivate license"
+msgstr ""
+
+#: templates/template-recurring-days-times-selects-boxes.php:39
+msgid "Select a day"
+msgstr ""
+
+#: tmp-closed.php:49
+msgid "Unfortunately, this webinar is closed."
+msgstr "Δυστυχώς αυτό το ηλεκτρονικό σεμινάριο έκλεισε."
+
+#: tmp-closed.php:52
+msgid "Click here"
+msgstr "Κανε κλικ εδώ"
+
+#: tmp-closed.php:52
+msgid "to go to our homepage."
+msgstr "για να πάτε στην αρχική μας σελίδα."
+
+#: tmp-countdown.php:78
+msgid "will begin in"
+msgstr "Θα ξεκινήσει σε"
+
+#: tmp-countdown.php:79
+msgid "will begin shortly"
+msgstr "Θα ξεκινήσει σύντομα"
+
+#: tmp-countdown.php:84
+msgid "will start"
+msgstr "θα ξεκινήσει"
+
+#: tmp-countdown.php:85
+msgid "on"
+msgstr "την"
+
+#: tmp-countdown.php:86
+msgid "at"
+msgstr "στις"
+
+#: tmp-countdown.php:92
+msgid "Please come back at this time. Thank you for your patience"
+msgstr "Παρακαλο΄με επιστρέψτε την ίδια ώρα. Ευχαριστούμε για την υπομονή σας."
+
+#: tmp-countdown.php:103
+msgid ""
+"Just a second, we are starting the broadcast. This page will refresh "
+"automatically..."
+msgstr "Σύντομα ξεκινά η αναμετάδοση. Αυτή η σελίδα θα ανανεωθεί αυτόματα...."
+
+#: tmp-countdown.php:113 tmp-live.php:281
+msgid ""
+"Something is wrong with your Add Questions form. Please re-check all fields "
+"are filled correctly"
+msgstr ""
+"Υπάρχει λάθος με με την προστιθέμενην φόρμα ερωτήσεων. Παρακαλούμε κάντε "
+"επανέλεγχο όλων των πεδίων αν είναι σωστά συμπληρωμένα"
+
+#: tmp-countdown.php:114 tmp-live.php:282
+msgid "Please wait.."
+msgstr "Παρακαλώ περιμένετε.."
+
+#: tmp-live.php:167 tmp-post.php:188 tmp-registration.php:164
+#, fuzzy
+msgid "Host"
+msgid_plural "Hosts"
+msgstr[0] "Παρουσίασης"
+msgstr[1] "Παρουσίασης"
+
+#: tmp-live.php:176
+msgid "Information"
+msgstr "Πληροφορίες"
+
+#: tmp-live.php:195
+msgid "Chat box"
+msgstr ""
+
+#: tmp-live.php:202
+msgid "Ask your question!"
+msgstr "Κάντε την ερώτησή σας!"
+
+#: tmp-live.php:206
+msgid "Your name"
+msgstr "Το όνομα σου"
+
+#: tmp-live.php:209
+msgid "Your email"
+msgstr "Το ηλεκτρονικό σου ταχυδρομείο"
+
+#: tmp-live.php:212
+msgid "Type your question here.."
+msgstr "Πληκτρολογήστε την ερώτησή σας εδώ..."
+
+#: tmp-live.php:214
+msgid "Ask Question!"
+msgstr "Ρώτα!"
+
+#: tmp-live.php:218
+msgid "My Questions"
+msgstr "Οι ερωτήσεις μου"
+
+#: tmp-live.php:225
+#, fuzzy
+msgid "Live Chat"
+msgstr "Σελίδα απευθείας μετάδοσης"
+
+#: tmp-live.php:227
+msgid "Private"
+msgstr ""
+
+#: tmp-live.php:227
+msgid "Public"
+msgstr ""
+
+#: tmp-post.php:157
+msgid "Here is the webinar URL..."
+msgstr "Εδώ είναι το URL ηλεκτρονικού σεμιναρίου..."
+
+#: tmp-post.php:165
+msgid "Save and bookmark this URL so you can get access to the webinar..."
+msgstr ""
+
+#: tmp-post.php:175
+msgid "Your Webinar Ticket"
+msgstr "Το εισητήριό σας του ηλεκτρονικού σεμιναρίου"
+
+#: tmp-post.php:176
+msgid "The Webinar Event Information..."
+msgstr "Πληροφορίες γεγονότων ηλεκτρονικού σεμιναρίου..."
+
+#: tmp-post.php:206
+#, fuzzy
+msgid "Join Webinar in Progress..."
+msgstr "Το ηλεκτρονικό σεμινάριο είναι σε εξέλιξη..."
+
+#: tmp-post.php:214
+msgid "View Webinar Replay"
+msgstr "Προβολή επανάληψης ηλεκτρονικού σεμιναρίου"
+
+#: tmp-post.php:242
+msgid "Add To Your Calendar"
+msgstr "Προσθήκη στο ημερολόγιό σας"
+
+#: tmp-post.php:243
+msgid "Remind Yourself Of The Event"
+msgstr "Υπενθύμιση γεγονότος"
+
+#: tmp-post.php:253
+msgid "Google Calendar"
+msgstr "Google ημερολόγιό "
+
+#: tmp-post.php:256
+msgid "iCal / Outlook"
+msgstr "iCal / Outlook"
+
+#: tmp-registration.php:2
+msgid "No script kiddies please!"
+msgstr "Χωρίς script kiddies, παρακαλώ!"
+
+#: tmp-registration.php:43
+msgid "Register"
+msgstr ""
+
+#: tmp-registration.php:44 tmp-registration.php:60
+msgid "Login"
+msgstr ""
+
+#: tmp-registration.php:46
+msgid "Free Sign Up:"
+msgstr ""
+
+#: tmp-registration.php:48
+msgid "Sign Up"
+msgstr ""
+
+#: tmp-registration.php:236
+msgid "Buy a ticket"
+msgstr ""
+
+#: tmp-registration.php:257
+msgid ""
+"Unfortunately, you can't use a general info@.. address. Please use a "
+"personal e-mail address"
+msgstr ""
+
+#: tmp-registration.php:262
+msgid "Of course we will handle your data safely."
+msgstr "Ασφαλώς θα χειριστούμε τα δεδομένα σας με ασφάλεια."
+
+#, fuzzy
+#~ msgid "Change WebinarSystem Settings"
+#~ msgstr "WP WebinarSystem ερωτήσεις"
+
+#~ msgid "Replay available?"
+#~ msgstr "Είναι διαθέσιμη επανάληψη?"
+
+#~ msgid "Webinar Questions"
+#~ msgstr "Ερωτήσεις ηλεκτρονικών σεμιναρίων"
+
+#~ msgid "Registered Date"
+#~ msgstr "Καταχωρημένη ημερομηνία"
+
+#, fuzzy
+#~ msgid "Activate License"
+#~ msgstr "Ενεργά εργαλεία"
+
+#~ msgid ""
+#~ "Save and bookmark this URL so you can get access the live webinar "
+#~ "replay..."
+#~ msgstr ""
+#~ "Αποθηκεύστε και προσθέστε στα αγαπημένα την URL έτσι ώστε να αποκτήσετε "
+#~ "πρόσβαση στην επανάληψη του ηλεκτρονικού σεμιναρίου"
+
+#~ msgid "And, Sign-in"
+#~ msgstr "Και, εγγραφείτε"
+
+#~ msgid "hrs"
+#~ msgstr "hrs"
+
+#~ msgid "Provide an image url or a Youtube Video ID"
+#~ msgstr "Δώστε το url της εικόνας ή το ID ενός βίντεο στο Youtube"
+
+#~ msgid "Registration Form"
+#~ msgstr "Φόρμα εγγραφής"
+
+#~ msgid "Thanking Page Video Image"
+#~ msgstr "Ευχαριστήρια σελίδα βίντεο εικόνας"
+
+#~ msgid "Powered by WP WebinarSystem"
+#~ msgstr "Με τη λειτουργία WP WebinarSystem"
+
+#~ msgid "Text"
+#~ msgstr "Κείμενο"
+
+#~ msgid "Go Pro"
+#~ msgstr "Go Pro"
+
+#~ msgid "Edit"
+#~ msgstr "Επεξεργασία"
